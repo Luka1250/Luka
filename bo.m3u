@@ -90,6 +90,11 @@ https://streamer01.digital.com.bo/2ap337/__cl/cg:sworigin2/__c/BOLIVISION/__op/h
 #EXTVLCOPT--http-reconnect=true
 https://streamer01.digital.com.bo/2ap337/__cl/cg:sworigin2/__c/CADENAA/__op/hls-default/__f/index.m3u8
 
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/Qrp1r44/Carigso-Tv.png" group-title="Nacionales" user-agent="iPhone", Carigso Tv
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+https://paneltv.tecnohost.ec:3646/live/carigsotvlive.m3u8
+
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/5Tt1ysx/cctv.jpg" group-title="Nacionales" user-agent="iPhone", CCTV
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
@@ -200,6 +205,11 @@ https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://streamer01.digital.com.bo/2ap337/__cl/cg:sworigin2/__c/PAT/__op/hls-default/__f/index.m3u8
 
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/9H4f1XK/ParaXto.png" group-title="Nacionales" user-agent="iPhone", Para Jesucristo Tv
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+https://paneltv.tecnohost.ec:3025/stream/play.m3u8
+
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/yqkxrkL/PTV-HD.jpg" group-title="Nacionales" user-agent="iPhone", PTv
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
@@ -223,7 +233,7 @@ http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/K0w1xd8/Red-America-Tv.jpg" group-title="Nacionales" user-agent="iPhone", Red America
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-https://videostream.shockmedia.com.ar:19360/redamericatv/redamericatv.m3u8
+https://streamer1.streamhost.org/salive/GMIredadvenirh/chunklist.m3u8
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/w0DdYgK/RTP.png" group-title="Nacionales" user-agent="iPhone", RTP
 #EXTVLCOPT:http-user-agent=iPhone
@@ -570,25 +580,30 @@ http://animalstream.pro:8080/3@5shark@5@4/SanaleFM45@/18823
 #EXTVLCOPT--http-reconnect=true
 http://168.197.196.98:9981/stream/channelid/371852243?profile=pass
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/x726B5V/Break.png" group-title="Educativos" user-agent="iPhone", AMC Break
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/x726B5V/Break.png" group-title="Educativos" user-agent="iPhone", AMC Break FHD
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://516307213554336284.ofk0601.xyz:80/play/HW725566/A1234567/336284.ts
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/297245
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/pP8jpD3/AMC-Crimen.png" group-title="Educativos" user-agent="iPhone", AMC Crime
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/x726B5V/Break.png" group-title="Educativos" user-agent="iPhone", AMC Break SD
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://946273726224321101.otjb0606.xyz:80/play/Josee0408H/Awaadpwam123/321101.ts
+http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/2594
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/pP8jpD3/AMC-Crimen.png" group-title="Educativos" user-agent="iPhone", AMC Crime SD
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://newultra.xyz:8080/34tehu87se24ma97/m37me65wu93m/236425
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/0X3vTDP/Atlas.jpg" group-title="Educativos" user-agent="iPhone", Atlas FHD
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 http://201.186.43.130:8000/play/a03w
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/2Ps70cC/Buen-Viaje.jpg" group-title="Educativos" user-agent="iPhone", Buen Viaje
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/2Ps70cC/Buen-Viaje.jpg" group-title="Educativos" user-agent="iPhone", Buen Viaje FHD
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://989229002744543732.otjb0606.xyz:80/live/vi29858/hEtwM9ScpcnR/543732.ts
+http://newultra.xyz:8080/34tehu87se24ma97/m37me65wu93m/236352
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://images.pluto.tv/channels/6109a9f5531b840007a4a187/colorLogoPNG.png" group-title="Educativos" user-agent="iPhone", Cazador de Homicidas
 #EXTVLCOPT:http-user-agent=iPhone
@@ -608,17 +623,17 @@ https://jmp2.uk/PlutoTV/622f42b831233300078658cc-alt.m3u8
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/hsG2w5t/DKiss.png" group-title="Educativos" user-agent="iPhone", DKiss FHD
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://77.228.160.100:61800/play/a00z
+http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/2543
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/GkYtsFp/DMAX.jpg" group-title="Educativos" user-agent="iPhone", DMax FHD
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://77.228.160.100:61800/play/a00g
+http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/2542
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/JnkYkHR/Dcasa.jpg" group-title="Educativos" user-agent="iPhone", De Casa
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://989229002744321206.otjb0606.xyz:80/live/vi29858/hEtwM9ScpcnR/321206.ts
+http://608220176697321153.ofkd0722.xyz:80/play/hu97074/BbauEv3S4Pv/321153.ts
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/Bq0Xjhf/Animal-Planet.png" group-title="Educativos" user-agent="iPhone", Discovery Animal Planet
 #EXTVLCOPT:http-user-agent=iPhone
@@ -628,7 +643,7 @@ http://204.157.251.250:8000/play/a07l/index.m3u8
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/SyyDDQB/discovery.png" group-title="Educativos" user-agent="iPhone", Discovery Channel FHD
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://98114878835881485.ofd0711.xyz:80/play/4SXDTBF5K8/@CASNbdR5T/881485.ts
+http://608220176697859786.ofkd0722.xyz:80/play/hu97074/BbauEv3S4Pv/859786.ts
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/SyyDDQB/discovery.png" group-title="Educativos" user-agent="iPhone", Discovery Channel FHD
 #EXTVLCOPT:http-user-agent=iPhone
@@ -663,7 +678,7 @@ http://204.157.251.250:8000/play/a08d/index.m3u8
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/9GkYvsp/h-h.jpg" group-title="Educativos" user-agent="iPhone", Discovery Home & Health
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://45.181.121.194:8000/play/171
+http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/51409
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/6PPyvXN/id.png" group-title="Educativos" user-agent="iPhone", Discovery ID
 #EXTVLCOPT:http-user-agent=iPhone
@@ -693,7 +708,7 @@ http://168.197.196.98:9981/stream/channelid/2091100492?profile=pass
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/Pjf1dS7/Documentales.png" group-title="Educativos" user-agent="iPhone", Documentales M+
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://989229002744552956.otjb0606.xyz:80/live/vi29858/hEtwM9ScpcnR/552956.ts
+http://608220176697552956.ofkd0722.xyz:80/play/hu97074/BbauEv3S4Pv/552956.ts
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/NSkRk87/Docu.png" group-title="Educativos" user-agent="iPhone", Docu. FHD
 #EXTVLCOPT:http-user-agent=iPhone
@@ -709,11 +724,6 @@ https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 https://stream1.sersat.com/hls/garagetv.m3u8
-
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/qm912Zd/1000xhora.jpg" group-title="Educativos" user-agent="iPhone", 1000 x Hora
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-http://abcnew.site:8880/D12m100001/63249687/58925
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="Educativos" user-agent="iPhone", Historia Es
 #EXTVLCOPT:http-user-agent=iPhone
@@ -763,7 +773,7 @@ https://jmp2.uk/PlutoTV/5f4d3696d938c900072679fd-alt.m3u8
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/sqVJhRg/Caza-y-Pesca-Iberalia.png" group-title="Educativos" user-agent="iPhone", Iberalia
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://691624751331394391.of51.xyz:80/play/XAHH255411/66342584964/394391.ts
+http://608220176697336331.ofkd0722.xyz:80/play/hu97074/BbauEv3S4Pv/336331.ts
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://images.pluto.tv/channels/62154548a2be360007cb02f0/colorLogoPNG.png" group-title="Educativos" user-agent="iPhone", Ice Pilots
 #EXTVLCOPT:http-user-agent=iPhone
@@ -843,7 +853,7 @@ https://ov-mvg-mv-es.ottera.tv/mvg/mv_es/mv_es_720p_low.m3u8
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/z7DwS7B/nationalgeo.png" group-title="Educativos" user-agent="iPhone", Nat Geo FHD Es
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://516307213554321373.ofk0601.xyz:80/play/HW725566/A1234567/321373.ts
+http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/29226
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/z7DwS7B/nationalgeo.png" group-title="Educativos" user-agent="iPhone", Nat Geo Mx
 #EXTVLCOPT:http-user-agent=iPhone
@@ -853,7 +863,7 @@ http://168.197.196.98:9981/stream/channelid/1339532407?profile=pass
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/z7DwS7B/nationalgeo.png" group-title="Educativos" user-agent="iPhone", Nat Geo FHD
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://45.181.121.194:8000/play/027
+http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/58016
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/z7DwS7B/nationalgeo.png" group-title="Educativos" user-agent="iPhone", Nat Geo
 #EXTVLCOPT:http-user-agent=iPhone
@@ -863,7 +873,7 @@ http://181.78.105.146:8800/play/a044
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/8YJPFYc/Nat-Geo-Wild.png" group-title="Educativos" user-agent="iPhone", Nat Geo Wild Es
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://516307213554383264.ofk0601.xyz:80/play/HW725566/A1234567/383264.ts
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1137
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/0rMN4vh/dl.jpg" group-title="Educativos" user-agent="iPhone", Nature Deluxe Lounge
 #EXTVLCOPT:http-user-agent=iPhone
@@ -878,12 +888,7 @@ https://jmp2.uk/PlutoTV/5f4fed840a2764000720d966-alt.m3u8
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/XZcW0JW/Odisea.png" group-title="Educativos" user-agent="iPhone", Odisea
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://989229002744321390.otjb0606.xyz:80/live/vi29858/hEtwM9ScpcnR/321390.ts
-
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/JQytqhj/On-Tours.png" group-title="Educativos" user-agent="iPhone", On Tours
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-https://marine2.miplay.cl/ontour/playlist.m3u8
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2194
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/C0JhfbN/926-Oxigeno-Network.png" group-title="Educativos" user-agent="iPhone", Oxigeno
 #EXTVLCOPT:http-user-agent=iPhone
@@ -904,6 +909,11 @@ https://jmp2.uk/PlutoTV/63a084934734f30007457b2c-alt.m3u8
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 http://181.78.105.146:8800/play/a023
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/qWC2wRF/tlc.png" group-title="Educativos" user-agent="iPhone", TLC
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/3107
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/qWC2wRF/tlc.png" group-title="Educativos" user-agent="iPhone", TLC
 #EXTVLCOPT:http-user-agent=iPhone
@@ -2243,6 +2253,11 @@ http://newultra.xyz:8080/movie/988292886tv/admin2799xd/6812.mkv
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/MfJzXw1/The-Simpson.png" group-title="Infantiles" user-agent="iPhone", The Simpson
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
+http://newultra.xyz:8080/34tehu87se24ma97/m37me65wu93m/769
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/MfJzXw1/The-Simpson.png" group-title="Infantiles" user-agent="iPhone", The Simpson
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
 http://newultra.xyz:8080/988292886tv/admin2799xd/790
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/MfJzXw1/The-Simpson.png" group-title="Infantiles" user-agent="iPhone", The Simpson
@@ -2888,7 +2903,7 @@ https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/F0sdDMq/Antena-3.jpg" group-title="Entretenimiento" user-agent="iPhone", Antena 3 HD
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://77.228.160.100:61800/play/a00a
+http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/2591
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/F0sdDMq/Antena-3.jpg" group-title="Entretenimiento" user-agent="iPhone", Antena 3
 #EXTVLCOPT:http-user-agent=iPhone
@@ -3268,7 +3283,7 @@ https://amg01768-flou-flou-canelatv-yri41.amagi.tv/playlist/amg01768-flou-flou-c
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/vQFB9t5/Gol-Play.jpg" group-title="Entretenimiento" user-agent="iPhone", Gol Play
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://77.228.160.100:61800/play/a01h
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/297246
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/zX1dyn1/GuadaTv.jpg" group-title="Entretenimiento" user-agent="iPhone", Guada TV
 #EXTVLCOPT:http-user-agent=iPhone
