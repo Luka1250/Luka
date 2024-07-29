@@ -585,17 +585,12 @@ http://animalstream.pro:8080/3@5shark@5@4/SanaleFM45@/18823
 #EXTVLCOPT--http-reconnect=true
 http://168.197.196.98:9981/stream/channelid/371852243?profile=pass
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/x726B5V/Break.png" group-title="Educativos" user-agent="iPhone", AMC Break FHD
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/297245
-
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/x726B5V/Break.png" group-title="Educativos" user-agent="iPhone", AMC Break SD
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/x726B5V/Break.png" group-title="Educativos" user-agent="iPhone", AMC Break
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/2594
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/pP8jpD3/AMC-Crimen.png" group-title="Educativos" user-agent="iPhone", AMC Crime SD
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/pP8jpD3/AMC-Crimen.png" group-title="Educativos" user-agent="iPhone", AMC Crime
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 http://newultra.xyz:8080/34tehu87se24ma97/m37me65wu93m/236425
@@ -625,15 +620,15 @@ https://jmp2.uk/PlutoTV/5dd8364ea1d6780009929902-alt.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://jmp2.uk/PlutoTV/622f42b831233300078658cc-alt.m3u8
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/hsG2w5t/DKiss.png" group-title="Educativos" user-agent="iPhone", DKiss FHD
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/hsG2w5t/DKiss.png" group-title="Educativos" user-agent="iPhone", DKiss
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/2543
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/GkYtsFp/DMAX.jpg" group-title="Educativos" user-agent="iPhone", DMax FHD
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/GkYtsFp/DMAX.jpg" group-title="Educativos" user-agent="iPhone", DMax
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/2542
+http://480480931676321227.ofkd0722.xyz:80/live/Wilfix179/84567324/321227.ts
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/JnkYkHR/Dcasa.jpg" group-title="Educativos" user-agent="iPhone", De Casa
 #EXTVLCOPT:http-user-agent=iPhone
@@ -733,12 +728,7 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="Educativos" user-agent="iPhone", Historia Es
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://405834729118321262.ofkd0722.xyz:80/live/ALEXCORNU/kYPBERaNkct/321262.ts
-
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="Educativos" user-agent="iPhone", Historia Es
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-http://abcnew.site:8880/firmino-iptv/Firmino9800018/29308
+http://480480931676339761.ofkd0722.xyz:80/live/Wilfix179/84567324/339761.ts
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="Educativos" user-agent="iPhone", Historia Es
 #EXTVLCOPT:http-user-agent=iPhone
