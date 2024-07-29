@@ -265,6 +265,11 @@ https://seo.tv.bo/tv/SEO-TV-5.2.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://seo.tv.bo/tv/SEO-TV-4.m3u8
 
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/3mtyBb0/Sitel-HD.jpg" group-title="Nacionales" user-agent="iPhone", Sitel
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://ipmedia.netredbolivia.com:8080/hls/sitel.m3u8
+
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/hL3fjd6/Solidaria-Tv.png" group-title="Nacionales" user-agent="iPhone", Solidaria Tv
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
@@ -284,6 +289,11 @@ https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 https://solo.disfrutaenlared.com:1936/tutv/tutv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvusucre.com/images/Cabeza-logo.png" group-title="Nacionales" user-agent="iPhone", Tv Tupiza
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+https://ed24ov.live.opencaster.com/sAbAihkknvks/index.m3u8
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/jvwZ9b0/Tv-Culturas.png" group-title="Nacionales" user-agent="iPhone", TV Cultura
 #EXTVLCOPT:http-user-agent=iPhone
