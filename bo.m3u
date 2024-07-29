@@ -3858,6 +3858,11 @@ http://lunar.pm:8080/KAY/mZMsckmeyH/115673
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QP2CjJG/CNN-Chile.png" group-title="Noticieros" user-agent="iPhone", CNN Chile
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
+http://newultra.xyz:8080/34tehu87se24ma97/m37me65wu93m/57269
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QP2CjJG/CNN-Chile.png" group-title="Noticieros" user-agent="iPhone", CNN Chile
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
 http://fortv.cc:8080/DeishouV2573/120712/164892
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/4J3189z/cnnenesp.png" group-title="Noticieros" user-agent="iPhone", CNN Latinoamerica
