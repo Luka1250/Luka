@@ -13,7 +13,7 @@ https://streamer03.digital.com.bo/2ap337/__cl/cg:sworigin2/__c/UNITEL/__op/hls-d
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/M2jn6ky/Unitel.jpg" group-title="Nacionales" user-agent="iPhone", Unitel
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-https://master.tucableip.com//movil/tracks-v1a1/mono.m3u8
+http://fastream.xyz:8080/efuxxrmayh/mqdsjpdtsh/69504
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/mDBcFJB/red-uno-bo.png" group-title="Nacionales" user-agent="iPhone", Red Uno FHD
 #EXTVLCOPT:http-user-agent=iPhone
@@ -2195,6 +2195,11 @@ http://51.159.104.29:8080/pepapig/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://offshore.lat:8080/play/BpNEwZdXSuNT27KQ64edLRsWikAzKWqFGvtiV0Pk4FaklTNHZEk9xfCusiWmsP1Z/ts
 
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/W3dr7Qn/Pepa-Pig.jpg" group-title="Infantiles" user-agent="iPhone", Peppa Pig
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://fastream.xyz:8080/efuxxrmayh/mqdsjpdtsh/62424
+
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/DgvX87N/Peter-Rabit.png" group-title="Infantiles" user-agent="iPhone", Peter Rabbit
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
@@ -2209,6 +2214,11 @@ http://200.59.188.3:8000/play/a091
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 http://38.41.8.1:8000/play/a0b2
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/Wyy4mXs/Pocoy.jpg" group-title="Infantiles" user-agent="iPhone", Pocoyó
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://fastream.xyz:8080/efuxxrmayh/mqdsjpdtsh/62437
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/Wyy4mXs/Pocoy.jpg" group-title="Infantiles" user-agent="iPhone", Pocoyó
 #EXTVLCOPT:http-user-agent=iPhone
@@ -2279,6 +2289,11 @@ http://newultra.xyz:8080/988292886tv/admin2799xd/793
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/2091013
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/MfJzXw1/The-Simpson.png" group-title="Infantiles" user-agent="iPhone", The Simpson
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://fastream.xyz:8080/efuxxrmayh/mqdsjpdtsh/62415
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/5cJk7rk/Ben10.jpg" group-title="Infantiles" user-agent="iPhone", Ben 10
 #EXTVLCOPT:http-user-agent=iPhone
@@ -3853,7 +3868,7 @@ https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.imgur.com/Cp4zJ7O.png" group-title="Noticieros" user-agent="iPhone", C9N
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://lunar.pm:8080/KAY/mZMsckmeyH/115673
+http://newultra.xyz:8080/34tehu87se24ma97/m37me65wu93m/61960
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QP2CjJG/CNN-Chile.png" group-title="Noticieros" user-agent="iPhone", CNN Chile
 #EXTVLCOPT:http-user-agent=iPhone
@@ -3953,7 +3968,7 @@ https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_360.m3u8
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/bmRb65v/T47.jpg" group-title="Noticieros" user-agent="iPhone", Telemundo Noticias 47
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-https://d2kowtvrzzi7ps.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc/aad665e7-150e-4428-acb7-3176d5b60cc8/2.m3u8
+https://d2kowtvrzzi7ps.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc/fb517cbe-20a7-4e40-91b2-46a21ef058a4/2.m3u8
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/PhB0vfG/TN.png" group-title="Noticieros" user-agent="iPhone", TN
 #EXTVLCOPT:http-user-agent=iPhone
@@ -4548,6 +4563,11 @@ http://supersonictv.live:8080/242306/210404/85351
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/kQhGSvM/tv5-info.png" group-title="Internacionales" user-agent="iPhone", TV5 Monde Info
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
+http://445488449649318212.ofkd0722.xyz:80/live/vi1211291/rqfMDqgHDtN/318212.ts
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/kQhGSvM/tv5-info.png" group-title="Internacionales" user-agent="iPhone", TV5 Monde Info
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.imgur.com/rtRnlqN.png" group-title="Internacionales" user-agent="iPhone", VoA TV FHD
@@ -4575,6 +4595,16 @@ https://wildearth-roku.amagi.tv:443/masterR1080p.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://newultra.xyz:8080/movie/34tehu87se24ma97/m37me65wu93m/248283.mp4
 
+#EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xyGpPZ2gKvOFAz67VqlcAze4sH2.jpg" group-title="Movies" user-agent="iPhone", Deadpool 2
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://newultra.xyz:8080/movie/34tehu87se24ma97/m37me65wu93m/3603.mkv
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tVquop2kI7vIhYoAqsNyhCTMR76.jpg" group-title="Movies" user-agent="iPhone", Deadpool
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://newultra.xyz:8080/movie/34tehu87se24ma97/m37me65wu93m/3475.mkv
+
 #EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kr36D6FiF8mNrsPz4fL6OUAvrrJ.jpg" group-title="Movies" user-agent="iPhone", Liga de la Justicia: Crisis en Tierras Infinitas - Parte 1
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
@@ -4593,52 +4623,97 @@ http://newultra.xyz:8080/movie/34tehu87se24ma97/m37me65wu93m/247580.mp4
 #EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6QR2FOCQr41gSduN70WulRIhJb7.jpg" group-title="Movies" user-agent="iPhone", Garfield: Fuera de Casa
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://newultra.xyz:8080/movie/56338735/Vecqt2pDBcPG/246168.mp4
+http://newultra.xyz:8080/movie/34tehu87se24ma97/m37me65wu93m/246168.mp4
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iNHa3E72FFVmOz7jmjXnNU27ys1.jpg" group-title="Movies" user-agent="iPhone", South Park: El Fin de la Obesidad
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://fastream.xyz:8080/movie/945868581tv/m94pq0/244425.mp4
+
+#EXTINF:0 player-buffer="30" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aTpSP0gl5X5UNG8q3ptbfklEFuf.jpg" group-title="Movies" user-agent="iPhone", Snoopy presenta: Bienvenido a la pandilla, Franklin
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://fastream.xyz:8080/movie/945868581tv/m94pq0/75740.mkv
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/syKwepJwzvoYhPLBfUy4YYSrstr.jpg" group-title="Movies" user-agent="iPhone", Rescate Imposible
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://newultra.xyz:8080/movie/56338735/Vecqt2pDBcPG/236706.mp4
+http://newultra.xyz:8080/movie/34tehu87se24ma97/m37me65wu93m/236706.mp4
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tzp6VzED2TBc02bkYoYnQa6r2OK.jpg" group-title="Movies" user-agent="iPhone", La Guerra Del Mañana
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://newultra.xyz:8080/movie/34tehu87se24ma97/m37me65wu93m/2731.mkv
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pgmOX4PQl5xPAdAx18zPPnQjQKs.jpg" group-title="Movies" user-agent="iPhone", Mad Max: Más allá de la cúpula del trueno
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://newultra.xyz:8080/movie/34tehu87se24ma97/m37me65wu93m/4293.mkv
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tGHUlykWn9V2IIQ4ZaATIAq9VLB.jpg" group-title="Movies" user-agent="iPhone", Furiosa: De la Saga Mad Max
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://newultra.xyz:8080/movie/56338735/Vecqt2pDBcPG/244774.mp4
+http://newultra.xyz:8080/movie/34tehu87se24ma97/m37me65wu93m/244774.mp4
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/il1B9mM7Cn9ccavnilzUGKL1xzQ.jpg" group-title="Movies" user-agent="iPhone", Resident Evil 6: Capítulo final
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://newultra.xyz:8080/movie/56338735/Vecqt2pDBcPG/247880.mp4
+http://newultra.xyz:8080/movie/34tehu87se24ma97/m37me65wu93m/247880.mp4
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yYZQXdfGNPMjBi18suxPuWii6MP.jpg" group-title="Movies" user-agent="iPhone", Resident Evil 5: La venganza
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://newultra.xyz:8080/movie/56338735/Vecqt2pDBcPG/247879.mp4
+http://newultra.xyz:8080/movie/34tehu87se24ma97/m37me65wu93m/247879.mp4
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j7obkD5UQUydpBOBRpToLWIWkwq.jpg" group-title="Movies" user-agent="iPhone", Resident Evil 4: La resurreccion
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://newultra.xyz:8080/movie/56338735/Vecqt2pDBcPG/247878.mp4
+http://newultra.xyz:8080/movie/34tehu87se24ma97/m37me65wu93m/247878.mp4
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lP0cconRQqe6O4c6L2mVADDvFyt.jpg" group-title="Movies" user-agent="iPhone", Resident Evil 3: La extincion
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://newultra.xyz:8080/movie/56338735/Vecqt2pDBcPG/247877.mp4
+http://newultra.xyz:8080/movie/34tehu87se24ma97/m37me65wu93m/247877.mp4
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8tNrm8TgAeSgH35rPs2WJD26Hnf.jpg" group-title="Movies" user-agent="iPhone", Resident Evil: Apocalipsis
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://newultra.xyz:8080/movie/56338735/Vecqt2pDBcPG/247876.mp4
+http://newultra.xyz:8080/movie/34tehu87se24ma97/m37me65wu93m/247876.mp4
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nlAi9cw2uLZ9hHwhzCMOG6TZMHc.jpg" group-title="Movies" user-agent="iPhone", Resident Evil: El Huesped Maldito
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://newultra.xyz:8080/movie/56338735/Vecqt2pDBcPG/247875.mp4
+http://newultra.xyz:8080/movie/34tehu87se24ma97/m37me65wu93m/247875.mp4
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrS7K8tXVFUBliIKWaRuSq65nWr.jpg" group-title="Movies" user-agent="iPhone", Batman: El caballero de la noche asciende
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://fastream.xyz:8080/movie/945868581tv/m94pq0/244743.mp4
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8QDQExnfNFOtabLDKqfDQuHDsIg.jpg" group-title="Movies" user-agent="iPhone", Batman: El caballero de la noche
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://fastream.xyz:8080/movie/945868581tv/m94pq0/244742.mp4
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6yMWU1vWkOBbNRIwOxhetd2aHhO.jpg" group-title="Movies" user-agent="iPhone", Batman inicia
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://fastream.xyz:8080/movie/945868581tv/m94pq0/244741.mp4
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yQ4uC13IYVerbxMMXeSogSQUkOT.jpg" group-title="Movies" user-agent="iPhone", Apocalypto
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://newultra.xyz:8080/movie/34tehu87se24ma97/m37me65wu93m/3605.mkv
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ioMtng0qHbwNjR1fuxYZsRf1kjm.jpg" group-title="XXX" user-agent="iPhone", Posesión infernal: El despertar
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://fastream.xyz:8080/movie/945868581tv/m94pq0/918.mkv
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/zx2YDr4/Babes-Tv.jpg" group-title="XXX" user-agent="iPhone", Babes Tv
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://lunar.pm:8080/KAY/mZMsckmeyH/110718
+http://480480931676823052.ofkd0722.xyz:80/live/Wilfix179/84567324/823052.ts
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/T0774RF/Barely-Legal-Tv.jpg" group-title="XXX" user-agent="iPhone", Barely Legal Tv
 #EXTVLCOPT:http-user-agent=iPhone
@@ -4758,7 +4833,7 @@ http://31.131.136.4:8000/play/a004
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/XV29gkK/Redlight.png" group-title="XXX" user-agent="iPhone", Redlight
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://lunar.pm:8080/KAY/mZMsckmeyH/120010
+http://480480931676868848.ofkd0722.xyz:80/live/Wilfix179/84567324/868848.ts
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/gJ95vdy/Reality-King-Tv.png" group-title="XXX" user-agent="iPhone", Reality King Tv
 #EXTVLCOPT:http-user-agent=iPhone
