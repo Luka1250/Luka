@@ -13,7 +13,7 @@ https://streamer03.digital.com.bo/2ap337/__cl/cg:sworigin2/__c/UNITEL/__op/hls-d
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/M2jn6ky/Unitel.jpg" group-title="Nacionales" user-agent="iPhone", Unitel
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://fastream.xyz:8080/efuxxrmayh/mqdsjpdtsh/69515
+https://master.tucableip.com//movil/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/mDBcFJB/red-uno-bo.png" group-title="Nacionales" user-agent="iPhone", Red Uno FHD
 #EXTVLCOPT:http-user-agent=iPhone
@@ -585,6 +585,11 @@ http://animalstream.pro:8080/3@5shark@5@4/SanaleFM45@/18823
 #EXTVLCOPT--http-reconnect=true
 http://168.197.196.98:9981/stream/channelid/371852243?profile=pass
 
+#EXTINF:0 player-buffer="30" tvg-logo="" group-title="Novelas" user-agent="iPhone", Betty, la Fea
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/91978
+
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/x726B5V/Break.png" group-title="Educativos" user-agent="iPhone", AMC Break
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
@@ -970,6 +975,16 @@ https://tv.streaming-chile.com:8081/origentvsd/tracks-v1a1/mono.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://tv.streaming-chile.com:19360/8140/8140.m3u8
 
+#EXTINF:0 player-buffer="30" tvg-logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/colorLogoPNG.png" group-title="Cine y Series" user-agent="iPhone", Cine Terror
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/92083
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/px7ygjB/UCM.png" group-title="Cine y Series" user-agent="iPhone", UCM
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/92072
+
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/6vLxqn7/A-E.png" group-title="Cine y Series" user-agent="iPhone", A&E
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
@@ -1004,6 +1019,11 @@ http://181.78.105.146:8800/play/a04s
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 http://168.197.196.98:9981/stream/channelid/836733280?profile=pass
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/zxRCxH4/AMC.png" group-title="Cine y Series" user-agent="iPhone", AMC - The Walking Dead
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/91938
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/zxRCxH4/AMC.png" group-title="Cine y Series" user-agent="iPhone", AMC - The Walking Dead
 #EXTVLCOPT:http-user-agent=iPhone
@@ -2070,10 +2090,15 @@ http://181.78.105.146:8800/play/a00p
 #EXTVLCOPT--http-reconnect=true
 http://181.78.105.146:8800/play/a00q
 
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/2yHQxQJ/tigo.png" group-title="Deportes" user-agent="iPhone", Tigo Sports (Solo Partidos)
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/3289
+
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/2yHQxQJ/tigo.png" group-title="Deportes" user-agent="iPhone", Tigo Sports FHD
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://animalstream.pro:8080/3@5shark@5@4/SanaleFM45@/24966
+http://pn-tv.xyz:8080/rodrig321/QJZVF5Bht3fV/100512
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/HhdBTTr/TNT-Sports.jpg" group-title="Deportes" user-agent="iPhone", TNT Sports
 #EXTVLCOPT:http-user-agent=iPhone
