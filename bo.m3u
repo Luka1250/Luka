@@ -265,7 +265,7 @@ https://seo.tv.bo/tv/SEO-TV-5.2.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://seo.tv.bo/tv/SEO-TV-4.m3u8
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/3mtyBb0/Sitel-HD.jpg" group-title="Nacionales" user-agent="iPhone", Sitel
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/pQd8H0j/Sitel.jpg" group-title="Nacionales" user-agent="iPhone", Sitel
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 http://ipmedia.netredbolivia.com:8080/hls/sitel.m3u8
@@ -290,7 +290,7 @@ https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://solo.disfrutaenlared.com:1936/tutv/tutv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvusucre.com/images/Cabeza-logo.png" group-title="Nacionales" user-agent="iPhone", Tv Tupiza
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xgKrL5P/Tupiza.jpg" group-title="Nacionales" user-agent="iPhone", Tv Tupiza
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 https://ed24ov.live.opencaster.com/sAbAihkknvks/index.m3u8
@@ -600,22 +600,22 @@ http://pn-tv.xyz:8080/ndar6431/9548736431/91978
 #EXTVLCOPT--http-reconnect=true
 http://pn-tv.xyz:8080/JONNYWILLIAM0903/RT3UNf8BmUB3/92158
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6bIp20xc2kwy9nV62osNS8OaQsS.jpg" group-title="Novelas" user-agent="iPhone", Betty la fea, la historia continúa S01 E01
+#EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6bIp20xc2kwy9nV62osNS8OaQsS.jpg" group-title="Novelas" user-agent="iPhone", Betty la fea la historia continúa S01 E01
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 http://fastream.xyz:8080/series/JJafRRQrkZ3Z/qHjExBxz9h9T/247514.mp4
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gWa0Z5UvjiwZNMdkbaYl9wRUpns.jpg" group-title="Novelas" user-agent="iPhone", Betty la fea, la historia continúa S01 E02
+#EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gWa0Z5UvjiwZNMdkbaYl9wRUpns.jpg" group-title="Novelas" user-agent="iPhone", Betty la fea la historia continúa S01 E02
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 http://fastream.xyz:8080/series/JJafRRQrkZ3Z/qHjExBxz9h9T/247515.mp4
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w300/b8TZsCSBSq9lXdZkBz8iQvGMsFI.jpg" group-title="Novelas" user-agent="iPhone", Betty la fea, la historia continúa S01 E03
+#EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w300/b8TZsCSBSq9lXdZkBz8iQvGMsFI.jpg" group-title="Novelas" user-agent="iPhone", Betty la fea la historia continúa S01 E03
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 http://fastream.xyz:8080/series/JJafRRQrkZ3Z/qHjExBxz9h9T/248459.mp4
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w300/qKcwvIGS1SVIZvnfCXnoNglKbEw.jpg" group-title="Novelas" user-agent="iPhone", Betty la fea, la historia continúa S01 E04
+#EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w300/qKcwvIGS1SVIZvnfCXnoNglKbEw.jpg" group-title="Novelas" user-agent="iPhone", Betty la fea la historia continúa S01 E04
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 http://fastream.xyz:8080/series/JJafRRQrkZ3Z/qHjExBxz9h9T/248460.mp4
@@ -2338,17 +2338,22 @@ http://newultra.xyz:8080/988292886tv/admin2799xd/790
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/MfJzXw1/The-Simpson.png" group-title="Infantiles" user-agent="iPhone", The Simpson
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://offshore.lat:8080/play/BpNEwZdXSuNT27KQ64edLRsWikAzKWqFGvtiV0Pk4Fa2LPycjWavFldrbjY-CFeW/ts
-
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/MfJzXw1/The-Simpson.png" group-title="Infantiles" user-agent="iPhone", The Simpson
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-http://newultra.xyz:8080/988292886tv/admin2799xd/791
+http://fastream.xyz:8080/993300790tv/95ghr5/62400
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/MfJzXw1/The-Simpson.png" group-title="Infantiles" user-agent="iPhone", The Simpson
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 http://offshore.lat:8080/play/BpNEwZdXSuNT27KQ64edLRsWikAzKWqFGvtiV0Pk4FYTWijm_fHSwepBpwQdWBTt/ts
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/MfJzXw1/The-Simpson.png" group-title="Infantiles" user-agent="iPhone", The Simpson
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://fastream.xyz:8080/993300790tv/95ghr5/62412
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/MfJzXw1/The-Simpson.png" group-title="Infantiles" user-agent="iPhone", The Simpson
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://newultra.xyz:8080/988292886tv/admin2799xd/791
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/MfJzXw1/The-Simpson.png" group-title="Infantiles" user-agent="iPhone", The Simpson
 #EXTVLCOPT:http-user-agent=iPhone
@@ -4924,6 +4929,11 @@ http://31.131.136.4:8000/play/a003
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 http://31.131.136.4:8000/play/a008
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/hHZR6zj/Private.png" group-title="XXX" user-agent="iPhone", Private
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://1.exyu.link:80/stefanzivkovic/321101/22233
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/XV29gkK/Redlight.png" group-title="XXX" user-agent="iPhone", Redlight HD
 #EXTVLCOPT:http-user-agent=iPhone
