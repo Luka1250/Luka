@@ -763,12 +763,17 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="Educativos" user-agent="iPhone", Historia Es
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
+http://pn-tv.xyz:8080/mado5814/3058045814/6786
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="Educativos" user-agent="iPhone", Historia Es
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
 http://480480931676339761.ofkd0722.xyz:80/live/Wilfix179/84567324/339761.ts
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="Educativos" user-agent="iPhone", Historia Es
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1155
+http://819460157751321262.ofre802.xyz:80/play/fe103365/wRyQMct5XJB/321262.ts
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="Educativos" user-agent="iPhone", History FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -778,7 +783,17 @@ http://168.197.196.98:9981/stream/channelid/788658705?profile=pass
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="Educativos" user-agent="iPhone", History
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT--http-reconnect=true
+http://newultra.xyz:8080/34tehu87se24ma97/m37me65wu93m/435
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="Educativos" user-agent="iPhone", History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT--http-reconnect=true
 http://204.157.251.250:8000/play/a07m/index.m3u8
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="Educativos" user-agent="iPhone", History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT--http-reconnect=true
+http://newultra.xyz:8080/34tehu87se24ma97/m37me65wu93m/436
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/DDxrqKz/h2.png" group-title="Educativos" user-agent="iPhone", H2 La FHD
 #EXTVLCOPT:http-user-agent=iPhone
