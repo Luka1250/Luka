@@ -65,11 +65,6 @@ http://181.188.144.141/tmp_hls/ant_doc/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://streamer01.digital.com.bo/2ap337/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.m3u8
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/7y2KH7t/Bo-Radio-Tv.jpg" group-title="Nacionales" user-agent="iPhone", Bolivia Radio Tv
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-https://ssh101-fl.bozztv.com/ssh101/boliviaradiotv/tracks-v1a1/mono.m3u8
-
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/y8tw8xP/BTV.jpg" group-title="Nacionales" user-agent="iPhone", Bolivia Tv 7.1
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
@@ -93,7 +88,7 @@ https://streamer01.digital.com.bo/2ap337/__cl/cg:sworigin2/__c/CADENAA/__op/hls-
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/Qrp1r44/Carigso-Tv.png" group-title="Nacionales" user-agent="iPhone", Carigso Tv
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-https://paneltv.tecnohost.ec:3646/live/carigsotvlive.m3u8
+https://paneltv.tecnohost.ec:3551/live/tvcarigsolive.m3u8
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/5Tt1ysx/cctv.jpg" group-title="Nacionales" user-agent="iPhone", CCTV
 #EXTVLCOPT:http-user-agent=iPhone
@@ -190,11 +185,6 @@ https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/playlist.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/0KLwY6S/Pandonet.jpg" group-title="Nacionales" user-agent="iPhone", Pando Net
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-https://ssh101.bozztv.com/ssh101/pandonettv4201/chunks.m3u8
-
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/B22xJ4Z/Palenque.png" group-title="Nacionales" user-agent="iPhone", Palenque Tv
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
@@ -204,11 +194,6 @@ https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 https://streamer01.digital.com.bo/2ap337/__cl/cg:sworigin2/__c/PAT/__op/hls-default/__f/index.m3u8
-
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/9H4f1XK/ParaXto.png" group-title="Nacionales" user-agent="iPhone", Para Jesucristo Tv
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-https://paneltv.tecnohost.ec:3025/stream/play.m3u8
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/yqkxrkL/PTV-HD.jpg" group-title="Nacionales" user-agent="iPhone", PTv
 #EXTVLCOPT:http-user-agent=iPhone
@@ -460,10 +445,10 @@ https://ythls.armelin.one/channel/UC7E-LYc1wivk33iyt5bR5zQ.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i2.paste.pics/44c5f4becc68ee877580eed639645110.png" group-title="Agro" user-agent="iPhone", Campo Abierto Ch
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/FWtdHh8/canal-del-caballo.jpg" group-title="Agro" user-agent="iPhone", El Canal del Caballo
 #EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT:network-caching=4000
-https://v1.tustreaming.cl:19360/campoabierto/campoabierto.m3u8
+#EXTVLCOPT--http-reconnect=true
+http://201.186.43.130:8000/play/a02r
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/T2G6dF4/canal-Rural.png" group-title="Agro" user-agent="iPhone", Rural
 #EXTVLCOPT:http-user-agent=iPhone
@@ -518,7 +503,12 @@ https://jmp2.uk/PlutoTV/5e3ddbd27091820009f86dd9-alt.m3u8
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/dtXyj6V/MUNDO-Y-SABOR-FONDO-2-300x169.jpg" group-title="Cocina" user-agent="iPhone", Mundo & Sabor
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://45.181.121.194:8000/play/178
+http://190.102.242.130:25461/171465451/1234/96
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/dtXyj6V/MUNDO-Y-SABOR-FONDO-2-300x169.jpg" group-title="Cocina" user-agent="iPhone", Mundo & Sabor
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://201.186.43.130:8000/play/a05h
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/9nWHg1N/Pluto-Cocina.jpg" group-title="Cocina" user-agent="iPhone", Pluto Cocina
 #EXTVLCOPT:http-user-agent=iPhone
@@ -550,11 +540,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-sams
 #EXTVLCOPT--http-reconnect=true
 http://200.59.188.3:8000/play/a021
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://ipuntotv.com/Images/Kanal-D-Logo.jpg" group-title="Novelas" user-agent="iPhone", Kanal D Drama
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-http://animalstream.pro:8080/261B6PJ1/1620zxvcm/21882
-
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/KVcyWRX/Pasionestv.png" group-title="Novelas" user-agent="iPhone", Pasiones FHD
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
@@ -575,11 +560,6 @@ https://spt-novelas-1-us.samsung.wurl.tv/playlist.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://181.78.105.146:2000/play/a08d/index.m3u8
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/3F0rKYN/TLN.png" group-title="Novelas" user-agent="iPhone", TLNovelas
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-http://animalstream.pro:8080/3@5shark@5@4/SanaleFM45@/18823
-
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/3zrgtpx/Tnt-Novelas.png" group-title="Novelas" user-agent="iPhone", TNT Novelas
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
@@ -593,7 +573,7 @@ http://pn-tv.xyz:8080/JONNYWILLIAM0903/RT3UNf8BmUB3/91978
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/fqtRRcG/Yo-soy-Betty-La-fea.jpg" group-title="Novelas" user-agent="iPhone", Betty la Fea
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://pn-tv.xyz:8080/ndar6431/9548736431/91978
+http://pn-tv.xyz:8080/mado5814/3058045814/91978
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/w02t3j3/Yo-soy-Betty-Ecomoda.jpg" group-title="Novelas" user-agent="iPhone", Ecomoda
 #EXTVLCOPT:http-user-agent=iPhone
@@ -603,22 +583,67 @@ http://pn-tv.xyz:8080/JONNYWILLIAM0903/RT3UNf8BmUB3/92158
 #EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6bIp20xc2kwy9nV62osNS8OaQsS.jpg" group-title="Novelas" user-agent="iPhone", Betty la fea la historia continúa S01 E01
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://fastream.xyz:8080/series/JJafRRQrkZ3Z/qHjExBxz9h9T/247514.mp4
+http://beinplay.xyz:8080/series/hsyn8462/mt.6645/453016.mp4
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gWa0Z5UvjiwZNMdkbaYl9wRUpns.jpg" group-title="Novelas" user-agent="iPhone", Betty la fea la historia continúa S01 E02
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://fastream.xyz:8080/series/JJafRRQrkZ3Z/qHjExBxz9h9T/247515.mp4
+http://beinplay.xyz:8080/series/hsyn8462/mt.6645/453017.mp4
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w300/b8TZsCSBSq9lXdZkBz8iQvGMsFI.jpg" group-title="Novelas" user-agent="iPhone", Betty la fea la historia continúa S01 E03
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://fastream.xyz:8080/series/JJafRRQrkZ3Z/qHjExBxz9h9T/248459.mp4
+http://beinplay.xyz:8080/series/hsyn8462/mt.6645/453018.mp4
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w300/qKcwvIGS1SVIZvnfCXnoNglKbEw.jpg" group-title="Novelas" user-agent="iPhone", Betty la fea la historia continúa S01 E04
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://fastream.xyz:8080/series/JJafRRQrkZ3Z/qHjExBxz9h9T/248460.mp4
+http://beinplay.xyz:8080/series/hsyn8462/mt.6645/453019.mp4
+
+#EXTINF:0 player-buffer="30" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3MEM0CZrlMn8Ikuv2wiipyC1ChY.jpg" group-title="Novelas" user-agent="iPhone", Betty la fea la historia continúa S01 E05
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://beinplay.xyz:8080/series/hsyn8462/mt.6645/453020.mp4
+
+#EXTINF:0 player-buffer="30" tvg-logo="" group-title="Novelas" user-agent="iPhone", Presumed Innocent S01 E01
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://pn-tv.xyz:8080/series/mado5814/3058045814/144069.mkv
+
+#EXTINF:0 player-buffer="30" tvg-logo="" group-title="Novelas" user-agent="iPhone", Presumed Innocent S01 E02
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://pn-tv.xyz:8080/series/mado5814/3058045814/144070.mkv
+
+#EXTINF:0 player-buffer="30" tvg-logo="" group-title="Novelas" user-agent="iPhone", Presumed Innocent S01 E03
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://pn-tv.xyz:8080/series/mado5814/3058045814/145600.mkv
+
+#EXTINF:0 player-buffer="30" tvg-logo="" group-title="Novelas" user-agent="iPhone", Presumed Innocent S01 E04
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://pn-tv.xyz:8080/series/mado5814/3058045814/146629.mkv
+
+#EXTINF:0 player-buffer="30" tvg-logo="" group-title="Novelas" user-agent="iPhone", Presumed Innocent S01 E05
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://pn-tv.xyz:8080/series/mado5814/3058045814/147477.mkv
+
+#EXTINF:0 player-buffer="30" tvg-logo="" group-title="Novelas" user-agent="iPhone", Presumed Innocent S01 E06
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://pn-tv.xyz:8080/series/mado5814/3058045814/148248.mkv
+
+#EXTINF:0 player-buffer="30" tvg-logo="" group-title="Novelas" user-agent="iPhone", Presumed Innocent S01 E07
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://pn-tv.xyz:8080/series/mado5814/3058045814/148420.mkv
+
+#EXTINF:0 player-buffer="30" tvg-logo="" group-title="Novelas" user-agent="iPhone", Presumed Innocent S01 E08
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://pn-tv.xyz:8080/series/mado5814/3058045814/149169.mkv
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/x726B5V/Break.png" group-title="Educativos" user-agent="iPhone", AMC Break
 #EXTVLCOPT:http-user-agent=iPhone
@@ -668,17 +693,12 @@ http://480480931676321227.ofkd0722.xyz:80/live/Wilfix179/84567324/321227.ts
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/JnkYkHR/Dcasa.jpg" group-title="Educativos" user-agent="iPhone", De Casa
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://608220176697321153.ofkd0722.xyz:80/play/hu97074/BbauEv3S4Pv/321153.ts
+http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/2549
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/Bq0Xjhf/Animal-Planet.png" group-title="Educativos" user-agent="iPhone", Discovery Animal Planet
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 http://204.157.251.250:8000/play/a07l/index.m3u8
-
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/SyyDDQB/discovery.png" group-title="Educativos" user-agent="iPhone", Discovery Channel FHD
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-http://608220176697859786.ofkd0722.xyz:80/play/hu97074/BbauEv3S4Pv/859786.ts
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/SyyDDQB/discovery.png" group-title="Educativos" user-agent="iPhone", Discovery Channel FHD
 #EXTVLCOPT:http-user-agent=iPhone
@@ -723,7 +743,7 @@ http://204.157.251.250:8000/play/a08e/index.m3u8
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/gv5cmqF/co-discovery-science-m.png" group-title="Educativos" user-agent="iPhone", Discovery Science
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://45.228.234.167:8000/play/a00b/index.m3u8
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/9059
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/sWB0sYw/Theater.png" group-title="Educativos" user-agent="iPhone", Discovery Theater
 #EXTVLCOPT:http-user-agent=iPhone
@@ -4033,6 +4053,11 @@ https://jmp2.uk/SamsungTVPlus/ESAJ4500024LR.m3u8
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/nfxDcDW/France24.jpg" group-title="Noticieros" user-agent="iPhone", France 24
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
+http://201.186.43.130:8000/play/a06n
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/nfxDcDW/France24.jpg" group-title="Noticieros" user-agent="iPhone", France 24
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
 http://170.82.37.21:8000/play/a020/index.m3u8
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/7r632sC/foro.png" group-title="Noticieros" user-agent="iPhone", Foro
@@ -4710,6 +4735,11 @@ https://jmp2.uk/SamsungTVPlus/ESBC170000388.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://wildearth-roku.amagi.tv:443/masterR1080p.m3u8
 
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/Y0XCRdG/Nonegociable.jpg" group-title="Movies" user-agent="iPhone", No negociable
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://fastream.xyz:8080/movie/989323609tv/96jnmg/248284.mp4
+
 #EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9TFSqghEHrlBMRR63yTx80Orxva.jpg" group-title="Movies" user-agent="iPhone", Deadpool & Wolverine
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
@@ -4825,7 +4855,7 @@ http://fastream.xyz:8080/movie/945868581tv/m94pq0/244741.mp4
 #EXTVLCOPT--http-reconnect=true
 http://newultra.xyz:8080/movie/34tehu87se24ma97/m37me65wu93m/3605.mkv
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ioMtng0qHbwNjR1fuxYZsRf1kjm.jpg" group-title="XXX" user-agent="iPhone", Posesión infernal: El despertar
+#EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ioMtng0qHbwNjR1fuxYZsRf1kjm.jpg" group-title="Movies" user-agent="iPhone", Posesión infernal: El despertar
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 http://fastream.xyz:8080/movie/945868581tv/m94pq0/918.mkv
