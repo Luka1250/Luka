@@ -3855,11 +3855,6 @@ https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8?PlaylistM3UCL
 #EXTVLCOPT--http-reconnect=true
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/Lg86ptt/URTv.jpg" group-title="Entretenimiento" user-agent="iPhone", Uni Radio Tv
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-https://59ce1298bfb98.streamlock.net/uniradiotv/uniradiotv/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/qJ4Z523/USMP-TV-2017.png" group-title="Entretenimiento" user-agent="iPhone", USMP TV
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
@@ -3868,22 +3863,27 @@ https://streamusmptv.ddns.net/live/stream.m3u8
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/L12VJmX/Unim-s.png" group-title="Entretenimiento" user-agent="iPhone", Unimás
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT--http-reconnect=true
-http://supersonictv.live:8080/242306/210404/10615
+http://fastream.xyz:8080/981228596tv/ldnkq06521/74713
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/L12VJmX/Unim-s.png" group-title="Entretenimiento" user-agent="iPhone", Unimás Los Angeles
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT--http-reconnect=true
-http://supersonictv.live:8080/242306/210404/10616
+http://fastream.xyz:8080/981228596tv/ldnkq06521/74719
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/L12VJmX/Unim-s.png" group-title="Entretenimiento" user-agent="iPhone", Unimás Miami
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT--http-reconnect=true
-http://supersonictv.live:8080/242306/210404/10617
+http://fastream.xyz:8080/981228596tv/ldnkq06521/74718
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/5RZ3WWK/univision.png" group-title="Entretenimiento" user-agent="iPhone", Univision La
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 http://bantel.iptvperu.tv:1935/transcoder_t4/Univision_t4/playlist.m3u8
+
+#EXTINF:0 player-buffer="30" tvg-logo="http://209.126.82.213/LogosP/USA_lat/usalat_univision_.png" group-title="Entretenimiento" user-agent="iPhone", Univision Boston
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://fastream.xyz:8080/981228596tv/ldnkq06521/74726
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/5RZ3WWK/univision.png" group-title="Entretenimiento" user-agent="iPhone", Univision Chicago
 #EXTVLCOPT:http-user-agent=iPhone
@@ -3943,7 +3943,7 @@ https://panel.host-live.com:19360/cn247tv/360p.m3u8
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="Noticieros" user-agent="iPhone", A24
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://abcnew.site:8880/12mmc060038/74286357/49749
+http://vipatdom.top:8080/VIP0186171413546510/91719429032804/4722
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/VvrMFRC/eLkl-Ro4.jpg" group-title="Noticieros" user-agent="iPhone", ABC
 #EXTVLCOPT:http-user-agent=iPhone
@@ -4008,7 +4008,7 @@ http://168.197.196.98:9981/stream/channelid/438380873?profile=pass
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/gPZJLWR/Canal24horas.png" group-title="Noticieros" user-agent="iPhone", Canal 24h Ch
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://201.184.160.154:4849/play/CH106
+http://200.59.188.3:8000/play/a02w
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/X4VkLwM/Cr-nica.png" group-title="Noticieros" user-agent="iPhone", Crónica
 #EXTVLCOPT:http-user-agent=iPhone
@@ -4093,12 +4093,17 @@ https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_360.m3u8
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/bmRb65v/T47.jpg" group-title="Noticieros" user-agent="iPhone", Telemundo Noticias 47
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-https://d2kowtvrzzi7ps.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc/fb517cbe-20a7-4e40-91b2-46a21ef058a4/2.m3u8
+https://d2kowtvrzzi7ps.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc/0b592ea2-2e98-492e-a01c-bcb163d3448a/2.m3u8
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/PhB0vfG/TN.png" group-title="Noticieros" user-agent="iPhone", TN
+#EXTINF:0 player-buffer="30" tvg-logo="https://docdog.top/logo/countries/us/telemundochicago.png" group-title="Noticieros" user-agent="iPhone", Telemundo Noticias Chicago
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+http://vipatdom.top:8080/VIP0186171413546510/91719429032804/6345
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/PhB0vfG/TN.png" group-title="Noticieros" user-agent="iPhone", TN FHD
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://vipatdom.top:8080/VIP0186171413546510/91719429032804/4812
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/pnJdBGf/tn23.jpg" group-title="Noticieros" user-agent="iPhone", TN 23
 #EXTVLCOPT:http-user-agent=iPhone
@@ -4185,11 +4190,6 @@ http://bccdn.xyz:80/594023850943868/897489270938609/588
 #EXTVLCOPT--http-reconnect=true
 https://jmp2.uk/SamsungTVPlus/GBBD8000016N.m3u8
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/jw6VHBg/cnnfast.jpg" group-title="News" user-agent="iPhone", CNN Fast
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-https://jmp2.uk/SamsungTVPlus/ATBD190000101.m3u8
-
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/2v4CJJj/cnnindonesia.png" group-title="News" user-agent="iPhone", CNN Indonesia
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
@@ -4198,7 +4198,12 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/GxRmwcz/cnnportugal.png" group-title="News" user-agent="iPhone", CNN Portugal
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://viegas.maisvip.top:8080/FilipePena2022/AS24FTZ88WPL7/26
+http://vipatdom.top:8080/VIP0186171413546510/91719429032804/81005
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://docdog.top/logo/countries/turkey/cnn-turk-tr.png" group-title="News" user-agent="iPhone", CNN Türk
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://vipatdom.top:8080/VIP0186171413546510/91719429032804/2414
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/bHKgLbs/Fox-News.png" group-title="News" user-agent="iPhone", Fox News
 #EXTVLCOPT:http-user-agent=iPhone
@@ -4225,10 +4230,15 @@ https://b-nhkwlive-ojp.akamaized.net/hls/live/2003459-b/nhkwlive-ojp-en/index_1M
 #EXTVLCOPT--http-reconnect=true
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/oan_720p/playlist.m3u8
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/kKQgJdQ/RAI24.png" group-title="News" user-agent="iPhone", RAI News
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/kKQgJdQ/RAI24.png" group-title="News" user-agent="iPhone", RAI News FHD
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 http://45.65.112.49:8000/play/a0m8
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/kKQgJdQ/RAI24.png" group-title="News" user-agent="iPhone", RAI News
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://vipatdom.top:8080/VIP0186171413546510/91719429032804/1153
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/vDMbYJV/Record-News.png" group-title="News" user-agent="iPhone", Record News
 #EXTVLCOPT:http-user-agent=iPhone
@@ -4460,7 +4470,7 @@ http://bccdn.xyz:80/594023850943868/897489270938609/500
 #EXTVLCOPT--http-reconnect=true
 http://cord-cutter.net:8080/hilton/123456/57272
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/2ca1aaa5-c5df-4e67-9c59-d047afabab6f.png" group-title="Internacionales" user-agent="iPhone", KBS
+#EXTINF:0 player-buffer="30" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/2ca1aaa5-c5df-4e67-9c59-d047afabab6f.png" group-title="Internacionales" user-agent="iPhone", KBS World
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
@@ -4540,11 +4550,6 @@ https://600f07e114306.streamlock.net/PadrePioTV/livestream/chunklist.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://live.paltodaytv.com/paltv/live/chunklist.m3u8
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/GVwHBNr/pxsports.png" group-title="Internacionales" user-agent="iPhone", Px Sports
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-http://45.228.234.167:8000/play/a025/index.m3u8
-
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/rvxpxYq/RAI-Italia.png" group-title="Internacionales" user-agent="iPhone", RAI Italia
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
@@ -4553,27 +4558,27 @@ http://168.197.196.98:9981/stream/channelid/126505530?profile=pass
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/BfD4M96/RAi1.png" group-title="Internacionales" user-agent="iPhone", RAI 1
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://45.65.112.49:8000/play/a078
+http://vipatdom.top:8080/VIP0186171413546510/91719429032804/1145
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/GJJvPFW/RAi2.png" group-title="Internacionales" user-agent="iPhone", RAI 2
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://154.54.220.67:34780/play/a047
-
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/GJJvPFW/RAi2.png" group-title="Internacionales" user-agent="iPhone", RAI 2
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-http://supersonictv.live:8080/242306/210404/83441
+http://vipatdom.top:8080/VIP0186171413546510/91719429032804/1146
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/YLShnCL/RAi3.jpg" group-title="Internacionales" user-agent="iPhone", RAI 3
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://xxip25.top:8080/B8dfgj/186075/212897
+http://vipatdom.top:8080/VIP0186171413546510/91719429032804/1147
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/c2gX1qM/RAi4.png" group-title="Internacionales" user-agent="iPhone", RAI 4
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://supersonictv.live:8080/242306/210404/83437
+http://vipatdom.top:8080/VIP0186171413546510/91719429032804/1148
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://docdog.top/logo/countries/italy/rai5.png" group-title="Internacionales" user-agent="iPhone", RAI 5
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://vipatdom.top:8080/VIP0186171413546510/91719429032804/1149
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/gr3L3WQ/RAIGulp.png" group-title="Internacionales" user-agent="iPhone", RAI Gulp
 #EXTVLCOPT:http-user-agent=iPhone
@@ -4583,12 +4588,12 @@ http://154.54.220.67:34780/play/a04k
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/HqWYd7c/RAI-Premium.png" group-title="Internacionales" user-agent="iPhone", RAI Premium
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://45.65.112.49:8000/play/a0m6
+http://vipatdom.top:8080/VIP0186171413546510/91719429032804/1154
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/2jpkJqG/RAI-Scuola.png" group-title="Internacionales" user-agent="iPhone", RAI Scuola
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://supersonictv.live:8080/242306/210404/83430
+http://vipatdom.top:8080/VIP0186171413546510/91719429032804/1155
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/hVdQJTy/Red-Bull.png" group-title="Internacionales" user-agent="iPhone", Red Bull
 #EXTVLCOPT:http-user-agent=iPhone
@@ -4685,15 +4690,15 @@ https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist.m3
 #EXTVLCOPT--http-reconnect=true
 http://supersonictv.live:8080/242306/210404/85351
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/kQhGSvM/tv5-info.png" group-title="Internacionales" user-agent="iPhone", TV5 Monde Info
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/zQ1DBwZ/TV5-Monde.png" group-title="Internacionales" user-agent="iPhone", TV5 Monde
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://445488449649318212.ofkd0722.xyz:80/live/vi1211291/rqfMDqgHDtN/318212.ts
+http://vipatdom.top:8080/VIP0186171413546510/91719429032804/99576
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/kQhGSvM/tv5-info.png" group-title="Internacionales" user-agent="iPhone", TV5 Monde Info
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+http://445488449649318212.ofkd0722.xyz:80/live/vi1211291/rqfMDqgHDtN/318212.ts
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.imgur.com/rtRnlqN.png" group-title="Internacionales" user-agent="iPhone", VoA TV FHD
 #EXTVLCOPT:http-user-agent=iPhone
