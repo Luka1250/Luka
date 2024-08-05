@@ -605,6 +605,11 @@ http://beinplay.xyz:8080/series/hsyn8462/mt.6645/453019.mp4
 #EXTVLCOPT--http-reconnect=true
 http://beinplay.xyz:8080/series/hsyn8462/mt.6645/453020.mp4
 
+#EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w300/xAJwQJQVDcDsWw0Sy08VCUyMs6K.jpg" group-title="Novelas" user-agent="iPhone", Betty la fea la historia continúa S01 E06
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://fastream.xyz:8080/series/981228596tv/ldnkq06521/249548.mkv
+
 #EXTINF:0 player-buffer="30" tvg-logo="" group-title="Novelas" user-agent="iPhone", Presumed Innocent S01 E01
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
@@ -1270,11 +1275,6 @@ http://200.59.188.3:8000/play/a016
 #EXTVLCOPT--http-reconnect=true
 http://200.59.188.3:8000/play/a00o
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/1z7zDsg/Clover.jpg" group-title="Cine y Series" user-agent="iPhone", Clover Channel
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-http://200.24.158.115:9981/stream/channelid/1010390472?profile=pass
-
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/6vxLfV3/comedycentral.png" group-title="Cine y Series" user-agent="iPhone", Comedy Central Es
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
@@ -1398,11 +1398,6 @@ http://51.159.104.29:8080/action/index.m3u8
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/rZmZZsw/hbo.png" group-title="Cine y Series"  user-agent="iPhone", HBO FHD
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://200.24.158.115:9981/stream/channelid/1202324415?profile=pass
-
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/rZmZZsw/hbo.png" group-title="Cine y Series"  user-agent="iPhone", HBO FHD
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
 http://170.82.37.21:8000/play/a02g/index.m3u8
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/rZmZZsw/hbo.png" group-title="Cine y Series"  user-agent="iPhone", HBO
@@ -1414,11 +1409,6 @@ http://168.197.196.98:9981/stream/channelid/1489985283?profile=pass
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 http://170.82.37.21:8000/play/a02i/index.m3u8
-
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/BGXCNJh/hbo2.png" group-title="Cine y Series" user-agent="iPhone", HBO 2 FHD
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-http://200.24.158.115:9981/stream/channelid/1091253342?profile=pass
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/BGXCNJh/hbo2.png" group-title="Cine y Series" user-agent="iPhone", HBO 2
 #EXTVLCOPT:http-user-agent=iPhone
@@ -1464,11 +1454,6 @@ http://168.197.196.98:9981/stream/channelid/1047753039?profile=pass
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://168.197.196.98:9981/stream/channelid/1926196603?profile=pass
-
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/6wLgtTc/hbopop.png" group-title="Cine y Series" user-agent="iPhone", HBO Pop
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-http://200.24.158.115:9981/stream/channelid/1338563763?profile=pass
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/6wLgtTc/hbopop.png" group-title="Cine y Series" user-agent="iPhone", HBO Pop
 #EXTVLCOPT:http-user-agent=iPhone
@@ -1623,17 +1608,12 @@ http://516307213554321424.ofk0601.xyz:80/play/HW725566/A1234567/321424.ts
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/6Dfxqjp/star.png" group-title="Cine y Series" user-agent="iPhone", Star Es
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://516307213554825220.ofk0601.xyz:80/play/HW725566/A1234567/825220.ts
+http://vipatdom.top:8080/VIP0186171413546510/91719429032804/751
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/6Dfxqjp/star.png" group-title="Cine y Series" user-agent="iPhone", Star Ar
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 http://168.197.196.98:9981/stream/channelid/1299221957?profile=pass
-
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/6Dfxqjp/star.png" group-title="Cine y Series" user-agent="iPhone", Star Cl
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-http://200.24.158.115:9981/stream/channelid/1206159626?profile=pass
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/6Dfxqjp/star.png" group-title="Cine y Series" user-agent="iPhone", Star Mx
 #EXTVLCOPT:http-user-agent=iPhone
@@ -1645,20 +1625,10 @@ http://204.157.251.250:8000/play/a08b/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://38.187.2.194:8000/play/a09n
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/YNb9tq4/Star-Action.png" group-title="Cine y Series" user-agent="iPhone", Star Action
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/6Dfxqjp/star.png" group-title="Cine y Series" user-agent="iPhone", Star
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://98114878835883692.ofd0711.xyz:80/play/4SXDTBF5K8/@CASNbdR5T/883692.ts
-
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/sFB5CS8/Star-Cinema.png" group-title="Cine y Series" user-agent="iPhone", Star Cinema
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-http://animalstream.pro:8080/0200/temporal/18663
-
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/GnCh7rW/StarMax.jpg" group-title="Cine y Series" user-agent="iPhone", Star Max
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-http://98114878835881460.ofd0711.xyz:80/play/4SXDTBF5K8/@CASNbdR5T/881460.ts
+http://200.59.188.3:8000/play/a02v
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/829X9qs/studiouniversal.png" group-title="Cine y Series" user-agent="iPhone", Studio Universal
 #EXTVLCOPT:http-user-agent=iPhone
@@ -1985,11 +1955,6 @@ http://168.197.196.98:9981/stream/channelid/639969912?profile=pass
 #EXTVLCOPT--http-reconnect=true
 http://newultra.xyz:8080/40724021/8H4E9ufjw39/452
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/hDxb5kp/ESPN2.jpg" group-title="Deportes" user-agent="iPhone", ESPN 2
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-http://200.24.158.115:9981/stream/channelid/1224022292?profile=pass
-
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/0y2y8kF/ESPN3.jpg" group-title="Deportes" user-agent="iPhone", ESPN 3
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
@@ -2243,7 +2208,7 @@ http://offshore.lat:8080/play/BpNEwZdXSuNT27KQ64edLRsWikAzKWqFGvtiV0Pk4FZXdcax2w
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/fqtJPK2/canal-infantil.png" group-title="Infantiles" user-agent="iPhone", Canal Infantil
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://181.78.64.71:16123/play/ch06
+http://181.78.8.90:16123/play/ch06
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/pZ4Dz8f/Caillou.png" group-title="Infantiles" user-agent="iPhone", Caillou
 #EXTVLCOPT:http-user-agent=iPhone
@@ -2275,6 +2240,11 @@ https://magicstream.ddns.net:443/magicstream/stream.m3u8?PlaylistM3UCL
 #EXTVLCOPT--http-reconnect=true
 http://51.159.104.29:8080/mrbean/index.m3u8
 
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/znsgTKD/Bean.jpg" group-title="Infantiles" user-agent="iPhone", Mr Bean
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/60052
+
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/T2zwCC4/Paw-Patrol.jpg" group-title="Infantiles" user-agent="iPhone", Paw Patrol
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
@@ -2283,7 +2253,7 @@ http://offshore.lat:8080/play/BpNEwZdXSuNT27KQ64edLRsWikAzKWqFGvtiV0Pk4FaCtG9aeN
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/T2zwCC4/Paw-Patrol.jpg" group-title="Infantiles" user-agent="iPhone", Paw Patrol
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://pn-tv.xyz:8080/JONNYWILLIAM0903/RT3UNf8BmUB3/92002
+http://abcnew.site:8880/movie/DAALM2523/ZASc5gv9pd/36391.mp4
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/W3dr7Qn/Pepa-Pig.jpg" group-title="Infantiles" user-agent="iPhone", Peppa Pig
 #EXTVLCOPT:http-user-agent=iPhone
@@ -2304,11 +2274,6 @@ http://fastream.xyz:8080/efuxxrmayh/mqdsjpdtsh/62424
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 https://jmp2.uk/SamsungTVPlus/ESBD1400002W4.m3u8
-
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/R7ttY9C/Masha-y-el-Oso.jpg" group-title="Infantiles" user-agent="iPhone", Masha y el Oso
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-http://pn-tv.xyz:8080/JONNYWILLIAM0903/RT3UNf8BmUB3/92006
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/GMMB22M/Plim-Plim-Tv.jpg" group-title="Infantiles" user-agent="iPhone", Plim Plim
 #EXTVLCOPT:http-user-agent=iPhone
@@ -2355,7 +2320,7 @@ https://jmp2.uk/SamsungTVPlus/ESBD5100001G0.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://newultra.xyz:8080/988292886tv/admin2799xd/774
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/gddSvZg/The-Simpson.jpg" group-title="Infantiles" user-agent="iPhone", The Simpson, la Pelicula
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/gddSvZg/The-Simpson.jpg" group-title="Infantiles" user-agent="iPhone", The Simpson - la Pelicula
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 http://newultra.xyz:8080/movie/988292886tv/admin2799xd/6812.mkv
@@ -2413,12 +2378,12 @@ http://51.159.104.29:8080/ben10/index.m3u8
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/TYpyPHJ/Bit-Me.png" group-title="Infantiles" user-agent="iPhone", Bitme
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://98114878835881781.ofd0711.xyz:80/play/4SXDTBF5K8/@CASNbdR5T/881781.ts
+http://fastream.xyz:8080/964888770tv/988n21/24141
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/HtZJdDf/Cartoon-Network.png" group-title="Infantiles" user-agent="iPhone", Cartoon Network
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://181.78.64.71:16123/play/ch09
+http://181.78.8.90:16123/play/ch09
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/HtZJdDf/Cartoon-Network.png" group-title="Infantiles" user-agent="iPhone", Cartoon Network
 #EXTVLCOPT:http-user-agent=iPhone
@@ -2443,7 +2408,7 @@ https://jmp2.uk/PlutoTV/62d0895ebe7a970008785244-alt.m3u8
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/6010w0t/Discovery-Kids.png" group-title="Infantiles" user-agent="iPhone", Discovery Kids FHD
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://138.186.20.13:23200/play/a0fb
+http://181.78.8.90:16123/play/ch02
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/6010w0t/Discovery-Kids.png" group-title="Infantiles" user-agent="iPhone", Discovery Kids FHD
 #EXTVLCOPT:http-user-agent=iPhone
@@ -2508,7 +2473,7 @@ http://168.197.196.98:9981/stream/channelid/1263119324?profile=pass
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/ScRfPkV/Nickelodeon.png" group-title="Infantiles" user-agent="iPhone", Nickelodeon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT--http-reconnect=true
-http://200.24.158.115:9981/stream/channelid/662753577?profile=pass
+http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/58013
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/ScRfPkV/Nickelodeon.png" group-title="Infantiles" user-agent="iPhone", Nickelodeon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -2543,6 +2508,11 @@ http://newultra.xyz:8080/988292886tv/admin2799xd/773
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/YLWBvyJ/Los-Caballeros-del-Zodiaco.jpg" group-title="Infantiles" user-agent="iPhone", Los Caballeros del Zodiaco
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
+http://fastream.xyz:8080/964888770tv/988n21/773
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/YLWBvyJ/Los-Caballeros-del-Zodiaco.jpg" group-title="Infantiles" user-agent="iPhone", Los Caballeros del Zodiaco
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
 http://pn-tv.xyz:8080/JONNYWILLIAM0903/RT3UNf8BmUB3/91999
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/djDyxPp/IPE.jpg" group-title="Infantiles" user-agent="iPhone", IPE
@@ -2550,20 +2520,10 @@ http://pn-tv.xyz:8080/JONNYWILLIAM0903/RT3UNf8BmUB3/91999
 #EXTVLCOPT--http-reconnect=true
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/z7437RX/Robotech.jpg" group-title="Infantiles" user-agent="iPhone", Robotech
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-http://pn-tv.xyz:8080/JONNYWILLIAM0903/RT3UNf8BmUB3/92108
-
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/kGHwf87/He-Man.jpg" group-title="Infantiles" user-agent="iPhone", He-Man y los amos del universo
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 http://pn-tv.xyz:8080/JONNYWILLIAM0903/RT3UNf8BmUB3/91957
-
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QCzysqH/SHE-RA.jpg" group-title="Infantiles" user-agent="iPhone", SHE-RA La princesa del poder
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-http://pn-tv.xyz:8080/JONNYWILLIAM0903/RT3UNf8BmUB3/92033
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/nfPLH0j/Zoo-Moo.png" group-title="Infantiles" user-agent="iPhone", Zoo Moo
 #EXTVLCOPT:http-user-agent=iPhone
@@ -2583,7 +2543,7 @@ https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/d70tgxs/Bandamax.jpg" group-title="Musicales" user-agent="iPhone", Bandamax
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://206.62.161.251:22000/play/a007/index.m3u8
+http://vipatdom.top:8080/VIP0186171413546510/91719429032804/5121
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/7k8N76v/logobta.png" group-title="Musicales" user-agent="iPhone", BTA
 #EXTVLCOPT:http-user-agent=iPhone
@@ -2605,6 +2565,11 @@ https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://138.186.20.13:23200/play/a0f1
 
+#EXTINF:0 player-buffer="30" tvg-logo="https://cdn.m3u.cl/logo/1127_Carolina_TV_2.png" group-title="Musicales" user-agent="iPhone", Carolina TV 2 
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+https://jireh-1-hls-video-cl-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/carolinatv2/carolinatv2.smil/playlist.m3u8
+
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/VJfHb56/Clave-Canal.jpg" group-title="Musicales" user-agent="iPhone", Clave Canal
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
@@ -2615,20 +2580,25 @@ http://200.59.188.3:8000/play/a08i
 #EXTVLCOPT--http-reconnect=true
 https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/k4VKKd4/e40.jpg" group-title="Musicales" user-agent="iPhone", E40 HD
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-http://177.234.230.226:8010/play/a01t/index.m3u8
-
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/zVf5txc/Muzzik-ELECTRO.png" group-title="Musicales" user-agent="iPhone", Electro
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-https://muzzik-live.morescreens.com/mts-9/playlist.m3u8
-
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/stsL8Cf/freetv-hits-1080x1080-02092024.jpg" group-title="Musicales" user-agent="iPhone", Flash
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-ono/playlist.m3u8
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://cdn.m3u.cl/logo/1271_MMC___Freetv_com.png" group-title="Musicales" user-agent="iPhone", Free Tv Banda
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmcfreetv-ono/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://cdn.m3u.cl/logo/1277_Flash___Freetv_com.png" group-title="Musicales" user-agent="iPhone", Free Tv Hits
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-ono/playlist.m3u8
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://cdn.m3u.cl/logo/324_El_Galpon_80.png" group-title="Musicales" user-agent="iPhone", El Galpon 80
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+https://streamlov.alsolnet.com/amplificacion/live/playlist.m3u8
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/WKDb4jB/Global-1.png" group-title="Musicales" user-agent="iPhone", Global
 #EXTVLCOPT:http-user-agent=iPhone
@@ -2638,22 +2608,12 @@ https://stmv.video.gmpro.top/global/global/chunklist.m3u8
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/sFyPtfF/htv.jpg" group-title="Musicales" user-agent="iPhone", HTV
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://170.254.18.106/HTV/index.m3u8
+http://vipatdom.top:8080/VIP0186171413546510/91719429032804/4779
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/sFyPtfF/htv.jpg" group-title="Musicales" user-agent="iPhone", HTV
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 http://168.197.196.98:9981/stream/channelid/921927631?profile=pass
-
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/84T0hPY/Ibiza-Global-TV.jpg" group-title="Musicales" user-agent="iPhone",  Ibiza Global Tv
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8?PlaylistM3UCL
-
-#EXTINF:0 player-buffer="30" tvg-logo="https://cdn.m3u.cl/logo/929_Italianissimo.png" group-title="Musicales" user-agent="iPhone", Italianissimo
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/rMJc725/KARAVANAU.jpg" group-title="Musicales" user-agent="iPhone", Karavana Urbano
 #EXTVLCOPT:http-user-agent=iPhone
@@ -2695,35 +2655,45 @@ https://ss5.domint.net:3184/mia_str/lamiatv/playlist.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8?PlaylistM3UCL
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/30bjCMd/mtv.png" group-title="Musicales" user-agent="iPhone", MTV Us
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/PZSFdKG/Loly.jpg" group-title="Musicales" user-agent="iPhone", Loly Kids
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://170.254.18.106/MTV/tracks-v1a1/mono.m3u8
+http://200.59.188.3:8000/play/a02s
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/30bjCMd/mtv.png" group-title="Musicales" user-agent="iPhone", MTV Es
+#EXTINF:0 player-buffer="30" tvg-logo="https://cdn.m3u.cl/logo/1550_M_Music_TV.png" group-title="Musicales" user-agent="iPhone", Mi Music Tv
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-https://i.mjh.nz/SamsungTVPlus/ESAJ3800003LX.m3u8
+https://cdn.mycloudstream.io/hls/live/broadcast/9b3ke4sb/index.m3u8
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/30bjCMd/mtv.png" group-title="Musicales" user-agent="iPhone", MTV
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://143.208.57.54:8000/play/a051/index.m3u8
+http://181.78.105.146:8800/play/a06s
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/MDVKw6W/MTVlive.png" group-title="Musicales" user-agent="iPhone" user-agent="iPhone", MTV Live
-#EXTVLCOPT:http-user-agent=CCCCC
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/30bjCMd/mtv.png" group-title="Musicales" user-agent="iPhone", MTV
+#EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://191.97.49.195:8000/play/a051/index.m3u8
+http://181.78.105.146:8800/play/a04j
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/Qcr2p30/mtvflow.jpg" group-title="Musicales" user-agent="iPhone", MTV Flow Latino
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 https://jmp2.uk/PlutoTV/5d3609cd6a6c78d7672f2a81-alt.m3u8
 
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/MDVKw6W/MTVlive.png" group-title="Musicales" user-agent="iPhone", MTV Live
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://200.59.188.3:8000/play/a01i
+
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/0s8KxrD/mtvhits.png" group-title="Musicales" user-agent="iPhone", MTV Hits
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://190.113.43.210:8000/play/a08a
+http://vipatdom.top:8080/VIP0186171413546510/91719429032804/4788
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/0s8KxrD/mtvhits.png" group-title="Musicales" user-agent="iPhone", MTV Hits
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://181.78.105.146:8800/play/a047
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/NLmGQgy/mtv80.jpg" group-title="Musicales" user-agent="iPhone", MTV ´80s
 #EXTVLCOPT:http-user-agent=iPhone
@@ -2733,37 +2703,42 @@ http://181.78.105.146:8800/play/a048
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/7QkwMyN/MTV00.jpg" group-title="Musicales" user-agent="iPhone", MTV ´00s
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
+http://181.78.105.146:8800/play/a066
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/7QkwMyN/MTV00.jpg" group-title="Musicales" user-agent="iPhone", MTV ´00s
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
 http://109.233.89.166/VH1/mono.m3u8
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/7WrzZSk/Mi-Musica-Hits.png" group-title="Musicales" user-agent="iPhone", Mi Musica Hits
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://190.90.252.200:16001/play/a05y/index.m3u8
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/c8mb37c/mimusicakpop.png" group-title="Musicales" user-agent="iPhone", Mi Musica K-Pop
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://177.93.44.174:8900/play/a01z
+http://191.52.214.5:8000/play/a06d/index.m3u8
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/zRmTbY5/mimusicapopular.png" group-title="Musicales" user-agent="iPhone", Mi Musica Popular
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://177.234.230.226:8010/play/a022/index.m3u8
+http://181.78.8.90:16123/play/ch56
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/cQXHdZN/mimusica-regional.png" group-title="Musicales" user-agent="iPhone", Mi Musica Regional
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/b12rz2b/Mi-Musica-Romantica.png" group-title="Musicales" user-agent="iPhone", Mi Musica Romantica
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://177.234.230.226:8010/play/a023/index.m3u8
+http://181.78.8.90:16123/play/ch54
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/LdthFdF/Mimusica-Reggaeton.png" group-title="Musicales" user-agent="iPhone", Mi Musica Reggaeton
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://177.234.230.226:8010/play/a020/index.m3u8
+http://181.78.8.90:16123/play/ch53
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/DDV5HkW/mimusica-salsa.png" group-title="Musicales" user-agent="iPhone", Mi Musica Salsa
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://177.234.230.226:8010/play/a021/index.m3u8
-
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/HVg2N1G/Muzzik-Electro.jpg" group-title="Musicales" user-agent="iPhone", Muzzik Electro
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-https://muzzik-live.morescreens.com/mts-9/576p/chunklist.m3u8
+http://181.78.8.90:16123/play/ch55
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/4fNxh8H/Now70.jpg" group-title="Musicales" user-agent="iPhone", Now 70
 #EXTVLCOPT:http-user-agent=iPhone
@@ -2780,25 +2755,25 @@ https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/fDLL7B7/925-Nubeh-TV.png" group-title="Musicales" user-agent="iPhone", Nube Tv
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8
-
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/JnFR4HW/old-music.jpg" group-title="Musicales" user-agent="iPhone", Old Music
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 https://marine2.miplay.cl/oldmusic/playlist.m3u8
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/pLHC7M4/PMC.png" group-title="Musicales" user-agent="iPhone", PMC
+#EXTINF:0 player-buffer="30" tvg-logo="https://cdn.m3u.cl/logo/1014_PlanetaTV.png" group-title="Musicales" user-agent="iPhone", Planeta Tv
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-https://hls.pmchd.live/hls/stream.m3u8
+https://tls-cl.cdnz.cl/planetatv/live/playlist.m3u8
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/MMHJjn5/924-Panavision.png" group-title="Musicales" user-agent="iPhone", Panavisión
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/pLHC7M4/PMC.png" group-title="Musicales" user-agent="iPhone", PMC
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+https://hls.pmchd.live/hls/stream.m3u8
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/PWgs4Mk/31-Portal-Fox-Mix.png" group-title="Musicales" user-agent="iPhone", Portal Fox Mix
 #EXTVLCOPT:http-user-agent=iPhone
@@ -2815,35 +2790,40 @@ http://45.166.92.22:58001/play/a04t
 #EXTVLCOPT--http-reconnect=true
 http://168.197.196.98:9981/stream/channelid/1877470564?profile=pass
 
+#EXTINF:0 player-buffer="30" tvg-logo="https://cdn.m3u.cl/logo/1403_Red_Circle.png" group-title="Musicales" user-agent="iPhone", Red Circle
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+https://5e3483cba9114.streamlock.net:443/8016/8016/playlist.m3u8
+
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/bNHRFpg/retroplus1.jpg" group-title="Musicales" user-agent="iPhone", Retro Plus Music
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-https://video06.logicahost.com.br/retroplustv/retroplustv/chunklist_w1054084615.m3u8
+https://tls-cl.cdnz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/bNHRFpg/retroplus1.jpg" group-title="Musicales" user-agent="iPhone", Retro Plus Music La
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/Hpd6xpZ/rtop.jpg" group-title="Musicales" user-agent="iPhone", Ritmo Top Latino
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-https://panel.tvstream.cl:1936/8048/8048/playlist.m3u8?PlaylistM3UCL
+https://panel.tvstream.cl:1936/8048/8048/playlist.m3u8
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/NpkzJWK/Rumba-Tv.jpg" group-title="Musicales" user-agent="iPhone", Rumba Tv
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 http://181.78.23.26:45000/play/a04k
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/RNmVNbk/18-Show-Ven-TV.png" group-title="Musicales" user-agent="iPhone", ShowVen
+#EXTINF:0 player-buffer="30" tvg-logo="https://cdn.m3u.cl/logo/1267_Sonido_Sur.png" group-title="Musicales" user-agent="iPhone", Sonido Sur
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-https://vcp.myplaytv.com/coll/coll/playlist.m3u8
+https://tv.streamcasthd.com:3553/live/sonidosurtvlive.m3u8
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/nsXtPSP/Stingray-Concerts.png" group-title="Musicales" user-agent="iPhone", Stingray Concerts
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://170.81.241.222:2/play/a05l/index.m3u8
-
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/HHndFww/Sol-Musica.jpg" group-title="Musicales" user-agent="iPhone", Sol Musica
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-https://i.mjh.nz/SamsungTVPlus/ESBD2300004Y7.m3u8
+http://200.59.188.3:8000/play/a02j
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.imgur.com/NVxHxJn.png" group-title="Musicales" user-agent="iPhone", Telehit
 #EXTVLCOPT:http-user-agent=iPhone
@@ -2853,17 +2833,12 @@ http://170.82.37.21:8000/play/a01w/index.m3u8
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.imgur.com/NVxHxJn.png" group-title="Musicales" user-agent="iPhone", Telehit
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://206.62.161.251:22000/play/a003/index.m3u8
+http://fastream.xyz:8080/981228596tv/ldnkq06521/47269
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/N2f5Zn4/Telehit.png" group-title="Musicales" user-agent="iPhone", Telehit Musica
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://170.254.18.106/TELEHIT/tracks-v1a1/mono.m3u8
-
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/hgQR7Zx/telemusica.jpg" group-title="Musicales" user-agent="iPhone", Telemusica
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-http://186.155.200.118:1935/telemusica/telemusica/playlist.m3u8?PlaylistM3UCL
+http://vipatdom.top:8080/VIP0186171413546510/91719429032804/5209
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/86403ct/Tele-Nostalgia.png" group-title="Musicales" user-agent="iPhone", Tele Nostalgia
 #EXTVLCOPT:http-user-agent=iPhone
@@ -2874,11 +2849,6 @@ http://181.78.23.26:45000/play/a04s
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/h1kTR4G/845-Tu-Musica-HD.png" group-title="Musicales" user-agent="iPhone", Tu Musica Live
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-https://cloudflare.streamgato.us:3735/live/tumusicahdlive.m3u8
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://cdn.m3u.cl/logo/43_Turbo_Mix_TV.png" group-title="Musicales" user-agent="iPhone", Turbo Mix TV
 #EXTVLCOPT:http-user-agent=iPhone
@@ -2923,27 +2893,37 @@ https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/z4MJfxR/vevo7080.png" group-title="Musicales" user-agent="iPhone", Vevo ´70-´80
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-https://i.mjh.nz/SamsungTVPlus/ESBD230000289.m3u8
+https://jmp2.uk/SamsungTVPlus/ESBD230000289.m3u8
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/p3SH5Wg/vevo80.png" group-title="Musicales" user-agent="iPhone", Vevo ´80
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://fastream.xyz:8080/981228596tv/ldnkq06521/47248
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/bLMzhJ8/Vevo90.png" group-title="Musicales" user-agent="iPhone", Vevo ´90
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://fastream.xyz:8080/981228596tv/ldnkq06521/47249
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/W0LZgLN/vevoy.png" group-title="Musicales" user-agent="iPhone", Vevo ´00
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://fastream.xyz:8080/981228596tv/ldnkq06521/47250
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/HGJcYS0/vlatino.png" group-title="Musicales" user-agent="iPhone", Vevo Latino
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-https://i.mjh.nz/SamsungTVPlus/ESBC2100002LV.m3u8
+https://jmp2.uk/SamsungTVPlus/ESBC2100002LV.m3u8
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/VNFGfmy/Vevo-Pop.png" group-title="Musicales" user-agent="iPhone", Vevo Pop
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-https://i.mjh.nz/SamsungTVPlus/ESBC2100001IU.m3u8
+https://jmp2.uk/SamsungTVPlus/ESBC2100001IU.m3u8
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/5rn1Jpk/Vivaldi-Tv.png" group-title="Musicales" user-agent="iPhone", Vivaldi 
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 https://jmp2.uk/SamsungTVPlus/ESBC3500001LY.m3u8
-
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/h7Gy5Sc/voice.jpg" group-title="Musicales" user-agent="iPhone", Voice Over
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-https://cloudvideo.servers10.com:8081/8198/rewind-3600.m3u8?DVR&PlaylistM3UCL
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://cdn.m3u.cl/logo/546_Top_TV.png" group-title="Musicales" user-agent="iPhone", Top Tv
 #EXTVLCOPT:http-user-agent=iPhone
@@ -4855,7 +4835,7 @@ http://fastream.xyz:8080/movie/945868581tv/m94pq0/244741.mp4
 #EXTVLCOPT--http-reconnect=true
 http://newultra.xyz:8080/movie/34tehu87se24ma97/m37me65wu93m/3605.mkv
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ioMtng0qHbwNjR1fuxYZsRf1kjm.jpg" group-title="XXX" user-agent="iPhone", Posesión infernal: El despertar
+#EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ioMtng0qHbwNjR1fuxYZsRf1kjm.jpg" group-title="Movies" user-agent="iPhone", Posesión infernal: El despertar
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 http://fastream.xyz:8080/movie/945868581tv/m94pq0/918.mkv
@@ -4863,22 +4843,42 @@ http://fastream.xyz:8080/movie/945868581tv/m94pq0/918.mkv
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/zx2YDr4/Babes-Tv.jpg" group-title="XXX" user-agent="iPhone", Babes Tv
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://480480931676823052.ofkd0722.xyz:80/live/Wilfix179/84567324/823052.ts
+http://vipatdom.top:8080/VIP0186171413546510/91719429032804/24788
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/T0774RF/Barely-Legal-Tv.jpg" group-title="XXX" user-agent="iPhone", Barely Legal Tv
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 http://tkosportz.live:25461/folalawal@/4044225438/71984
 
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/T0774RF/Barely-Legal-Tv.jpg" group-title="XXX" user-agent="iPhone", Barely Legal Tv
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://tkosportz.live:25461/folalawal@/4044225438/72006
+
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/VvnjjYf/Bangu.png" group-title="XXX" user-agent="iPhone", Bang U
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 http://tkosportz.live:25461/folalawal@/4044225438/71983
 
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/LNbXTS3/Bang-Bros.png" group-title="XXX" user-agent="iPhone", Bang Bros
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://vipatdom.top:8080/VIP0186171413546510/91719429032804/24722
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/7KWXMyj/BB.jpg" group-title="XXX" user-agent="iPhone", Boobs
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://vipatdom.top:8080/VIP0186171413546510/91719429032804/24667
+
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/6JQZ9k2/Brazzers-Europa.png" group-title="XXX" user-agent="iPhone", Brazzers Europa
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
+http://31.131.136.4:8000/play/a00z
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/6JQZ9k2/Brazzers-Europa.png" group-title="XXX" user-agent="iPhone", Brazzers Europa
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://88.212.7.10/live/test_brazzers_hd_hevc/playlist.m3u8
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/6JQZ9k2/Brazzers-Europa.png" group-title="XXX" user-agent="iPhone", Brazzers
 #EXTVLCOPT:http-user-agent=iPhone
@@ -4888,12 +4888,17 @@ http://tkosportz.live:25461/folalawal@/4044225438/71987
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/dgH046y/Desire.jpg" group-title="XXX" user-agent="iPhone", Desire
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
+http://88.212.7.10/live/test_desire_hd_hevc/playlist.m3u8
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/Bc0F8rj/dorcel-tv-logotipo.png" group-title="XXX" user-agent="iPhone", Dorcel
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
+http://31.131.136.4:8000/play/a001
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/Bc0F8rj/dorcel-tv-logotipo.png" group-title="XXX" user-agent="iPhone", Dorcel
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://88.212.7.10/live/test_dorcel_hd_hevc/playlist.m3u8
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/Bc0F8rj/dorcel-tv-logotipo.png" group-title="XXX" user-agent="iPhone", Dorcel Tv
 #EXTVLCOPT:http-user-agent=iPhone
@@ -4913,22 +4918,52 @@ http://tkosportz.live:25461/folalawal@/4044225438/72006
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/vxk5nj1/Ero-XXX.png" group-title="XXX" user-agent="iPhone", Ero xxx
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
+http://88.212.7.10/live/test_eroxxx_hd_hevc/playlist.m3u8
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/vxk5nj1/Ero-XXX.png" group-title="XXX" user-agent="iPhone", Ero HD xxx
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+http://88.212.7.10/live/test_erox_hd_hevc/playlist.m3u8
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/vxk5nj1/Ero-XXX.png" group-title="XXX" user-agent="iPhone", Ero HD xxx
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://31.131.136.4:8000/play/a00q
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/KKVX36C/Erotic-6.jpg" group-title="XXX" user-agent="iPhone", Erotic 6
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://170.82.37.21:8000/play/a04l/index.m3u8
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/CMPjx1K/Erotic-7.jpg" group-title="XXX" user-agent="iPhone", Erotic 7
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://vipatdom.top:8080/VIP0186171413546510/91719429032804/24748
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/XjqfXw6/extasy.png" group-title="XXX" user-agent="iPhone", Extasis 4k
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://31.131.136.4:8000/play/a00v
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/XjqfXw6/extasy.png" group-title="XXX" user-agent="iPhone", Extasis
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
+http://88.212.7.10/live/test_extasy_hd_hevc/playlist.m3u8
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/TgFFb63/Frenchlover.png" group-title="XXX" user-agent="iPhone", Frenchlover
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 http://tkosportz.live:25461/folalawal@/4044225438/72010
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/j3fhD6v/hard.png" group-title="XXX" user-agent="iPhone", Hard X
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://vipatdom.top:8080/VIP0186171413546510/91719429032804/24670
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/87ZJfY2/Hot.jpg" group-title="XXX" user-agent="iPhone", Hot
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://170.82.37.21:8000/play/a04o/index.m3u8
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/RyyzXQY/Hustler-HD.jpg" group-title="XXX" user-agent="iPhone", Hustler HD
 #EXTVLCOPT:http-user-agent=iPhone
@@ -4985,20 +5020,25 @@ http://1.exyu.link:80/stefanzivkovic/321101/22233
 #EXTVLCOPT--http-reconnect=true
 http://31.131.136.4:8000/play/a004
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/XV29gkK/Redlight.png" group-title="XXX" user-agent="iPhone", Redlight
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-http://480480931676868848.ofkd0722.xyz:80/live/Wilfix179/84567324/868848.ts
-
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/gJ95vdy/Reality-King-Tv.png" group-title="XXX" user-agent="iPhone", Reality King Tv
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 http://88.212.7.10/live/test_realitykings_sd_hevc/playlist.m3u8
 
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/gJ95vdy/Reality-King-Tv.png" group-title="XXX" user-agent="iPhone", Reality King
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://vipatdom.top:8080/VIP0186171413546510/91719429032804/24793
+
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/dtGNgG3/RK-Tv.png" group-title="XXX" user-agent="iPhone", RK Tv
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 http://shashe.dianshiwang.vip:27000/live/vxvmedia/DsNUWmpIqq/10885.ts
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/tqgpkLt/Russian-Night.jpg" group-title="XXX" user-agent="iPhone", Russian Night
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://vipatdom.top:8080/VIP0186171413546510/91719429032804/24777
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/xGhSPQv/Sextreme.jpg" group-title="XXX" user-agent="iPhone", Sextreme
 #EXTVLCOPT:http-user-agent=iPhone
