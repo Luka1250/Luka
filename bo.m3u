@@ -155,11 +155,6 @@ https://ssh101-fl.bozztv.com/ssh101/fortalezacueto/tracks-v1a1/mono.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://fl1002.bozztv.com/ssh101/gogoplay/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/X4JXDCP/Guadalupe.jpg" group-title="Nacionales" user-agent="iPhone", Guadalupe
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-https://solo.disfrutaenlared.com:1936/guadalupetv/guadalupetv/playlist.m3u8
-
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/GpHvf1d/imperial.png" group-title="Nacionales" user-agent="iPhone", Imperial Tv
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
@@ -180,6 +175,16 @@ https://video.live.com.bo:3999/live/megavisionlive.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/playlist.m3u8
 
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/xCXbB2N/NeoTv.png" group-title="Nacionales" user-agent="iPhone", Neo Tv
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+https://cdnhd.iblups.com/hls/dv7jjlfcks.m3u8
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/FqdyYNH/NorTv.png" group-title="Nacionales" user-agent="iPhone", Nor Tv
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+https://cdnhd.iblups.com/hls/3l6Fqu9olD.m3u8
+
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/mGWRhqn/Nuevo-Tiempo.jpg" group-title="Nacionales" user-agent="iPhone", Nuevo Tiempo
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
@@ -188,7 +193,7 @@ https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/B22xJ4Z/Palenque.png" group-title="Nacionales" user-agent="iPhone", Palenque Tv
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8
+https://tv.bitstreaming.net:3234/multi_live/play_480.m3u8
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/kcb8wz4/PAT.png" group-title="Nacionales" user-agent="iPhone", PAT
 #EXTVLCOPT:http-user-agent=iPhone
@@ -218,52 +223,52 @@ http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/K0w1xd8/Red-America-Tv.jpg" group-title="Nacionales" user-agent="iPhone", Red America
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-https://videostream.shockmedia.com.ar:19360/redamericatv/redamericatv.m3u8
-
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/2dXvMmk/siglo21.jpg" group-title="Nacionales" user-agent="iPhone", Red Siglo XXI
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-https://stmvideo3.livecastv.com/sigloxxi/sigloxxi/chunklist.m3u8
+https://streamer1.streamhost.org/salive/GMIredadvenirh/chunklist.m3u8
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/w0DdYgK/RTP.png" group-title="Nacionales" user-agent="iPhone", RTP
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/RTP/__op/hls-default/__f/index.m3u8
 
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/7pZVHz5/TVABOLIVIA.jpg" group-title="Nacionales" user-agent="iPhone", RTVA
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+https://vdo.grupolimalive.com:3967/live/tvelive.m3u8
+
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/1rdyvWM/LOGO-SEO-TV-HD.png" group-title="Nacionales" user-agent="iPhone", Seo Tv
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 https://seo.tv.bo/tv/SEO-TV-1.m3u8
-
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/YZHmhky/Seo-Yungas.jpg" group-title="Nacionales" user-agent="iPhone", Seo Tv Yungas
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-https://seo.tv.bo/tv/SEO-TV-7.m3u8
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QCr8qyW/Seo-Deportes.jpg" group-title="Nacionales" user-agent="iPhone", Seo Tv Deportes
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 https://seo.tv.bo/tv/SEO-TV-5.2.m3u8
 
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/B3bB7v2/Seo-Tv-Kids.jpg" group-title="Nacionales" user-agent="iPhone", Seo Tv Kids
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+https://seo.tv.bo/tv/SEO-TV-2.m3u8
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/5GLdw4F/SEONovelas.jpg" group-title="Nacionales" user-agent="iPhone", Seo Tv Novelas
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+https://seo.tv.bo/tv/SEO-TV-3.m3u8
+
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/w0cT2Yq/SEOPeliculas.jpg" group-title="Nacionales" user-agent="iPhone", Seo Peliculas
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 https://seo.tv.bo/tv/SEO-TV-4.m3u8
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/pQd8H0j/Sitel.jpg" group-title="Nacionales" user-agent="iPhone", Sitel
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/YZHmhky/Seo-Yungas.jpg" group-title="Nacionales" user-agent="iPhone", Seo Tv Yungas
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://ipmedia.netredbolivia.com:8080/hls/sitel.m3u8
+https://seo.tv.bo/tv/SEO-TV-7.m3u8
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/hL3fjd6/Solidaria-Tv.png" group-title="Nacionales" user-agent="iPhone", Solidaria Tv
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 https://tv.bitstreaming.net:3073/live/solidariatvlive.m3u8
-
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/7Wv1FRC/Tele-estrella.png" group-title="Nacionales" user-agent="iPhone", Tl Estrella
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-https://stmvideo3.livecastv.com/teleestrellahd/teleestrellahd/chunklist.m3u8
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/d6xrRGN/Teleclasica.jpg" group-title="Nacionales" user-agent="iPhone", Tele Clasica
 #EXTVLCOPT:http-user-agent=iPhone
@@ -284,11 +289,6 @@ https://ed24ov.live.opencaster.com/sAbAihkknvks/index.m3u8
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/TVCULTURA/__op/hls-default/__f/index.m3u8
-
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/234j2Jq/TVC.jpg" group-title="Nacionales" user-agent="iPhone", Tv VC
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-https://5d00db0e0fcd5.streamlock.net/7034/7034/playlist.m3u8
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/5jQZkkm/tvshow.jpg" group-title="Nacionales" user-agent="iPhone", Tv Show Oruro
 #EXTVLCOPT:http-user-agent=iPhone
@@ -349,6 +349,11 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/l4hjmzyf/288/chunklist.m3
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 http://170.82.37.21:8000/play/a01t/index.m3u8
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/DzKK8CN/RTVGuadalupe.jpg" group-title="Religioso" user-agent="iPhone", Guadalupe Radio y Tv
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+https://www.guadalupetv.tv:19360/grlive/1080p.m3u8
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/z8tM36L/ISB.png" group-title="Religioso" user-agent="iPhone", Iglesia de San Bernardo
 #EXTVLCOPT:http-user-agent=iPhone
@@ -565,45 +570,30 @@ http://181.78.105.146:2000/play/a08d/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://168.197.196.98:9981/stream/channelid/371852243?profile=pass
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/fqtRRcG/Yo-soy-Betty-La-fea.jpg" group-title="Novelas" user-agent="iPhone", Betty la Fea
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-http://pn-tv.xyz:8080/JONNYWILLIAM0903/RT3UNf8BmUB3/91978
-
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/fqtRRcG/Yo-soy-Betty-La-fea.jpg" group-title="Novelas" user-agent="iPhone", Betty la Fea
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-http://pn-tv.xyz:8080/mado5814/3058045814/91978
-
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/w02t3j3/Yo-soy-Betty-Ecomoda.jpg" group-title="Novelas" user-agent="iPhone", Ecomoda
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-http://pn-tv.xyz:8080/JONNYWILLIAM0903/RT3UNf8BmUB3/92158
-
 #EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6bIp20xc2kwy9nV62osNS8OaQsS.jpg" group-title="Novelas" user-agent="iPhone", Betty la fea la historia continúa S01 E01
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://beinplay.xyz:8080/series/hsyn8462/mt.6645/453016.mp4
+http://fastream.xyz:8080/series/981228596tv/ldnkq06521/247514.mp4
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gWa0Z5UvjiwZNMdkbaYl9wRUpns.jpg" group-title="Novelas" user-agent="iPhone", Betty la fea la historia continúa S01 E02
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://beinplay.xyz:8080/series/hsyn8462/mt.6645/453017.mp4
+http://fastream.xyz:8080/series/981228596tv/ldnkq06521/247515.mp4
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w300/b8TZsCSBSq9lXdZkBz8iQvGMsFI.jpg" group-title="Novelas" user-agent="iPhone", Betty la fea la historia continúa S01 E03
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://beinplay.xyz:8080/series/hsyn8462/mt.6645/453018.mp4
+http://fastream.xyz:8080/series/981228596tv/ldnkq06521/248459.mp4
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w300/qKcwvIGS1SVIZvnfCXnoNglKbEw.jpg" group-title="Novelas" user-agent="iPhone", Betty la fea la historia continúa S01 E04
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://beinplay.xyz:8080/series/hsyn8462/mt.6645/453019.mp4
+http://fastream.xyz:8080/series/981228596tv/ldnkq06521/248460.mp4
 
 #EXTINF:0 player-buffer="30" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3MEM0CZrlMn8Ikuv2wiipyC1ChY.jpg" group-title="Novelas" user-agent="iPhone", Betty la fea la historia continúa S01 E05
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://beinplay.xyz:8080/series/hsyn8462/mt.6645/453020.mp4
+http://fastream.xyz:8080/series/981228596tv/ldnkq06521/249547.mkv
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w300/xAJwQJQVDcDsWw0Sy08VCUyMs6K.jpg" group-title="Novelas" user-agent="iPhone", Betty la fea la historia continúa S01 E06
 #EXTVLCOPT:http-user-agent=iPhone
@@ -3480,15 +3470,10 @@ https://mediacp.us:8081/juncotv/tracks-v1a1/mono.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://distributionsjustepourrire-justforlaughsgags-1-es.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/gyQ3syd/las-estrellas-m.png" group-title="Entretenimiento" user-agent="iPhone", Las Estrellas HD
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-http://45.228.234.167:8000/play/a0le/index.m3u8
-
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/gyQ3syd/las-estrellas-m.png" group-title="Entretenimiento" user-agent="iPhone", Las Estrellas
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://200.59.188.3:8000/play/a0at
+http://vipatdom.top:8080/VIP0186171413546510/91719429032804/5126
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/gyQ3syd/las-estrellas-m.png" group-title="Entretenimiento" user-agent="iPhone", Las Estrellas
 #EXTVLCOPT:http-user-agent=iPhone
@@ -3513,7 +3498,12 @@ https://unlimited2-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/1ndkmYj/Mas.png" group-title="Entretenimiento" user-agent="iPhone", Mas Chic
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://45.228.234.167:8000/play/a007/index.m3u8
+http://fastream.xyz:8080/981228596tv/ldnkq06521/54496
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/1ndkmYj/Mas.png" group-title="Entretenimiento" user-agent="iPhone", Mas Chic
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://204.157.251.250:8000/play/a05z/index.m3u8
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/0jHc4ch/Master-Televisi-n.jpg" group-title="Entretenimiento" user-agent="iPhone", Master Televisión
 #EXTVLCOPT:http-user-agent=iPhone
@@ -3544,11 +3534,6 @@ http://hdtt3.online:3050/mountainlyon29@gmail.com/3S9GTRXLt8/523210
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
-
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/9chct4r/Neox.png" group-title="Entretenimiento" user-agent="iPhone", Neox FHD
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-http://hd.gercekturktv.art:80/live/avpatmaca/311221.cbh/297626.ts
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/9chct4r/Neox.png" group-title="Entretenimiento" user-agent="iPhone", Neox
 #EXTVLCOPT:http-user-agent=iPhone
@@ -4720,10 +4705,20 @@ https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist.m3u8
 
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/gT8059P/TV-France-5.png" group-title="Internacionales" user-agent="iPhone", TV France 5
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://onrev.xyz:80/SPIDER_NjKqYj/UrdiVGcB5A/202468
+
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/zQ1DBwZ/TV5-Monde.png" group-title="Internacionales" user-agent="iPhone", TV5 Monde
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://supersonictv.live:8080/242306/210404/85351
+http://vipatdom.top:8080/VIP0186171413546510/91719429032804/586
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/zQ1DBwZ/TV5-Monde.png" group-title="Internacionales" user-agent="iPhone", TV5 Monde
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://154.197.91.168:7004/play/a0e0
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/zQ1DBwZ/TV5-Monde.png" group-title="Internacionales" user-agent="iPhone", TV5 Monde
 #EXTVLCOPT:http-user-agent=iPhone
@@ -4733,7 +4728,7 @@ http://vipatdom.top:8080/VIP0186171413546510/91719429032804/99576
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/kQhGSvM/tv5-info.png" group-title="Internacionales" user-agent="iPhone", TV5 Monde Info
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://445488449649318212.ofkd0722.xyz:80/live/vi1211291/rqfMDqgHDtN/318212.ts
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.imgur.com/rtRnlqN.png" group-title="Internacionales" user-agent="iPhone", VoA TV FHD
 #EXTVLCOPT:http-user-agent=iPhone
