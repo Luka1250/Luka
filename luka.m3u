@@ -2235,10 +2235,20 @@ http://51.159.104.29:8080/mrbean/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/60052
 
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/znsgTKD/Bean.jpg" group-title="Infantiles" user-agent="iPhone", Mr Bean
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/2090988
+
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/T2zwCC4/Paw-Patrol.jpg" group-title="Infantiles" user-agent="iPhone", Paw Patrol
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 http://offshore.lat:8080/play/BpNEwZdXSuNT27KQ64edLRsWikAzKWqFGvtiV0Pk4FaCtG9aeNnMBMuvIy5lF5kI/ts
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/T2zwCC4/Paw-Patrol.jpg" group-title="Infantiles" user-agent="iPhone", Paw Patrol
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/2090912
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/T2zwCC4/Paw-Patrol.jpg" group-title="Infantiles" user-agent="iPhone", Paw Patrol
 #EXTVLCOPT:http-user-agent=iPhone
@@ -2278,6 +2288,11 @@ http://38.41.8.1:8000/play/a0b2
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/Wyy4mXs/Pocoy.jpg" group-title="Infantiles" user-agent="iPhone", Pocoyó
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
+https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/2090913
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/Wyy4mXs/Pocoy.jpg" group-title="Infantiles" user-agent="iPhone", Pocoyó
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
 http://fastream.xyz:8080/efuxxrmayh/mqdsjpdtsh/62437
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/Wyy4mXs/Pocoy.jpg" group-title="Infantiles" user-agent="iPhone", Pocoyó
@@ -2310,10 +2325,20 @@ https://jmp2.uk/SamsungTVPlus/ESBD5100001G0.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://newultra.xyz:8080/988292886tv/admin2799xd/774
 
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/KyKJF0Q/Tom-y-Jerry.jpg" group-title="Infantiles" user-agent="iPhone", Tom and Jerry
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/2090915
+
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/gddSvZg/The-Simpson.jpg" group-title="Infantiles" user-agent="iPhone", The Simpson - la Pelicula
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 http://newultra.xyz:8080/movie/988292886tv/admin2799xd/6812.mkv
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/MfJzXw1/The-Simpson.png" group-title="Infantiles" user-agent="iPhone", The Simpson
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/2091015
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/MfJzXw1/The-Simpson.png" group-title="Infantiles" user-agent="iPhone", The Simpson
 #EXTVLCOPT:http-user-agent=iPhone
@@ -2935,6 +2960,11 @@ https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8
 
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/MgY92cg/Alcanzetv.png" group-title="Entretenimiento" user-agent="iPhone", Alcance Tv
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8
+ 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/2hb5HFM/agenda-al-dia.jpg" group-title="Entretenimiento" user-agent="iPhone", Agenda al Dia
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
@@ -2960,16 +2990,6 @@ https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/airedesantaf
 #EXTVLCOPT--http-reconnect=true
 https://ch2-tva.duin.dev/hls/stream.m3u8
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/fM3GDHz/Atmosfera.png" group-title="Entretenimiento" user-agent="iPhone", Atmosfera
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-http://sv-xyeia5stvh.cloud.elastika.pe:5080/LiveApp/streams/atmos2023.m3u8
-
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/dgz42PR/Austral.png" group-title="Entretenimiento" user-agent="iPhone", Austral Ec
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
-
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/xj2cxD0/azclic.jpg" group-title="Entretenimiento" user-agent="iPhone", AZ Click
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
@@ -2980,10 +3000,10 @@ http://170.82.37.21:8000/play/a02l/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://170.82.37.21:8000/play/a02p/index.m3u8
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/rFypVRy/Azteca7.jpg" group-title="Entretenimiento" user-agent="iPhone", Azteca 7
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/mcgjsMc/Azteca1.jpg" group-title="Entretenimiento" user-agent="iPhone", Azteca Uno
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://alfatv.lat:2082/Jk12/KnhcZNttJawM/234746
+http://181.78.105.146:2000/play/a08b/index.m3u8
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/YyxLhLh/azteca-tv.png" group-title="Entretenimiento" user-agent="iPhone", Azteca Internacional
 #EXTVLCOPT:http-user-agent=iPhone
@@ -2993,7 +3013,7 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/YyxLhLh/azteca-tv.png" group-title="Entretenimiento" user-agent="iPhone", Azteca Internacional
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-https://i.mjh.nz/SamsungTVPlus/ESBD1300004IG.m3u8
+http://bgtv.xyz/play/play-777.php?tlat=53&token=asdfasdf
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/D1cstB8/aztecagt.png" group-title="Entretenimiento" user-agent="iPhone", Azteca Guatemala
 #EXTVLCOPT:http-user-agent=iPhone
@@ -3008,7 +3028,7 @@ http://170.82.37.21:8000/play/a03v/index.m3u8
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/WVFXgPX/ATN.png" group-title="Entretenimiento" user-agent="iPhone", Ant
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+https://paneltv.online:1936/radiotv/radiotv/playlist.m3u8
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/F0sdDMq/Antena-3.jpg" group-title="Entretenimiento" user-agent="iPhone", Antena 3 HD
 #EXTVLCOPT:http-user-agent=iPhone
@@ -3025,6 +3045,11 @@ http://170.82.37.21:8000/play/a01n/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://stream1.sersat.com/hls/argentinisima.m3u8?PlaylistM3UCL
 
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/xfNPRJ6/ATV-AR.png" group-title="Entretenimiento" user-agent="iPhone", ATV Ar
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+https://stream.arcast.com.ar/atbargentina/atbargentina/playlist.m3u8
+
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/W0LB34k/atvpe.jpg" group-title="Entretenimiento" user-agent="iPhone", ATV
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
@@ -3033,22 +3058,12 @@ http://bantel.iptvperu.tv:1935/transcoder_t6/atvmovil_t6.stream/playlist.m3u8
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/mvZ0zZS/ATV.jpg" group-title="Entretenimiento" user-agent="iPhone", ATV +
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://bantel.iptvperu.tv:1935/transcoder_t1/atvnoticias_t1/playlist.m3u8
-
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/Hq60nVR/ATV-sur.jpg" group-title="Entretenimiento" user-agent="iPhone", ATV Sur
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-http://bantel.iptvperu.tv:1935/transcoderip/atvsurmovil_t6.stream/playlist.m3u8
+https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/155850
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/h184wG0/Anzo-tegui-TV.png" group-title="Entretenimiento" user-agent="iPhone", Anzoátegui TV
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
-
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/0BVmx28/Barbe.jpg" group-title="Entretenimiento" user-agent="iPhone" user-agent="iPhone", Barbe
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-http://200.59.188.3:8000/play/a0bd
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/bgT6B0K/Cable-Sur.png" group-title="Entretenimiento" user-agent="iPhone", Cable Sur
 #EXTVLCOPT:http-user-agent=iPhone
@@ -3068,7 +3083,7 @@ https://vcp.myplaytv.com/canaldiplomatico/canaldiplomatico/.m3u8
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/YjzPf6m/canal1co.jpg" group-title="Entretenimiento" user-agent="iPhone", Canal 1 Co
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://177.234.230.226:8010/play/a036/index.m3u8
+https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/2159177
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/56Qp304/Canal-2.jpg" group-title="Entretenimiento" user-agent="iPhone", Canal 2
 #EXTVLCOPT:http-user-agent=iPhone
@@ -3100,10 +3115,15 @@ http://pn-tv.xyz:8080/JONNYWILLIAM0903/RT3UNf8BmUB3/14183
 #EXTVLCOPT--http-reconnect=true
 http://iptv.ixfo.com.ar:8081/live/C4POS/playlist.m3u8
 
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/frmqP4P/Canal-5-Honduras.png" group-title="Entretenimiento" user-agent="iPhone", Canal 5 Honduras
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/2100979
+
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/YL1K2C5/Canal-5mx.png" group-title="Entretenimiento" user-agent="iPhone", Canal 5 Mx
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://alfatv.lat:2082/Jk12/KnhcZNttJawM/314687
+http://bgtv.xyz/play/play-777.php?tlat=2&token=asdfasdf
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/gSFGtj2/c5n.jpg" group-title="Entretenimiento" user-agent="iPhone", Canal 5 N
 #EXTVLCOPT:http-user-agent=iPhone
@@ -3118,7 +3138,12 @@ http://streaming.arcast.com.ar:1935/canal5picotruncado/canal5picotruncado/playli
 #EXTINF:0 player-buffer="300" tvg-logo="https://cdn.m3u.cl/logo/773_Canal_5_Santa_Fe.png" group-title="Entretenimiento" user-agent="iPhone", Canal 5 Santa Fe
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-https://stream.arcast.com.ar/c5sf/c5sf/chunklist_w1594666255.m3u8?WebM3UCL
+https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
+
+#EXTINF:0 player-buffer="300" tvg-logo="https://i.ibb.co/bKQdQzB/C5tucuman.png" group-title="Entretenimiento" user-agent="iPhone", Canal 5 Tucuman
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+https://videohd.live:19360/8090/8090.m3u8
 
 #EXTINF:0 player-buffer="300" tvg-logo="https://i.ibb.co/qrmVDsR/Repretel6.png" group-title="Entretenimiento" user-agent="iPhone", Canal 6
 #EXTVLCOPT:http-user-agent=iPhone
@@ -3128,17 +3153,32 @@ http://170.82.37.21:8000/play/a007/index.m3u8
 #EXTINF:0 player-buffer="300" tvg-logo="https://i.ibb.co/qrmVDsR/Repretel6.png" group-title="Entretenimiento" user-agent="iPhone", Canal 6 Repretel
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://38.252.238.255:6102/play/a021/index.m3u8
+https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/10337
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_6_TCS.png" group-title="Entretenimiento" user-agent="iPhone", Canal 6 El Salvador
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-https://telecorporacion.cdn.vustreams.com:443/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/live-audio_0=64000-video=2000000.m3u8
+https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/155896
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/pysMpVY/Canal6multimedios.png" group-title="Entretenimiento" user-agent="iPhone", Canal 6 Multimedios
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/pysMpVY/Canal6multimedios.png" group-title="Entretenimiento" user-agent="iPhone", Canal 6 Multimedios
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/pysMpVY/Canal6multimedios.png" group-title="Entretenimiento" user-agent="iPhone", Canal 6 Multimedios
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/pysMpVY/Canal6multimedios.png" group-title="Entretenimiento" user-agent="iPhone", Canal 6 Multimedios
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://181.78.105.146:2000/play/a039/index.m3u8
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/bg1NkJG/Canal-7.png" group-title="Entretenimiento" user-agent="iPhone", Canal 7 Costa Rica
 #EXTVLCOPT:http-user-agent=iPhone
@@ -3218,7 +3258,7 @@ http://181.78.105.146:2000/play/a08c/index.m3u8
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/zrW6R4m/14mx.png" group-title="Entretenimiento" user-agent="iPhone", Canal 14
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://45.228.234.167:8000/play/a0l3/index.m3u8
+http://181.78.105.146:2000/play/a044/index.m3u8
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/Str9Wby/15sabinas.jpg" group-title="Entretenimiento" user-agent="iPhone", Canal 15 Sabinas
 #EXTVLCOPT:http-user-agent=iPhone
@@ -3254,6 +3294,11 @@ https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca5029201
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 http://168.197.196.98:9981/stream/channelid/1330348835?profile=pass
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/jWsJcfT/ChannelE.jpg" group-title="Entretenimiento" user-agent="iPhone", Canal E
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/fX9Yxrx/Cali-Tv.jpg" group-title="Entretenimiento" user-agent="iPhone", Cali Tv
 #EXTVLCOPT:http-user-agent=iPhone
@@ -3310,11 +3355,6 @@ http://defaultgen.com:3050/lisabarton61@yahoo.com/fJpgZTGVB9/603467
 #EXTVLCOPT--http-reconnect=true
 https://live-evg4.tv360.bitel.com.pe/bitel/conectados/playlist.m3u8
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/zQQmfTy/conexion.jpg" group-title="Entretenimiento" user-agent="iPhone", Conexion
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-http://181.78.64.71:16123/play/ch15
-
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/hBLwLPf/4.png" group-title="Entretenimiento" user-agent="iPhone", Cuatro Es
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
@@ -3333,12 +3373,17 @@ http://181.78.105.146:8800/play/a07g
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/TR2Hv2v/Divinity-svg.png" group-title="Entretenimiento" user-agent="iPhone", Divinity
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://defaultgen.com:3050/lisabarton61@yahoo.com/fJpgZTGVB9/603508
+http://vipatdom.top:8080/VIP0186171413546510/91719429032804/747
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/Y2qRYcn/ecuavisa.png" group-title="Entretenimiento" user-agent="iPhone", Ecuavisa Ec FHD
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/176963
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/Y2qRYcn/ecuavisa.png" group-title="Entretenimiento" user-agent="iPhone", Ecuavisa Ec
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://45.71.252.16:8000/play/a0ku/index.m3u8
+http://bgtv.xyz/play/play-777.php?tlat=378&token=asdfasdf
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/wNn1d0S/estrella.png" group-title="Entretenimiento" user-agent="iPhone", Estrella Tv
 #EXTVLCOPT:http-user-agent=iPhone
@@ -3395,6 +3440,11 @@ http://204.157.251.250:8000/play/a07q/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://amg01768-flou-flou-canelatv-yri41.amagi.tv/playlist/amg01768-flou-flou-canelatv/playlist.m3u8
 
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/r4HsLR6/Forotv.jpg" group-title="Entretenimiento" user-agent="iPhone", Foro Tv
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+https://mc.servidor.stream:19360/8274/8274.m3u8
+
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/vQFB9t5/Gol-Play.jpg" group-title="Entretenimiento" user-agent="iPhone", Gol Play
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
@@ -3413,7 +3463,7 @@ http://170.82.37.21:8000/play/a03w/index.m3u8
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/vLkhYwb/Globovision.png" group-title="Entretenimiento" user-agent="iPhone", Globovision
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8
+https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/2106060
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://www.hola.com/tv/assets/videoondemand/icons/720_405_meta_logo.jpg" group-title="Entretenimiento" user-agent="iPhone", Hola Play
 #EXTVLCOPT:http-user-agent=iPhone
@@ -3443,17 +3493,17 @@ http://hdtt3.online:3050/mountainlyon29@gmail.com/3S9GTRXLt8/604528
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/3mkNwYz/Imagen-Tv.png" group-title="Entretenimiento" user-agent="iPhone", Imagen Tv
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
+http://bgtv.xyz/play/play-777.php?tlat=65&token=asdfasdf
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/3mkNwYz/Imagen-Tv.png" group-title="Entretenimiento" user-agent="iPhone", Imagen Tv
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
 http://mohdtv.com:8880/smarttv585cde000521/0090585cde0005216750/51362
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/HVpXkpT/Infast.png" group-title="Entretenimiento" user-agent="iPhone", Infast HD
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 http://200.59.188.3:8000/play/a0au
-
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/72CmjDZ/Intercable.jpg" group-title="Entretenimiento" user-agent="iPhone", Intercable
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-http://45.228.234.167:8000/play/a085/index.m3u8
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/fGBWQv9/ITV.jpg" group-title="Entretenimiento" user-agent="iPhone", ITV
 #EXTVLCOPT:http-user-agent=iPhone
@@ -3474,6 +3524,11 @@ https://distributionsjustepourrire-justforlaughsgags-1-es.samsung.wurl.tv/playli
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 http://vipatdom.top:8080/VIP0186171413546510/91719429032804/5126
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/gyQ3syd/las-estrellas-m.png" group-title="Entretenimiento" user-agent="iPhone", Las Estrellas
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://bgtv.xyz/play/play-777.php?tlat=57&token=asdfasdf
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/gyQ3syd/las-estrellas-m.png" group-title="Entretenimiento" user-agent="iPhone", Las Estrellas
 #EXTVLCOPT:http-user-agent=iPhone
@@ -4063,7 +4118,12 @@ http://170.82.37.21:8000/play/a020/index.m3u8
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/7r632sC/foro.png" group-title="Noticieros" user-agent="iPhone", Foro
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
+http://fastream.xyz:8080/998291632tv/4s7fdb/35127
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/7r632sC/foro.png" group-title="Noticieros" user-agent="iPhone", Foro
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/10617
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/1M4R9wJ/Hispan-Tv.jpg" group-title="Noticieros" user-agent="iPhone", Hispan Tv
 #EXTVLCOPT:http-user-agent=iPhone
