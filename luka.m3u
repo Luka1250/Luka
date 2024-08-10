@@ -778,7 +778,7 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="Educativos" user-agent="iPhone", Historia Es
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://pn-tv.xyz:8080/mado5814/3058045814/6786
+http://fastream.xyz:8080/976136163tv/5986ka/12344
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="Educativos" user-agent="iPhone", Historia Es
 #EXTVLCOPT:http-user-agent=iPhone
@@ -809,6 +809,11 @@ http://204.157.251.250:8000/play/a07m/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT--http-reconnect=true
 http://newultra.xyz:8080/34tehu87se24ma97/m37me65wu93m/436
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="Educativos" user-agent="iPhone", History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT--http-reconnect=true
+http://fastream.xyz:8080/981228596tv/ldnkq06521/236362
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/DDxrqKz/h2.png" group-title="Educativos" user-agent="iPhone", H2 La FHD
 #EXTVLCOPT:http-user-agent=iPhone
@@ -1038,12 +1043,12 @@ https://tv.streaming-chile.com:19360/8140/8140.m3u8
 #EXTINF:0 player-buffer="30" tvg-logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/colorLogoPNG.png" group-title="Cine y Series" user-agent="iPhone", Cine Terror
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://pn-tv.xyz:8080/JONNYWILLIAM0903/RT3UNf8BmUB3/92083
+http://fastream.xyz:8080/981228596tv/ldnkq06521/54700
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/px7ygjB/UCM.png" group-title="Cine y Series" user-agent="iPhone", UCM
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://pn-tv.xyz:8080/JONNYWILLIAM0903/RT3UNf8BmUB3/92072
+http://fastream.xyz:8080/981228596tv/ldnkq06521/54696
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/6vLxqn7/A-E.png" group-title="Cine y Series" user-agent="iPhone", A&E
 #EXTVLCOPT:http-user-agent=iPhone
@@ -1083,22 +1088,12 @@ http://168.197.196.98:9981/stream/channelid/836733280?profile=pass
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/zxRCxH4/AMC.png" group-title="Cine y Series" user-agent="iPhone", AMC - The Walking Dead
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://pn-tv.xyz:8080/JONNYWILLIAM0903/RT3UNf8BmUB3/91938
-
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/zxRCxH4/AMC.png" group-title="Cine y Series" user-agent="iPhone", AMC - The Walking Dead
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
 https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/zxRCxH4/AMC.png" group-title="Cine y Series" user-agent="iPhone", AMC - The Walking Dead
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 https://jmp2.uk/PlutoTV/5e82bb378601b80007b4bd78-alt.m3u8
-
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/CKMz447/Fear-the-Walking-Dead.jpg" group-title="Cine y Series" user-agent="iPhone", AMC - Fear the Walking Dead
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-http://pn-tv.xyz:8080/JONNYWILLIAM0903/RT3UNf8BmUB3/92152
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/NC6gF4M/A3Series.png" group-title="Cine y Series" user-agent="iPhone", A3 Series HD
 #EXTVLCOPT:http-user-agent=iPhone
@@ -2118,12 +2113,12 @@ http://181.78.105.146:8800/play/a00q
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/2yHQxQJ/tigo.png" group-title="Deportes" user-agent="iPhone", Tigo Sports (Solo Partidos)
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://pn-tv.xyz:8080/JONNYWILLIAM0903/RT3UNf8BmUB3/3289
+http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/3289
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/2yHQxQJ/tigo.png" group-title="Deportes" user-agent="iPhone", Tigo Sports FHD
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://pn-tv.xyz:8080/JONNYWILLIAM0903/RT3UNf8BmUB3/100512
+http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/100512
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/HhdBTTr/TNT-Sports.jpg" group-title="Deportes" user-agent="iPhone", TNT Sports
 #EXTVLCOPT:http-user-agent=iPhone
@@ -2525,20 +2520,10 @@ http://newultra.xyz:8080/988292886tv/admin2799xd/773
 #EXTVLCOPT--http-reconnect=true
 http://fastream.xyz:8080/964888770tv/988n21/773
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/YLWBvyJ/Los-Caballeros-del-Zodiaco.jpg" group-title="Infantiles" user-agent="iPhone", Los Caballeros del Zodiaco
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-http://pn-tv.xyz:8080/JONNYWILLIAM0903/RT3UNf8BmUB3/91999
-
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/djDyxPp/IPE.jpg" group-title="Infantiles" user-agent="iPhone", IPE
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
-
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/kGHwf87/He-Man.jpg" group-title="Infantiles" user-agent="iPhone", He-Man y los amos del universo
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-http://pn-tv.xyz:8080/JONNYWILLIAM0903/RT3UNf8BmUB3/91957
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/nfPLH0j/Zoo-Moo.png" group-title="Infantiles" user-agent="iPhone", Zoo Moo
 #EXTVLCOPT:http-user-agent=iPhone
@@ -3108,7 +3093,7 @@ http://170.82.37.21:8000/play/a007/index.m3u8
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/rsV97g0/canal-4-uy.jpg" group-title="Entretenimiento" user-agent="iPhone", Canal 4 Uruguay
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://pn-tv.xyz:8080/JONNYWILLIAM0903/RT3UNf8BmUB3/14183
+http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/14183
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/zhxvsrt/259-Canal-4-Posadas.png" group-title="Entretenimiento" user-agent="iPhone", Canal 4 Posadas
 #EXTVLCOPT:http-user-agent=iPhone
@@ -3888,7 +3873,7 @@ https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 #EXTINF:0 player-buffer="30" tvg-logo="" group-title="Entretenimiento" user-agent="iPhone", Televen
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://pn-tv.xyz:8080/JONNYWILLIAM0903/RT3UNf8BmUB3/15803
+http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/14183
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/sC8P9JG/UCL.jpg" group-title="Entretenimiento" user-agent="iPhone", UCL
 #EXTVLCOPT:http-user-agent=iPhone
