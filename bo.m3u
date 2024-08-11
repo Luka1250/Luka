@@ -600,46 +600,6 @@ http://fastream.xyz:8080/series/981228596tv/ldnkq06521/249547.mkv
 #EXTVLCOPT--http-reconnect=true
 http://fastream.xyz:8080/series/981228596tv/ldnkq06521/249548.mkv
 
-#EXTINF:0 player-buffer="30" tvg-logo="" group-title="Novelas" user-agent="iPhone", Presumed Innocent S01 E01
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-http://pn-tv.xyz:8080/series/MauricioGonzalez1/BkyHWnsehTA7/144069.mkv
-
-#EXTINF:0 player-buffer="30" tvg-logo="" group-title="Novelas" user-agent="iPhone", Presumed Innocent S01 E02
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-http://pn-tv.xyz:8080/series/MauricioGonzalez1/BkyHWnsehTA7/144070.mkv
-
-#EXTINF:0 player-buffer="30" tvg-logo="" group-title="Novelas" user-agent="iPhone", Presumed Innocent S01 E03
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-http://pn-tv.xyz:8080/series/MauricioGonzalez1/BkyHWnsehTA7/145600.mkv
-
-#EXTINF:0 player-buffer="30" tvg-logo="" group-title="Novelas" user-agent="iPhone", Presumed Innocent S01 E04
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-http://pn-tv.xyz:8080/series/MauricioGonzalez1/BkyHWnsehTA7/146629.mkv
-
-#EXTINF:0 player-buffer="30" tvg-logo="" group-title="Novelas" user-agent="iPhone", Presumed Innocent S01 E05
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-http://pn-tv.xyz:8080/series/MauricioGonzalez1/BkyHWnsehTA7/147477.mkv
-
-#EXTINF:0 player-buffer="30" tvg-logo="" group-title="Novelas" user-agent="iPhone", Presumed Innocent S01 E06
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-http://pn-tv.xyz:8080/series/MauricioGonzalez1/BkyHWnsehTA7/148248.mkv
-
-#EXTINF:0 player-buffer="30" tvg-logo="" group-title="Novelas" user-agent="iPhone", Presumed Innocent S01 E07
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-http://pn-tv.xyz:8080/series/MauricioGonzalez1/BkyHWnsehTA7/148420.mkv
-
-#EXTINF:0 player-buffer="30" tvg-logo="" group-title="Novelas" user-agent="iPhone", Presumed Innocent S01 E08
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-http://pn-tv.xyz:8080/series/MauricioGonzalez1/BkyHWnsehTA7/149169.mkv
-
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/x726B5V/Break.png" group-title="Educativos" user-agent="iPhone", AMC Break
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
@@ -4800,10 +4760,10 @@ https://jmp2.uk/SamsungTVPlus/ESBC170000388.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://wildearth-roku.amagi.tv:443/masterR1080p.m3u8
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/Y0XCRdG/Nonegociable.jpg" group-title="Movies" user-agent="iPhone", No negociable
+#EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgTAWJFaB2kBvdQxRGabYFiQqEK.jpg" group-title="Movies" user-agent="iPhone", El Club de la pelea
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://fastream.xyz:8080/movie/989323609tv/96jnmg/248284.mp4
+http://fastream.xyz:8080/movie/982262867tv/ol006d/247911.mp4
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9TFSqghEHrlBMRR63yTx80Orxva.jpg" group-title="Movies" user-agent="iPhone", Deadpool & Wolverine
 #EXTVLCOPT:http-user-agent=iPhone
@@ -4819,6 +4779,26 @@ http://newultra.xyz:8080/movie/34tehu87se24ma97/m37me65wu93m/3603.mkv
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 http://newultra.xyz:8080/movie/34tehu87se24ma97/m37me65wu93m/3475.mkv
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/br6krBFpaYmCSglLBWRuhui7tPc.jpg" group-title="Movies" user-agent="iPhone", Avengers: Endgame
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://fastream.xyz:8080/movie/982262867tv/ol006d/244773.mp4
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ksBQ4oHQDdJwND8H90ay8CbMihU.jpg" group-title="Movies" user-agent="iPhone", Avengers: Infinity War
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://fastream.xyz:8080/movie/982262867tv/ol006d/244759.mp4
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Lz6h5rlCFNNyCZRaRJ2ZjtBnAE.jpg" group-title="Movies" user-agent="iPhone", Avengers 2: Era de Ultron
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://fastream.xyz:8080/movie/982262867tv/ol006d/244758.mp4
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ugX4WZJO3jEvTOerctAWJLinujo.jpg" group-title="Movies" user-agent="iPhone", Avengers: Los Vengadores
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://fastream.xyz:8080/movie/982262867tv/ol006d/244757.mp4
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kr36D6FiF8mNrsPz4fL6OUAvrrJ.jpg" group-title="Movies" user-agent="iPhone", Liga de la Justicia: Crisis en Tierras Infinitas - Parte 1
 #EXTVLCOPT:http-user-agent=iPhone
@@ -4925,22 +4905,42 @@ http://newultra.xyz:8080/movie/34tehu87se24ma97/m37me65wu93m/3605.mkv
 #EXTVLCOPT--http-reconnect=true
 http://fastream.xyz:8080/movie/945868581tv/m94pq0/918.mkv
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/zx2YDr4/Babes-Tv.jpg" group-title="XXX" user-agent="iPhone", Babes Tv
+#EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wktIMdLEtHSS7o6XO6q57KRYPWi.jpg" group-title="Movies" user-agent="iPhone", Annabelle
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://vipatdom.top:8080/VIP0186171413546510/91719429032804/24788
+http://fastream.xyz:8080/movie/982262867tv/ol006d/247912.mp4
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/T0774RF/Barely-Legal-Tv.jpg" group-title="XXX" user-agent="iPhone", Barely Legal Tv
+#EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dpdPo1kPE5y1pBopxKnchlSX8i8.jpg" group-title="Movies" user-agent="iPhone", Annabelle 2: La Creacion
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://tkosportz.live:25461/folalawal@/4044225438/71984
+http://fastream.xyz:8080/movie/982262867tv/ol006d/247913.mp4
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/T0774RF/Barely-Legal-Tv.jpg" group-title="XXX" user-agent="iPhone", Barely Legal Tv
+#EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zxwPksbRKGaAi06rapPfFTVsMHv.jpg" group-title="Movies" user-agent="iPhone", Annabelle 3: Viene a casa
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://tkosportz.live:25461/folalawal@/4044225438/72006
+http://fastream.xyz:8080/movie/982262867tv/ol006d/247914.mp4
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/VvnjjYf/Bangu.png" group-title="XXX" user-agent="iPhone", Bang U
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/zx2YDr4/Babes-Tv.jpg" group-title="XXX" user-agent="iPhone", Babes Tv FHD
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://appreal.p4nel.com:2086/pippofurt/sicilia2019/190961
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/zx2YDr4/Babes-Tv.jpg" group-title="XXX" user-agent="iPhone", Babes Tv FHD
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://appreal.p4nel.com:2086/pippofurt/sicilia2019/190959
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/zx2YDr4/Babes-Tv.jpg" group-title="XXX" user-agent="iPhone", Babes Tv FHD
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://appreal.p4nel.com:2086/pippofurt/sicilia2019/190958
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/zx2YDr4/Babes-Tv.jpg" group-title="XXX" user-agent="iPhone", Babes Tv FHD
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://appreal.p4nel.com:2086/pippofurt/sicilia2019/190962
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/VvnjjYf/Bangu.png" group-title="XXX" user-agent="iPhone", Bang U FHD
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 http://tkosportz.live:25461/folalawal@/4044225438/71983
@@ -4950,70 +4950,85 @@ http://tkosportz.live:25461/folalawal@/4044225438/71983
 #EXTVLCOPT--http-reconnect=true
 http://vipatdom.top:8080/VIP0186171413546510/91719429032804/24722
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/7KWXMyj/BB.jpg" group-title="XXX" user-agent="iPhone", Boobs
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/LNbXTS3/Bang-Bros.png" group-title="XXX" user-agent="iPhone", Bang Bros FHD
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://vipatdom.top:8080/VIP0186171413546510/91719429032804/24670
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/T0774RF/Barely-Legal-Tv.jpg" group-title="XXX" user-agent="iPhone", Barely Legal Tv
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://onceeer.top:8080/941711109582147/220dc8707619/54350
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/7KWXMyj/BB.jpg" group-title="XXX" user-agent="iPhone", Boobs FHD
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 http://vipatdom.top:8080/VIP0186171413546510/91719429032804/24667
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/6JQZ9k2/Brazzers-Europa.png" group-title="XXX" user-agent="iPhone", Brazzers Europa
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-http://31.131.136.4:8000/play/a00z
-
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/6JQZ9k2/Brazzers-Europa.png" group-title="XXX" user-agent="iPhone", Brazzers Europa
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-http://88.212.7.10/live/test_brazzers_hd_hevc/playlist.m3u8
-
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/6JQZ9k2/Brazzers-Europa.png" group-title="XXX" user-agent="iPhone", Brazzers
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/6JQZ9k2/Brazzers-Europa.png" group-title="XXX" user-agent="iPhone", Brazzers Europa FHD
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 http://tkosportz.live:25461/folalawal@/4044225438/71987
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/dgH046y/Desire.jpg" group-title="XXX" user-agent="iPhone", Desire
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/6JQZ9k2/Brazzers-Europa.png" group-title="XXX" user-agent="iPhone", Brazzers Europa FHD
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://88.212.7.10/live/test_brazzers_hd_hevc/playlist.m3u8
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/6JQZ9k2/Brazzers-Europa.png" group-title="XXX" user-agent="iPhone", Brazzers Europa
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://fastream.xyz:8080/982262867tv/ol006d/14130
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/6JQZ9k2/Brazzers-Europa.png" group-title="XXX" user-agent="iPhone", Brazzers FHD
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://appreal.p4nel.com:2086/pippofurt/sicilia2019/190968
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/dgH046y/Desire.jpg" group-title="XXX" user-agent="iPhone", Desire FHD
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 http://88.212.7.10/live/test_desire_hd_hevc/playlist.m3u8
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/Bc0F8rj/dorcel-tv-logotipo.png" group-title="XXX" user-agent="iPhone", Dorcel
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/Bc0F8rj/dorcel-tv-logotipo.png" group-title="XXX" user-agent="iPhone", Dorcel Tv FHD
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://31.131.136.4:8000/play/a001
+http://appreal.p4nel.com:2086/pippofurt/sicilia2019/190957
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/Bc0F8rj/dorcel-tv-logotipo.png" group-title="XXX" user-agent="iPhone", Dorcel
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/Bc0F8rj/dorcel-tv-logotipo.png" group-title="XXX" user-agent="iPhone", Dorcel FHD
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 http://88.212.7.10/live/test_dorcel_hd_hevc/playlist.m3u8
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/Bc0F8rj/dorcel-tv-logotipo.png" group-title="XXX" user-agent="iPhone", Dorcel Tv
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/Bc0F8rj/dorcel-tv-logotipo.png" group-title="XXX" user-agent="iPhone", Dorcel XXX FHD
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://tkosportz.live:25461/folalawal@/4044225438/71992
+http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/2981
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/bm73q50/Dusk.png" group-title="XXX" user-agent="iPhone", Dusk Tv
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/bm73q50/Dusk.png" group-title="XXX" user-agent="iPhone", Dusk FHD
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://tkosportz.live:25461/folalawal@/4044225438/71994
-
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/vxk5nj1/Ero-XXX.png" group-title="XXX" user-agent="iPhone", Ero xxx
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-http://tkosportz.live:25461/folalawal@/4044225438/72006
+http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/2968
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/vxk5nj1/Ero-XXX.png" group-title="XXX" user-agent="iPhone", Ero xxx
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://88.212.7.10/live/test_eroxxx_hd_hevc/playlist.m3u8
+http://onceeer.top:8080/941711109582147/220dc8707619/54412
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/vxk5nj1/Ero-XXX.png" group-title="XXX" user-agent="iPhone", Ero HD xxx
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/vxk5nj1/Ero-XXX.png" group-title="XXX" user-agent="iPhone", Ero xxx FHD
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 http://88.212.7.10/live/test_erox_hd_hevc/playlist.m3u8
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/vxk5nj1/Ero-XXX.png" group-title="XXX" user-agent="iPhone", Ero HD xxx
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/vxk5nj1/Ero-XXX.png" group-title="XXX" user-agent="iPhone", Ero xxx FHD
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://31.131.136.4:8000/play/a00q
+http://88.212.7.10/live/test_eroxxx_hd_hevc/playlist.m3u8
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/MCvwwG4/Erotic5.jpg" group-title="XXX" user-agent="iPhone", Erotic 5
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://fastream.xyz:8080/Seba.cabezas.7@gmail.com/Espero0012/14117
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/KKVX36C/Erotic-6.jpg" group-title="XXX" user-agent="iPhone", Erotic 6
 #EXTVLCOPT:http-user-agent=iPhone
@@ -5025,87 +5040,92 @@ http://170.82.37.21:8000/play/a04l/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://vipatdom.top:8080/VIP0186171413546510/91719429032804/24748
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/XjqfXw6/extasy.png" group-title="XXX" user-agent="iPhone", Extasis 4k
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/PZkCYXr/exxxotica.png" group-title="XXX" user-agent="iPhone", Exxxotica
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://31.131.136.4:8000/play/a00v
+http://31.148.48.15:80/O-la-la/index.m3u8?token=test
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/XjqfXw6/extasy.png" group-title="XXX" user-agent="iPhone", Extasis
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/XjqfXw6/extasy.png" group-title="XXX" user-agent="iPhone", Extasis FHD
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 http://88.212.7.10/live/test_extasy_hd_hevc/playlist.m3u8
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/TgFFb63/Frenchlover.png" group-title="XXX" user-agent="iPhone", Frenchlover
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/Xb8rDxN/Funx.jpg" group-title="XXX" user-agent="iPhone", Fun X
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://tkosportz.live:25461/folalawal@/4044225438/72010
+http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/33102
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/j3fhD6v/hard.png" group-title="XXX" user-agent="iPhone", Hard X
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/87ZJfY2/Hot.jpg" group-title="XXX" user-agent="iPhone", Hot
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://vipatdom.top:8080/VIP0186171413546510/91719429032804/24670
+http://fastream.xyz:8080/981228596tv/ldnkq06521/14193
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/87ZJfY2/Hot.jpg" group-title="XXX" user-agent="iPhone", Hot
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://fastream.xyz:8080/Seba.cabezas.7@gmail.com/Espero0012/14115
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/87ZJfY2/Hot.jpg" group-title="XXX" user-agent="iPhone", Hot
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 http://170.82.37.21:8000/play/a04o/index.m3u8
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/RyyzXQY/Hustler-HD.jpg" group-title="XXX" user-agent="iPhone", Hustler HD
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/RyyzXQY/Hustler-HD.jpg" group-title="XXX" user-agent="iPhone", Hustler FHD
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://31.131.136.4:8000/play/a00g
+http://onceeer.top:8080/941711109582147/220dc8707619/54331
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/h78Pn6h/Hustler.png" group-title="XXX" user-agent="iPhone", Hustler FHD
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/2985
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/h78Pn6h/Hustler.png" group-title="XXX" user-agent="iPhone", Hustler Tv
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://31.131.136.4:8000/play/a00u
+http://onceeer.top:8080/941711109582147/220dc8707619/54405
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/jT92sXB/Leo-Tv.jpg" group-title="XXX" user-agent="iPhone", Leo Tv
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/jT92sXB/Leo-Tv.jpg" group-title="XXX" user-agent="iPhone", Leo Tv FHD
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 http://88.212.7.10/live/test_leo_hd_hevc/playlist.m3u8
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/3B4hLXK/olala.png" group-title="XXX" user-agent="iPhone", Olala
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QX55GbX/Pinkotv.png" group-title="XXX" user-agent="iPhone", Pinko Tv
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://31.148.48.15:80/O-la-la/index.m3u8?token=test
+http://shashe.dianshiwang.vip:27000/live/vxvmedia/DsNUWmpIqq/10885.ts
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/SdzpF31/Passion-xxx.png" group-title="XXX" user-agent="iPhone", Passion xxx
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-http://31.131.136.4:8000/play/a00k
-
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/q7mB7WH/PlayBoy.jpg" group-title="XXX" user-agent="iPhone", Play Boy FHD
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-http://tkosportz.live:25461/folalawal@/4044225438/72030
-
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/q7mB7WH/PlayBoy.jpg" group-title="XXX" user-agent="iPhone", Play Boy SD
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/q7mB7WH/PlayBoy.jpg" group-title="XXX" user-agent="iPhone", Play Boy
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 http://181.78.105.146:8800/play/a01a
 
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/q7mB7WH/PlayBoy.jpg" group-title="XXX" user-agent="iPhone", Play Boy
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/60687
+
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/gt4hV0Z/Penthouse-Gold.png" group-title="XXX" user-agent="iPhone", Penthouse Gold
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://31.131.136.4:8000/play/a003
+http://viegas.maisvip.top:8080/FilipePena2022/AS24FTZ88WPL7/115644
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/PDqQ5QY/Penthouse-reality.jpg" group-title="XXX" user-agent="iPhone", Penthouse Reality
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/PDqQ5QY/Penthouse-reality.jpg" group-title="XXX" user-agent="iPhone", Penthouse Reality FHD
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://31.131.136.4:8000/play/a008
+http://98114878835791756.ofd0711.xyz:80/play/4SXDTBF5K8/@CASNbdR5T/791756.ts
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/hHZR6zj/Private.png" group-title="XXX" user-agent="iPhone", Private
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://1.exyu.link:80/stefanzivkovic/321101/22233
+http://98114878835755230.ofd0711.xyz:80/play/4SXDTBF5K8/@CASNbdR5T/755230.ts
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/XV29gkK/Redlight.png" group-title="XXX" user-agent="iPhone", Redlight HD
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/XV29gkK/Redlight.png" group-title="XXX" user-agent="iPhone", Redlight FHD
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://31.131.136.4:8000/play/a004
+http://viegas.maisvip.top:8080/FilipePena2022/AS24FTZ88WPL7/115663
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/gJ95vdy/Reality-King-Tv.png" group-title="XXX" user-agent="iPhone", Reality King Tv
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/gJ95vdy/Reality-King-Tv.png" group-title="XXX" user-agent="iPhone", Reality King Tv FHD
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 http://88.212.7.10/live/test_realitykings_sd_hevc/playlist.m3u8
@@ -5115,42 +5135,57 @@ http://88.212.7.10/live/test_realitykings_sd_hevc/playlist.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://vipatdom.top:8080/VIP0186171413546510/91719429032804/24793
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/dtGNgG3/RK-Tv.png" group-title="XXX" user-agent="iPhone", RK Tv
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-http://shashe.dianshiwang.vip:27000/live/vxvmedia/DsNUWmpIqq/10885.ts
-
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/tqgpkLt/Russian-Night.jpg" group-title="XXX" user-agent="iPhone", Russian Night
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 http://vipatdom.top:8080/VIP0186171413546510/91719429032804/24777
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/CBwZ9Wh/Sexy-Hot.png" group-title="XXX" user-agent="iPhone", Sexy Hot FHD
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://bccdn.xyz:80/k1ixaxzf/vg8j70da/542
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/CBwZ9Wh/Sexy-Hot.png" group-title="XXX" user-agent="iPhone", Sexy Hot
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://fastream.xyz:8080/982262867tv/ol006d/14149
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/xGhSPQv/Sextreme.jpg" group-title="XXX" user-agent="iPhone", Sextreme
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 http://yesimes.oknirvana.club:8880/D12m2846/23828775/2959
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/z21t2WD/SuperOne.png" group-title="XXX" user-agent="iPhone", Super One HD
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/qpN6XMq/Sugar-Babes.jpg" group-title="XXX" user-agent="iPhone", Sugar Babes FHD
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://31.131.136.4:8000/play/6006
+http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/33130
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/z21t2WD/SuperOne.png" group-title="XXX" user-agent="iPhone", Super One FHD
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://viegas.maisvip.top:8080/FilipePena2022/AS24FTZ88WPL7/115667
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/nwhqNfS/Venus.png" group-title="XXX" user-agent="iPhone", Venus
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://31.131.136.4:8000/play/a00w
+http://190.211.102.42:4000/play/a04m/index.m3u8
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/nwhqNfS/Venus.png" group-title="XXX" user-agent="iPhone", Venus
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 http://181.78.105.146:8800/play/a02h
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/4SsVJVT/Vivid-Tv.jpg" group-title="XXX" user-agent="iPhone", Vivid Tv
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/4SsVJVT/Vivid-Tv.jpg" group-title="XXX" user-agent="iPhone", Vivid FHD
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://31.131.136.4:8000/play/a00l
+http://98114878835759975.ofd0711.xyz:80/play/4SXDTBF5K8/@CASNbdR5T/759975.ts
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/N7rjRBr/wanyh.jpg" group-title="XXX" user-agent="iPhone", Wanyh
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/60664
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/zhrnNGJ/XXL.jpg" group-title="XXX" user-agent="iPhone", XXL
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://31.131.136.4:8000/play/x00d
+http://viegas.maisvip.top:8080/FilipePena2022/AS24FTZ88WPL7/115650

@@ -600,46 +600,6 @@ http://fastream.xyz:8080/series/981228596tv/ldnkq06521/249547.mkv
 #EXTVLCOPT--http-reconnect=true
 http://fastream.xyz:8080/series/981228596tv/ldnkq06521/249548.mkv
 
-#EXTINF:0 player-buffer="30" tvg-logo="" group-title="Novelas" user-agent="iPhone", Presumed Innocent S01 E01
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-http://pn-tv.xyz:8080/series/MauricioGonzalez1/BkyHWnsehTA7/144069.mkv
-
-#EXTINF:0 player-buffer="30" tvg-logo="" group-title="Novelas" user-agent="iPhone", Presumed Innocent S01 E02
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-http://pn-tv.xyz:8080/series/MauricioGonzalez1/BkyHWnsehTA7/144070.mkv
-
-#EXTINF:0 player-buffer="30" tvg-logo="" group-title="Novelas" user-agent="iPhone", Presumed Innocent S01 E03
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-http://pn-tv.xyz:8080/series/MauricioGonzalez1/BkyHWnsehTA7/145600.mkv
-
-#EXTINF:0 player-buffer="30" tvg-logo="" group-title="Novelas" user-agent="iPhone", Presumed Innocent S01 E04
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-http://pn-tv.xyz:8080/series/MauricioGonzalez1/BkyHWnsehTA7/146629.mkv
-
-#EXTINF:0 player-buffer="30" tvg-logo="" group-title="Novelas" user-agent="iPhone", Presumed Innocent S01 E05
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-http://pn-tv.xyz:8080/series/MauricioGonzalez1/BkyHWnsehTA7/147477.mkv
-
-#EXTINF:0 player-buffer="30" tvg-logo="" group-title="Novelas" user-agent="iPhone", Presumed Innocent S01 E06
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-http://pn-tv.xyz:8080/series/MauricioGonzalez1/BkyHWnsehTA7/148248.mkv
-
-#EXTINF:0 player-buffer="30" tvg-logo="" group-title="Novelas" user-agent="iPhone", Presumed Innocent S01 E07
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-http://pn-tv.xyz:8080/series/MauricioGonzalez1/BkyHWnsehTA7/148420.mkv
-
-#EXTINF:0 player-buffer="30" tvg-logo="" group-title="Novelas" user-agent="iPhone", Presumed Innocent S01 E08
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-http://pn-tv.xyz:8080/series/MauricioGonzalez1/BkyHWnsehTA7/149169.mkv
-
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/x726B5V/Break.png" group-title="Educativos" user-agent="iPhone", AMC Break
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
@@ -4800,10 +4760,10 @@ https://jmp2.uk/SamsungTVPlus/ESBC170000388.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://wildearth-roku.amagi.tv:443/masterR1080p.m3u8
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/Y0XCRdG/Nonegociable.jpg" group-title="Movies" user-agent="iPhone", No negociable
+#EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgTAWJFaB2kBvdQxRGabYFiQqEK.jpg" group-title="Movies" user-agent="iPhone", El Club de la pelea
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://fastream.xyz:8080/movie/989323609tv/96jnmg/248284.mp4
+http://fastream.xyz:8080/movie/982262867tv/ol006d/247911.mp4
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9TFSqghEHrlBMRR63yTx80Orxva.jpg" group-title="Movies" user-agent="iPhone", Deadpool & Wolverine
 #EXTVLCOPT:http-user-agent=iPhone
@@ -4819,6 +4779,26 @@ http://newultra.xyz:8080/movie/34tehu87se24ma97/m37me65wu93m/3603.mkv
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 http://newultra.xyz:8080/movie/34tehu87se24ma97/m37me65wu93m/3475.mkv
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/br6krBFpaYmCSglLBWRuhui7tPc.jpg" group-title="Movies" user-agent="iPhone", Avengers: Endgame
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://fastream.xyz:8080/movie/982262867tv/ol006d/244773.mp4
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ksBQ4oHQDdJwND8H90ay8CbMihU.jpg" group-title="Movies" user-agent="iPhone", Avengers: Infinity War
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://fastream.xyz:8080/movie/982262867tv/ol006d/244759.mp4
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Lz6h5rlCFNNyCZRaRJ2ZjtBnAE.jpg" group-title="Movies" user-agent="iPhone", Avengers 2: Era de Ultron
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://fastream.xyz:8080/movie/982262867tv/ol006d/244758.mp4
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ugX4WZJO3jEvTOerctAWJLinujo.jpg" group-title="Movies" user-agent="iPhone", Avengers: Los Vengadores
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://fastream.xyz:8080/movie/982262867tv/ol006d/244757.mp4
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kr36D6FiF8mNrsPz4fL6OUAvrrJ.jpg" group-title="Movies" user-agent="iPhone", Liga de la Justicia: Crisis en Tierras Infinitas - Parte 1
 #EXTVLCOPT:http-user-agent=iPhone
@@ -4924,3 +4904,18 @@ http://newultra.xyz:8080/movie/34tehu87se24ma97/m37me65wu93m/3605.mkv
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 http://fastream.xyz:8080/movie/945868581tv/m94pq0/918.mkv
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wktIMdLEtHSS7o6XO6q57KRYPWi.jpg" group-title="Movies" user-agent="iPhone", Annabelle
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://fastream.xyz:8080/movie/982262867tv/ol006d/247912.mp4
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dpdPo1kPE5y1pBopxKnchlSX8i8.jpg" group-title="Movies" user-agent="iPhone", Annabelle 2: La Creacion
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://fastream.xyz:8080/movie/982262867tv/ol006d/247913.mp4
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zxwPksbRKGaAi06rapPfFTVsMHv.jpg" group-title="Movies" user-agent="iPhone", Annabelle 3: Viene a casa
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://fastream.xyz:8080/movie/982262867tv/ol006d/247914.mp4
