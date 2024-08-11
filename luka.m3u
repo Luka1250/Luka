@@ -803,19 +803,24 @@ http://newultra.xyz:8080/34tehu87se24ma97/m37me65wu93m/435
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="Educativos" user-agent="iPhone", History
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT--http-reconnect=true
+http://abcnew.site:8880/D12m100001/63249687/51365
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="Educativos" user-agent="iPhone", History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT--http-reconnect=true
+http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/3163
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="Educativos" user-agent="iPhone", History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT--http-reconnect=true
 http://204.157.251.250:8000/play/a07m/index.m3u8
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="Educativos" user-agent="iPhone", History
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT--http-reconnect=true
-http://newultra.xyz:8080/34tehu87se24ma97/m37me65wu93m/436
-
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="Educativos" user-agent="iPhone", History
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT--http-reconnect=true
-http://fastream.xyz:8080/981228596tv/ldnkq06521/236362
-
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/DDxrqKz/h2.png" group-title="Educativos" user-agent="iPhone", H2 La FHD
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://abcnew.site:8880/D12m100001/63249687/49706
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/DDxrqKz/h2.png" group-title="Educativos" user-agent="iPhone", H2 La
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 http://168.197.196.98:9981/stream/channelid/838869389?profile=pass
