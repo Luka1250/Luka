@@ -435,6 +435,11 @@ https://ythls.armelin.one/channel/UCnB5vfb9FMMNTnC6-kAT3fQ.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://ythls.armelin.one/channel/UC7E-LYc1wivk33iyt5bR5zQ.m3u8
 
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/8NctkFh/Agro.jpg" group-title="Agro" user-agent="iPhone", Agro Tv
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://190.242.41.219:8000/play/a04j/index.m3u8
+
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/ft1s0Lz/agrotvpe.jpg" group-title="Agro" user-agent="iPhone", Agro Tv Pe
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
@@ -694,6 +699,11 @@ http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/9059
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 http://168.197.196.98:9981/stream/channelid/419708250?profile=pass
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/sWB0sYw/Theater.png" group-title="Educativos" user-agent="iPhone", Discovery Theater
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://fastream.xyz:8080/964888770tv/988n21/24141
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/N18qmB3/dturbo.png" group-title="Educativos" user-agent="iPhone", Discovery Turbo
 #EXTVLCOPT:http-user-agent=iPhone
@@ -1248,6 +1258,11 @@ http://181.78.105.146:8800/play/a04x
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/K9g3zm5/De-Pelicula.jpg" group-title="Cine y Series" user-agent="iPhone", De Pelicula
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
+http://190.185.121.102:58092/play/a00n
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/K9g3zm5/De-Pelicula.jpg" group-title="Cine y Series" user-agent="iPhone", De Pelicula
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
 http://animalstream.pro:8080/261CNNJ1/1792ftyq/18639
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/bXQsVw5/De-Pelicula-Plus.png" group-title="Cine y Series" user-agent="iPhone", De Pelicula Plus
@@ -1310,10 +1325,15 @@ http://170.82.37.21:8000/play/a02d/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://204.157.251.250:8000/play/a0ce/index.m3u8
 
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/G2sC0g7/Golden-Edge-Logo.png" group-title="Cine y Series" user-agent="iPhone", Golden Edge
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://190.60.33.245:4002/play/a0yj/index.m3u8
+
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/WVqcqqJ/Golden-Plus.png" group-title="Cine y Series" user-agent="iPhone", Golden Plus
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://98114878835886728.ofd0711.xyz:80/play/4SXDTBF5K8/@CASNbdR5T/886728.ts
+http://190.60.33.245:4002/play/a0ev/index.m3u8
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/jJnd1hQ/Golden-premier.png" group-title="Cine y Series" user-agent="iPhone", Golden Premier
 #EXTVLCOPT:http-user-agent=iPhone
@@ -1323,7 +1343,7 @@ http://45.228.234.167:8000/play/a00j/index.m3u8
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/VCbwTg7/Golden-premier-2.jpg" group-title="Cine y Series" user-agent="iPhone", Golden Premier 2
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://45.228.234.167:8000/play/a00k/index.m3u8
+http://190.211.102.42:4000/play/a00w/index.m3u8
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/261Zmty/Grjngo.png" group-title="Cine y Series" user-agent="iPhone", Grjngo
 #EXTVLCOPT:http-user-agent=iPhone
@@ -2343,7 +2363,7 @@ http://51.159.104.29:8080/ben10/index.m3u8
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/TYpyPHJ/Bit-Me.png" group-title="Infantiles" user-agent="iPhone", Bitme
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://fastream.xyz:8080/964888770tv/988n21/24141
+http://190.60.33.245:4002/play/a0kd/index.m3u8
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/HtZJdDf/Cartoon-Network.png" group-title="Infantiles" user-agent="iPhone", Cartoon Network
 #EXTVLCOPT:http-user-agent=iPhone
@@ -3754,6 +3774,11 @@ https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 https://nbcu-telemundoflorida-firetv.amagi.tv/playlist720.m3u8
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/163X7Gy/telemundo.png" group-title="Entretenimiento" user-agent="iPhone", Telemundo Miami
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://190.185.121.102:58092/play/a00f
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://image.roku.com/developer_channels/prod/02a36bdaed8d449bae35208a64241ab8a81fb5064c9d1d1c7cf8b14bfdf76355.png" group-title="Entretenimiento" user-agent="iPhone", Telemundo Puerto Rico
 #EXTVLCOPT:http-user-agent=iPhone
