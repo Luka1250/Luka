@@ -735,10 +735,15 @@ https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429
 #EXTVLCOPT--http-reconnect=true
 https://stream1.sersat.com/hls/garagetv.m3u8
 
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/xJzTLVS/AA.jpg" group-title="Educativos" user-agent="iPhone", Alienigenas Ancestrales
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://okulto.in:8880/VALES/soAN1WQ9QM/21543
+
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="Educativos" user-agent="iPhone", Historia Es
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://fastream.xyz:8080/976136163tv/5986ka/12344
+http://okulto.in:8880/slnSi6MIMV/G6OWXXPeRH/125
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="Educativos" user-agent="iPhone", Historia Es
 #EXTVLCOPT:http-user-agent=iPhone
@@ -3981,6 +3986,11 @@ https://cloudvideo.servers10.com:8081/8130/index.m3u8
 https://panel.host-live.com:19360/cn247tv/360p.m3u8
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="Noticieros" user-agent="iPhone", A24
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://okulto.in:8880/VALES/soAN1WQ9QM/32761
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="Noticieros" user-agent="iPhone", A24 FHD
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 http://vipatdom.top:8080/VIP0186171413546510/91719429032804/4722
