@@ -10,6 +10,11 @@ http://bantel-cdn1.iptvperu.tv:1935/cdntij/americatv.stream/playlist.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://streamer03.digital.com.bo/2ap337/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8
 
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/M2jn6ky/Unitel.jpg" group-title="Nacionales" user-agent="iPhone", Unitel
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+https://live-c.cf.dmcdn.net/sec2(EvyivM5pgCwvHv3yPJV363tQ7XW1y9FnUlyzCftF8XjSYWCWsulFh3YEz3lUTB4HQk_HL90etCNAtn_xZPI1UWfrr2AuSAN9pxxwzZnvAxY)/dm/3/x7vsezg/d/live-480.m3u8
+
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/mDBcFJB/red-uno-bo.png" group-title="Nacionales" user-agent="iPhone", Red Uno FHD
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
@@ -235,6 +240,11 @@ https://stmvideo3.livecastv.com/sigloxxi/sigloxxi/chunklist.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
 
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/Xtq2WCn/Tlestrella.jpg" group-title="Nacionales" user-agent="iPhone", Tl Estrella
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+https://envivo.bolivia-link.com:3785/live/teleestrellalive.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3NT9z9F/channels4-profile-1.jpg" group-title="Nacionales" user-agent="iPhone", Tu Tv
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
@@ -415,11 +425,6 @@ http://190.242.41.219:8000/play/a04j/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/FWtdHh8/canal-del-caballo.jpg" group-title="Agro" user-agent="iPhone", El Canal del Caballo
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-http://190.102.242.130:25461/171465451/1234/24
-
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/T2G6dF4/canal-Rural.png" group-title="Agro" user-agent="iPhone", Rural
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT:network-caching=4000
@@ -433,12 +438,7 @@ https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/xLHY5BZ/cocina.jpg" group-title="Cocina" user-agent="iPhone", Cocina
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-https://jmp2.uk/SamsungTVPlus/ESAJ3800007PC.m3u8
-
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/xLHY5BZ/cocina.jpg" group-title="Cocina" user-agent="iPhone", Cocina
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-https://jmp2.uk/PlutoTV/5dcde0657444a40009cd2422-alt.m3u8
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0657444a40009cd2422/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/F5Wpk9g/Food-Network.png" group-title="Cocina" user-agent="iPhone", Food Network FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -480,30 +480,20 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e3ddbd27091820009f86d
 #EXTVLCOPT--http-reconnect=true
 http://190.102.242.130:25461/171465451/1234/96
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/9nWHg1N/Pluto-Cocina.jpg" group-title="Cocina" user-agent="iPhone", Pluto Cocina
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-https://jmp2.uk/PlutoTV/5dcde0657444a40009cd2422-alt.m3u8
-
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/9nWHg1N/Pluto-Cocina.jpg" group-title="Cocina" user-agent="iPhone", Pluto Cocina
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-https://jmp2.uk/PlutoTV/609062295c2b8f0007199e7a-alt.m3u8
-
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/THFSTwG/Tastemade.jpg" group-title="Cocina" user-agent="iPhone", Tastemade Es
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 https://tastemade-es16tm-samsung.amagi.tv/playlist480p.m3u8
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/THFSTwG/Tastemade.jpg" group-title="Cocina" user-agent="iPhone", Tastemade Mx
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-https://jmp2.uk/SamsungTVPlus/ESBA2200006B4.m3u8
-
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/zVghDBv/Az-Corazon.jpg" group-title="Novelas" user-agent="iPhone", Az Corazon
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 http://181.78.105.146:8800/play/a040
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/9hSVwKM/Canela-Telenovelas.jpg" group-title="Novelas" user-agent="iPhone", Canela Telenovelas
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://ipuntotv.com/Images/Kanal-D-Logo.jpg" group-title="Novelas" user-agent="iPhone", Kanal D Drama
 #EXTVLCOPT:http-user-agent=iPhone
@@ -600,11 +590,6 @@ http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/2594
 #EXTVLCOPT--http-reconnect=true
 http://newultra.xyz:8080/34tehu87se24ma97/m37me65wu93m/236425
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/mCMZTZB/BioBioTv.jpg" group-title="Educativos" user-agent="iPhone", Bio Bio
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-http://190.102.242.130:25461/171465451/1234/104
-
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/2Ps70cC/Buen-Viaje.jpg" group-title="Educativos" user-agent="iPhone", Buen Viaje FHD
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
@@ -613,22 +598,17 @@ http://newultra.xyz:8080/34tehu87se24ma97/m37me65wu93m/236352
 #EXTINF:0 player-buffer="30" tvg-logo="https://images.pluto.tv/channels/6109a9f5531b840007a4a187/colorLogoPNG.png" group-title="Educativos" user-agent="iPhone", Cazador de Homicidas
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-https://jmp2.uk/PlutoTV/6109a9f5531b840007a4a187-alt.m3u8
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://images.pluto.tv/channels/5dd8364ea1d6780009929902/colorLogoPNG.png" group-title="Educativos" user-agent="iPhone", Ciencia
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-https://jmp2.uk/PlutoTV/5dd8364ea1d6780009929902-alt.m3u8
-
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/nD3P0rN/Espa-olesporelmundo.jpg" group-title="Educativos" user-agent="iPhone", Españoles en el mundo
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-https://jmp2.uk/PlutoTV/622f42b831233300078658cc-alt.m3u8
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd8364ea1d6780009929902/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/hsG2w5t/DKiss.png" group-title="Educativos" user-agent="iPhone", DKiss FHD
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://onceeer.top:8080/621721312214171/879448a844bd/5600
+http://fastream.xyz:8080/josemeratv/w7c8y0/12410
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/GkYtsFp/DMAX.jpg" group-title="Educativos" user-agent="iPhone", DMax
 #EXTVLCOPT:http-user-agent=iPhone
@@ -715,10 +695,20 @@ http://168.197.196.98:9981/stream/channelid/2091100492?profile=pass
 #EXTVLCOPT--http-reconnect=true
 http://608220176697552956.ofkd0722.xyz:80/play/hu97074/BbauEv3S4Pv/552956.ts
 
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/nD3P0rN/Espa-olesporelmundo.jpg" group-title="Educativos" user-agent="iPhone", Españoles en el mundo
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/622f42b831233300078658cc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/r0k84Dc/equipoi.png" group-title="Educativos" user-agent="iPhone", Equipo de Investigacion
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc.m3u8
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://images.pluto.tv/channels/61099f2b40d0640007fc5aa2/colorLogoPNG.png" group-title="Educativos" user-agent="iPhone", El Encantador de perros
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099f2b40d0640007fc5aa2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-garage_m.png" group-title="Educativos" user-agent="iPhone", Garage TV
 #EXTVLCOPT:http-user-agent=iPhone
@@ -748,12 +738,12 @@ http://168.197.196.98:9981/stream/channelid/788658705?profile=pass
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="Educativos" user-agent="iPhone", History
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT--http-reconnect=true
-http://newultra.xyz:8080/34tehu87se24ma97/m37me65wu93m/435
+http://abcnew.site:8880/D12m100001/63249687/51365
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="Educativos" user-agent="iPhone", History
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT--http-reconnect=true
-http://abcnew.site:8880/D12m100001/63249687/51365
+http://newultra.xyz:8080/34tehu87se24ma97/m37me65wu93m/435
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="Educativos" user-agent="iPhone", History
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -778,37 +768,37 @@ http://168.197.196.98:9981/stream/channelid/838869389?profile=pass
 #EXTINF:0 player-buffer="30" tvg-logo="https://images.pluto.tv/channels/5de5758e1a30dc00094fcd6c/colorLogoPNG.png" group-title="Educativos" user-agent="iPhone", Historia
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-https://jmp2.uk/PlutoTV/5de5758e1a30dc00094fcd6c-alt.m3u8
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://images.pluto.tv/channels/5dcde2f53449c50009b2b4dc/colorLogoPNG.png" group-title="Educativos" user-agent="iPhone", Historias y Misterios
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-https://jmp2.uk/PlutoTV/5dcde2f53449c50009b2b4dc-alt.m3u8
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde2f53449c50009b2b4dc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://images.pluto.tv/channels/5f4d3696d938c900072679fd/colorLogoPNG.png" group-title="Educativos" user-agent="iPhone", Historias de Ultratumba
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-https://jmp2.uk/PlutoTV/5f4d3696d938c900072679fd-alt.m3u8
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d3696d938c900072679fd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/sqVJhRg/Caza-y-Pesca-Iberalia.png" group-title="Educativos" user-agent="iPhone", Iberalia
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://608220176697336331.ofkd0722.xyz:80/play/hu97074/BbauEv3S4Pv/336331.ts
+http://fastream.xyz:8080/josemeratv/w7c8y0/12400
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://images.pluto.tv/channels/62154548a2be360007cb02f0/colorLogoPNG.png" group-title="Educativos" user-agent="iPhone", Ice Pilots
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-https://jmp2.uk/PlutoTV/62154548a2be360007cb02f0-alt.m3u8
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62154548a2be360007cb02f0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://images.pluto.tv/channels/5dcde27ffae9520009c0c75a/colorLogoPNG.png" group-title="Educativos" user-agent="iPhone", Investiga
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-https://jmp2.uk/PlutoTV/5dcde27ffae9520009c0c75a-alt.m3u8
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde27ffae9520009c0c75a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://images.pluto.tv/channels/5e67d41b93312100076f3fca/colorLogoPNG.png" group-title="Educativos" user-agent="iPhone", Los archivos del FBI
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-https://jmp2.uk/PlutoTV/5e67d41b93312100076f3fca-alt.m3u8
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e67d41b93312100076f3fca/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/NY1jXVj/LADIES-FONDO-2-300x169.jpg" group-title="Educativos" user-agent="iPhone", Ladies
 #EXTVLCOPT:http-user-agent=iPhone
@@ -828,37 +818,37 @@ http://tvlatino.club:2082/vipcarlosvip1y/AUSXLDvwaqCq/461873
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/1shKZmy/Love-Nature-logo.jpg" group-title="Educativos" user-agent="iPhone", Love Nature
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-https://jmp2.uk/PlutoTV/5dd834c66fe2ca0009303b8d-alt.m3u8
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/1shKZmy/Love-Nature-logo.jpg" group-title="Educativos" user-agent="iPhone", Love Nature
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-https://jmp2.uk/PlutoTV/5dd85eac039bba0009e86d1d-alt.m3u8
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/KmGXgPR/LPlanet.png" group-title="Educativos" user-agent="iPhone", Love the Planet
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/1shKZmy/Love-Nature-logo.jpg" group-title="Educativos" user-agent="iPhone", Love Nature
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-https://jmp2.uk/SamsungTVPlus/ESBC4700002TD.m3u8
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://images.pluto.tv/channels/5f230e416b68ff00075b0139/colorLogoPNG.png" group-title="Educativos" user-agent="iPhone", Misterios Medicos
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-https://jmp2.uk/PlutoTV/5f230e416b68ff00075b0139-alt.m3u8
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f230e416b68ff00075b0139/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://images.pluto.tv/channels/5f610042272f68000867685b/colorLogoPNG.png" group-title="Educativos" user-agent="iPhone", Misterios sin Resolver
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-https://jmp2.uk/PlutoTV/5f610042272f68000867685b-alt.m3u8
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f610042272f68000867685b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://images.pluto.tv/channels/60e5ea9a9bb4200008376f76/colorLogoPNG.png" group-title="Educativos" user-agent="iPhone", Motorvision
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-https://jmp2.uk/PlutoTV/60e5ea9a9bb4200008376f76-alt.m3u8
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e5ea9a9bb4200008376f76/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://images.pluto.tv/channels/60e5ea9a9bb4200008376f76/colorLogoPNG.png" group-title="Educativos" user-agent="iPhone", Motorvision
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-https://jmp2.uk/PlutoTV/6080345ebb49b90007ce0baf-alt.m3u8
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6080345ebb49b90007ce0baf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://images.pluto.tv/channels/60e5ea9a9bb4200008376f76/colorLogoPNG.png" group-title="Educativos" user-agent="iPhone", Motorvision
 #EXTVLCOPT:http-user-agent=iPhone
@@ -898,7 +888,7 @@ https://jmp2.uk/SamsungTVPlus/ESBA1500001C4.m3u8
 #EXTINF:0 player-buffer="30" tvg-logo="https://images.pluto.tv/channels/5f4fed840a2764000720d966/colorLogoPNG.png" group-title="Educativos" user-agent="iPhone", Nature Scape
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-https://jmp2.uk/PlutoTV/5f4fed840a2764000720d966-alt.m3u8
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4fed840a2764000720d966/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/XZcW0JW/Odisea.png" group-title="Educativos" user-agent="iPhone", Odisea
 #EXTVLCOPT:http-user-agent=iPhone
@@ -910,15 +900,10 @@ http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2194
 #EXTVLCOPT--http-reconnect=true
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/JdH8DNt/rakutenstories.png" group-title="Educativos" user-agent="iPhone", Rakuten Documentales
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-https://rakuten-spotlight-2-es.samsung.wurl.tv/playlist.m3u8
-
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/2dch6KY/Smithsonian.png" group-title="Educativos" user-agent="iPhone", Smithsonian Channel
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-https://jmp2.uk/PlutoTV/63a084934734f30007457b2c-alt.m3u8
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63a084934734f30007457b2c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus#EXTVLCOPT--http-reconnect=true
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/syrzNfj/Sun-Channel.jpg" group-title="Educativos" user-agent="iPhone", Sun Channel
 #EXTVLCOPT:http-user-agent=iPhone
@@ -935,11 +920,6 @@ http://vipatdom.top:8080/VIP0184169483221820/51701693551952/5214
 #EXTVLCOPT--http-reconnect=true
 http://204.157.251.250:8000/play/a07n/index.m3u8
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/MMc1d9K/topgear.jpg" group-title="Educativos" user-agent="iPhone", Top Gear
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-https://jmp2.uk/SamsungTVPlus/ESAJ2900001Y3.m3u8
-
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/0CBgmB7/Drone.png" group-title="Educativos" user-agent="iPhone", Travel Dron Tv
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
@@ -953,27 +933,22 @@ https://cdn1.cef-technology.com/stream_web/turistik/chunks.m3u8
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/hgdL4Jw/Tv-Velocidad.png" group-title="Educativos" user-agent="iPhone", Tv Velocidad
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-https://jmp2.uk/PlutoTV/5dd6dc7480e3550009133d4a-alt.m3u8
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6dc7480e3550009133d4a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://images.pluto.tv/channels/5dcddfbdb7cf0e0009ae09ea/colorLogoPNG.png" group-title="Educativos" user-agent="iPhone", Viajes
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-https://jmp2.uk/PlutoTV/5dcddfbdb7cf0e0009ae09ea-alt.m3u8
-
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/Rpr4j9V/vivrcongatos.png" group-title="Educativos" user-agent="iPhone", Vivir con gatos
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-https://jmp2.uk/SamsungTVPlus/ESBC3900002L8.m3u8
-
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/2syScj0/vivrconperros.png" group-title="Educativos" user-agent="iPhone", Vivir con perros
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-https://jmp2.uk/SamsungTVPlus/ESBC3900001G6.m3u8
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfbdb7cf0e0009ae09ea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://images.pluto.tv/channels/5ea71d48af1d0b0007d837f4/colorLogoPNG.png" group-title="Educativos" user-agent="iPhone", The New Detectives
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-https://jmp2.uk/PlutoTV/5ea71d48af1d0b0007d837f4-alt.m3u8
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ea71d48af1d0b0007d837f4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://images.pluto.tv/channels/5ebacbcae43a6d000787b88e/colorLogoPNG.png" group-title="Educativos" user-agent="iPhone", The Pet Collective
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebacbcae43a6d000787b88e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/nLB1zcs/Cine.jpg" group-title="Cine y Series" user-agent="iPhone", +Cine
 #EXTVLCOPT:http-user-agent=iPhone
