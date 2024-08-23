@@ -13,7 +13,7 @@ https://streamer03.digital.com.bo/2ap337/__cl/cg:sworigin2/__c/UNITEL/__op/hls-d
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/M2jn6ky/Unitel.jpg" group-title="Nacionales" user-agent="iPhone", Unitel
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-https://live-c.cf.dmcdn.net/sec2(EvyivM5pgCwvHv3yPJV363tQ7XW1y9FnUlyzCftF8XjSYWCWsulFh3YEz3lUTB4HQk_HL90etCNAtn_xZPI1UWfrr2AuSAN9pxxwzZnvAxY)/dm/3/x7vsezg/d/live-480.m3u8
+https://live-b.cf.dmcdn.net/sec2(LWxaSCR8Y1csYOwQrvKr6trDdNTA8J-7rQZCxjSc_GN1zD0L_WvNX-F38tqROT8ctRmCveubN3-ahzumFR49cSRVWRi2ojReobdw9OtLr-w)/dm/3/x7vsezg/d/live-480.m3u8
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/mDBcFJB/red-uno-bo.png" group-title="Nacionales" user-agent="iPhone", Red Uno FHD
 #EXTVLCOPT:http-user-agent=iPhone
