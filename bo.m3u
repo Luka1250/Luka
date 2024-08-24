@@ -10,11 +10,6 @@ http://bantel-cdn1.iptvperu.tv:1935/cdntij/americatv.stream/playlist.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://streamer03.digital.com.bo/2ap337/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/M2jn6ky/Unitel.jpg" group-title="Nacionales" user-agent="iPhone", Unitel
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-https://live-b.cf.dmcdn.net/sec2(LWxaSCR8Y1csYOwQrvKr6trDdNTA8J-7rQZCxjSc_GN1zD0L_WvNX-F38tqROT8ctRmCveubN3-ahzumFR49cSRVWRi2ojReobdw9OtLr-w)/dm/3/x7vsezg/d/live-480.m3u8
-
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/mDBcFJB/red-uno-bo.png" group-title="Nacionales" user-agent="iPhone", Red Uno FHD
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
@@ -4864,6 +4859,16 @@ http://fastream.xyz:8080/movie/945868581tv/m94pq0/244425.mp4
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 http://fastream.xyz:8080/movie/945868581tv/m94pq0/75740.mkv
+
+#EXTINF:0 player-buffer="30" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ttPF7duHyOpakOUg8iALzvockdd.jpg" group-title="Movies" user-agent="iPhone", Agente Salt
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://tvlatino.club:2082/movie/vipcarlosvip1y/AUSXLDvwaqCq/244901.mp4
+
+#EXTINF:0 player-buffer="30" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eThmApDbGVUv67OcP44CkDrPLnW.jpg" group-title="Movies" user-agent="iPhone", 13 Horas: Los soldados secretos de Bengasi
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://tvlatino.club:2082/movie/vipcarlosvip1y/AUSXLDvwaqCq/244818.mkv
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/syKwepJwzvoYhPLBfUy4YYSrstr.jpg" group-title="Movies" user-agent="iPhone", Rescate Imposible
 #EXTVLCOPT:http-user-agent=iPhone
