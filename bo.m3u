@@ -713,7 +713,7 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="Educativos" user-agent="iPhone", Historia Es
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://480480931676339761.ofkd0722.xyz:80/live/Wilfix179/84567324/339761.ts
+http://yesimes.oknirvana.club:8880/DAALM2523/ZASc5gv9pd/29308
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="Educativos" user-agent="iPhone", Historia Es
 #EXTVLCOPT:http-user-agent=iPhone
@@ -4870,6 +4870,16 @@ http://tvlatino.club:2082/movie/vipcarlosvip1y/AUSXLDvwaqCq/244901.mp4
 #EXTVLCOPT--http-reconnect=true
 http://tvlatino.club:2082/movie/vipcarlosvip1y/AUSXLDvwaqCq/244818.mkv
 
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/99nYDPY/Sicario-Tierra-de-nadie.jpg" group-title="Movies" user-agent="iPhone", Sicario: Tierra de nadie 
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://fastream.xyz:8080/movie/998229534tv/9lwd49/9414.mp4
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/Qdr30fj/Sicario-Dia-del-soldado.jpg" group-title="Movies" user-agent="iPhone", Sicario: Dia del soldado 
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://fastream.xyz:8080/movie/998229534tv/9lwd49/249897.mp4
+
 #EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/syKwepJwzvoYhPLBfUy4YYSrstr.jpg" group-title="Movies" user-agent="iPhone", Rescate Imposible
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
@@ -4944,6 +4954,11 @@ http://newultra.xyz:8080/movie/34tehu87se24ma97/m37me65wu93m/3605.mkv
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 http://fastream.xyz:8080/movie/945868581tv/m94pq0/918.mkv
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/5cVjytZ/Turno-maldito.jpg" group-title="Movies" user-agent="iPhone", Turno maldito
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://fastream.xyz:8080/movie/998229534tv/9lwd49/249907.mp4
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wktIMdLEtHSS7o6XO6q57KRYPWi.jpg" group-title="Movies" user-agent="iPhone", Annabelle
 #EXTVLCOPT:http-user-agent=iPhone
