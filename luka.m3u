@@ -10,7 +10,7 @@ http://bantel-cdn1.iptvperu.tv:1935/cdntij/americatv.stream/playlist.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://streamer03.digital.com.bo/2ap337/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/M2jn6ky/Unitel.jpg" group-title="Nacionales" user-agent="iPhone", Unitel FHD
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/M2jn6ky/Unitel.jpg" group-title="Nacionales" user-agent="iPhone", Unitel / Red Uno
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 https://master.tucableip.com//movil/tracks-v1a1/mono.m3u8
@@ -723,7 +723,7 @@ http://yesimes.oknirvana.club:8880/DAALM2523/ZASc5gv9pd/29308
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="Educativos" user-agent="iPhone", Historia Es
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://819460157751321262.ofre802.xyz:80/play/fe103365/wRyQMct5XJB/321262.ts
+http://onceeer.top:8080/621721312214171/879448a844bd/5618
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="Educativos" user-agent="iPhone", Historia Es
 #EXTVLCOPT:http-user-agent=iPhone
@@ -2113,12 +2113,12 @@ http://181.78.105.146:8800/play/a07e
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/cJdG9fy/Baby-First.png" group-title="Infantiles" user-agent="iPhone", Baby First
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://170.82.37.21:8000/play/a00l/index.m3u8
+http://190.211.102.42:4000/play/a043/index.m3u8
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/GcnWvz8/Baby-Tv.jpg" group-title="Infantiles" user-agent="iPhone", Baby Tv
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://170.82.37.21:8000/play/a00n/index.m3u8
+http://190.102.242.130:25461/171465451/1234/57
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/Gpbkwyc/Bob-Esponja.png" group-title="Infantiles" user-agent="iPhone", Bob Esponja
 #EXTVLCOPT:http-user-agent=iPhone
@@ -2128,7 +2128,7 @@ http://51.159.104.29:8080/bobesponja/index.m3u8
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/4fkf44h/Bob-Esponja-tv.jpg" group-title="Infantiles" user-agent="iPhone", Bob Esponja
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-https://jmp2.uk/PlutoTV/6254598f5083f800076d8563-alt.m3u8
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/Gpbkwyc/Bob-Esponja.png" group-title="Infantiles" user-agent="iPhone", Bob Esponja
 #EXTVLCOPT:http-user-agent=iPhone
@@ -2145,15 +2145,15 @@ http://181.78.8.90:16123/play/ch06
 #EXTVLCOPT--http-reconnect=true
 https://dhx-caillou-1-es.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/5MNrfMp/duckTV.jpg" group-title="Infantiles" user-agent="iPhone", Duck TV
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-https://jmp2.uk/SamsungTVPlus/ESBC4700001GR.m3u8
-
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/ZTHGfYb/Pantera-rosa.jpg" group-title="Infantiles" user-agent="iPhone", La Pantera Rosa
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://okulto.in:8880/slnSi6MIMV/G6OWXXPeRH/21245
+http://offshore.lat:8080/play/fVx9XKOYaUxvbsWCcGcDSGNBmKESAyuMdh0pNiGvxwqG48uUppWNVnl_ZJPGBLRL/ts
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/RvJFsbR/Lospicapiedras.jpg" group-title="Infantiles" user-agent="iPhone", Los Picapiedras
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://offshore.lat:8080/play/fVx9XKOYaUxvbsWCcGcDSGNBmKESAyuMdh0pNiGvxwoQruWwFDp5wf9E7i6fHHH0/ts
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/FKNyC6c/Los-Pitufos-Tv.jpg" group-title="Infantiles" user-agent="iPhone", Los Pitufos Tv
 #EXTVLCOPT:http-user-agent=iPhone
@@ -2178,7 +2178,7 @@ http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/60052
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/znsgTKD/Bean.jpg" group-title="Infantiles" user-agent="iPhone", Mr Bean
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://okulto.in:8880/slnSi6MIMV/G6OWXXPeRH/21445
+http://offshore.lat:8080/play/fVx9XKOYaUxvbsWCcGcDSGNBmKESAyuMdh0pNiGvxwp9A6GoAay5eSxL6kqafo4w/ts
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/T2zwCC4/Paw-Patrol.jpg" group-title="Infantiles" user-agent="iPhone", Paw Patrol
 #EXTVLCOPT:http-user-agent=iPhone
@@ -2188,7 +2188,7 @@ http://offshore.lat:8080/play/BpNEwZdXSuNT27KQ64edLRsWikAzKWqFGvtiV0Pk4FaCtG9aeN
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/T2zwCC4/Paw-Patrol.jpg" group-title="Infantiles" user-agent="iPhone", Paw Patrol
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://okulto.in:8880/slnSi6MIMV/G6OWXXPeRH/21196
+http://offshore.lat:8080/play/fVx9XKOYaUxvbsWCcGcDSND5lg_aGpzZs8URdkIvUA7hjjSfh5iMEf7ksVZVL5nu/ts
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/T2zwCC4/Paw-Patrol.jpg" group-title="Infantiles" user-agent="iPhone", Paw Patrol
 #EXTVLCOPT:http-user-agent=iPhone
@@ -2210,20 +2210,15 @@ http://offshore.lat:8080/play/BpNEwZdXSuNT27KQ64edLRsWikAzKWqFGvtiV0Pk4FaklTNHZE
 #EXTVLCOPT--http-reconnect=true
 http://fastream.xyz:8080/efuxxrmayh/mqdsjpdtsh/62424
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/DgvX87N/Peter-Rabit.png" group-title="Infantiles" user-agent="iPhone", Peter Rabbit
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/GMMB22M/Plim-Plim-Tv.jpg" group-title="Infantiles" user-agent="iPhone", Plim Plim
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-https://jmp2.uk/SamsungTVPlus/ESBD1400002W4.m3u8
+http://offshore.lat:8080/play/fVx9XKOYaUxvbsWCcGcDSLcY57rOAdlVurrOd2MwcsL1LFo2PmlTogwCZBFWsnpu/ts
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/GMMB22M/Plim-Plim-Tv.jpg" group-title="Infantiles" user-agent="iPhone", Plim Plim
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://200.59.188.3:8000/play/a091
-
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/GMMB22M/Plim-Plim-Tv.jpg" group-title="Infantiles" user-agent="iPhone", Plim Plim
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-http://38.41.8.1:8000/play/a0b2
+http://fastream.xyz:8080/998229534tv/9lwd49/62380
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/Wyy4mXs/Pocoy.jpg" group-title="Infantiles" user-agent="iPhone", Pocoyó
 #EXTVLCOPT:http-user-agent=iPhone
@@ -2238,27 +2233,17 @@ https://daiconnect.com/live/hls/tvup/tvfy-pocoyo/.m3u8
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/Wyy4mXs/Pocoy.jpg" group-title="Infantiles" user-agent="iPhone", Pocoyó
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-https://jmp2.uk/SamsungTVPlus/ESBC3900004ED.m3u8
-
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/SJZZgRs/Rabbids.jpg" group-title="Infantiles" user-agent="iPhone", Rabbids
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-https://jmp2.uk/SamsungTVPlus/ESBD2300003S5.m3u8
+http://offshore.lat:8080/play/fVx9XKOYaUxvbsWCcGcDSAH4Jpz_B8woaBy0h3iLBLH-Ncfsm8O-3qfTP3M9CNn6/ts
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/Dr8TDyC/Semillitas.jpg" group-title="Infantiles" user-agent="iPhone", Semillitas
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://170.82.37.21:8000/play/a00p/index.m3u8
-
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/86XTjRs/supertoons.jpg" group-title="Infantiles" user-agent="iPhone", Super Toons
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-https://jmp2.uk/SamsungTVPlus/ESBD5100001G0.m3u8
+http://190.211.102.42:4000/play/a01t/index.m3u8
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/KyKJF0Q/Tom-y-Jerry.jpg" group-title="Infantiles" user-agent="iPhone", Tom and Jerry
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://newultra.xyz:8080/988292886tv/admin2799xd/774
+http://fastream.xyz:8080/efuxxrmayh/mqdsjpdtsh/774
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/KyKJF0Q/Tom-y-Jerry.jpg" group-title="Infantiles" user-agent="iPhone", Tom and Jerry
 #EXTVLCOPT:http-user-agent=iPhone
@@ -2268,17 +2253,12 @@ http://fastream.xyz:8080/993300790tv/95ghr5/774
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/gddSvZg/The-Simpson.jpg" group-title="Infantiles" user-agent="iPhone", The Simpson - la Pelicula
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://newultra.xyz:8080/movie/988292886tv/admin2799xd/6812.mkv
+http://fastream.xyz:8080/movie/998229534tv/9lwd49/6812.mkv
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/MfJzXw1/The-Simpson.png" group-title="Infantiles" user-agent="iPhone", The Simpson
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 http://fastream.xyz:8080/993300790tv/95ghr5/62400
-
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/MfJzXw1/The-Simpson.png" group-title="Infantiles" user-agent="iPhone", The Simpson
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-http://fastream.xyz:8080/josemeratv/w7c8y0/62400
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/MfJzXw1/The-Simpson.png" group-title="Infantiles" user-agent="iPhone", The Simpson
 #EXTVLCOPT:http-user-agent=iPhone
@@ -2298,12 +2278,12 @@ http://fastream.xyz:8080/993300790tv/95ghr5/769
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/MfJzXw1/The-Simpson.png" group-title="Infantiles" user-agent="iPhone", The Simpson
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://fastream.xyz:8080/josemeratv/w7c8y0/769
+http://newultra.xyz:8080/34tehu87se24ma97/m37me65wu93m/769
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/MfJzXw1/The-Simpson.png" group-title="Infantiles" user-agent="iPhone", The Simpson
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://newultra.xyz:8080/34tehu87se24ma97/m37me65wu93m/769
+http://fastream.xyz:8080/998229534tv/9lwd49/769
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/MfJzXw1/The-Simpson.png" group-title="Infantiles" user-agent="iPhone", The Simpson
 #EXTVLCOPT:http-user-agent=iPhone
@@ -2313,12 +2293,27 @@ http://fastream.xyz:8080/993300790tv/95ghr5/790
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/MfJzXw1/The-Simpson.png" group-title="Infantiles" user-agent="iPhone", The Simpson
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://fastream.xyz:8080/josemeratv/w7c8y0/790
+http://newultra.xyz:8080/34tehu87se24ma97/m37me65wu93m/790
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/MfJzXw1/The-Simpson.png" group-title="Infantiles" user-agent="iPhone", The Simpson
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://newultra.xyz:8080/988292886tv/admin2799xd/790
+http://fastream.xyz:8080/998229534tv/9lwd49/790
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/MfJzXw1/The-Simpson.png" group-title="Infantiles" user-agent="iPhone", The Simpson
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://fastream.xyz:8080/993300790tv/95ghr5/791
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/MfJzXw1/The-Simpson.png" group-title="Infantiles" user-agent="iPhone", The Simpson
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://newultra.xyz:8080/34tehu87se24ma97/m37me65wu93m/791
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/MfJzXw1/The-Simpson.png" group-title="Infantiles" user-agent="iPhone", The Simpson
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://fastream.xyz:8080/998229534tv/9lwd49/791
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/MfJzXw1/The-Simpson.png" group-title="Infantiles" user-agent="iPhone", The Simpson
 #EXTVLCOPT:http-user-agent=iPhone
@@ -2328,27 +2323,42 @@ http://fastream.xyz:8080/993300790tv/95ghr5/62412
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/MfJzXw1/The-Simpson.png" group-title="Infantiles" user-agent="iPhone", The Simpson
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://fastream.xyz:8080/josemeratv/w7c8y0/62412
+http://newultra.xyz:8080/34tehu87se24ma97/m37me65wu93m/62412
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/MfJzXw1/The-Simpson.png" group-title="Infantiles" user-agent="iPhone", The Simpson
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://newultra.xyz:8080/988292886tv/admin2799xd/62412
+http://fastream.xyz:8080/998229534tv/9lwd49/62412
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/MfJzXw1/The-Simpson.png" group-title="Infantiles" user-agent="iPhone", The Simpson
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://newultra.xyz:8080/988292886tv/admin2799xd/791
+http://fastream.xyz:8080/993300790tv/95ghr5/793
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/MfJzXw1/The-Simpson.png" group-title="Infantiles" user-agent="iPhone", The Simpson
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://newultra.xyz:8080/988292886tv/admin2799xd/793
+http://newultra.xyz:8080/34tehu87se24ma97/m37me65wu93m/793
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/MfJzXw1/The-Simpson.png" group-title="Infantiles" user-agent="iPhone", The Simpson
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://fastream.xyz:8080/998229534tv/9lwd49/793
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/MfJzXw1/The-Simpson.png" group-title="Infantiles" user-agent="iPhone", The Simpson
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 http://fastream.xyz:8080/efuxxrmayh/mqdsjpdtsh/62415
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/MfJzXw1/The-Simpson.png" group-title="Infantiles" user-agent="iPhone", The Simpson
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://offshore.lat:8080/play/fVx9XKOYaUxvbsWCcGcDSOjf7nkFnXIVpAr1fRglsxFUY4pkDX2tk6iEoH5IHBpT/ts
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/MfJzXw1/The-Simpson.png" group-title="Infantiles" user-agent="iPhone", The Simpson
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://offshore.lat:8080/play/fVx9XKOYaUxvbsWCcGcDSOjf7nkFnXIVpAr1fRglsxEtxumJMxi_RS3FaK2s75Ki/ts
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/5cJk7rk/Ben10.jpg" group-title="Infantiles" user-agent="iPhone", Ben 10
 #EXTVLCOPT:http-user-agent=iPhone
@@ -2363,7 +2373,7 @@ http://fastream.xyz:8080/964888770tv/988n21/24141
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/TYpyPHJ/Bit-Me.png" group-title="Infantiles" user-agent="iPhone", Bitme
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://190.60.33.245:4002/play/a0kd/index.m3u8
+http://offshore.lat:8080/play/fVx9XKOYaUxvbsWCcGcDSBbEQcR-ySNaYq0qXyCQHyE/ts
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/HtZJdDf/Cartoon-Network.png" group-title="Infantiles" user-agent="iPhone", Cartoon Network
 #EXTVLCOPT:http-user-agent=iPhone
@@ -2383,12 +2393,12 @@ http://45.228.234.210:8000/play/a054/index.m3u8
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/jL348CS/Cartoonito.png" group-title="Infantiles" user-agent="iPhone", Cartoonito
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://181.78.27.128:8000/play/a003/index.m3u8
+http://offshore.lat:8080/play/fVx9XKOYaUxvbsWCcGcDSHBt3M247pdMaTHrOZKzslJMquZA-wX_ttf2RkkCzqWF/ts
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/fpNH9vh/Daria.png" group-title="Infantiles" user-agent="iPhone", Daria
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-https://jmp2.uk/PlutoTV/62d0895ebe7a970008785244-alt.m3u8
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d0895ebe7a970008785244/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/6010w0t/Discovery-Kids.png" group-title="Infantiles" user-agent="iPhone", Discovery Kids FHD
 #EXTVLCOPT:http-user-agent=iPhone
@@ -2408,7 +2418,7 @@ http://190.60.33.245:4002/play/a0da/index.m3u8
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/PNT1N8x/Disney-Channel.jpg" group-title="Infantiles" user-agent="iPhone", Disney Channel
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://elitemaster.space:8080/Queiros/GBxnMczJAg/73422
+http://offshore.lat:8080/play/fVx9XKOYaUxvbsWCcGcDSHBt3M247pdMaTHrOZKzslLKeDA15Qn7934AQETSr0LP/ts
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/PNT1N8x/Disney-Channel.jpg" group-title="Infantiles" user-agent="iPhone", Disney Channel
 #EXTVLCOPT:http-user-agent=iPhone
@@ -2433,22 +2443,17 @@ http://45.5.116.178:8000/play/a01n/index.m3u8
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/VCPrhzL/Disney-Jr.png" group-title="Infantiles" user-agent="iPhone", Disney Jr
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://168.197.196.98:9981/stream/channelid/484831396?profile=pass
+http://offshore.lat:8080/play/fVx9XKOYaUxvbsWCcGcDSHBt3M247pdMaTHrOZKzslKwQpZCIK5s1ZVR6_D2-tqN/ts
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/VCPrhzL/Disney-Jr.png" group-title="Infantiles" user-agent="iPhone", Disney Jr
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://elitemaster.space:8080/Queiros/GBxnMczJAg/73424
+http://168.197.196.98:9981/stream/channelid/484831396?profile=pass
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/NVFmXTH/DreikoTv.png" group-title="Infantiles" user-agent="iPhone", DreikoTv
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-https://cloudvideo.servers10.com:8081/8138/index.m3u8
-
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/17jRWKK/Lego.jpg" group-title="Infantiles" user-agent="iPhone", Lego Movie
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-http://offshore.lat:8080/play/BpNEwZdXSuNT27KQ64edLRsWikAzKWqFGvtiV0Pk4FaCE2jrX2a_5VoOE0ufoReF/ts
+https://cloudvideo.servers10.com:8081/8096/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/ScRfPkV/Nickelodeon.png" group-title="Infantiles" user-agent="iPhone", Nickelodeon
 #EXTVLCOPT:http-user-agent=iPhone
@@ -2463,7 +2468,12 @@ http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/58013
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/6wq1yLy/Nick-Jr.jpg" group-title="Infantiles" user-agent="iPhone", Nick Jr
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT--http-reconnect=true
-http://okulto.in:8880/slnSi6MIMV/G6OWXXPeRH/3697
+http://offshore.lat:8080/play/fVx9XKOYaUxvbsWCcGcDSKl5oGK9DPF6kcAst_dTdE3opCm36ToyCqJ69Lmf5QHf/ts
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/6wq1yLy/Nick-Jr.jpg" group-title="Infantiles" user-agent="iPhone", Nick Jr
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT--http-reconnect=true
+http://offshore.lat:8080/play/fVx9XKOYaUxvbsWCcGcDSHBt3M247pdMaTHrOZKzslJDeHnXJJB4dGABvYgcNjaW/ts
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/jgLTBvm/Rakuten.png" group-title="Infantiles" user-agent="iPhone", Rakuten Family
 #EXTVLCOPT:http-user-agent=iPhone
@@ -2473,7 +2483,7 @@ https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/wN5R3ng/Teen-Nick-HD.jpg" group-title="Infantiles" user-agent="iPhone", Teen Nick
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://170.82.37.21:8000/play/a00w/index.m3u8
+http://offshore.lat:8080/play/fVx9XKOYaUxvbsWCcGcDSNfNpHfazMFQ8-BNGh1vrKjAg7Fz2luX42s5oDHi-5rq/ts
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/Jvr6FKk/Tooncast.png" group-title="Infantiles" user-agent="iPhone", Tooncast
 #EXTVLCOPT:http-user-agent=iPhone
@@ -2485,25 +2495,20 @@ http://190.211.102.42:4000/play/a051/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://45.5.116.178:8000/play/a01q/index.m3u8
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/89rssQq/Los-Reyes-de-la-Colina.jpg" group-title="Infantiles" user-agent="iPhone", Los Reyes de la Colina
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/YLWBvyJ/Los-Caballeros-del-Zodiaco.jpg" group-title="Infantiles" user-agent="iPhone", Los Caballeros del Zodiaco
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://okulto.in:8880/slnSi6MIMV/G6OWXXPeRH/21361
+http://offshore.lat:8080/play/fVx9XKOYaUxvbsWCcGcDSDgrum54KmcyIv2fSFow9PLbwMBVvjegvUi1w3bylESn/ts
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/YLWBvyJ/Los-Caballeros-del-Zodiaco.jpg" group-title="Infantiles" user-agent="iPhone", Los Caballeros del Zodiaco
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://newultra.xyz:8080/988292886tv/admin2799xd/773
+http://fastream.xyz:8080/998229534tv/9lwd49/62421
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/YLWBvyJ/Los-Caballeros-del-Zodiaco.jpg" group-title="Infantiles" user-agent="iPhone", Los Caballeros del Zodiaco
+#EXTINF:0 player-buffer="30" tvg-logo="https://pics.filmaffinity.com/dinosaurs-235642500-mmed.jpg" group-title="Infantiles" user-agent="iPhone", Dinosaurios
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://okulto.in:8880/slnSi6MIMV/G6OWXXPeRH/29580
-
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/G0nn5yg/Robotech.jpg" group-title="Infantiles" user-agent="iPhone", Robotech
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-http://okulto.in:8880/slnSi6MIMV/G6OWXXPeRH/21330
+http://offshore.lat:8080/play/fVx9XKOYaUxvbsWCcGcDSEO_PbFa3bsbZqyVPj4G4c-Ya4bbrhDVnJ6dJnmD0On_/ts
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/djDyxPp/IPE.jpg" group-title="Infantiles" user-agent="iPhone", IPE
 #EXTVLCOPT:http-user-agent=iPhone
