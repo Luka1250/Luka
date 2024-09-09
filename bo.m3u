@@ -90,6 +90,11 @@ https://streamer01.digital.com.bo/2ap337/__cl/cg:sworigin2/__c/BOLIVISION/__op/h
 #EXTVLCOPT--http-reconnect=true
 https://streamer01.digital.com.bo/2ap337/__cl/cg:sworigin2/__c/CADENAA/__op/hls-default/__f/index.m3u8
 
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/5Tt1ysx/cctv.jpg" group-title="Nacionales" user-agent="iPhone", CCTV
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
+
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/kmFptyr/Ceacom.png" group-title="Nacionales" user-agent="iPhone", CEACOM
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
@@ -145,10 +150,20 @@ https://ssh101-fl.bozztv.com/ssh101/fortalezacueto/tracks-v1a1/mono.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://fl1002.bozztv.com/ssh101/gogoplay/tracks-v1a1/mono.m3u8
 
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/X4JXDCP/Guadalupe.jpg" group-title="Nacionales" user-agent="iPhone", Guadalupe
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+https://solo.disfrutaenlared.com:1936/guadalupetv/guadalupetv/playlist.m3u8
+
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/GpHvf1d/imperial.png" group-title="Nacionales" user-agent="iPhone", Imperial Tv
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 https://vdo.grupolimalive.com:3162/live/imperialtvlive.m3u8
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/bH2YxbQ/IN-Tv-Bolivia.jpg" group-title="Locales" user-agent="iPhone", IN Tv Bolivia
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+https://envivo.bolivia-link.com:3580/live/intvlive.m3u8
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/6RF1rCs/Mark.jpg" group-title="Nacionales" user-agent="iPhone", MarVision
 #EXTVLCOPT:http-user-agent=iPhone
@@ -185,6 +200,11 @@ https://tv.bitstreaming.net:3234/multi_live/play_480.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://streamer01.digital.com.bo/2ap337/__cl/cg:sworigin2/__c/PAT/__op/hls-default/__f/index.m3u8
 
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/yqkxrkL/PTV-HD.jpg" group-title="Nacionales" user-agent="iPhone", PTv
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+https://ssh101-fl.bozztv.com/ssh101/centralptv/tracks-v1a1/mono.m3u8
+
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/frbTBzQ/index-06.jpg" group-title="Nacionales" user-agent="iPhone", Radio Centro
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
@@ -220,6 +240,11 @@ https://seo.tv.bo/tv/SEO-TV-5.2.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://seo.tv.bo/tv/SEO-TV-4.m3u8
 
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/hL3fjd6/Solidaria-Tv.png" group-title="Nacionales" user-agent="iPhone", Solidaria Tv
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+https://tv.bitstreaming.net:3073/live/solidariatvlive.m3u8
+
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/d6xrRGN/Teleclasica.jpg" group-title="Nacionales" user-agent="iPhone", Tele Clasica
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
@@ -230,6 +255,11 @@ https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://envivo.bolivia-link.com:3785/live/teleestrellalive.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3NT9z9F/channels4-profile-1.jpg" group-title="Nacionales" user-agent="iPhone", Tu Tv
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+https://solo.disfrutaenlared.com:1936/tutv/tutv/playlist.m3u8
+
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/jvwZ9b0/Tv-Culturas.png" group-title="Nacionales" user-agent="iPhone", TV Cultura
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
@@ -239,6 +269,11 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/TVCULTURA/__op/hls-default/__f/
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/vP0kZpv/tvusucre.jpg" group-title="Nacionales" user-agent="iPhone", TVU SUCRE
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+https://solo.disfrutaenlared.com:1936/tuch/ngrp:tuch_all/chunklist.m3u8
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/mX21KH5/TVUUMSA.jpg" group-title="Nacionales" user-agent="iPhone", TVU UMSA
 #EXTVLCOPT:http-user-agent=iPhone
@@ -254,6 +289,11 @@ https://master.tucableip.com/univalletv/index.m3u8
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 https://vdo.grupolimalive.com:3340/hybrid/play.m3u8
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://vostv.com.bo/wp-content/uploads/2024/03/cropped-cropped-LOGO-PNG-1-300x300-1-1.png" group-title="Nacionales" user-agent="iPhone", Vos Tv
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+https://envivo.bolivia-link.com:3520/live/vostvlive.m3u8
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/zbMpnR9/Caritas.jpg" group-title="Religioso" user-agent="iPhone", Caritas Tv
 #EXTVLCOPT:http-user-agent=iPhone
@@ -563,7 +603,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd8364ea1d67800099299
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/hsG2w5t/DKiss.png" group-title="Educativos" user-agent="iPhone", DKiss FHD
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://fastream.xyz:8080/josemeratv/w7c8y0/12410
+http://eu.germanydns.org:8080/Ismailates33/xwhmmksp/100350
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/GkYtsFp/DMAX.jpg" group-title="Educativos" user-agent="iPhone", DMax
 #EXTVLCOPT:http-user-agent=iPhone
@@ -678,7 +718,12 @@ http://yesimes.oknirvana.club:8880/DAALM2523/ZASc5gv9pd/29308
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="Educativos" user-agent="iPhone", Historia Es
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://onceeer.top:8080/621721312214171/879448a844bd/5618
+http://fodise.store:8080/ClaudiaNovais/459876/101570
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="Educativos" user-agent="iPhone", Historia Es
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://eu.germanydns.org:8080/Ismailates33/xwhmmksp/100333
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="Educativos" user-agent="iPhone", Historia Es
 #EXTVLCOPT:http-user-agent=iPhone
