@@ -365,11 +365,6 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Italiatre/chunklist_b1428000.m
 #EXTVLCOPT--http-reconnect=true
 https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Mariavision/chunklist.m3u8
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/WGr2bQG/Misericordia-tv.png" group-title="Religioso" user-agent="iPhone", Misericordia Tv
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-https://streaming5.globalhostla.com/rtplive/misericordiatv/chunklist.m3u8
-
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/BL0zCtq/Monte-Maria.png" group-title="Religioso" user-agent="iPhone", Monte María Tv
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
@@ -430,6 +425,11 @@ https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
 
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/k4cpwd3/Canal-Cocina.png" group-title="Cocina" user-agent="iPhone", Cocina Tv
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://fastream.xyz:8080/998229534tv/9lwd49/614
+
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/xLHY5BZ/cocina.jpg" group-title="Cocina" user-agent="iPhone", Cocina
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
@@ -443,12 +443,12 @@ http://200.59.188.3:8000/play/a02k
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/vDjGjxS/gourmet.png" group-title="Cocina" user-agent="iPhone", Gourmet
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://170.82.37.21:8000/play/a03e/index.m3u8
+http://200.59.188.3:8000/play/a01a
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/vDjGjxS/gourmet.png" group-title="Cocina" user-agent="iPhone", Gourmet
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://168.197.196.98:9981/stream/channelid/1761522076?profile=pass
+http://fastream.xyz:8080/998229534tv/9lwd49/596
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/FKBwMW7/hogar-tv.jpg" group-title="Cocina" user-agent="iPhone", Hogar Tv FHD
 #EXTVLCOPT:http-user-agent=iPhone
@@ -478,7 +478,7 @@ http://190.102.242.130:25461/171465451/1234/96
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/THFSTwG/Tastemade.jpg" group-title="Cocina" user-agent="iPhone", Tastemade Es
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-https://tastemade-es16tm-samsung.amagi.tv/playlist480p.m3u8
+https://amg00047-tastemade-es16intl-canelatv-9t8xw.amagi.tv/playlist/amg00047-tastemade-es16intl-canelatv/cb553d177b6c64899bd43d66d9ef42a4d8242ffc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fdf61146d5a4d009247d8780ad7967cac48240d5734c6cdd52e8be24b4daddd0c2d34b07c0e49857671ad594f32d5e0110dc51ab07a0e1ca1494d5e2082b00cb27750cd9e0a957f378bbdbe306f2c180680585ee2be5da5ef940912c76da3b902488b2f5be79056cbd11fefd68153cd5e8175f1148093f1de850dd0d5c435b401b464085b722dc8d620c6c807f4b0f4683d8f3f29560e6ae4b69dfa4239f4372932fbf0c6f166fe1dcb8524cf6f23af5acc25f5318e78e408b7f171b3b9b4cd477e2cb6c8291e4dddedb49eeb2669f229ecb5fe93707d97f3187909dd7b97262e2e99fece07deeb7ffbb72796fa7a142cc5ae559a9ab7f1b8dad8428831dad4b1cb3c071c654150804ab58d23d828d37da4cf5d354a0816abdf06c295dc5d246b4088c50dd0101ab7da8786cc0b2bcd3a6c309861dd484b6bc8247e43e622f78939629d5469ef546ca10b5fed43f8ab62f1a2cdec053e8ad7c330bd05afe55b84f457f96b6a005ae2a67e5b154d2883e863553520951cb1d598b5720c58b684a792c757281506145d0298e7e964e9edaa484c4cbc394c617003599101d86dda123b6f44a410dcb8366795032224e0ae3a590016fcb8b0859498ce41a376d0cac22e263f4d6bcf556f423f81eedd0396522f797e4d927d0729dc57003a80fbc8e18ace7bdda374b831741560dc82712b6d036a6d04c1eb02a45fe68053bd9edc55cfeab21e448b3bb600179ba2b8069ae8929d2065f8ab530a2990d737d7014ead768471fcb81ad9b44648152f7f44c39a269935dd8fd78a7ac056c73e027af936bf99f5bad56369ef9443343b1d27721531217e5ce2b4bf03017ffff23ee95f94883fc8120e47552dcb913f4e94e1611d9f2c0c06cfc49a92a3c4596ba003f571da2e10af430811efcd35eff1d89992846e5a05d5b7bf5a894ee9ebbebe5bfef16a1652b9ee1d3255d72af99a0ee0df65168dbaaa9514ea0a179858888ba33aec7c81c6b91ca7939c848a1ffd95d4368eabc4fb1acfbd4a66a96ec10f697077416a95179ae9c67d5cef4de197136fa33b7049c6ebff018818b9e82d2ba7a47b4ccf3e5293a497476df306f9a88bd1a06df8d440d3c25d66623bdf992e41891a17e746114dad43ca86a553c880d60e2d5ef7020b8076cb9d970c193a999b6821251a1f5527e5000d7caa6e31e52dbbeab4e533609657de467f9e69bfce5290a70ec5fad0bcfbb66f2bf4a14c5ed927d326956f8ed586f33de47464a9639e532285d7cef1c5e988e69d87500a56c60acb49fb779cc7bb983a53592d905c6d0a0df81a8c5a5b0bda941b9ae91d1ef3b49734ca08504a1507709e49ccfb3b7c0572d9a82de792000b446533facc15b815a03762a95e74af157c1d1913282f8793ca1e9e649c40b8fa5d0ff296f5c502e2bf34ca9396ecd81a5eda33c62fd9134f58f744bf02b9cc7343ee9efa3af689361a01/36/1920x1080_5253600/index.m3u8
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/zVghDBv/Az-Corazon.jpg" group-title="Novelas" user-agent="iPhone", Az Corazon
 #EXTVLCOPT:http-user-agent=iPhone
@@ -493,22 +493,17 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
 #EXTINF:0 player-buffer="30" tvg-logo="https://ipuntotv.com/Images/Kanal-D-Logo.jpg" group-title="Novelas" user-agent="iPhone", Kanal D Drama
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
-
-#EXTINF:0 player-buffer="30" tvg-logo="https://ipuntotv.com/Images/Kanal-D-Logo.jpg" group-title="Novelas" user-agent="iPhone", Kanal D Drama
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
 http://200.59.188.3:8000/play/a021
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/KVcyWRX/Pasionestv.png" group-title="Novelas" user-agent="iPhone", Pasiones FHD
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://38.187.2.194:8000/play/a07j
+http://190.242.41.219:8000/play/a01y/index.m3u8
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/C9K3g5V/RCN-Novelas.jpg" group-title="Novelas" user-agent="iPhone", RCN Novelas
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://170.82.37.21:8000/play/a025/index.m3u8
+http://200.59.188.3:8000/play/a07q
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/02/sonynovelas-150x150.jpg" group-title="Novelas" user-agent="iPhone", Sony novelas
 #EXTVLCOPT:http-user-agent=iPhone
@@ -523,7 +518,7 @@ http://181.78.105.146:2000/play/a08d/index.m3u8
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/3zrgtpx/Tnt-Novelas.png" group-title="Novelas" user-agent="iPhone", TNT Novelas
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://168.197.196.98:9981/stream/channelid/371852243?profile=pass
+http://38.41.8.1:8000/play/a0d1
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6bIp20xc2kwy9nV62osNS8OaQsS.jpg" group-title="Novelas" user-agent="iPhone", Betty la fea la historia continúa S01 E01
 #EXTVLCOPT:http-user-agent=iPhone
@@ -578,17 +573,17 @@ http://fastream.xyz:8080/series/981228596tv/ldnkq06521/251371.mkv
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/x726B5V/Break.png" group-title="Educativos" user-agent="iPhone", AMC Break
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/2594
+http://fastream.xyz:8080/998229534tv/9lwd49/12365
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/pP8jpD3/AMC-Crimen.png" group-title="Educativos" user-agent="iPhone", AMC Crime
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://newultra.xyz:8080/34tehu87se24ma97/m37me65wu93m/236425
+http://fastream.xyz:8080/998229534tv/9lwd49/12375
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/2Ps70cC/Buen-Viaje.jpg" group-title="Educativos" user-agent="iPhone", Buen Viaje FHD
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://newultra.xyz:8080/34tehu87se24ma97/m37me65wu93m/236352
+http://fastream.xyz:8080/998229534tv/9lwd49/236353
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://images.pluto.tv/channels/6109a9f5531b840007a4a187/colorLogoPNG.png" group-title="Educativos" user-agent="iPhone", Cazador de Homicidas
 #EXTVLCOPT:http-user-agent=iPhone
@@ -608,17 +603,22 @@ http://eu.germanydns.org:8080/Ismailates33/xwhmmksp/100350
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/GkYtsFp/DMAX.jpg" group-title="Educativos" user-agent="iPhone", DMax
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://480480931676321227.ofkd0722.xyz:80/live/Wilfix179/84567324/321227.ts
+http://fastream.xyz:8080/998229534tv/9lwd49/236499
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/JnkYkHR/Dcasa.jpg" group-title="Educativos" user-agent="iPhone", De Casa
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/2549
+http://fastream.xyz:8080/998229534tv/9lwd49/236360
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/Bq0Xjhf/Animal-Planet.png" group-title="Educativos" user-agent="iPhone", Discovery Animal Planet
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 http://204.157.251.250:8000/play/a07l/index.m3u8
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/Bq0Xjhf/Animal-Planet.png" group-title="Educativos" user-agent="iPhone", Discovery Animal Planet
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://fastream.xyz:8080/998229534tv/9lwd49/402
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/SyyDDQB/discovery.png" group-title="Educativos" user-agent="iPhone", Discovery Channel FHD
 #EXTVLCOPT:http-user-agent=iPhone
@@ -628,7 +628,7 @@ http://200.59.188.3:8000/play/a031
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/SyyDDQB/discovery.png" group-title="Educativos" user-agent="iPhone", Discovery Channel
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://168.197.196.98:9981/stream/channelid/1956161160?profile=pass
+http://vipgsiv.top:8080/VIP01343172597743697/f23d066d4ae3/708
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/SyyDDQB/discovery.png" group-title="Educativos" user-agent="iPhone", Discovery Channel
 #EXTVLCOPT:http-user-agent=iPhone
@@ -638,57 +638,77 @@ http://204.157.251.250:8000/play/a07k/index.m3u8
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/JxLB9yS/hgtv.png" group-title="Educativos" user-agent="iPhone", Discovery Home Garden Tv FHD
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://168.197.196.98:9981/stream/channelid/1549599122?profile=pass
+http://fastream.xyz:8080/998229534tv/9lwd49/59435
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/9GkYvsp/h-h.jpg" group-title="Educativos" user-agent="iPhone", Discovery Home & Health
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://168.197.196.98:9981/stream/channelid/650301474?profile=pass
-
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/9GkYvsp/h-h.jpg" group-title="Educativos" user-agent="iPhone", Discovery Home & Health
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-http://204.157.251.250:8000/play/a08d/index.m3u8
+http://fastream.xyz:8080/998229534tv/9lwd49/59529
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/9GkYvsp/h-h.jpg" group-title="Educativos" user-agent="iPhone", Discovery Home & Health
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/51409
 
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/9GkYvsp/h-h.jpg" group-title="Educativos" user-agent="iPhone", Discovery Home & Health
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://200.59.188.3:8000/play/a01e
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/9GkYvsp/h-h.jpg" group-title="Educativos" user-agent="iPhone", Discovery Home & Health
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://204.157.251.250:8000/play/a08d/index.m3u8
+
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/6PPyvXN/id.png" group-title="Educativos" user-agent="iPhone", Discovery ID
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 http://204.157.251.250:8000/play/a08e/index.m3u8
 
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/6PPyvXN/id.png" group-title="Educativos" user-agent="iPhone", Discovery ID
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://38.41.8.1:8000/play/a071
+
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/gv5cmqF/co-discovery-science-m.png" group-title="Educativos" user-agent="iPhone", Discovery Science
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/9059
+http://fastream.xyz:8080/998229534tv/9lwd49/414
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/sWB0sYw/Theater.png" group-title="Educativos" user-agent="iPhone", Discovery Theater FHD
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://168.197.196.98:9981/stream/channelid/419708250?profile=pass
+http://fastream.xyz:8080/998229534tv/9lwd49/418
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/sWB0sYw/Theater.png" group-title="Educativos" user-agent="iPhone", Discovery Theater
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://onceeer.top:8080/621721312214171/879448a844bd/18486
+http://vipgsiv.top:8080/VIP01343172597743697/f23d066d4ae3/5144
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/N18qmB3/dturbo.png" group-title="Educativos" user-agent="iPhone", Discovery Turbo
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 http://204.157.251.250:8000/play/a08c/index.m3u8
 
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/N18qmB3/dturbo.png" group-title="Educativos" user-agent="iPhone", Discovery Turbo
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://fastream.xyz:8080/998229534tv/9lwd49/59461
+
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/2chdyKS/img-20190616-125035.png" group-title="Educativos" user-agent="iPhone", Discovery World FHD
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://168.197.196.98:9981/stream/channelid/2091100492?profile=pass
+http://fastream.xyz:8080/998229534tv/9lwd49/423
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/2chdyKS/img-20190616-125035.png" group-title="Educativos" user-agent="iPhone", Discovery World FHD
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://200.59.188.3:8000/play/a01w
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/Pjf1dS7/Documentales.png" group-title="Educativos" user-agent="iPhone", Documentales M+
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://608220176697552956.ofkd0722.xyz:80/play/hu97074/BbauEv3S4Pv/552956.ts
+http://vipgsiv.top:8080/VIP01343172597743697/f23d066d4ae3/87108
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/nD3P0rN/Espa-olesporelmundo.jpg" group-title="Educativos" user-agent="iPhone", Españoles en el mundo
 #EXTVLCOPT:http-user-agent=iPhone
@@ -713,7 +733,7 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="Educativos" user-agent="iPhone", Historia Es
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://yesimes.oknirvana.club:8880/DAALM2523/ZASc5gv9pd/29308
+http://fastream.xyz:8080/998229534tv/9lwd49/236341
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="Educativos" user-agent="iPhone", Historia Es
 #EXTVLCOPT:http-user-agent=iPhone
@@ -728,12 +748,22 @@ http://eu.germanydns.org:8080/Ismailates33/xwhmmksp/100333
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="Educativos" user-agent="iPhone", Historia Es
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://vipatdom.top:8080/VIP0184169483221820/51701693551952/713
+http://yesimes.oknirvana.club:8880/DAALM2523/ZASc5gv9pd/29308
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="Educativos" user-agent="iPhone", Historia Es
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://vipgsiv.top:8080/VIP01343172597743697/f23d066d4ae3/713
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="Educativos" user-agent="iPhone", History FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT--http-reconnect=true
-http://168.197.196.98:9981/stream/channelid/788658705?profile=pass
+http://fastream.xyz:8080/998229534tv/9lwd49/431
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="Educativos" user-agent="iPhone", History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT--http-reconnect=true
+http://204.157.251.250:8000/play/a07m/index.m3u8
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="Educativos" user-agent="iPhone", History
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -750,11 +780,6 @@ http://newultra.xyz:8080/34tehu87se24ma97/m37me65wu93m/435
 #EXTVLCOPT--http-reconnect=true
 http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/3163
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="Educativos" user-agent="iPhone", History
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT--http-reconnect=true
-http://204.157.251.250:8000/play/a07m/index.m3u8
-
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/DDxrqKz/h2.png" group-title="Educativos" user-agent="iPhone", H2 La FHD
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
@@ -763,7 +788,7 @@ http://abcnew.site:8880/D12m100001/63249687/49706
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/DDxrqKz/h2.png" group-title="Educativos" user-agent="iPhone", H2 La
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://168.197.196.98:9981/stream/channelid/838869389?profile=pass
+http://200.59.188.3:8000/play/a033
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://images.pluto.tv/channels/5de5758e1a30dc00094fcd6c/colorLogoPNG.png" group-title="Educativos" user-agent="iPhone", Historia
 #EXTVLCOPT:http-user-agent=iPhone
@@ -783,7 +808,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d3696d938c900072679
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/sqVJhRg/Caza-y-Pesca-Iberalia.png" group-title="Educativos" user-agent="iPhone", Iberalia
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://fastream.xyz:8080/josemeratv/w7c8y0/12400
+http://vipgsiv.top:8080/VIP01343172597743697/f23d066d4ae3/714
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://images.pluto.tv/channels/62154548a2be360007cb02f0/colorLogoPNG.png" group-title="Educativos" user-agent="iPhone", Ice Pilots
 #EXTVLCOPT:http-user-agent=iPhone
@@ -805,10 +830,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e67d41b93312100076f3f
 #EXTVLCOPT--http-reconnect=true
 http://190.102.242.130:25461/171465451/1234/94
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/1shKZmy/Love-Nature-logo.jpg" group-title="Educativos" user-agent="iPhone", Love Nature FHD
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/dLGrfvJ/Love-the-Planet.jpg" group-title="Educativos" user-agent="iPhone", Love the Planet
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://38.187.2.194:8000/play/a09l
+http://fastream.xyz:8080/998229534tv/9lwd49/451
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/1shKZmy/Love-Nature-logo.jpg" group-title="Educativos" user-agent="iPhone", Love Nature
 #EXTVLCOPT:http-user-agent=iPhone
@@ -858,17 +883,17 @@ https://ov-mvg-mv-es.ottera.tv/mvg/mv_es/mv_es_720p_low.m3u8
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/z7DwS7B/nationalgeo.png" group-title="Educativos" user-agent="iPhone", Nat Geo FHD Es
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/29226
-
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/z7DwS7B/nationalgeo.png" group-title="Educativos" user-agent="iPhone", Nat Geo Mx
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-http://168.197.196.98:9981/stream/channelid/1339532407?profile=pass
+http://vipgsiv.top:8080/VIP01343172597743697/f23d066d4ae3/5072
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/z7DwS7B/nationalgeo.png" group-title="Educativos" user-agent="iPhone", Nat Geo FHD
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/58016
+http://vipgsiv.top:8080/VIP01343172597743697/f23d066d4ae3/4791
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/z7DwS7B/nationalgeo.png" group-title="Educativos" user-agent="iPhone", Nat Geo Mx
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://190.242.41.219:8000/play/a029/index.m3u8
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/z7DwS7B/nationalgeo.png" group-title="Educativos" user-agent="iPhone", Nat Geo
 #EXTVLCOPT:http-user-agent=iPhone
@@ -880,10 +905,10 @@ http://181.78.105.146:8800/play/a044
 #EXTVLCOPT--http-reconnect=true
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1137
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/0rMN4vh/dl.jpg" group-title="Educativos" user-agent="iPhone", Nature Deluxe Lounge
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/8YJPFYc/Nat-Geo-Wild.png" group-title="Educativos" user-agent="iPhone", Nat Geo Wild Es
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-https://jmp2.uk/SamsungTVPlus/ESBA1500001C4.m3u8
+http://fastream.xyz:8080/998229534tv/9lwd49/442
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://images.pluto.tv/channels/5f4fed840a2764000720d966/colorLogoPNG.png" group-title="Educativos" user-agent="iPhone", Nature Scape
 #EXTVLCOPT:http-user-agent=iPhone
@@ -893,7 +918,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4fed840a2764000720d9
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/XZcW0JW/Odisea.png" group-title="Educativos" user-agent="iPhone", Odisea
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2194
+http://fastream.xyz:8080/998229534tv/9lwd49/12373
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/C0JhfbN/926-Oxigeno-Network.png" group-title="Educativos" user-agent="iPhone", Oxigeno
 #EXTVLCOPT:http-user-agent=iPhone
@@ -913,7 +938,7 @@ http://181.78.105.146:8800/play/a023
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/qWC2wRF/tlc.png" group-title="Educativos" user-agent="iPhone", TLC
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://vipatdom.top:8080/VIP0184169483221820/51701693551952/5214
+http://vipgsiv.top:8080/VIP01343172597743697/f23d066d4ae3/5214
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/qWC2wRF/tlc.png" group-title="Educativos" user-agent="iPhone", TLC
 #EXTVLCOPT:http-user-agent=iPhone
@@ -978,7 +1003,7 @@ http://fastream.xyz:8080/981228596tv/ldnkq06521/54696
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/px7ygjB/UCM.png" group-title="Cine y Series" user-agent="iPhone", UCM
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://fastream.xyz:8080/981228596tv/ldnkq06521/54697
+http://fastream.xyz:8080/981228596tv/ldnkq06521/54690
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="Cine y Series" user-agent="iPhone", Estrenos 24/7
 #EXTVLCOPT:http-user-agent=iPhone
