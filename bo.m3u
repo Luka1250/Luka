@@ -225,6 +225,11 @@ http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://videostream.shockmedia.com.ar:19360/redamericatv/redamericatv.m3u8
 
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/Qf0fvt2/Sudamericana.jpg" group-title="Nacionales" user-agent="iPhone", Red Sudamericana
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://200.58.160.67:8081/envivo/sudamericana/playlist.m3u8
+
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/w0DdYgK/RTP.png" group-title="Nacionales" user-agent="iPhone", RTP
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
