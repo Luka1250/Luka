@@ -10,6 +10,11 @@ http://bantel-cdn1.iptvperu.tv:1935/cdntij/americatv.stream/playlist.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://streamer03.digital.com.bo/2ap337/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8
 
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/M2jn6ky/Unitel.jpg" group-title="Nacionales" user-agent="iPhone", Unitel SD
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://38.41.8.1:8000/play/a0d7
+
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/M2jn6ky/Unitel.jpg" group-title="Nacionales" user-agent="iPhone", Unitel / Red Uno / Tigo Sports
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
@@ -125,10 +130,10 @@ http://200.58.160.67:8081/carrusel/carrusel/playlist.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://vsrv1.az-streamingserver.com:3068/live/vdsocmnulive.m3u8
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/gyZQxLH/enteltv.jpg" group-title="Nacionales" user-agent="iPhone", Entel Tv
+#EXTINF:0 player-buffer="30" tvg-logo="https://faptv.bo/wp-content/uploads/2024/09/web.png" group-title="Nacionales" user-agent="iPhone", Fap
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://38.187.2.194:8000/play/a0q3
+https://envivo.bolivia-link.com:3234/live/faptvlive.m3u8
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/qdY2C3L/F10.jpg" group-title="Nacionales" user-agent="iPhone", F10
 #EXTVLCOPT:http-user-agent=iPhone
@@ -323,7 +328,7 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/l4hjmzyf/288/chunklist.m3
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/0Z8LVRm/ESNE.png" group-title="Religioso" user-agent="iPhone", ESNE
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-https://zypelive-amd-uswe.akamaized.net/hls/live/2041519/main/defEvent_1_288/hdntl=exp=1725718792~acl=%2f*~data=hdntl~hmac=8f49ad82f39526efdfad9b134d05e7b433e1cd2555497f7386b4f647bd1e65a1/chunklist.m3u8
+http://38.41.8.1:8000/play/a069
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/DzKK8CN/RTVGuadalupe.jpg" group-title="Religioso" user-agent="iPhone", Guadalupe Radio y Tv
 #EXTVLCOPT:http-user-agent=iPhone
@@ -419,11 +424,6 @@ http://190.242.41.219:8000/play/a04j/index.m3u8
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
-
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/T2G6dF4/canal-Rural.png" group-title="Agro" user-agent="iPhone", Rural
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT:network-caching=4000
-http://168.197.196.98:9981/stream/channelid/1807589646?profile=pass
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/j3NJ71B/andalucia-cocina.jpg" group-title="Cocina" user-agent="iPhone", Andalucía Cocina
 #EXTVLCOPT:http-user-agent=iPhone
@@ -4969,3 +4969,18 @@ http://fastream.xyz:8080/movie/945868581tv/m94pq0/918.mkv
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 http://fastream.xyz:8080/movie/998229534tv/9lwd49/249907.mp4
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wktIMdLEtHSS7o6XO6q57KRYPWi.jpg" group-title="Movies" user-agent="iPhone", Annabelle
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://fastream.xyz:8080/movie/982262867tv/ol006d/247912.mp4
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dpdPo1kPE5y1pBopxKnchlSX8i8.jpg" group-title="Movies" user-agent="iPhone", Annabelle 2: La Creacion
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://fastream.xyz:8080/movie/982262867tv/ol006d/247913.mp4
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zxwPksbRKGaAi06rapPfFTVsMHv.jpg" group-title="Movies" user-agent="iPhone", Annabelle 3: Viene a casa
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://fastream.xyz:8080/movie/982262867tv/ol006d/247914.mp4
