@@ -3,7 +3,7 @@
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/bPKWXGc/america.jpg" group-title="Nacionales" user-agent="iPhone", America Pe
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://bantel-cdn1.iptvperu.tv:1935/cdntij/americatv.stream/playlist.m3u8
+http://190.95.220.212:8000/play/a00i/index.m3u8
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/M2jn6ky/Unitel.jpg" group-title="Nacionales" user-agent="iPhone", Unitel FHD
 #EXTVLCOPT:http-user-agent=iPhone
@@ -390,6 +390,11 @@ https://stream.arcast.net:4443/canal21/ngrp:canal21_all/chunklist_b653840.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://rtmp.info/cabinafides/envivo/chunklist.m3u8
 
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/SRKVqxD/TAM.png" group-title="Religioso" user-agent="iPhone", TAM
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+https://tv.webtuya.com:3459/live/tammeridalive.m3u8
+
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/99vM0p9/Logo-TVCa-2017.png" group-title="Religioso" user-agent="iPhone", Televisión Católica Arquidiocesana Sa
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
@@ -418,7 +423,7 @@ https://ythls.armelin.one/channel/UCnB5vfb9FMMNTnC6-kAT3fQ.m3u8
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/8NctkFh/Agro.jpg" group-title="Agro" user-agent="iPhone", Agro Tv
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://190.242.41.219:8000/play/a04j/index.m3u8
+http://179.49.163.34:45000/play/a01h/index.m3u8
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/ft1s0Lz/agrotvpe.jpg" group-title="Agro" user-agent="iPhone", Agro Tv Pe
 #EXTVLCOPT:http-user-agent=iPhone
@@ -458,7 +463,7 @@ http://fastream.xyz:8080/998229534tv/9lwd49/596
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/FKBwMW7/hogar-tv.jpg" group-title="Cocina" user-agent="iPhone", Hogar Tv FHD
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://190.242.41.219:8000/play/a04k/index.m3u8
+http://45.176.232.106:45000/play/a050/index.m3u8
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://images.pluto.tv/channels/6095ad97351eb0000754c1e6/colorLogoPNG.png" group-title="Cocina" user-agent="iPhone", Hells Kitchen
 #EXTVLCOPT:http-user-agent=iPhone
@@ -490,11 +495,6 @@ https://amg00047-tastemade-es16intl-canelatv-9t8xw.amagi.tv/playlist/amg00047-ta
 #EXTVLCOPT--http-reconnect=true
 http://181.78.105.146:8800/play/a040
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/9hSVwKM/Canela-Telenovelas.jpg" group-title="Novelas" user-agent="iPhone", Canela Telenovelas
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
-
 #EXTINF:0 player-buffer="30" tvg-logo="https://ipuntotv.com/Images/Kanal-D-Logo.jpg" group-title="Novelas" user-agent="iPhone", Kanal D Drama
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
@@ -503,7 +503,7 @@ http://200.59.188.3:8000/play/a021
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/KVcyWRX/Pasionestv.png" group-title="Novelas" user-agent="iPhone", Pasiones FHD
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://190.242.41.219:8000/play/a01y/index.m3u8
+http://190.95.220.212:8000/play/a02m/index.m3u8
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/C9K3g5V/RCN-Novelas.jpg" group-title="Novelas" user-agent="iPhone", RCN Novelas
 #EXTVLCOPT:http-user-agent=iPhone
@@ -578,7 +578,7 @@ http://fastream.xyz:8080/series/981228596tv/ldnkq06521/251371.mkv
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/x726B5V/Break.png" group-title="Educativos" user-agent="iPhone", AMC Break
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://fastream.xyz:8080/998229534tv/9lwd49/12365
+http://fastream.xyz:8080/998229534tv/9lwd49/12422
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/pP8jpD3/AMC-Crimen.png" group-title="Educativos" user-agent="iPhone", AMC Crime
 #EXTVLCOPT:http-user-agent=iPhone
@@ -753,7 +753,7 @@ http://vo01.mohdtv.com:8880/hdtvwebhtw0ac43ccdf72d77ac1f59b74eb5134fb5d/93107788
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="Educativos" user-agent="iPhone", Historia Es
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://dazn-servizi.ddns.net:8080/daniTrudering1/ZD5gNxe6qK/65383
+http://vo01.mohdtv.com:8880/voby5235/43867735/29308
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="Educativos" user-agent="iPhone", Historia Es
 #EXTVLCOPT:http-user-agent=iPhone
@@ -2963,7 +2963,7 @@ https://isaocorp.cloudecast.com/toptv/index.m3u8
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/bPKWXGc/america.jpg" group-title="Entretenimiento" user-agent="iPhone", America Pe
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-http://38.187.2.194:8000/play/a09c
+http://bantel-cdn1.iptvperu.tv:1935/cdntij/americatv.stream/playlist.m3u8
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/7zvBwq4/acs.jpg" group-title="Entretenimiento" user-agent="iPhone", ACS Network
 #EXTVLCOPT:http-user-agent=iPhone
