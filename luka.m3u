@@ -1,16 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="America Tv" tvg-logo="https://i.ibb.co/bPKWXGc/america.jpg" status="timeout" group-title="Nacionales", América Pe
 http://fastream.xyz:8080/998229534tv/9lwd49/247
-#EXTINF:-1 tvg-id="Unitel" tvg-logo="https://i.ibb.co/M2jn6ky/Unitel.jpg" status="timeout" group-title="Nacionales", Unitel FHD
-https://streamer01.digital.com.bo/2ap337/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 tvg-id="Unitel" tvg-logo="https://i.ibb.co/M2jn6ky/Unitel.jpg" status="timeout" group-title="Nacionales", Unitel
 http://200.58.160.67:8081/envivo/unitel/playlist.m3u8
+#EXTINF:-1 tvg-id="Unitel" tvg-logo="https://i.ibb.co/M2jn6ky/Unitel.jpg" status="timeout" group-title="Nacionales", Unitel FHD
+https://streamer01.digital.com.bo/2ap337/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8
+#EXTINF:-1 tvg-id="Red Uno" tvg-logo="https://i.ibb.co/2yHQxQJ/tigo.png" status="timeout" group-title="Nacionales", Unitel - Red Uno - Tigo Sports
+https://master.tucableip.com//movil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Red Uno" tvg-logo="https://i.ibb.co/mDBcFJB/red-uno-bo.png" status="timeout" group-title="Nacionales", Red Uno
 https://streamer01.digital.com.bo/2ap337/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 tvg-id="Red Uno" tvg-logo="https://i.ibb.co/mDBcFJB/red-uno-bo.png" status="timeout" group-title="Nacionales", Red Uno Lpz
 http://45.5.151.151:8000/play/a0n5/index.m3u8
-#EXTINF:-1 tvg-id="Red Uno" tvg-logo="https://i.ibb.co/2yHQxQJ/tigo.png" status="timeout" group-title="Nacionales", Tigo Sports
-https://master.tucableip.com//movil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TVU UAGRM" tvg-logo="https://i.ibb.co/Q63cyZF/TVUAGRM.jpg" status="timeout" group-title="Nacionales", TVU UAGRM
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/TVUNIVERSITARIA/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 tvg-id="DTV" tvg-logo="https://i.ibb.co/4K7Zzbn/DTV.jpg" status="timeout" group-title="Nacionales", DTV
