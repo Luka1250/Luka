@@ -795,12 +795,16 @@ http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/283272.ts
 http://190.92.10.66:4000/play/a008/index.m3u8
 #EXTINF:-1 tvg-id="Deportes TVC" tvg-logo="https://i.ibb.co/WvwHf2d/Deportes-TVC.png" status="timeout" group-title="Deportes", Deportes TVC
 http://fastream.xyz:8080/998229534tv/9lwd49/24950
+#EXTINF:-1 tvg-id="DSports" tvg-logo="https://i.ibb.co/crvGgqH/Dsports.jpg" status="timeout" group-title="Deportes", DSports Ar
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/158511
 #EXTINF:-1 tvg-id="DSports" tvg-logo="https://i.ibb.co/crvGgqH/Dsports.jpg" status="timeout" group-title="Deportes", DSports Co
 http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/80111
 #EXTINF:-1 tvg-id="DSports" tvg-logo="https://i.ibb.co/crvGgqH/Dsports.jpg" status="timeout" group-title="Deportes", DSports Pe
-http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/80112
-#EXTINF:-1 tvg-id="DSports" tvg-logo="https://i.ibb.co/crvGgqH/Dsports.jpg" status="timeout" group-title="Deportes", DSports Pe
 http://pro.ipcover.tv:8080/Pierre31626/31626Pierre/311527
+#EXTINF:-1 tvg-id="DSports 2" tvg-logo="https://i.ibb.co/23SNqbb/DSports2.png" status="timeout" group-title="Deportes", DSports 2
+http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/80112
+#EXTINF:-1 tvg-id="DSports 2" tvg-logo="https://i.ibb.co/23SNqbb/DSports2.png" status="timeout" group-title="Deportes", DSports 2
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/257326
 #EXTINF:-1 tvg-id="DSports 2" tvg-logo="https://i.ibb.co/23SNqbb/DSports2.png" status="timeout" group-title="Deportes", DSports 2
 http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/1243.ts
 #EXTINF:-1 tvg-id="ECDF" tvg-logo="https://i.ibb.co/gVqvSPx/ECDF.jpg" status="timeout" group-title="Deportes", El Canal del Futbol
@@ -858,17 +862,21 @@ http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/1280
 #EXTINF:-1 tvg-id="Fox Sports" tvg-logo="https://i.ibb.co/NrnK18q/foxsport.png" status="timeout" group-title="Deportes", Fox Sports
 http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/1275
 #EXTINF:-1 tvg-id="Fox Sports" tvg-logo="https://i.ibb.co/NrnK18q/foxsport.png" status="timeout" group-title="Deportes", Fox Sports
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/21298
+#EXTINF:-1 tvg-id="Fox Sports" tvg-logo="https://i.ibb.co/NrnK18q/foxsport.png" status="timeout" group-title="Deportes", Fox Sports
 http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/1279
 #EXTINF:-1 tvg-id="Fox Sports 2" tvg-logo="https://i.ibb.co/MyvVsWt/foxsport2.jpg" status="timeout" group-title="Deportes", Fox Sports 2 HD
 http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/1273
 #EXTINF:-1 tvg-id="Fox Sports 2" tvg-logo="https://i.ibb.co/MyvVsWt/foxsport2.jpg" status="timeout" group-title="Deportes", Fox Sports 2
-http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/311894.ts
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/19495
 #EXTINF:-1 tvg-id="Fox Sports 2" tvg-logo="https://i.ibb.co/MyvVsWt/foxsport2.jpg" status="timeout" group-title="Deportes", Fox Sports 2
 http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/1276
 #EXTINF:-1 tvg-id="Fox Sports 3" tvg-logo="https://i.ibb.co/ScsjHxD/foxsport3.jpg" status="timeout" group-title="Deportes", Fox Sports 3 HD
 http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/1274
 #EXTINF:-1 tvg-id="Fox Sports 3" tvg-logo="https://i.ibb.co/ScsjHxD/foxsport3.jpg" status="timeout" group-title="Deportes", Fox Sports 3
 http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/260598.ts
+#EXTINF:-1 tvg-id="Fox Sports 3" tvg-logo="https://i.ibb.co/ScsjHxD/foxsport3.jpg" status="timeout" group-title="Deportes", Fox Sports 3
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/9538
 #EXTINF:-1 tvg-id="Fox Sports Premium" tvg-logo="https://i.ibb.co/2K96Pnq/Fox-Sports-Premium.jpg" status="timeout" group-title="Deportes", Fox Sports Premium
 http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/13775
 #EXTINF:-1 tvg-id="Gol Peru" tvg-logo="https://i.ibb.co/N3Dq4tQ/golperu.jpg" status="timeout" group-title="Deportes", Gol Peru
@@ -963,6 +971,8 @@ http://canal-pro.xyz:8080/95831942/Wse32F5/59451
 https://omnimartonline.xyz/live/ionescu.marian/8ikGRIpj0m1/304932.m3u
 #EXTINF:-1 tvg-id="Garfield y sus amigos" tvg-logo="https://i.ibb.co/8sktynv/Garfield-y-sus-amigos.jpg" status="timeout" group-title="Infantiles", Garfield y sus amigos
 http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/250550
+#EXTINF:-1 tvg-id="Jorge el curioso" tvg-logo="https://i.ibb.co/gWpmXWH/Jorge-el-curioso.jpg" status="timeout" group-title="Infantiles", Jorge el curioso
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/216296
 #EXTINF:-1 tvg-id="La Pantera Rosa" tvg-logo="https://i.ibb.co/ZTHGfYb/Pantera-rosa.jpg" status="timeout" group-title="Infantiles", La Pantera Rosa
 http://home-playtv.com:8080/Flacotv@7/APQMB@1a/107989
 #EXTINF:-1 tvg-id="La Pantera Rosa" tvg-logo="https://i.ibb.co/ZTHGfYb/Pantera-rosa.jpg" status="timeout" group-title="Infantiles", La Pantera Rosa
@@ -1980,90 +1990,146 @@ https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_0720.m3u8
 #EXTINF:-1 tvg-id="Wild Earthm Us" tvg-logo="https://i.ibb.co/ggr7ggj/we.jpg" status="timeout" group-title="Internacionales", Wild Earthm Us
 https://wildearth-roku.amagi.tv:443/masterR1080p.m3u8
 #EXTINF:-1 tvg-id="Babes" tvg-logo="https://i.ibb.co/zx2YDr4/Babes-Tv.jpg" status="timeout" group-title="+18", Babes Tv
-http://bpuolx4v.statgovlt.fun/iptv/N6RW2X3HSTZFDP/2161/index.m3u8
+http://185.182.193.203:25461/wadeejizan/64993752/66389
 #EXTINF:-1 tvg-id="Barely legal" tvg-logo="http://epg.it999.ru/img/2313.png" status="timeout" group-title="+18", Barely legal
-http://bpuolx4v.statgovlt.fun/iptv/N6RW2X3HSTZFDP/871/index.m3u8
-#EXTINF:-1 tvg-id="Brazzers Europa" tvg-logo="http://epg.it999.ru/img/3151.png" status="timeout" group-title="+18", Brazzers
-http://vipgsiv.top:8080/VIP0148171293275467/45e797e86fa6/129399
+http://185.182.193.203:25461/wadeejizan/64993752/102
 #EXTINF:-1 tvg-id="Brazzers Europa" tvg-logo="https://i.ibb.co/6JQZ9k2/Brazzers-Europa.png" status="timeout" group-title="+18", Brazzers Europa FHD
+http://185.182.193.203:25461/wadeejizan/64993752/42
+#EXTINF:-1 tvg-id="Brazzers Europa" tvg-logo="https://i.ibb.co/6JQZ9k2/Brazzers-Europa.png" status="timeout" group-title="+18", Brazzers Europa
 http://vipgsiv.top:8080/VIP0148171293275467/45e797e86fa6/25690
 #EXTINF:-1 tvg-id="DDF Network" tvg-logo="http://epg.it999.ru/img/3163.png" status="timeout" group-title="+18", DDF Network
-http://bpuolx4v.statgovlt.fun/iptv/N6RW2X3HSTZFDP/6193/index.m3u8
+http://185.182.193.203:25461/wadeejizan/64993752/72826
 #EXTINF:-1 tvg-id="Desire" tvg-logo="https://i.ibb.co/dgH046y/Desire.jpg" status="timeout" group-title="+18", Desire FHD
-http://31.148.48.15:80/O-la-la/index.m3u8?token=test
+http://185.182.193.203:25461/wadeejizan/64993752/72528
 #EXTINF:-1 tvg-id="Dorcel" tvg-logo="https://i.ibb.co/Bc0F8rj/dorcel-tv-logotipo.png" status="timeout" group-title="+18", Dorcel FHD
-http://bpuolx4v.statgovlt.fun/iptv/N6RW2X3HSTZFDP/245/index.m3u8
+http://185.182.193.203:25461/wadeejizan/64993752/58
 #EXTINF:-1 tvg-id="Dorcel XXX" tvg-logo="https://i.ibb.co/Bc0F8rj/dorcel-tv-logotipo.png" status="timeout" group-title="+18", Dorcel XXX FHD
 http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/2981
 #EXTINF:-1 tvg-id="Dusk" tvg-logo="https://i.ibb.co/bm73q50/Dusk.png" status="timeout" group-title="+18", Dusk FHD
 http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/2968
 #EXTINF:-1 tvg-id="Ero" tvg-logo="https://i.ibb.co/vxk5nj1/Ero-XXX.png" status="timeout" group-title="+18", Erox HD
-http://bpuolx4v.statgovlt.fun/iptv/N6RW2X3HSTZFDP/6296/index.m3u8
+http://185.182.193.203:25461/wadeejizan/64993752/103
 #EXTINF:-1 tvg-id="Ero" tvg-logo="https://i.ibb.co/vxk5nj1/Ero-XXX.png" status="timeout" group-title="+18", Ero xxx HD
-http://bpuolx4v.statgovlt.fun/iptv/N6RW2X3HSTZFDP/5015/index.m3u8
-#EXTINF:-1 tvg-id="Erotic 6" tvg-logo="https://i.ibb.co/RzDCP6x/Erotic5.jpg" status="timeout" group-title="+18", Erotic 5
+http://185.182.193.203:25461/wadeejizan/64993752/104
+#EXTINF:-1 tvg-id="Erotic" tvg-logo="https://i.ibb.co/rHgs2bB/Erotic.jpg" status="timeout" group-title="+18", Erotic
+http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/14144
+#EXTINF:-1 tvg-id="Erotic 4" tvg-logo="https://i.ibb.co/cktCbm3/erotic4.jpg" status="timeout" group-title="+18", Erotic 4
+http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/14108
+#EXTINF:-1 tvg-id="Erotic 5" tvg-logo="https://i.ibb.co/RzDCP6x/Erotic5.jpg" status="timeout" group-title="+18", Erotic 5
 http://fastream.xyz:8080/998229534tv/9lwd49/14116
+#EXTINF:-1 tvg-id="Erotic 6" tvg-logo="https://i.ibb.co/KKVX36C/Erotic-6.jpg" status="timeout" group-title="+18", Erotic 6
+http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/14208
 #EXTINF:-1 tvg-id="Exxxotica" tvg-logo="https://i.ibb.co/PZkCYXr/exxxotica.png" status="timeout" group-title="+18", Exxxotica
 http://31.148.48.15:80/O-la-la/index.m3u8?token=test
 #EXTINF:-1 tvg-id="Extasis" tvg-logo="https://i.ibb.co/XjqfXw6/extasy.png" status="timeout" group-title="+18", Extasis FHD
-http://bpuolx4v.statgovlt.fun/iptv/N6RW2X3HSTZFDP/11051/index.m3u8
+http://185.182.193.203:25461/wadeejizan/64993752/8256
 #EXTINF:-1 tvg-id="Family Swap" tvg-logo="https://i.ibb.co/cNQwyjC/Family-Swap.jpg" status="timeout" group-title="+18", Family Swap
-http://bpuolx4v.statgovlt.fun/iptv/N6RW2X3HSTZFDP/12155/index.m3u8
-#EXTINF:-1 tvg-id="FemJoy" tvg-logo="http://epg.it999.ru/img/3181.png" status="timeout" group-title="+18", Fem Joy
-http://bpuolx4v.statgovlt.fun/iptv/N6RW2X3HSTZFDP/6212/index.m3u8
+http://185.182.193.203:25461/wadeejizan/64993752/72772
 #EXTINF:-1 tvg-id="Fun X" tvg-logo="https://i.ibb.co/Xb8rDxN/Funx.jpg" status="timeout" group-title="+18", Fun X
 http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/33102
-#EXTINF:-1 tvg-id="Hard X" tvg-logo="http://epg.it999.ru/img/3187.png" status="timeout" group-title="+18", Hard X
-http://bpuolx4v.statgovlt.fun/iptv/N6RW2X3HSTZFDP/6218/index.m3u8
+#EXTINF:-1 tvg-id="Fun X" tvg-logo="https://i.ibb.co/Xb8rDxN/Funx.jpg" status="timeout" group-title="+18", Fun X
+http://185.182.193.203:25461/wadeejizan/64993752/69373
+#EXTINF:-1 tvg-id="Hot" tvg-logo="https://i.ibb.co/87ZJfY2/Hot.jpg" status="timeout" group-title="+18", Hot
+http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/14115
 #EXTINF:-1 tvg-id="Hot" tvg-logo="https://i.ibb.co/87ZJfY2/Hot.jpg" status="timeout" group-title="+18", Hot
 http://fastream.xyz:8080/981228596tv/ldnkq06521/14193
 #EXTINF:-1 tvg-id="Hot" tvg-logo="https://i.ibb.co/87ZJfY2/Hot.jpg" status="timeout" group-title="+18", Hot
-http://mohdtv.com:8880/voby3391/97996473/33148
+http://185.182.193.203:25461/wadeejizan/64993752/112
+#EXTINF:-1 tvg-id="Hot Gold" tvg-logo="https://i.ibb.co/PQtLZX1/Hot-Gold.jpg" status="timeout" group-title="+18", Hot Gold
+http://185.182.193.203:25461/wadeejizan/64993752/71902
 #EXTINF:-1 tvg-id="Hustler" tvg-logo="https://i.ibb.co/h78Pn6h/Hustler.png" status="timeout" group-title="+18", Hustler FHD
-http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/2985
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/478011
+#EXTINF:-1 tvg-id="Hustler" tvg-logo="https://i.ibb.co/h78Pn6h/Hustler.png" status="timeout" group-title="+18", Hustler HD
+http://185.182.193.203:25461/wadeejizan/64993752/68772
+#EXTINF:-1 tvg-id="Hustler" tvg-logo="https://i.ibb.co/h78Pn6h/Hustler.png" status="timeout" group-title="+18", Hustler HD
+http://185.182.193.203:25461/wadeejizan/64993752/37
 #EXTINF:-1 tvg-id="Hustler Blue" tvg-logo="https://i.ibb.co/9gC521X/Blue-Hustler.png" status="timeout" group-title="+18", Hustler Blue HD
-http://bpuolx4v.statgovlt.fun/iptv/N6RW2X3HSTZFDP/1064/index.m3u8
+http://185.182.193.203:25461/wadeejizan/64993752/9273
 #EXTINF:-1 tvg-id="Leo Tv FHD" tvg-logo="https://i.ibb.co/jT92sXB/Leo-Tv.jpg" status="timeout" group-title="+18", Leo Tv FHD
-http://bpuolx4v.statgovlt.fun/iptv/N6RW2X3HSTZFDP/12123/index.m3u8
-#EXTINF:-1 tvg-id="Love's Berry" tvg-logo="http://epg.it999.ru/img/5354.png" status="timeout" group-title="+18", Love's Berry HD
-http://bpuolx4v.statgovlt.fun/iptv/N6RW2X3HSTZFDP/14140/index.m3u8
+http://185.182.193.203:25461/wadeejizan/64993752/65895
+#EXTINF:-1 tvg-id="Leo Tv FHD" tvg-logo="Leo Tv Gold" status="timeout" group-title="+18", Leo Tv Gold
+http://185.182.193.203:25461/wadeejizan/64993752/72530
+#EXTINF:-1 tvg-id="Meiden Holland" tvg-logo="https://i.ibb.co/3dRTw8F/Meiden-Holland.png" status="timeout" group-title="+18", Meiden van Holland FHD
+http://mohdtv.com:8880/voby3916/65729856/33159
+#EXTINF:-1 tvg-id="Passion XXX" tvg-logo="https://i.ibb.co/SdzpF31/Passion-xxx.png" status="timeout" group-title="+18", Passion XXX
+http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/2985
+#EXTINF:-1 tvg-id="Passion XXX" tvg-logo="https://i.ibb.co/SdzpF31/Passion-xxx.png" status="timeout" group-title="+18", Passion XXX
+http://185.182.193.203:25461/wadeejizan/64993752/113
 #EXTINF:-1 tvg-id="Play Boy" tvg-logo="https://i.ibb.co/q7mB7WH/PlayBoy.jpg" status="timeout" group-title="+18", Play Boy
 http://181.78.105.146:8800/play/a01a
 #EXTINF:-1 tvg-id="Play Boy" tvg-logo="https://i.ibb.co/q7mB7WH/PlayBoy.jpg" status="timeout" group-title="+18", Play Boy
 http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/60687
 #EXTINF:-1 tvg-id="Play Boy" tvg-logo="https://i.ibb.co/q7mB7WH/PlayBoy.jpg" status="timeout" group-title="+18", Play Boy Tv
-http://bpuolx4v.statgovlt.fun/iptv/N6RW2X3HSTZFDP/527/index.m3u8
-#EXTINF:-1 tvg-id="Penthouse Gold" tvg-logo="https://i.ibb.co/gt4hV0Z/Penthouse-Gold.png" status="timeout" group-title="+18", Penthouse Gold
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/478012
+#EXTINF:-1 tvg-id="Penthouse Gold" tvg-logo="https://i.ibb.co/gt4hV0Z/Penthouse-Gold.png" status="timeout" group-title="+18", Penthouse Gold FHD
+http://185.182.193.203:25461/wadeejizan/64993752/66383
+#EXTINF:-1 tvg-id="Penthouse Gold" tvg-logo="https://i.ibb.co/gt4hV0Z/Penthouse-Gold.png" status="timeout" group-title="+18", Penthouse Gold HD
 http://31.131.136.4:8000/play/a003
 #EXTINF:-1 tvg-id="Penthouse Reality" tvg-logo="https://i.ibb.co/PDqQ5QY/Penthouse-reality.jpg" status="timeout" group-title="+18", Penthouse Reality
-http://bpuolx4v.statgovlt.fun/iptv/N6RW2X3HSTZFDP/5012/index.m3u8
+http://31.131.136.4:8000/play/a008
+#EXTINF:-1 tvg-id="PinkoTv" tvg-logo="https://i.ibb.co/j6HfthF/PinkoTv.jpg" status="timeout" group-title="+18", PinkoTv
+http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/14122
 #EXTINF:-1 tvg-id="Private" tvg-logo="http://epg.it999.ru/img/2321.png" status="timeout" group-title="+18", Private
-http://bpuolx4v.statgovlt.fun/iptv/N6RW2X3HSTZFDP/243/index.m3u8
+http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/14164
+#EXTINF:-1 tvg-id="Private" tvg-logo="http://epg.it999.ru/img/2321.png" status="timeout" group-title="+18", Private
+http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/14167
+#EXTINF:-1 tvg-id="Private" tvg-logo="http://epg.it999.ru/img/2321.png" status="timeout" group-title="+18", Private
+http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/14169
+#EXTINF:-1 tvg-id="Private" tvg-logo="http://epg.it999.ru/img/2321.png" status="timeout" group-title="+18", Private
+http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/14187
 #EXTINF:-1 tvg-id="Redlight" tvg-logo="https://i.ibb.co/XV29gkK/Redlight.png" status="timeout" group-title="+18", Redlight FHD
-http://bpuolx4v.statgovlt.fun/iptv/N6RW2X3HSTZFDP/242/index.m3u8
+http://31.131.136.4:8000/play/a004
 #EXTINF:-1 tvg-id="Reality King Tv" tvg-logo="https://i.ibb.co/gJ95vdy/Reality-King-Tv.png" status="timeout" group-title="+18", Reality King Tv FHD
-http://bpuolx4v.statgovlt.fun/iptv/N6RW2X3HSTZFDP/6247/index.m3u8
-#EXTINF:-1 tvg-id="Red Lips" tvg-logo="http://epg.it999.ru/img/7079.png" status="timeout" group-title="+18", Red Lips
-http://bpuolx4v.statgovlt.fun/iptv/N6RW2X3HSTZFDP/6271/index.m3u8
-#EXTINF:-1 tvg-id="Russian Night" tvg-logo="http://epg.it999.ru/img/2015.png" status="timeout" group-title="+18", Russian Night
-http://bpuolx4v.statgovlt.fun/iptv/N6RW2X3HSTZFDP/147/index.m3u8
-#EXTINF:-1 tvg-id="Sex Art" tvg-logo="https://i.ibb.co/pf4sJNy/Sex-Art.png" status="timeout" group-title="+18", Sex Art
-http://bpuolx4v.statgovlt.fun/iptv/N6RW2X3HSTZFDP/6165/index.m3u8
-#EXTINF:-1 tvg-id="Sexy Hot" tvg-logo="https://i.ibb.co/CBwZ9Wh/Sexy-Hot.png" status="timeout" group-title="+18", Sexy Hot FHD
-http://mohdtv.com:8880/voby3916/65729856/33159
+http://185.182.193.203:25461/wadeejizan/64993752/116
+#EXTINF:-1 tvg-id="Reality King Tv" tvg-logo="https://i.ibb.co/gJ95vdy/Reality-King-Tv.png" status="timeout" group-title="+18", Reality King Tv FHD
+http://185.182.193.203:25461/wadeejizan/64993752/72837
+#EXTINF:-1 tvg-id="Sexy Hot" tvg-logo="https://i.ibb.co/CBwZ9Wh/Sexy-Hot.png" status="timeout" group-title="+18", Sexy Hot
+http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/14149
+#EXTINF:-1 tvg-id="Sexy Hot" tvg-logo="https://i.ibb.co/CBwZ9Wh/Sexy-Hot.png" status="timeout" group-title="+18", Sexy Hot
+http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/14148
+#EXTINF:-1 tvg-id="Sexy Hot" tvg-logo="https://i.ibb.co/CBwZ9Wh/Sexy-Hot.png" status="timeout" group-title="+18", Sexy Hot
+http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/14191
+#EXTINF:-1 tvg-id="Sexy Hot" tvg-logo="https://i.ibb.co/CBwZ9Wh/Sexy-Hot.png" status="timeout" group-title="+18", Sexy Hot
+http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/14192
+#EXTINF:-1 tvg-id="Sexy Hot" tvg-logo="https://i.ibb.co/CBwZ9Wh/Sexy-Hot.png" status="timeout" group-title="+18", Sexy Hot
+http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/14194
+#EXTINF:-1 tvg-id="Sexy Hot" tvg-logo="https://i.ibb.co/CBwZ9Wh/Sexy-Hot.png" status="timeout" group-title="+18", Sexy Hot
+http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/14195
+#EXTINF:-1 tvg-id="Sexy Hot" tvg-logo="https://i.ibb.co/CBwZ9Wh/Sexy-Hot.png" status="timeout" group-title="+18", Sexy Hot
+http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/14196
+#EXTINF:-1 tvg-id="Sexy Hot" tvg-logo="https://i.ibb.co/CBwZ9Wh/Sexy-Hot.png" status="timeout" group-title="+18", Sexy Hot
+http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/14197
+#EXTINF:-1 tvg-id="Sexy Hot" tvg-logo="https://i.ibb.co/CBwZ9Wh/Sexy-Hot.png" status="timeout" group-title="+18", Sexy Hot
+http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/14198
 #EXTINF:-1 tvg-id="Sexy Hot" tvg-logo="https://i.ibb.co/CBwZ9Wh/Sexy-Hot.png" status="timeout" group-title="+18", Sexy Hot
 http://mohdtv.com:8880/voby3391/97996473/33160
+#EXTINF:-1 tvg-id="Sexy Hot" tvg-logo="https://i.ibb.co/CBwZ9Wh/Sexy-Hot.png" status="timeout" group-title="+18", Sexy Hot
+http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/14199
 #EXTINF:-1 tvg-id="Sextreme" tvg-logo="https://i.ibb.co/xGhSPQv/Sextreme.jpg" status="timeout" group-title="+18", Sextreme
-http://yesimes.oknirvana.club:8880/D12m2846/23828775/2959
-#EXTINF:-1 tvg-id="Super One" tvg-logo="https://i.ibb.co/z21t2WD/SuperOne.png" status="timeout" group-title="+18", Super One
-http://bpuolx4v.statgovlt.fun/iptv/N6RW2X3HSTZFDP/6298/index.m3u8
+http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/14159
+#EXTINF:-1 tvg-id="Sextreme" tvg-logo="https://i.ibb.co/xGhSPQv/Sextreme.jpg" status="timeout" group-title="+18", Sextreme
+http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/14158
+#EXTINF:-1 tvg-id="Sextreme" tvg-logo="https://i.ibb.co/xGhSPQv/Sextreme.jpg" status="timeout" group-title="+18", Sextreme
+http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/14161
 #EXTINF:-1 tvg-id="Venus" tvg-logo="https://i.ibb.co/nwhqNfS/Venus.png" status="timeout" group-title="+18", Venus
 http://31.131.136.4:8000/play/a00w
+#EXTINF:-1 tvg-id="Venus" tvg-logo="https://i.ibb.co/nwhqNfS/Venus.png" status="timeout" group-title="+18", Venus
+http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/14151
+#EXTINF:-1 tvg-id="Venus" tvg-logo="https://i.ibb.co/nwhqNfS/Venus.png" status="timeout" group-title="+18", Venus
+http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/14153
+#EXTINF:-1 tvg-id="Venus" tvg-logo="https://i.ibb.co/nwhqNfS/Venus.png" status="timeout" group-title="+18", Venus
+http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/14154
+#EXTINF:-1 tvg-id="Venus" tvg-logo="https://i.ibb.co/nwhqNfS/Venus.png" status="timeout" group-title="+18", Venus
+http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/14155
 #EXTINF:-1 tvg-id="Vivid" tvg-logo="https://i.ibb.co/4SsVJVT/Vivid-Tv.jpg" status="timeout" group-title="+18", Vivid FHD
 http://31.131.136.4:8000/play/a00l
+#EXTINF:-1 tvg-id="Vivid" tvg-logo="https://i.ibb.co/4SsVJVT/Vivid-Tv.jpg" status="timeout" group-title="+18", Vivid
+http://185.182.193.203:25461/wadeejizan/64993752/48
 #EXTINF:-1 tvg-id="Vivid Red" tvg-logo="https://i.ibb.co/nmYyFhQ/Vivid-Red.png" status="timeout" group-title="+18", Vivid Red
-http://bpuolx4v.statgovlt.fun/iptv/N6RW2X3HSTZFDP/2162/index.m3u8
-#EXTINF:-1 tvg-id="Wanyh" tvg-logo="https://i.ibb.co/N7rjRBr/wanyh.jpg" status="timeout" group-title="+18", Wanyh
-http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/60664
+http://185.182.193.203:25461/wadeejizan/64993752/49
+#EXTINF:-1 tvg-id="Vivid Red" tvg-logo="https://i.ibb.co/nmYyFhQ/Vivid-Red.png" status="timeout" group-title="+18", Vivid Red
+http://185.182.193.203:25461/wadeejizan/64993752/51
+#EXTINF:-1 tvg-id="Vivid Red" tvg-logo="https://i.ibb.co/nmYyFhQ/Vivid-Red.png" status="timeout" group-title="+18", Vivid Red
+http://185.182.193.203:25461/wadeejizan/64993752/52
 #EXTINF:-1 tvg-id="XXL" tvg-logo="https://i.ibb.co/zhrnNGJ/XXL.jpg" status="timeout" group-title="+18", XXL
 http://mohdtv.com:8880/voby3391/97996473/2967
