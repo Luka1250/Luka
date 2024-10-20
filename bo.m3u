@@ -75,6 +75,8 @@ https://streamer01.digital.com.bo/2ap337/__cl/cg:sworigin2/__c/PAT/__op/hls-defa
 http://45.5.151.151:8000/play/a0nc/index.m3u8
 #EXTINF:-1 tvg-id="Plus TLT" tvg-logo="https://i.ibb.co/60LG2mK/Plus-TLT.jpg" status="timeout" group-title="Nacionales", Plus TLT
 http://45.5.151.151:8000/play/a0na/index.m3u8
+#EXTINF:-1 tvg-id="Tv Punto" tvg-logo="" status="timeout" group-title="Nacionales", Tv Punto
+https://cloud5.streaminglivehd.com:3819/stream/play.m3u8
 #EXTINF:-1 tvg-id="Red America" tvg-logo="https://i.ibb.co/K0w1xd8/Red-America-Tv.jpg" status="timeout" group-title="Nacionales", Red America
 https://videostream.shockmedia.com.ar:19360/redamericatv/redamericatv.m3u8
 #EXTINF:-1 tvg-id="Red" tvg-logo="https://i.ibb.co/Qf0fvt2/Sudamericana.jpg" status="timeout" group-title="Nacionales", Red Sudamericana
@@ -1991,6 +1993,8 @@ https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_0720.m3u8
 https://wildearth-roku.amagi.tv:443/masterR1080p.m3u8
 #EXTINF:-1 tvg-id="Babes" tvg-logo="https://i.ibb.co/zx2YDr4/Babes-Tv.jpg" status="timeout" group-title="+18", Babes Tv
 http://185.182.193.203:25461/wadeejizan/64993752/66389
+#EXTINF:-1 tvg-id="Babes" tvg-logo="https://i.ibb.co/zx2YDr4/Babes-Tv.jpg" status="timeout" group-title="+18", Babes Tv
+http://abcnew.site:8880/12mk300008/52624878/2973
 #EXTINF:-1 tvg-id="Barely legal" tvg-logo="http://epg.it999.ru/img/2313.png" status="timeout" group-title="+18", Barely legal
 http://185.182.193.203:25461/wadeejizan/64993752/102
 #EXTINF:-1 tvg-id="Brazzers Europa" tvg-logo="https://i.ibb.co/6JQZ9k2/Brazzers-Europa.png" status="timeout" group-title="+18", Brazzers Europa FHD
@@ -2113,6 +2117,8 @@ http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/14158
 http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/14161
 #EXTINF:-1 tvg-id="Venus" tvg-logo="https://i.ibb.co/nwhqNfS/Venus.png" status="timeout" group-title="+18", Venus
 http://31.131.136.4:8000/play/a00w
+#EXTINF:-1 tvg-id="Venus" tvg-logo="https://i.ibb.co/nwhqNfS/Venus.png" status="timeout" group-title="+18", Venus
+http://abcnew.site:8880/12mk300008/52624878/2960
 #EXTINF:-1 tvg-id="Venus" tvg-logo="https://i.ibb.co/nwhqNfS/Venus.png" status="timeout" group-title="+18", Venus
 http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/14151
 #EXTINF:-1 tvg-id="Venus" tvg-logo="https://i.ibb.co/nwhqNfS/Venus.png" status="timeout" group-title="+18", Venus

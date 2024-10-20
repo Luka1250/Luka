@@ -75,6 +75,8 @@ https://streamer01.digital.com.bo/2ap337/__cl/cg:sworigin2/__c/PAT/__op/hls-defa
 http://45.5.151.151:8000/play/a0nc/index.m3u8
 #EXTINF:-1 tvg-id="Plus TLT" tvg-logo="https://i.ibb.co/60LG2mK/Plus-TLT.jpg" status="timeout" group-title="Nacionales", Plus TLT
 http://45.5.151.151:8000/play/a0na/index.m3u8
+#EXTINF:-1 tvg-id="Tv Punto" tvg-logo="" status="timeout" group-title="Nacionales", Tv Punto
+https://cloud5.streaminglivehd.com:3819/stream/play.m3u8
 #EXTINF:-1 tvg-id="Red America" tvg-logo="https://i.ibb.co/K0w1xd8/Red-America-Tv.jpg" status="timeout" group-title="Nacionales", Red America
 https://videostream.shockmedia.com.ar:19360/redamericatv/redamericatv.m3u8
 #EXTINF:-1 tvg-id="Red" tvg-logo="https://i.ibb.co/Qf0fvt2/Sudamericana.jpg" status="timeout" group-title="Nacionales", Red Sudamericana
@@ -795,12 +797,16 @@ http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/283272.ts
 http://190.92.10.66:4000/play/a008/index.m3u8
 #EXTINF:-1 tvg-id="Deportes TVC" tvg-logo="https://i.ibb.co/WvwHf2d/Deportes-TVC.png" status="timeout" group-title="Deportes", Deportes TVC
 http://fastream.xyz:8080/998229534tv/9lwd49/24950
+#EXTINF:-1 tvg-id="DSports" tvg-logo="https://i.ibb.co/crvGgqH/Dsports.jpg" status="timeout" group-title="Deportes", DSports Ar
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/158511
 #EXTINF:-1 tvg-id="DSports" tvg-logo="https://i.ibb.co/crvGgqH/Dsports.jpg" status="timeout" group-title="Deportes", DSports Co
 http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/80111
 #EXTINF:-1 tvg-id="DSports" tvg-logo="https://i.ibb.co/crvGgqH/Dsports.jpg" status="timeout" group-title="Deportes", DSports Pe
-http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/80112
-#EXTINF:-1 tvg-id="DSports" tvg-logo="https://i.ibb.co/crvGgqH/Dsports.jpg" status="timeout" group-title="Deportes", DSports Pe
 http://pro.ipcover.tv:8080/Pierre31626/31626Pierre/311527
+#EXTINF:-1 tvg-id="DSports 2" tvg-logo="https://i.ibb.co/23SNqbb/DSports2.png" status="timeout" group-title="Deportes", DSports 2
+http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/80112
+#EXTINF:-1 tvg-id="DSports 2" tvg-logo="https://i.ibb.co/23SNqbb/DSports2.png" status="timeout" group-title="Deportes", DSports 2
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/257326
 #EXTINF:-1 tvg-id="DSports 2" tvg-logo="https://i.ibb.co/23SNqbb/DSports2.png" status="timeout" group-title="Deportes", DSports 2
 http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/1243.ts
 #EXTINF:-1 tvg-id="ECDF" tvg-logo="https://i.ibb.co/gVqvSPx/ECDF.jpg" status="timeout" group-title="Deportes", El Canal del Futbol
@@ -858,17 +864,21 @@ http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/1280
 #EXTINF:-1 tvg-id="Fox Sports" tvg-logo="https://i.ibb.co/NrnK18q/foxsport.png" status="timeout" group-title="Deportes", Fox Sports
 http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/1275
 #EXTINF:-1 tvg-id="Fox Sports" tvg-logo="https://i.ibb.co/NrnK18q/foxsport.png" status="timeout" group-title="Deportes", Fox Sports
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/21298
+#EXTINF:-1 tvg-id="Fox Sports" tvg-logo="https://i.ibb.co/NrnK18q/foxsport.png" status="timeout" group-title="Deportes", Fox Sports
 http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/1279
 #EXTINF:-1 tvg-id="Fox Sports 2" tvg-logo="https://i.ibb.co/MyvVsWt/foxsport2.jpg" status="timeout" group-title="Deportes", Fox Sports 2 HD
 http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/1273
 #EXTINF:-1 tvg-id="Fox Sports 2" tvg-logo="https://i.ibb.co/MyvVsWt/foxsport2.jpg" status="timeout" group-title="Deportes", Fox Sports 2
-http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/311894.ts
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/19495
 #EXTINF:-1 tvg-id="Fox Sports 2" tvg-logo="https://i.ibb.co/MyvVsWt/foxsport2.jpg" status="timeout" group-title="Deportes", Fox Sports 2
 http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/1276
 #EXTINF:-1 tvg-id="Fox Sports 3" tvg-logo="https://i.ibb.co/ScsjHxD/foxsport3.jpg" status="timeout" group-title="Deportes", Fox Sports 3 HD
 http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/1274
 #EXTINF:-1 tvg-id="Fox Sports 3" tvg-logo="https://i.ibb.co/ScsjHxD/foxsport3.jpg" status="timeout" group-title="Deportes", Fox Sports 3
 http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/260598.ts
+#EXTINF:-1 tvg-id="Fox Sports 3" tvg-logo="https://i.ibb.co/ScsjHxD/foxsport3.jpg" status="timeout" group-title="Deportes", Fox Sports 3
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/9538
 #EXTINF:-1 tvg-id="Fox Sports Premium" tvg-logo="https://i.ibb.co/2K96Pnq/Fox-Sports-Premium.jpg" status="timeout" group-title="Deportes", Fox Sports Premium
 http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/13775
 #EXTINF:-1 tvg-id="Gol Peru" tvg-logo="https://i.ibb.co/N3Dq4tQ/golperu.jpg" status="timeout" group-title="Deportes", Gol Peru
@@ -963,6 +973,8 @@ http://canal-pro.xyz:8080/95831942/Wse32F5/59451
 https://omnimartonline.xyz/live/ionescu.marian/8ikGRIpj0m1/304932.m3u
 #EXTINF:-1 tvg-id="Garfield y sus amigos" tvg-logo="https://i.ibb.co/8sktynv/Garfield-y-sus-amigos.jpg" status="timeout" group-title="Infantiles", Garfield y sus amigos
 http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/250550
+#EXTINF:-1 tvg-id="Jorge el curioso" tvg-logo="https://i.ibb.co/gWpmXWH/Jorge-el-curioso.jpg" status="timeout" group-title="Infantiles", Jorge el curioso
+http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/216296
 #EXTINF:-1 tvg-id="La Pantera Rosa" tvg-logo="https://i.ibb.co/ZTHGfYb/Pantera-rosa.jpg" status="timeout" group-title="Infantiles", La Pantera Rosa
 http://home-playtv.com:8080/Flacotv@7/APQMB@1a/107989
 #EXTINF:-1 tvg-id="La Pantera Rosa" tvg-logo="https://i.ibb.co/ZTHGfYb/Pantera-rosa.jpg" status="timeout" group-title="Infantiles", La Pantera Rosa
