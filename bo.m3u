@@ -60,7 +60,7 @@ https://master.tucableip.com//ftv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Gogo Play Tv" tvg-logo="https://i.ibb.co/L85THzw/Gogoplay.jpg" status="timeout" group-title="Nacionales", Gogo Play Tv
 https://fl1002.bozztv.com/ssh101/gogoplay/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Imperial Tv" tvg-logo="https://i.ibb.co/GpHvf1d/imperial.png" status="timeout" group-title="Nacionales", Imperial Tv
-https://vdo.grupolimalive.com:3162/live/imperialtvlive.m3u8
+https://vdo.grupolimalive.com:3226/live/imperlive.m3u8
 #EXTINF:-1 tvg-id="IN Tv Bolivia" tvg-logo="https://i.ibb.co/bH2YxbQ/IN-Tv-Bolivia.jpg" status="timeout" group-title="Nacionales", IN Tv Bolivia
 https://envivo.bolivia-link.com:3580/live/intvlive.m3u8
 #EXTINF:-1 tvg-id="MarVision" tvg-logo="https://i.ibb.co/6RF1rCs/Mark.jpg" status="timeout" group-title="Nacionales", MarVision
@@ -133,10 +133,10 @@ http://player.cetelmon.tv/protecteddfd43c2f3a8b41f3f28582bf8993aca6/992_low.m3u8
 http://181.78.211.244:8000/play/a026/index.m3u8
 #EXTINF:-1 tvg-id="Diocesana" tvg-logo="https://i.ibb.co/7vpSpF0/Diocesana.png" status="timeout" group-title="Religioso", Diocesana Toledo España
 https://nlb2-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/fragments/live-1000/index.m3u8
+#EXTINF:-1 tvg-id="ESNE" tvg-logo="https://i.ibb.co/0Z8LVRm/ESNE.png" status="timeout" group-title="Religioso", ES NE
+http://45.4.85.214:58001/play/a02a
 #EXTINF:-1 tvg-id="EWTN" tvg-logo="https://i.ibb.co/rmcb0T3/ewtn.jpg" status="timeout" group-title="Religioso", EWTN el Canal Católico
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/l4hjmzyf/288/chunklist.m3u8
-#EXTINF:-1 tvg-id="ESNE" tvg-logo="https://i.ibb.co/0Z8LVRm/ESNE.png" status="timeout" group-title="Religioso", ES NE
-http://167.250.180.251:4001/play/a0h4/index.m3u8
 #EXTINF:-1 tvg-id="Guadalupe" tvg-logo="https://i.ibb.co/DzKK8CN/RTVGuadalupe.jpg" status="timeout" group-title="Religioso", Guadalupe Radio y Tv
 https://www.guadalupetv.tv:19360/grlive/1080p.m3u8
 #EXTINF:-1 tvg-id="ISB" tvg-logo="https://i.ibb.co/z8tM36L/ISB.png" status="timeout" group-title="Religioso", Iglesia de San Bernardo
@@ -148,7 +148,9 @@ https://tgn2.bozztv.com/lavozdemaria/output5/output5.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="Logos Kids" tvg-logo="https://i.ibb.co/LZJ0q3Y/Logos-Kids.png" status="timeout" group-title="Religioso", Logos Kids
 https://streamer1.streamhost.org/salive/logoskidsH/chunklist.m3u8
 #EXTINF:-1 tvg-id="Maria Visión Es" tvg-logo="https://i.ibb.co/0yqjzVJ/Maria-vision.jpg" status="timeout" group-title="Religioso", Maria Visión Es
-https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Italiatre/chunklist_b1428000.m3u8
+https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Italiatre/chunklist.m3u8
+#EXTINF:-1 tvg-id="Maria Visión" tvg-logo="https://i.ibb.co/0yqjzVJ/Maria-vision.jpg" status="timeout" group-title="Religioso", Maria Visión Capilla
+https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Privado2/chunklist.m3u8
 #EXTINF:-1 tvg-id="Maria Visión" tvg-logo="https://i.ibb.co/0yqjzVJ/Maria-vision.jpg" status="timeout" group-title="Religioso", Maria Visión
 https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Mariavision/chunklist.m3u8
 #EXTINF:-1 tvg-id="Monte María Tv" tvg-logo="https://i.ibb.co/BL0zCtq/Monte-Maria.png" status="timeout" group-title="Religioso", Monte María Tv
@@ -943,6 +945,8 @@ https://amg02051-soulpublishing-amg02051c3-lg-cl-584.playouts.now.amagi.tv/playl
 http://190.109.15.46:3528/play/a02n/index.m3u8
 #EXTINF:-1 tvg-id="Baby First" tvg-logo="https://i.ibb.co/cJdG9fy/Baby-First.png" status="timeout" group-title="Infantiles", Baby First
 http://45.167.3.81:45000/play/a02t/index.m3u8
+#EXTINF:-1 tvg-id="Baby First" tvg-logo="https://i.ibb.co/cJdG9fy/Baby-First.png" status="timeout" group-title="Infantiles", Baby First
+http://45.186.106.207:8000/play/a00x/index.m3u8
 #EXTINF:-1 tvg-id="Baby Tv" tvg-logo="https://i.ibb.co/GcnWvz8/Baby-Tv.jpg" status="timeout" group-title="Infantiles", Baby Tv
 http://190.102.242.130:25461/171465451/1234/57
 #EXTINF:-1 tvg-id="Baby Tv" tvg-logo="https://i.ibb.co/GcnWvz8/Baby-Tv.jpg" status="timeout" group-title="Infantiles", Baby Tv
@@ -951,6 +955,8 @@ http://190.109.15.46:3528/play/a040/index.m3u8
 http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/690
 #EXTINF:-1 tvg-id="Bob Esponja" tvg-logo="https://i.ibb.co/Gpbkwyc/Bob-Esponja.png" status="timeout" group-title="Infantiles", Bob Esponja
 http://stklatino.dynns.com:2082/patriciobriano/aTF5rqkPK8zh/7094
+#EXTINF:-1 tvg-id="Bob Esponja" tvg-logo="https://i.ibb.co/Gpbkwyc/Bob-Esponja.png" status="timeout" group-title="Infantiles", Bob Esponja
+http://fastream.xyz:8080/alealejandra/bgZS147/250484
 #EXTINF:-1 tvg-id="Canal Infantil" tvg-logo="https://i.ibb.co/fqtJPK2/canal-infantil.png" status="timeout" group-title="Infantiles", Canal Infantil
 http://190.90.252.200:16001/play/a060/index.m3u8
 #EXTINF:-1 tvg-id="Caillou" tvg-logo="https://i.ibb.co/pZ4Dz8f/Caillou.png" status="timeout" group-title="Infantiles", Caillou
@@ -964,29 +970,29 @@ http://181.78.105.146:8800/play/a00r
 #EXTINF:-1 tvg-id="Disney Jr" tvg-logo="https://i.ibb.co/VCPrhzL/Disney-Jr.png" status="timeout" group-title="Infantiles", Disney Junior
 http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/12414
 #EXTINF:-1 tvg-id="Disney Jr" tvg-logo="https://i.ibb.co/VCPrhzL/Disney-Jr.png" status="timeout" group-title="Infantiles", Disney Junior
-http://179.189.222.226:8000/play/ch05
-#EXTINF:-1 tvg-id="Disney Jr" tvg-logo="https://i.ibb.co/VCPrhzL/Disney-Jr.png" status="timeout" group-title="Infantiles", Disney Junior
 http://stklatino.dynns.com:2082/patriciobriano/aTF5rqkPK8zh/2473
 #EXTINF:-1 tvg-id="Disney Jr" tvg-logo="https://i.ibb.co/VCPrhzL/Disney-Jr.png" status="timeout" group-title="Infantiles", Disney Junior
+http://179.189.222.226:8000/play/ch05
+#EXTINF:-1 tvg-id="Disney Jr" tvg-logo="https://i.ibb.co/VCPrhzL/Disney-Jr.png" status="timeout" group-title="Infantiles", Disney Junior
 http://canal-pro.xyz:8080/95831942/Wse32F5/59451
-#EXTINF:-1 tvg-id="Duck Tv" tvg-logo="https://i.ibb.co/5MNrfMp/duckTV.jpg" status="timeout" group-title="Infantiles", Duck Tv
-https://omnimartonline.xyz/live/ionescu.marian/8ikGRIpj0m1/304932.m3u
 #EXTINF:-1 tvg-id="Garfield y sus amigos" tvg-logo="https://i.ibb.co/8sktynv/Garfield-y-sus-amigos.jpg" status="timeout" group-title="Infantiles", Garfield y sus amigos
-http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/250550
+http://stklatino.dynns.com:2082/patriciobriano/aTF5rqkPK8zh/13316
 #EXTINF:-1 tvg-id="Jorge el curioso" tvg-logo="https://i.ibb.co/gWpmXWH/Jorge-el-curioso.jpg" status="timeout" group-title="Infantiles", Jorge el curioso
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/216296
+http://stklatino.dynns.com:2082/movie/patriciobriano/aTF5rqkPK8zh/6818.mkv
 #EXTINF:-1 tvg-id="La Pantera Rosa" tvg-logo="https://i.ibb.co/ZTHGfYb/Pantera-rosa.jpg" status="timeout" group-title="Infantiles", La Pantera Rosa
-http://home-playtv.com:8080/Flacotv@7/APQMB@1a/107989
-#EXTINF:-1 tvg-id="La Pantera Rosa" tvg-logo="https://i.ibb.co/ZTHGfYb/Pantera-rosa.jpg" status="timeout" group-title="Infantiles", La Pantera Rosa
-http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/62365
+http://stklatino.dynns.com:2082/patriciobriano/aTF5rqkPK8zh/49645
 #EXTINF:-1 tvg-id="Dinosaurios" tvg-logo="https://i.ibb.co/pxJ5d4X/Dinos.jpg" status="timeout" group-title="Infantiles", Los Dinosaurios
 http://canal-pro.xyz:8080/95831942/Wse32F5/693
+#EXTINF:-1 tvg-id="Dinosaurios" tvg-logo="https://i.ibb.co/pxJ5d4X/Dinos.jpg" status="timeout" group-title="Infantiles", Los Dinosaurios
+http://fastream.xyz:8080/alealejandra/bgZS147/250487
 #EXTINF:-1 tvg-id="Los Picapiedras" tvg-logo="https://i.ibb.co/RvJFsbR/Lospicapiedras.jpg" status="timeout" group-title="Infantiles", Los Picapiedras
 http://canal-pro.xyz:8080/95831942/Wse32F5/784
 #EXTINF:-1 tvg-id="Los Pitufos" tvg-logo="https://i.ibb.co/FKNyC6c/Los-Pitufos-Tv.jpg" status="timeout" group-title="Infantiles", Los Pitufos Tv
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
 #EXTINF:-1 tvg-id="Looney Tunes" tvg-logo="https://i.ibb.co/6swXcCZ/Looney-Tunes.jpg" status="timeout" group-title="Infantiles", Looney Tunes
 http://fastream.xyz:8080/998229534tv/9lwd49/786
+#EXTINF:-1 tvg-id="Mr Bean" tvg-logo="https://i.ibb.co/znsgTKD/Bean.jpg" status="timeout" group-title="Infantiles", Mr Bean
+http://stklatino.dynns.com:2082/patriciobriano/aTF5rqkPK8zh/31711
 #EXTINF:-1 tvg-id="Mr Bean" tvg-logo="https://i.ibb.co/znsgTKD/Bean.jpg" status="timeout" group-title="Infantiles", Mr Bean
 http://canal-pro.xyz:8080/95831942/Wse32F5/703
 #EXTINF:-1 tvg-id="Mr Bean" tvg-logo="https://i.ibb.co/znsgTKD/Bean.jpg" status="timeout" group-title="Infantiles", Mr Bean
@@ -1000,25 +1006,15 @@ http://canal-pro.xyz:8080/95831942/Wse32F5/62384
 #EXTINF:-1 tvg-id="Paw Patrol" tvg-logo="https://i.ibb.co/T2zwCC4/Paw-Patrol.jpg" status="timeout" group-title="Infantiles", Paw Patrol
 http://fastream.xyz:8080/998229534tv/9lwd49/62384
 #EXTINF:-1 tvg-id="Peppa Pig" tvg-logo="https://i.ibb.co/W3dr7Qn/Pepa-Pig.jpg" status="timeout" group-title="Infantiles", Peppa Pig
-http://fastream.xyz:8080/998229534tv/9lwd49/62424
+http://stklatino.dynns.com:2082/patriciobriano/aTF5rqkPK8zh/31713
 #EXTINF:-1 tvg-id="Peppa Pig" tvg-logo="https://i.ibb.co/W3dr7Qn/Pepa-Pig.jpg" status="timeout" group-title="Infantiles", Peppa Pig
-http://canal-pro.xyz:8080/95831942/Wse32F5/62424
-#EXTINF:-1 tvg-id="Peppa Pig" tvg-logo="https://i.ibb.co/W3dr7Qn/Pepa-Pig.jpg" status="timeout" group-title="Infantiles", Peppa Pig
-http://home-playtv.com:8080/Flacotv@7/APQMB@1a/531704
+http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/531704
 #EXTINF:-1 tvg-id="Plim Plim" tvg-logo="https://i.ibb.co/GMMB22M/Plim-Plim-Tv.jpg" status="timeout" group-title="Infantiles", Plim Plim
 http://canal-pro.xyz:8080/95831942/Wse32F5/62380
 #EXTINF:-1 tvg-id="Plim Plim" tvg-logo="https://i.ibb.co/GMMB22M/Plim-Plim-Tv.jpg" status="timeout" group-title="Infantiles", Plim Plim
 http://fastream.xyz:8080/998229534tv/9lwd49/62380
-#EXTINF:-1 tvg-id="Plim Plim" tvg-logo="https://i.ibb.co/GMMB22M/Plim-Plim-Tv.jpg" status="timeout" group-title="Infantiles", Plim Plim
-http://home-playtv.com:8080/Flacotv@7/APQMB@1a/531685
 #EXTINF:-1 tvg-id="Pocoyó" tvg-logo="https://i.ibb.co/Wyy4mXs/Pocoy.jpg" status="timeout" group-title="Infantiles", Pocoyó
 https://daiconnect.com/live/hls/tvup/tvfy-pocoyo/.m3u8
-#EXTINF:-1 tvg-id="Pocoyó" tvg-logo="https://i.ibb.co/Wyy4mXs/Pocoy.jpg" status="timeout" group-title="Infantiles", Pocoyó
-http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/62437
-#EXTINF:-1 tvg-id="Pocoyó" tvg-logo="https://i.ibb.co/Wyy4mXs/Pocoy.jpg" status="timeout" group-title="Infantiles", Pocoyó
-http://canal-pro.xyz:8080/95831942/Wse32F5/62437
-#EXTINF:-1 tvg-id="Pocoyó" tvg-logo="https://i.ibb.co/Wyy4mXs/Pocoy.jpg" status="timeout" group-title="Infantiles", Pocoyó
-http://fastream.xyz:8080/993300790tv/95ghr5/62437
 #EXTINF:-1 tvg-id="Semillitas" tvg-logo="https://i.ibb.co/Dr8TDyC/Semillitas.jpg" status="timeout" group-title="Infantiles", Semillitas
 http://190.211.102.42:4000/play/a01t/index.m3u8
 #EXTINF:-1 tvg-id="Tom and Jerry" tvg-logo="https://i.ibb.co/KyKJF0Q/Tom-y-Jerry.jpg" status="timeout" group-title="Infantiles", Tom and Jerry
@@ -1032,29 +1028,11 @@ http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/54943
 #EXTINF:-1 tvg-id="The Simpson la Pelicula" tvg-logo="https://i.ibb.co/gddSvZg/The-Simpson.jpg" status="timeout" group-title="Infantiles", The Simpson la Pelicula
 http://stklatino.dynns.com:2082/movie/patriciobriano/aTF5rqkPK8zh/573.mkv
 #EXTINF:-1 tvg-id="The Simpson" tvg-logo="https://i.ibb.co/MfJzXw1/The-Simpson.png" status="timeout" group-title="Infantiles", The Simpson
-http://fastream.xyz:8080/993300790tv/95ghr5/62400
+http://fastream.xyz:8080/alealejandra/bgZS147/250509
 #EXTINF:-1 tvg-id="The Simpson" tvg-logo="https://i.ibb.co/MfJzXw1/The-Simpson.png" status="timeout" group-title="Infantiles", The Simpson
-http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/62411
+http://fastream.xyz:8080/alealejandra/bgZS147/789
 #EXTINF:-1 tvg-id="The Simpson" tvg-logo="https://i.ibb.co/MfJzXw1/The-Simpson.png" status="timeout" group-title="Infantiles", The Simpson
-http://fastream.xyz:8080/993300790tv/95ghr5/790
-#EXTINF:-1 tvg-id="The Simpson" tvg-logo="https://i.ibb.co/MfJzXw1/The-Simpson.png" status="timeout" group-title="Infantiles", The Simpson
-http://fastream.xyz:8080/998229534tv/9lwd49/790
-#EXTINF:-1 tvg-id="The Simpson" tvg-logo="https://i.ibb.co/MfJzXw1/The-Simpson.png" status="timeout" group-title="Infantiles", The Simpson
-http://fastream.xyz:8080/993300790tv/95ghr5/791
-#EXTINF:-1 tvg-id="The Simpson" tvg-logo="https://i.ibb.co/MfJzXw1/The-Simpson.png" status="timeout" group-title="Infantiles", The Simpson
-http://fastream.xyz:8080/998229534tv/9lwd49/791
-#EXTINF:-1 tvg-id="The Simpson" tvg-logo="https://i.ibb.co/MfJzXw1/The-Simpson.png" status="timeout" group-title="Infantiles", The Simpson
-http://fastream.xyz:8080/993300790tv/95ghr5/62412
-#EXTINF:-1 tvg-id="The Simpson" tvg-logo="https://i.ibb.co/MfJzXw1/The-Simpson.png" status="timeout" group-title="Infantiles", The Simpson
-http://fastream.xyz:8080/998229534tv/9lwd49/62412
-#EXTINF:-1 tvg-id="The Simpson" tvg-logo="https://i.ibb.co/MfJzXw1/The-Simpson.png" status="timeout" group-title="Infantiles", The Simpson
-http://home-playtv.com:8080/Flacotv@7/APQMB@1a/531605
-#EXTINF:-1 tvg-id="The Simpson" tvg-logo="https://i.ibb.co/MfJzXw1/The-Simpson.png" status="timeout" group-title="Infantiles", The Simpson
-http://fastream.xyz:8080/993300790tv/95ghr5/793
-#EXTINF:-1 tvg-id="The Simpson" tvg-logo="https://i.ibb.co/MfJzXw1/The-Simpson.png" status="timeout" group-title="Infantiles", The Simpson
-http://fastream.xyz:8080/998229534tv/9lwd49/793
-#EXTINF:-1 tvg-id="The Simpson" tvg-logo="https://i.ibb.co/MfJzXw1/The-Simpson.png" status="timeout" group-title="Infantiles", The Simpson
-http://fastream.xyz:8080/998229534tv/9lwd49/62415
+http://fastream.xyz:8080/alealejandra/bgZS147/792
 #EXTINF:-1 tvg-id="Alf" tvg-logo="https://i.ibb.co/sHK5B0P/alf.jpg" status="timeout" group-title="Infantiles", Alf
 http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/250480
 #EXTINF:-1 tvg-id="Adultswin" tvg-logo="https://i.ibb.co/ZVTwSxG/Adultswin.png" status="timeout" group-title="Infantiles", Adultswin
@@ -1102,6 +1080,8 @@ http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/250556
 #EXTINF:-1 tvg-id="La Pequeña Lulú" tvg-logo="https://i.ibb.co/qg1gTjx/La-Peque-a-Lul.jpg" status="timeout" group-title="Infantiles", La Pequeña Lulú
 http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/250561
 #EXTINF:-1 tvg-id="Los Caballeros del Zodiaco" tvg-logo="https://i.ibb.co/YLWBvyJ/Los-Caballeros-del-Zodiaco.jpg" status="timeout" group-title="Infantiles", Los Caballeros del Zodiaco
+http://fastream.xyz:8080/alealejandra/bgZS147/773
+#EXTINF:-1 tvg-id="Los Caballeros del Zodiaco" tvg-logo="https://i.ibb.co/YLWBvyJ/Los-Caballeros-del-Zodiaco.jpg" status="timeout" group-title="Infantiles", Los Caballeros del Zodiaco
 http://stklatino.dynns.com:2082/patriciobriano/aTF5rqkPK8zh/30401
 #EXTINF:-1 tvg-id="Los Caballeros del Zodiaco" tvg-logo="https://i.ibb.co/YLWBvyJ/Los-Caballeros-del-Zodiaco.jpg" status="timeout" group-title="Infantiles", Los Caballeros del Zodiaco
 http://fastream.xyz:8080/998229534tv/9lwd49/62421
@@ -1125,6 +1105,8 @@ http://fastream.xyz:8080/998229534tv/9lwd49/808
 http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/250528
 #EXTINF:-1 tvg-id="Súper Campeones" tvg-logo="https://i.ibb.co/RHFx7s0/S-per-Campeones.jpg" status="timeout" group-title="Infantiles", Súper Campeones
 http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/250532
+#EXTINF:-1 tvg-id="Súper Campeones" tvg-logo="https://i.ibb.co/RHFx7s0/S-per-Campeones.jpg" status="timeout" group-title="Infantiles", Súper Campeones
+http://fastream.xyz:8080/alealejandra/bgZS147/250532
 #EXTINF:-1 tvg-id="Pokemon" tvg-logo="https://i.ibb.co/hFHZPGq/Pokemon.jpg" status="timeout" group-title="Infantiles", Pokemon
 http://stklatino.dynns.com:2082/patriciobriano/aTF5rqkPK8zh/49641
 #EXTINF:-1 tvg-id="Pokemon" tvg-logo="https://i.ibb.co/hFHZPGq/Pokemon.jpg" status="timeout" group-title="Infantiles", Pokemon
