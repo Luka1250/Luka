@@ -34,11 +34,15 @@ https://envivo.bolivia-link.com:3906/live/aynitvlive.m3u8
 #EXTINF:-1 tvg-id="Bolivia Tv" tvg-logo="https://i.ibb.co/y8tw8xP/BTV.jpg" status="timeout" group-title="Nacionales", Bolivia Tv 7.1
 https://streamer03.digital.com.bo/2ap337/__cl/cg:sworigin2/__c/BOLIVIATV/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 tvg-id="Bolivia Tv" tvg-logo="https://i.ibb.co/y8tw8xP/BTV.jpg" status="timeout" group-title="Nacionales", Bolivia Tv 7.2
-http://45.5.151.151:8000/play/a0n3/index.m3u8
+https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
 #EXTINF:-1 tvg-id="Bolivision" tvg-logo="https://i.ibb.co/xHmY1xR/Bolivision.png" status="timeout" group-title="Nacionales", Bolivision
 https://streamer01.digital.com.bo/2ap337/__cl/cg:sworigin2/__c/BOLIVISION/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 tvg-id="Cadena A" tvg-logo="https://i.ibb.co/WgCkjX8/cadena-a-bo.png" status="timeout" group-title="Nacionales", Cadena A
 https://streamer01.digital.com.bo/2ap337/__cl/cg:sworigin2/__c/CADENAA/__op/hls-default/__f/index.m3u8
+#EXTINF:-1 tvg-id="CCTv" tvg-logo="https://i.ibb.co/3BTmPKz/Red-CCTV.png" status="timeout" group-title="Nacionales", CCTv
+https://solo.disfrutaenlared.com:1936/redcctv/redcctv/chunklist.m3u8
+#EXTINF:-1 tvg-id="CTv" tvg-logo="https://i.ibb.co/vxyyLdV/ctv.png" status="timeout" group-title="Nacionales", CTv
+http://45.5.151.151:8000/play/a0n8/index.m3u8
 #EXTINF:-1 tvg-id="CEACOM" tvg-logo="https://i.ibb.co/kmFptyr/Ceacom.png" status="timeout" group-title="Nacionales", CEACOM
 https://eu1.servers10.com:8081/ceacom/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Cinerama" tvg-logo="https://i.ibb.co/VY7MYQ7/Cinerama.jpg" status="timeout" group-title="Nacionales", Cinerama
@@ -47,10 +51,8 @@ https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
 https://tv.mediacp.eu:8081/coraltv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="COTAS Tv" tvg-logo="https://i.ibb.co/68ww8SR/Cotas.png" status="timeout" group-title="Nacionales", COTAS Tv
 http://200.58.160.67:8081/carrusel/carrusel/playlist.m3u8
-#EXTINF:-1 tvg-id="CCTv" tvg-logo="https://i.ibb.co/3BTmPKz/Red-CCTV.png" status="timeout" group-title="Nacionales", CCTv
-https://solo.disfrutaenlared.com:1936/redcctv/redcctv/chunklist.m3u8
-#EXTINF:-1 tvg-id="CTv" tvg-logo="https://i.ibb.co/vxyyLdV/ctv.png" status="timeout" group-title="Nacionales", CTv
-http://45.5.151.151:8000/play/a0n8/index.m3u8
+#EXTINF:-1 tvg-id="Cristal" tvg-logo="https://i.ibb.co/YcStq9h/Cristal.png" status="timeout" group-title="Nacionales", Cristal
+https://srv5.elittehosting.com:3369/live/cristaltvlive.m3u8
 #EXTINF:-1 tvg-id="Delta Tv" tvg-logo="https://i.ibb.co/TPR8KKV/Delta.png" status="timeout" group-title="Nacionales", Delta
 https://vsrv1.az-streamingserver.com:3068/live/vdsocmnulive.m3u8
 #EXTINF:-1 tvg-id="F10" tvg-logo="https://i.ibb.co/qdY2C3L/F10.jpg" status="timeout" group-title="Nacionales", F10
@@ -105,6 +107,8 @@ https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 https://cloud2.streaminglivehd.com:19360/8044/8044.m3u8
 #EXTINF:-1 tvg-id="Tu Tv" tvg-logo="https://i.ibb.co/3NT9z9F/channels4-profile-1.jpg" status="timeout" group-title="Nacionales", Tu Tv
 https://solo.disfrutaenlared.com:1936/tutv/tutv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVA" tvg-logo="https://i.ibb.co/9NwQkfM/TVABOLIVIA.png" status="timeout" group-title="Nacionales", TVA Valle Alto
+https://vdo.grupolimalive.com:3967/live/tvelive.m3u8
 #EXTINF:-1 tvg-id="Tv Mujer" tvg-logo="https://i.ibb.co/581pdYg/TvMujer.jpg" status="timeout" group-title="Nacionales", Tv Mujer
 https://cloud2.streaminglivehd.com:1936/8016/8016/playlist.m3u8
 #EXTINF:-1 tvg-id="Tv Punto" tvg-logo="https://i.ibb.co/6JZfWY4/Bolivia-tv.jpg" status="timeout" group-title="Nacionales", Tv Punto Series
@@ -187,8 +191,6 @@ http://45.5.151.151:8000/play/a0o5/index.m3u8
 https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
 #EXTINF:-1 tvg-id="Cocina Tv" tvg-logo="https://i.ibb.co/k4cpwd3/Canal-Cocina.png" status="timeout" group-title="Cocina", Cocina Tv
 http://fastream.xyz:8080/998229534tv/9lwd49/614
-#EXTINF:-1 tvg-id="Cocina" tvg-logo="https://i.ibb.co/xLHY5BZ/cocina.jpg" status="timeout" group-title="Cocina", Cocina Pluto Tv
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0657444a40009cd2422/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="Food Network" tvg-logo="https://i.ibb.co/F5Wpk9g/Food-Network.png" status="timeout" group-title="Cocina", Food Network HD
 http://179.189.222.226:8000/play/ch28
 #EXTINF:-1 tvg-id="Food Network" tvg-logo="https://i.ibb.co/F5Wpk9g/Food-Network.png" status="timeout" group-title="Cocina", Food Network HD
@@ -197,12 +199,6 @@ http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/3171
 http://181.78.105.146:8800/play/a022
 #EXTINF:-1 tvg-id="Gourmet" tvg-logo="https://i.ibb.co/vDjGjxS/gourmet.png" status="timeout" group-title="Cocina", Gourmet
 http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/557
-#EXTINF:-1 tvg-id="Hells Kitchen" tvg-logo="https://images.pluto.tv/channels/6095ad97351eb0000754c1e6/colorLogoPNG.png" status="timeout" group-title="Cocina", Hells Kitchen
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6095ad97351eb0000754c1e6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="Iron Chef" tvg-logo="https://i.ibb.co/NZMPtxK/Iron-Chef.jpg" status="timeout" group-title="Cocina", Iron Chef
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/615b9855c6b58b000724477f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="Master Chef" tvg-logo="https://i.ibb.co/CPbB1HS/Master-Cheff.png" status="timeout" group-title="Cocina", Master Chef
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e3ddbd27091820009f86dd9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="Mundo & Sabor" tvg-logo="https://i.ibb.co/dtXyj6V/MUNDO-Y-SABOR-FONDO-2-300x169.jpg" status="timeout" group-title="Cocina", Mundo & Sabor
 http://190.102.246.93:9005/play/a03v
 #EXTINF:-1 tvg-id="Tastemade" tvg-logo="https://i.ibb.co/THFSTwG/Tastemade.jpg" status="timeout" group-title="Cocina", Tastemade Es
@@ -217,7 +213,7 @@ http://181.78.201.70:8000/play/a05h/index.m3u8
 http://190.102.246.93:9005/play/a02h
 #EXTINF:-1 tvg-id="Novelas Turcas" tvg-logo="https://i.ibb.co/PYg029H/novelasturcas.png" status="timeout" group-title="Novelas", Novelas Turcas
 https://jmp2.uk/sam-US27000033D.m3u8
-#EXTINF:-1 tvg-id="RCN Novelas" tvg-logo="https://i.ibb.co/C9K3g5V/RCN-Novelas.jpg" status="timeout" group-title="Novelas", RCN Novelas
+#EXTINF:-1 tvg-id="RCN Novelas" tvg-logo="https://i.ibb.co/C9K3g5V/RCN-Novelas.jpg" status="timeout" group-title="Novelas", RCN
 http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/460
 #EXTINF:-1 tvg-id="Sony novelas" tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/02/sonynovelas-150x150.jpg" status="timeout" group-title="Novelas", Sony novelas
 https://spt-novelas-1-us.samsung.wurl.tv/playlist.m3u8
@@ -230,47 +226,41 @@ http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/93458
 #EXTINF:-1 tvg-id="TNT Novelas" tvg-logo="https://i.ibb.co/3zrgtpx/Tnt-Novelas.png" status="timeout" group-title="Novelas", TNT Novelas HD
 http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/3176
 #EXTINF:-1 tvg-id="AMC Break" tvg-logo="https://i.ibb.co/x726B5V/Break.png" status="timeout" group-title="Educativos", AMC Break
-http://vipgsiv.top:8080/VIP0148171293275467/45e797e86fa6/778
+http://fastream.xyz:8080/alealejandra/bgZS147/12422
 #EXTINF:-1 tvg-id="AMC Crime" tvg-logo="https://i.ibb.co/pP8jpD3/AMC-Crimen.png" status="timeout" group-title="Educativos", AMC Crime
-http://vipgsiv.top:8080/VIP0148171293275467/45e797e86fa6/707
+http://vipgsiv.top:8080/VIP0185172121735637/51728239287866/707
 #EXTINF:-1 tvg-id="Atlas" tvg-logo="https://i.ibb.co/0X3vTDP/Atlas.jpg" status="timeout" group-title="Educativos", Atlas
 http://45.181.122.201:8081/play/a067
 #EXTINF:-1 tvg-id="Buen Viaje" tvg-logo="https://i.ibb.co/2Ps70cC/Buen-Viaje.jpg" status="timeout" group-title="Educativos", Buen Viaje HD
 http://fastream.xyz:8080/998229534tv/9lwd49/236353
-#EXTINF:-1 tvg-id="Cazador de Homicidas" tvg-logo="https://images.pluto.tv/channels/6109a9f5531b840007a4a187/colorLogoPNG.png" status="timeout" group-title="Educativos", Cazador de Homicidas
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="Ciencia" tvg-logo="https://images.pluto.tv/channels/5dd8364ea1d6780009929902/colorLogoPNG.png" status="timeout" group-title="Educativos", Ciencia
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd8364ea1d6780009929902/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="Cops en Español" tvg-logo="https://i.ibb.co/BPKT7P7/Cops-en-Espa-ol.jpg" status="timeout" group-title="Educativos", Cops en Español
 https://rightsboosterltd-cops-1-cl.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Cops en Español" tvg-logo="https://i.ibb.co/BPKT7P7/Cops-en-Espa-ol.jpg" status="timeout" group-title="Educativos", Cops en Español
 https://rightsboosterltd-cops-1-pe.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="DKiss" tvg-logo="https://i.ibb.co/hsG2w5t/DKiss.png" status="timeout" group-title="Educativos", DKiss HD
-http://eu.germanydns.org:8080/Ismailates33/xwhmmksp/100350
+#EXTINF:-1 tvg-id="DKiss" tvg-logo="https://i.ibb.co/hsG2w5t/DKiss.png" status="timeout" group-title="Educativos", DKiss
+http://fastream.xyz:8080/alealejandra/bgZS147/12410
 #EXTINF:-1 tvg-id="DMax" tvg-logo="https://i.ibb.co/GkYtsFp/DMAX.jpg" status="timeout" group-title="Educativos", DMax
 http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/114550
 #EXTINF:-1 tvg-id="DeCasa" tvg-logo="https://i.ibb.co/JnkYkHR/Dcasa.jpg" status="timeout" group-title="Educativos", De Casa
 http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/6773
 #EXTINF:-1 tvg-id="Animal Planet" tvg-logo="https://i.ibb.co/Bq0Xjhf/Animal-Planet.png" status="timeout" group-title="Educativos", Discovery Animal Planet
-http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/2476
+http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/229242
 #EXTINF:-1 tvg-id="Animal Planet" tvg-logo="https://i.ibb.co/Bq0Xjhf/Animal-Planet.png" status="timeout" group-title="Educativos", Discovery Animal Planet
 http://190.102.246.93:9005/play/a01h
-#EXTINF:-1 tvg-id="Discovery" tvg-logo="https://i.ibb.co/SyyDDQB/discovery.png" status="timeout" group-title="Educativos", Discovery Channel HD
+#EXTINF:-1 tvg-id="Discovery" tvg-logo="https://i.ibb.co/SyyDDQB/discovery.png" status="timeout" group-title="Educativos", Discovery Channel
 http://190.102.246.93:9005/play/a00w
 #EXTINF:-1 tvg-id="Discovery" tvg-logo="https://i.ibb.co/SyyDDQB/discovery.png" status="timeout" group-title="Educativos", Discovery Channel
-http://38.41.8.1:8000/play/a07l
-#EXTINF:-1 tvg-id="Discovery" tvg-logo="https://i.ibb.co/SyyDDQB/discovery.png" status="timeout" group-title="Educativos", Discovery Channel HD
-http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/6783
-#EXTINF:-1 tvg-id="Discovery" tvg-logo="https://i.ibb.co/SyyDDQB/discovery.png" status="timeout" group-title="Educativos", Discovery Channel HD
-http://vipgsiv.top:8080/VIP0148171293275467/45e797e86fa6/708
+http://vipgsiv.top:8080/VIP0148171293275467/45e797e86fa6/5016
 #EXTINF:-1 tvg-id="Discovery" tvg-logo="https://i.ibb.co/SyyDDQB/discovery.png" status="timeout" group-title="Educativos", Discovery Channel
 http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/2515
 #EXTINF:-1 tvg-id="Discovery Familia" tvg-logo="https://i.ibb.co/1919vg2/Discovery-Familia.png" status="timeout" group-title="Educativos", Discovery Familia
 http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/20443
-#EXTINF:-1 tvg-id="HGTV" tvg-logo="https://i.ibb.co/JxLB9yS/hgtv.png" status="timeout" group-title="Educativos", Discovery Home Garden Tv HD
+#EXTINF:-1 tvg-id="HGTV" tvg-logo="https://i.ibb.co/JxLB9yS/hgtv.png" status="timeout" group-title="Educativos", Discovery Home Garden Tv
 http://fastream.xyz:8080/998229534tv/9lwd49/59435
 #EXTINF:-1 tvg-id="HGTV" tvg-logo="https://i.ibb.co/JxLB9yS/hgtv.png" status="timeout" group-title="Educativos", Discovery Home Garden Tv
-http://vipgsiv.top:8080/VIP0148171293275467/45e797e86fa6/5016
+http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/178146
+#EXTINF:-1 tvg-id="HGTV" tvg-logo="https://i.ibb.co/JxLB9yS/hgtv.png" status="timeout" group-title="Educativos", Discovery Home Garden Tv
+http://fastream.xyz:8080/alealejandra/bgZS147/59435
 #EXTINF:-1 tvg-id="H&H" tvg-logo="https://i.ibb.co/9GkYvsp/h-h.jpg" status="timeout" group-title="Educativos", Discovery Home & Health
 http://179.189.222.226:8000/play/ch25
 #EXTINF:-1 tvg-id="H&H" tvg-logo="https://i.ibb.co/9GkYvsp/h-h.jpg" status="timeout" group-title="Educativos", Discovery Home & Health
