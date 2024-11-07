@@ -308,13 +308,15 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099f2b40d0640007fc5
 #EXTINF:-1 tvg-id="Garage TV" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-garage_m.png" status="timeout" group-title="Educativos", Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="Educativos", Historia Es
-http://kjhgfd.com:80/YlberMjekiqi/cxRN8mbCaNTp2DdFctfE/242
+http://fastream.xyz:8080/alealejandra/bgZS147/12344
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="Educativos", Historia Es
 http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/56221
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="Educativos", Historia Es
 http://vo01.mohdtv.com:8880/voby5235/43867735/29308
 #EXTINF:-1 tvg-id="History" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" status="timeout" group-title="Educativos", History Channel
-http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/439767
+http://168.181.122.234:8000/play/a019/index.m3u8
+#EXTINF:-1 tvg-id="History" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" status="timeout" group-title="Educativos", History Channel
+http://190.60.49.244:4000/play/a03q
 #EXTINF:-1 tvg-id="History" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" status="timeout" group-title="Educativos", History Channel
 http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/186570
 #EXTINF:-1 tvg-id="History" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" status="timeout" group-title="Educativos", History Channel
