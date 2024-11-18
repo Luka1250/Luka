@@ -3,6 +3,8 @@
 http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/102643
 #EXTINF:-1 tvg-id="Unitel" tvg-logo="https://i.ibb.co/M2jn6ky/Unitel.jpg" status="timeout" group-title="Nacionales", Unitel FHD
 https://streamer01.digital.com.bo/2ap337/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8
+#EXTINF:-1 tvg-id="Unitel" tvg-logo="https://i.ibb.co/M2jn6ky/Unitel.jpg" status="timeout" group-title="Nacionales", Unitel
+http://167.250.135.246:81/play/tdt08/index.m3u8
 #EXTINF:-1 tvg-id="Red Uno" tvg-logo="https://i.ibb.co/2yHQxQJ/tigo.png" status="timeout" group-title="Nacionales", Unitel - Red Uno - Tigo Sports
 https://master.tucableip.com//movil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Red Uno" tvg-logo="https://i.ibb.co/mDBcFJB/red-uno-bo.png" status="timeout" group-title="Nacionales", Red Uno
@@ -12,15 +14,15 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/TVUNIVERSITARIA/__op/hls-defaul
 #EXTINF:-1 tvg-id="DTV" tvg-logo="https://i.ibb.co/4K7Zzbn/DTV.jpg" status="timeout" group-title="Nacionales", DTV
 https://streamer01.digital.com.bo/2ap337/__cl/cg:sworigin2/__c/DTV/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 tvg-id="Gigavisión" tvg-logo="https://i.ibb.co/qNB3XLm/giga-vision-bo.png" status="timeout" group-title="Nacionales", Gigavisión
-https://streamer01.digital.com.bo/2ap337/__cl/cg:sworigin2/__c/GIGAVISION/__op/hls-default/__f/index.m3u8
+https://tv.bitstreaming.net:3348/multi_web/play_480.m3u8
 #EXTINF:-1 tvg-id="Latina Tv" tvg-logo="https://i.ibb.co/GWYWym6/tvlatina.png" status="timeout" group-title="Nacionales", Latina Montero
 https://castv10.plugstreaming.com:19360/redtv/redtv.m3u8
 #EXTINF:-1 tvg-id="PAT" tvg-logo="https://i.ibb.co/kcb8wz4/PAT.png" status="timeout" group-title="Nacionales", PAT
 https://glb.bozztv.com/glb/ssh101/pattv/index.m3u8
 #EXTINF:-1 tvg-id="ABE Educativo" tvg-logo="https://i.ibb.co/FVZnFSS/ABE.jpg" status="timeout" group-title="Nacionales", ABE Educativo
-http://45.5.151.151:8000/play/a0nu/index.m3u8
+http://167.250.135.246:81/play/a0k7/index.m3u8
 #EXTINF:-1 tvg-id="Abya Yala" tvg-logo="https://i.ibb.co/zbqh4d1/abyayalatv.jpg" status="timeout" group-title="Nacionales", Abya Yala
-http://45.5.151.151:8000/play/a0nr/index.m3u8
+http://167.250.135.246:81/play/a0k3/index.m3u8
 #EXTINF:-1 tvg-id="Amitel" tvg-logo="https://i.ibb.co/r4vvdgf/AMITEL.jpg" status="timeout" group-title="Nacionales", Agenda Minera
 https://stv.boliviaplay.com.bo/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="Ant" tvg-logo="https://i.ibb.co/JkPjfKT/ant.jpg" status="timeout" group-title="Nacionales", Ant
@@ -28,7 +30,7 @@ http://181.188.144.141/tmp_hls/ant_tv/index.m3u8
 #EXTINF:-1 tvg-id="Ant Documentales" tvg-logo="https://i.ibb.co/qLSGyp0/ant-04.jpg" status="timeout" group-title="Nacionales", Ant Documentales
 http://181.188.144.141/tmp_hls/ant_doc/index.m3u8
 #EXTINF:-1 tvg-id="ATB" tvg-logo="https://i.ibb.co/8MZdMNv/ATB.jpg" status="timeout" group-title="Nacionales", ATB
-https://streamer01.digital.com.bo/2ap337/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.m3u8
+http://167.250.135.246:81/play/tdt01/index.m3u8
 #EXTINF:-1 tvg-id="Ayni" tvg-logo="https://i.ibb.co/xJHF3td/ayni.jpg" status="timeout" group-title="Nacionales", Ayni
 https://envivo.bolivia-link.com:3906/live/aynitvlive.m3u8
 #EXTINF:-1 tvg-id="Bolivia Tv" tvg-logo="https://i.ibb.co/y8tw8xP/BTV.jpg" status="timeout" group-title="Nacionales", Bolivia Tv 7.1
@@ -42,7 +44,7 @@ https://streamer01.digital.com.bo/2ap337/__cl/cg:sworigin2/__c/CADENAA/__op/hls-
 #EXTINF:-1 tvg-id="CCTv" tvg-logo="https://i.ibb.co/3BTmPKz/Red-CCTV.png" status="timeout" group-title="Nacionales", CCTv
 https://solo.disfrutaenlared.com:1936/redcctv/redcctv/chunklist.m3u8
 #EXTINF:-1 tvg-id="CTv" tvg-logo="https://i.ibb.co/vxyyLdV/ctv.png" status="timeout" group-title="Nacionales", CTv
-http://45.5.151.151:8000/play/a0n8/index.m3u8
+http://167.250.135.246:81/play/a0jl/index.m3u8
 #EXTINF:-1 tvg-id="CEACOM" tvg-logo="https://i.ibb.co/kmFptyr/Ceacom.png" status="timeout" group-title="Nacionales", CEACOM
 https://eu1.servers10.com:8081/ceacom/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Cinerama" tvg-logo="https://i.ibb.co/VY7MYQ7/Cinerama.jpg" status="timeout" group-title="Nacionales", Cinerama
@@ -53,12 +55,16 @@ https://tv.mediacp.eu:8081/coraltv/tracks-v1a1/mono.m3u8
 https://srv5.elittehosting.com:3369/live/cristaltvlive.m3u8
 #EXTINF:-1 tvg-id="Delta Tv" tvg-logo="https://i.ibb.co/TPR8KKV/Delta.png" status="timeout" group-title="Nacionales", Delta
 https://vsrv1.az-streamingserver.com:3068/live/vdsocmnulive.m3u8
+#EXTINF:-1 tvg-id="EGPP" tvg-logo="https://i.ibb.co/y89yjPz/EGPP.jpg" status="timeout" group-title="Nacionales", EGPP
+http://167.250.135.246:81/play/a0ju/index.m3u8
 #EXTINF:-1 tvg-id="F10" tvg-logo="https://i.ibb.co/qdY2C3L/F10.jpg" status="timeout" group-title="Nacionales", F10
 https://tv2.bitstreaming.net:3235/multi_live/play_480.m3u8
 #EXTINF:-1 tvg-id="Fap" tvg-logo="https://faptv.bo/wp-content/uploads/2024/09/web.png" status="timeout" group-title="Nacionales", Fap
 https://envivo.bolivia-link.com:3234/live/faptvlive.m3u8
 #EXTINF:-1 tvg-id="Fortaleza Tv Cueto" tvg-logo="https://i.ibb.co/G5rNZyk/Fortaleza.jpg" status="timeout" group-title="Nacionales", Fortaleza Tv Cueto
 https://fl1002.bozztv.com/ssh101/fortalezacueto/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Gigavisión" tvg-logo="https://i.ibb.co/qNB3XLm/giga-vision-bo.png" status="timeout" group-title="Nacionales", Gigavisión Lpz
+http://167.250.135.246:81/play/a0jy/index.m3u8
 #EXTINF:-1 tvg-id="Gogo Play Tv" tvg-logo="https://i.ibb.co/L85THzw/Gogoplay.jpg" status="timeout" group-title="Nacionales", Gogo Play Tv
 https://fl1002.bozztv.com/ssh101/gogoplay/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Imperial Tv" tvg-logo="https://i.ibb.co/GpHvf1d/imperial.png" status="timeout" group-title="Nacionales", Imperial Tv
@@ -73,18 +79,24 @@ https://solo.disfrutaenlared.com:1936/megatv/megatv/chunklist.m3u8
 https://video.live.com.bo:3999/live/megavisionlive.m3u8
 #EXTINF:-1 tvg-id="Nuevo Tiempo" tvg-logo="https://i.ibb.co/mGWRhqn/Nuevo-Tiempo.jpg" status="timeout" group-title="Nacionales", Nuevo Tiempo
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Nuevo Tiempo" tvg-logo="https://i.ibb.co/mGWRhqn/Nuevo-Tiempo.jpg" status="timeout" group-title="Nacionales", Nuevo Tiempo
+http://167.250.135.246:81/play/a0k5/index.m3u8
 #EXTINF:-1 tvg-id="PAT" tvg-logo="https://i.ibb.co/kcb8wz4/PAT.png" status="timeout" group-title="Nacionales", PAT
 https://streamer01.digital.com.bo/2ap337/__cl/cg:sworigin2/__c/PAT/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 tvg-id="PTv" tvg-logo="https://i.ibb.co/yqkxrkL/PTV-HD.jpg" status="timeout" group-title="Nacionales", PTv
 https://fl1002.bozztv.com/ssh101/centralptv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Plus TLT" tvg-logo="https://i.ibb.co/60LG2mK/Plus-TLT.jpg" status="timeout" group-title="Nacionales", Plus TLT
-http://45.5.151.151:8000/play/a0na/index.m3u8
+http://167.250.135.246:81/play/a0jn/index.m3u8
 #EXTINF:-1 tvg-id="Red Advenir" tvg-logo="https://i.ibb.co/ZWmk9NB/Red-Advenir.jpg" status="timeout" group-title="Nacionales", Red Advenir
 https://streamer1.streamhost.org/salive/GMIredadvenirm/playlist.m3u8
+#EXTINF:-1 tvg-id="Red Amazónica" tvg-logo="https://i.ibb.co/th8T2hr/RATelevision.jpg" status="timeout" group-title="Nacionales", Red Amazónica
+http://167.250.135.246:81/play/a0k6/index.m3u8
 #EXTINF:-1 tvg-id="Red America" tvg-logo="https://i.ibb.co/K0w1xd8/Red-America-Tv.jpg" status="timeout" group-title="Nacionales", Red America
 https://videostream.shockmedia.com.ar:19360/redamericatv/redamericatv.m3u8
 #EXTINF:-1 tvg-id="RTP" tvg-logo="https://i.ibb.co/w0DdYgK/RTP.png" status="timeout" group-title="Nacionales", RTP
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/RTP/__op/hls-default/__f/index.m3u8
+#EXTINF:-1 tvg-id="Red Uno" tvg-logo="https://i.ibb.co/mDBcFJB/red-uno-bo.png" status="timeout" group-title="Nacionales", Red Uno Lpz
+http://167.250.135.246:81/play/a0ji/index.m3u8
 #EXTINF:-1 tvg-id="Seo Tv" tvg-logo="https://i.ibb.co/1rdyvWM/LOGO-SEO-TV-HD.png" status="timeout" group-title="Nacionales", Seo Tv
 https://seo.tv.bo/tv/IPSEO-TV-1.m3u8
 #EXTINF:-1 tvg-id="Seo Deportes" tvg-logo="https://i.ibb.co/QCr8qyW/Seo-Deportes.jpg" status="timeout" group-title="Nacionales", Seo Tv Deportes
@@ -92,11 +104,13 @@ https://seo.tv.bo/tv/IPSEO-TV-5.2.m3u8
 #EXTINF:-1 tvg-id="Seo Peliculas" tvg-logo="https://i.ibb.co/w0cT2Yq/SEOPeliculas.jpg" status="timeout" group-title="Nacionales", Seo Tv Peliculas
 https://seo.tv.bo/tv/IPSEO-TV-4.m3u8
 #EXTINF:-1 tvg-id="Siglo XXI" tvg-logo="https://i.ibb.co/J3XL4bw/siglo21.jpg" status="timeout" group-title="Nacionales", Siglo XXI
-https://envivo.bolivia-link.com:3645/live/sigloxxilive.m3u8
+http://167.250.135.246:81/play/a0jq/index.m3u8
+#EXTINF:-1 tvg-id="Sitel" tvg-logo="" status="timeout" group-title="Nacionales", Sitel Scz
+http://167.250.135.246:81/play/tdt15/index.m3u8
 #EXTINF:-1 tvg-id="Sitel" tvg-logo="" status="timeout" group-title="Nacionales", Sitel
-http://45.5.151.151:8000/play/a0nh/index.m3u8
+http://167.250.135.246:81/play/a0jt/index.m3u8
 #EXTINF:-1 tvg-id="Tl Estrella" tvg-logo="https://i.ibb.co/7Wv1FRC/Tele-estrella.png" status="timeout" group-title="Nacionales", Tl Estrella
-https://envivo.bolivia-link.com:3785/live/teleestrellalive.m3u8
+http://167.250.135.246:81/play/a0jj/index.m3u8
 #EXTINF:-1 tvg-id="Tele Clasica" tvg-logo="https://i.ibb.co/d6xrRGN/Teleclasica.jpg" status="timeout" group-title="Nacionales", Tele Clasica
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 #EXTINF:-1 tvg-id="Tv Tropical" tvg-logo="https://i.ibb.co/DLdjcJM/TROPICAL.png" status="timeout" group-title="Nacionales", Tv Tropical
@@ -112,9 +126,9 @@ https://cloud5.streaminglivehd.com:3819/stream/play.m3u8
 #EXTINF:-1 tvg-id="Tv Show Oruro" tvg-logo="https://i.ibb.co/5jQZkkm/tvshow.jpg" status="timeout" group-title="Nacionales", Tv Show Oruro
 http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8
 #EXTINF:-1 tvg-id="TVU Pando" tvg-logo="https://i.ibb.co/ZdML966/tvupando.jpg" status="timeout" group-title="Nacionales", TVU Pando
-http://45.5.151.151:8000/play/a0n9/index.m3u8
+http://167.250.135.246:81/play/a0jm/index.m3u8
 #EXTINF:-1 tvg-id="TVU SUCRE" tvg-logo="https://i.ibb.co/vP0kZpv/tvusucre.jpg" status="timeout" group-title="Nacionales", TVU SUCRE
-http://45.5.151.151:8000/play/a0nb/index.m3u8
+http://167.250.135.246:81/play/a0jo/index.m3u8
 #EXTINF:-1 tvg-id="TVU UMSA" tvg-logo="https://i.ibb.co/mX21KH5/TVUUMSA.jpg" status="timeout" group-title="Nacionales", TVU UMSA
 https://video.live.com.bo:3003/live/tvuumsalive.m3u8
 #EXTINF:-1 tvg-id="Univalle Tv" tvg-logo="https://i.ibb.co/Lgvb6GK/unv.jpg" status="timeout" group-title="Nacionales", Univalle Tv
@@ -196,7 +210,7 @@ http://190.60.42.86:8000/play/a02i/index.m3u8
 #EXTINF:-1 tvg-id="Gourmet" tvg-logo="https://i.ibb.co/vDjGjxS/gourmet.png" status="timeout" group-title="Cocina", Gourmet
 http://181.78.105.146:8800/play/a022
 #EXTINF:-1 tvg-id="Gourmet" tvg-logo="https://i.ibb.co/vDjGjxS/gourmet.png" status="timeout" group-title="Cocina", Gourmet
-http://45.5.151.151:8000/play/a0pw/index.m3u8
+http://167.250.135.246:81/play/a0kh/index.m3u8
 #EXTINF:-1 tvg-id="Gourmet" tvg-logo="https://i.ibb.co/vDjGjxS/gourmet.png" status="timeout" group-title="Cocina", Gourmet
 http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/557
 #EXTINF:-1 tvg-id="Master Chef" tvg-logo="https://i.ibb.co/CPbB1HS/Master-Cheff.png" status="timeout" group-title="Cocina", Master Chef
@@ -221,8 +235,6 @@ http://190.102.246.93:9005/play/a02h
 https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/PASIONES/40-hls/live-media.m3u8
 #EXTINF:-1 tvg-id="Novelas Turcas" tvg-logo="https://i.ibb.co/PYg029H/novelasturcas.png" status="timeout" group-title="Novelas", Novelas Turcas
 https://jmp2.uk/sam-US27000033D.m3u8
-#EXTINF:-1 tvg-id="RCN Novelas" tvg-logo="https://i.ibb.co/C9K3g5V/RCN-Novelas.jpg" status="timeout" group-title="Novelas", RCN
-http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/460
 #EXTINF:-1 tvg-id="Sony novelas" tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/02/sonynovelas-150x150.jpg" status="timeout" group-title="Novelas", Sony novelas
 https://spt-novelas-1-us.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TLNovelas" tvg-logo="https://i.ibb.co/3F0rKYN/TLN.png" status="timeout" group-title="Novelas", TLNovelas
@@ -862,9 +874,9 @@ http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/121127
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://i.ibb.co/VtcbFMy/espn.png" status="timeout" group-title="Deportes", ESPN
 http://190.92.10.66:4000/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="ESPN HD" tvg-logo="https://i.ibb.co/VtcbFMy/espn.png" status="timeout" group-title="Deportes", ESPN
-http://179.189.222.226:8000/play/ch16
+http://167.250.135.246:81/play/a0a0/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://i.ibb.co/VtcbFMy/espn.png" status="timeout" group-title="Deportes", ESPN
-http://45.5.151.151:8000/play/a0o0/index.m3u8
+http://167.250.135.246:81/play/a07j/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://i.ibb.co/VtcbFMy/espn.png" status="timeout" group-title="Deportes", ESPN
 https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/ESPN/20-hls/live-media.m3u8
 #EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://i.ibb.co/hDxb5kp/ESPN2.jpg" status="timeout" group-title="Deportes", ESPN 2 HD
@@ -882,7 +894,7 @@ http://jmrk.xyz:3050/aaronbhagerman@yahoo.com/COf1hHEhiX/598169
 #EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://i.ibb.co/0y2y8kF/ESPN3.jpg" status="timeout" group-title="Deportes", ESPN 3
 https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/ESPN3/20-hls/live-media.m3u8
 #EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://i.ibb.co/v3bBmkh/ESPN4.jpg" status="timeout" group-title="Deportes", ESPN 4
-http://45.5.151.151:8000/play/a0qb/index.m3u8
+http://167.250.135.246:81/play/a07d/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://i.ibb.co/v3bBmkh/ESPN4.jpg" status="timeout" group-title="Deportes", ESPN 4
 http://190.102.246.93:9005/play/a019
 #EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://i.ibb.co/v3bBmkh/ESPN4.jpg" status="timeout" group-title="Deportes", ESPN 4
@@ -919,8 +931,6 @@ http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/1280
 http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/1275
 #EXTINF:-1 tvg-id="Fox Sports" tvg-logo="https://i.ibb.co/NrnK18q/foxsport.png" status="timeout" group-title="Deportes", Fox Sports
 http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/1279
-#EXTINF:-1 tvg-id="Fox Sports" tvg-logo="https://i.ibb.co/NrnK18q/foxsport.png" status="timeout" group-title="Deportes", Fox Sports
-http://45.5.151.151:8000/play/a0nw/index.m3u8
 #EXTINF:-1 tvg-id="Fox Sports 2" tvg-logo="https://i.ibb.co/MyvVsWt/foxsport2.jpg" status="timeout" group-title="Deportes", Fox Sports 2 HD
 http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/1273
 #EXTINF:-1 tvg-id="Fox Sports 2" tvg-logo="https://i.ibb.co/MyvVsWt/foxsport2.jpg" status="timeout" group-title="Deportes", Fox Sports 2
@@ -1583,6 +1593,8 @@ https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RCN" tvg-logo="https://i.ibb.co/bJp3LYq/rcn.png" status="timeout" group-title="Entretenimiento", RCN
 http://200.59.188.3:8000/play/a03a
+#EXTINF:-1 tvg-id="RCN" tvg-logo="https://i.ibb.co/bJp3LYq/rcn.png" status="timeout" group-title="Entretenimiento", RCN
+http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/460
 #EXTINF:-1 tvg-id="RCN Xtra" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/1.png" status="timeout" group-title="Entretenimiento", RCN Xtra HD
 http://200.59.188.3:8000/play/a0bk
 #EXTINF:-1 tvg-id="RCN Xtra" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/1.png" status="timeout" group-title="Entretenimiento", RCN Xtra
