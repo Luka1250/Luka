@@ -18,7 +18,7 @@ https://tv.bitstreaming.net:3348/multi_web/play_480.m3u8
 #EXTINF:-1 tvg-id="Latina Tv" tvg-logo="https://i.ibb.co/GWYWym6/tvlatina.png" status="timeout" group-title="Nacionales", Latina Montero
 https://castv10.plugstreaming.com:19360/redtv/redtv.m3u8
 #EXTINF:-1 tvg-id="PAT" tvg-logo="https://i.ibb.co/kcb8wz4/PAT.png" status="timeout" group-title="Nacionales", PAT
-https://glb.bozztv.com/glb/ssh101/pattv/index.m3u8
+https://streamer01.digital.com.bo/2ap337/__cl/cg:sworigin2/__c/PAT/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 tvg-id="ABE Educativo" tvg-logo="https://i.ibb.co/FVZnFSS/ABE.jpg" status="timeout" group-title="Nacionales", ABE Educativo
 http://167.250.135.246:81/play/a0k7/index.m3u8
 #EXTINF:-1 tvg-id="Abya Yala" tvg-logo="https://i.ibb.co/zbqh4d1/abyayalatv.jpg" status="timeout" group-title="Nacionales", Abya Yala
@@ -82,7 +82,7 @@ https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Nuevo Tiempo" tvg-logo="https://i.ibb.co/mGWRhqn/Nuevo-Tiempo.jpg" status="timeout" group-title="Nacionales", Nuevo Tiempo
 http://167.250.135.246:81/play/a0k5/index.m3u8
 #EXTINF:-1 tvg-id="PAT" tvg-logo="https://i.ibb.co/kcb8wz4/PAT.png" status="timeout" group-title="Nacionales", PAT
-https://streamer01.digital.com.bo/2ap337/__cl/cg:sworigin2/__c/PAT/__op/hls-default/__f/index.m3u8
+http://167.250.135.246:81/play/a0js/index.m3u8
 #EXTINF:-1 tvg-id="PTv" tvg-logo="https://i.ibb.co/yqkxrkL/PTV-HD.jpg" status="timeout" group-title="Nacionales", PTv
 https://fl1002.bozztv.com/ssh101/centralptv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Plus TLT" tvg-logo="https://i.ibb.co/60LG2mK/Plus-TLT.jpg" status="timeout" group-title="Nacionales", Plus TLT
@@ -1395,6 +1395,8 @@ https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
 http://181.78.105.146:8800/play/a04y
 #EXTINF:-1 tvg-id="Azteca Uno" tvg-logo="https://i.ibb.co/mcgjsMc/Azteca1.jpg" status="timeout" group-title="Entretenimiento", Azteca Uno
 http://stklatino.dynns.com:2082/patriciobriano/aTF5rqkPK8zh/2547
+#EXTINF:-1 tvg-id="Azteca 7" tvg-logo="https://i.ibb.co/rFypVRy/Azteca7.jpg" status="timeout" group-title="Entretenimiento", Azteca 7
+http://190.92.10.66:4000/play/a007/index.m3u8
 #EXTINF:-1 tvg-id="Azteca Internacional" tvg-logo="https://i.ibb.co/YyxLhLh/azteca-tv.png" status="timeout" group-title="Entretenimiento", Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-id="Azteca Guatemala" tvg-logo="https://i.ibb.co/D1cstB8/aztecagt.png" status="timeout" group-title="Entretenimiento", Azteca Guatemala
