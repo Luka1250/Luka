@@ -5,8 +5,6 @@ http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/102643
 https://streamer01.digital.com.bo/2ap337/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 tvg-id="Unitel" tvg-logo="https://i.ibb.co/M2jn6ky/Unitel.jpg" status="timeout" group-title="Nacionales", Unitel
 http://167.250.135.246:81/play/tdt08/index.m3u8
-#EXTINF:-1 tvg-id="Red Uno" tvg-logo="https://i.ibb.co/2yHQxQJ/tigo.png" status="timeout" group-title="Nacionales", Unitel - Red Uno - Tigo Sports
-https://master.tucableip.com//movil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Red Uno" tvg-logo="https://i.ibb.co/mDBcFJB/red-uno-bo.png" status="timeout" group-title="Nacionales", Red Uno
 https://streamer01.digital.com.bo/2ap337/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 tvg-id="TVU UAGRM" tvg-logo="https://i.ibb.co/Q63cyZF/TVUAGRM.jpg" status="timeout" group-title="Nacionales", TVU UAGRM
@@ -193,6 +191,8 @@ http://179.49.163.34:45000/play/a01h/index.m3u8
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 #EXTINF:-1 tvg-id="Campo Abierto" tvg-logo="https://i2.paste.pics/44c5f4becc68ee877580eed639645110.png" status="timeout" group-title="Agro", Campo Abierto
 https://v2.tustreaming.cl/catvlive/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Agroomi" tvg-logo="https://i.ibb.co/jf9PTS8/Agroomi.png" status="timeout" group-title="Agro", Agroomi
+https://glb.bozztv.com/glb/ssh101/agroomitv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Rural" tvg-logo="https://i.ibb.co/T2G6dF4/canal-Rural.png" status="timeout" group-title="Agro", Rural Ar
 http://177.93.41.82:45000/play/a08r/index.m3u8
 #EXTINF:-1 tvg-id="Andalucía Cocina" tvg-logo="https://i.ibb.co/j3NJ71B/andalucia-cocina.jpg" status="timeout" group-title="Cocina", Andalucía Cocina
@@ -346,18 +346,24 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="Educativos", Historia Es
 http://fastream.xyz:8080/alealejandra/bgZS147/12344
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="Educativos", Historia Es
-http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/56221
+http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/6786
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="Educativos", Historia Es
-http://vo01.mohdtv.com:8880/voby5235/43867735/29308
-#EXTINF:-1 tvg-id="History" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" status="timeout" group-title="Educativos", History Channel
-http://168.181.122.234:8000/play/a019/index.m3u8
+http://onlinebakkal.uk:8080/ademudeneindhoven/68:72:c3:69:b3:3c/277961
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="Educativos", Historia Es
+http://onlinebakkal.uk:8080/ademudeneindhoven/68:72:c3:69:b3:3c/14439
 #EXTINF:-1 tvg-id="History" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" status="timeout" group-title="Educativos", History Channel
 http://190.60.49.244:4000/play/a03q
 #EXTINF:-1 tvg-id="History" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" status="timeout" group-title="Educativos", History Channel
 https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/HISTORY/40-hls/live-media.m3u8
 #EXTINF:-1 tvg-id="History" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" status="timeout" group-title="Educativos", History Channel
-http://fastream.xyz:8080/998229534tv/9lwd49/431
+http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/3163
 #EXTINF:-1 tvg-id="History" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" status="timeout" group-title="Educativos", History Channel
+http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/186570
+#EXTINF:-1 tvg-id="History" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" status="timeout" group-title="Educativos", History Channel
+http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/439767
+#EXTINF:-1 tvg-id="History" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" status="timeout" group-title="Educativos", History Channel
+http://fastream.xyz:8080/alealejandra/bgZS147/435
+#EXTINF:-1 tvg-id="History 2" tvg-logo="https://i.ibb.co/DDxrqKz/h2.png" status="timeout" group-title="Educativos", H2
 http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/19542
 #EXTINF:-1 tvg-id="History 2" tvg-logo="https://i.ibb.co/DDxrqKz/h2.png" status="timeout" group-title="Educativos", H2 FHD
 http://190.102.246.93:9005/play/a00y
