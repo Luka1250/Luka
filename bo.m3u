@@ -5,6 +5,8 @@ http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/102643
 https://streamer01.digital.com.bo/2ap337/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 tvg-id="Unitel" tvg-logo="https://i.ibb.co/M2jn6ky/Unitel.jpg" status="timeout" group-title="Nacionales", Unitel
 http://167.250.135.246:81/play/tdt08/index.m3u8
+#EXTINF:-1 tvg-id="Unitel" tvg-logo="https://i.ibb.co/M2jn6ky/Unitel.jpg" status="timeout" group-title="Nacionales", Unitel Scz
+https://master.tucableip.com//movil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Red Uno" tvg-logo="https://i.ibb.co/mDBcFJB/red-uno-bo.png" status="timeout" group-title="Nacionales", Red Uno
 https://streamer01.digital.com.bo/2ap337/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 tvg-id="TVU UAGRM" tvg-logo="https://i.ibb.co/Q63cyZF/TVUAGRM.jpg" status="timeout" group-title="Nacionales", TVU UAGRM
@@ -23,20 +25,14 @@ http://167.250.135.246:81/play/a0k7/index.m3u8
 http://167.250.135.246:81/play/a0k3/index.m3u8
 #EXTINF:-1 tvg-id="Amitel" tvg-logo="https://i.ibb.co/r4vvdgf/AMITEL.jpg" status="timeout" group-title="Nacionales", Agenda Minera
 https://stv.boliviaplay.com.bo/hls/0/stream.m3u8
-#EXTINF:-1 tvg-id="Ant" tvg-logo="https://i.ibb.co/JkPjfKT/ant.jpg" status="timeout" group-title="Nacionales", Ant
-http://181.188.144.141/tmp_hls/ant_tv/index.m3u8
-#EXTINF:-1 tvg-id="Ant Documentales" tvg-logo="https://i.ibb.co/qLSGyp0/ant-04.jpg" status="timeout" group-title="Nacionales", Ant Documentales
-http://181.188.144.141/tmp_hls/ant_doc/index.m3u8
 #EXTINF:-1 tvg-id="ATB" tvg-logo="https://i.ibb.co/8MZdMNv/ATB.jpg" status="timeout" group-title="Nacionales", ATB
-http://167.250.135.246:81/play/tdt01/index.m3u8
-#EXTINF:-1 tvg-id="Ayni" tvg-logo="https://i.ibb.co/xJHF3td/ayni.jpg" status="timeout" group-title="Nacionales", Ayni
-https://envivo.bolivia-link.com:3906/live/aynitvlive.m3u8
+https://streamer01.digital.com.bo/2ap337/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 tvg-id="Bolivia Tv" tvg-logo="https://i.ibb.co/y8tw8xP/BTV.jpg" status="timeout" group-title="Nacionales", Bolivia Tv 7.1
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="Bolivia Tv" tvg-logo="https://i.ibb.co/y8tw8xP/BTV.jpg" status="timeout" group-title="Nacionales", Bolivia Tv 7.2
 https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
 #EXTINF:-1 tvg-id="Bolivision" tvg-logo="https://i.ibb.co/xHmY1xR/Bolivision.png" status="timeout" group-title="Nacionales", Bolivision
-https://streamer01.digital.com.bo/2ap337/__cl/cg:sworigin2/__c/BOLIVISION/__op/hls-default/__f/index.m3u8
+http://167.250.135.246:81/play/a0k0/index.m3u8
 #EXTINF:-1 tvg-id="Cadena A" tvg-logo="https://i.ibb.co/WgCkjX8/cadena-a-bo.png" status="timeout" group-title="Nacionales", Cadena A
 https://streamer01.digital.com.bo/2ap337/__cl/cg:sworigin2/__c/CADENAA/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 tvg-id="CCTv" tvg-logo="https://i.ibb.co/3BTmPKz/Red-CCTV.png" status="timeout" group-title="Nacionales", CCTv
@@ -57,18 +53,14 @@ https://vsrv1.az-streamingserver.com:3068/live/vdsocmnulive.m3u8
 http://167.250.135.246:81/play/a0ju/index.m3u8
 #EXTINF:-1 tvg-id="F10" tvg-logo="https://i.ibb.co/qdY2C3L/F10.jpg" status="timeout" group-title="Nacionales", F10
 https://tv2.bitstreaming.net:3235/multi_live/play_480.m3u8
-#EXTINF:-1 tvg-id="Fap" tvg-logo="https://faptv.bo/wp-content/uploads/2024/09/web.png" status="timeout" group-title="Nacionales", Fap
-https://envivo.bolivia-link.com:3234/live/faptvlive.m3u8
 #EXTINF:-1 tvg-id="Fortaleza Tv Cueto" tvg-logo="https://i.ibb.co/G5rNZyk/Fortaleza.jpg" status="timeout" group-title="Nacionales", Fortaleza Tv Cueto
 https://fl1002.bozztv.com/ssh101/fortalezacueto/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Gigavisión" tvg-logo="https://i.ibb.co/qNB3XLm/giga-vision-bo.png" status="timeout" group-title="Nacionales", Gigavisión Lpz
 http://167.250.135.246:81/play/a0jy/index.m3u8
 #EXTINF:-1 tvg-id="Gogo Play Tv" tvg-logo="https://i.ibb.co/L85THzw/Gogoplay.jpg" status="timeout" group-title="Nacionales", Gogo Play Tv
-https://fl1002.bozztv.com/ssh101/gogoplay/tracks-v1a1/mono.m3u8
+https://giatv.bozztv.com/giatv/giatv-NEOGOGOPLAYTVE/NEOGOGOPLAYTVE/playlist.m3u8
 #EXTINF:-1 tvg-id="Imperial Tv" tvg-logo="https://i.ibb.co/GpHvf1d/imperial.png" status="timeout" group-title="Nacionales", Imperial Tv
 https://vdo.grupolimalive.com:3226/live/imperlive.m3u8
-#EXTINF:-1 tvg-id="IN Tv Bolivia" tvg-logo="https://i.ibb.co/bH2YxbQ/IN-Tv-Bolivia.jpg" status="timeout" group-title="Nacionales", IN Tv Bolivia
-https://envivo.bolivia-link.com:3580/live/intvlive.m3u8
 #EXTINF:-1 tvg-id="MarVision" tvg-logo="https://i.ibb.co/6RF1rCs/Mark.jpg" status="timeout" group-title="Nacionales", MarVision
 https://vdo.grupolimalive.com:3631/live/marvisionlive.m3u8
 #EXTINF:-1 tvg-id="Megat Tv 33" tvg-logo="https://i.ibb.co/8Dnw9TV/mega33.png" status="timeout" group-title="Nacionales", Mega Tv 33
@@ -79,6 +71,8 @@ https://video.live.com.bo:3999/live/megavisionlive.m3u8
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Nuevo Tiempo" tvg-logo="https://i.ibb.co/mGWRhqn/Nuevo-Tiempo.jpg" status="timeout" group-title="Nacionales", Nuevo Tiempo
 http://167.250.135.246:81/play/a0k5/index.m3u8
+#EXTINF:-1 tvg-id="Palenque Tv" tvg-logo="https://i.ibb.co/B22xJ4Z/Palenque.png" status="timeout" group-title="Nacionales", Palenque Tv
+https://tv.bitstreaming.net:3234/multi_live/play_480.m3u8
 #EXTINF:-1 tvg-id="PAT" tvg-logo="https://i.ibb.co/kcb8wz4/PAT.png" status="timeout" group-title="Nacionales", PAT
 http://167.250.135.246:81/play/a0js/index.m3u8
 #EXTINF:-1 tvg-id="PTv" tvg-logo="https://i.ibb.co/yqkxrkL/PTV-HD.jpg" status="timeout" group-title="Nacionales", PTv
@@ -121,6 +115,8 @@ https://vdo.grupolimalive.com:3967/live/tvelive.m3u8
 https://cloud2.streaminglivehd.com:1936/8016/8016/playlist.m3u8
 #EXTINF:-1 tvg-id="Tv Punto" tvg-logo="https://i.ibb.co/6JZfWY4/Bolivia-tv.jpg" status="timeout" group-title="Nacionales", Tv Punto Series
 https://cloud5.streaminglivehd.com:3819/stream/play.m3u8
+#EXTINF:-1 tvg-id="Tv Punto" tvg-logo="https://i.ibb.co/6JZfWY4/Bolivia-tv.jpg" status="timeout" group-title="Nacionales", Tv Punto HD Movies
+https://cloud5.streaminglivehd.com:3819/live/puntotvlive.m3u8
 #EXTINF:-1 tvg-id="Tv Show Oruro" tvg-logo="https://i.ibb.co/5jQZkkm/tvshow.jpg" status="timeout" group-title="Nacionales", Tv Show Oruro
 http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8
 #EXTINF:-1 tvg-id="TVU Pando" tvg-logo="https://i.ibb.co/ZdML966/tvupando.jpg" status="timeout" group-title="Nacionales", TVU Pando
@@ -1727,6 +1723,8 @@ https://5f700d5b2c46f.streamlock.net/vertv/vertv/.m3u8
 https://5f700d5b2c46f.streamlock.net/vertv/vertv/chunklist.m3u8
 #EXTINF:-1 tvg-id="Via" tvg-logo="https://i.ibb.co/wSdJX9s/viatv.jpg" status="timeout" group-title="Entretenimiento", Via
 https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
+#EXTINF:-1 tvg-id="Vivo" tvg-logo="https://i.ibb.co/tPxqBF7/vivotv.jpg" status="timeout" group-title="Entretenimiento", Vivo
+https://manage.lineasdns.com:19360/vivotv/vivotv.m3u8
 #EXTINF:-1 tvg-id="Volver" tvg-logo="https://i.ibb.co/MgvzBHD/Volver.png" status="timeout" group-title="Entretenimiento", Volver
 http://168.197.196.98:82/stream/channelid/283862998?profile=pass
 #EXTINF:-1 tvg-id="VP Tv" tvg-logo="https://i.ibb.co/yfjZWd4/VP.jpg" status="timeout" group-title="Entretenimiento", VP Tv
