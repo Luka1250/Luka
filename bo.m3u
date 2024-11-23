@@ -737,20 +737,22 @@ http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/3392
 http://38.41.8.1:8000/play/a05y
 #EXTINF:-1 tvg-id="Star Es" tvg-logo="https://i.ibb.co/6Dfxqjp/star.png" status="timeout" group-title="Cine y Series", Star Es
 http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/14469
+#EXTINF:-1 tvg-id="Star Ar" tvg-logo="https://i.ibb.co/6Dfxqjp/star.png" status="timeout" group-title="Cine y Series", Star Ar FHD
+http://167.250.135.246:81/play/a0km/index.m3u8
 #EXTINF:-1 tvg-id="Star Ar" tvg-logo="https://i.ibb.co/6Dfxqjp/star.png" status="timeout" group-title="Cine y Series", Star Ar
+http://abcnew.site:8880/6mk410034/93527313/49681
+#EXTINF:-1 tvg-id="Star Ar" tvg-logo="https://i.ibb.co/6Dfxqjp/star.png" status="timeout" group-title="Cine y Series", Star
+http://abcnew.site:8880/6mk410034/93527313/58002
+#EXTINF:-1 tvg-id="Star Ar" tvg-logo="https://i.ibb.co/6Dfxqjp/star.png" status="timeout" group-title="Cine y Series", Star
 http://stklatino.dynns.com:2082/patriciobriano/aTF5rqkPK8zh/2671
-#EXTINF:-1 tvg-id="Star" tvg-logo="https://i.ibb.co/6Dfxqjp/star.png" status="timeout" group-title="Cine y Series", Star Ar
+#EXTINF:-1 tvg-id="Star" tvg-logo="https://i.ibb.co/6Dfxqjp/star.png" status="timeout" group-title="Cine y Series", Star
 http://stklatino.dynns.com:2082/patriciobriano/aTF5rqkPK8zh/7015
-#EXTINF:-1 tvg-id="Star" tvg-logo="https://i.ibb.co/6Dfxqjp/star.png" status="timeout" group-title="Cine y Series", Star Ar
-http://170.83.242.9:4000/play/a037
 #EXTINF:-1 tvg-id="Star Mx" tvg-logo="https://i.ibb.co/6Dfxqjp/star.png" status="timeout" group-title="Cine y Series", Star
 http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/73508
 #EXTINF:-1 tvg-id="Star Mx" tvg-logo="https://i.ibb.co/6Dfxqjp/star.png" status="timeout" group-title="Cine y Series", Star
-http://177.53.155.236:8000/play/a0bi/index.m3u8
+http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/162
 #EXTINF:-1 tvg-id="Star Mx" tvg-logo="https://i.ibb.co/6Dfxqjp/star.png" status="timeout" group-title="Cine y Series", Star
 http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/24920
-#EXTINF:-1 tvg-id="Star Mx" tvg-logo="https://i.ibb.co/6Dfxqjp/star.png" status="timeout" group-title="Cine y Series", Star
-http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/162
 #EXTINF:-1 tvg-id="Starz Edge" tvg-logo="https://i.ibb.co/n7mCk8f/Starz-Edge.jpg" status="timeout" group-title="Cine y Series", Starz Edge
 http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/3405
 #EXTINF:-1 tvg-id="Starz Encore Action" tvg-logo="https://i.ibb.co/6HKWh5Y/Starz-Encore-Action.png" status="timeout" group-title="Cine y Series", Starz Encore Action
