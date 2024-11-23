@@ -737,16 +737,10 @@ http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/3392
 http://38.41.8.1:8000/play/a05y
 #EXTINF:-1 tvg-id="Star Es" tvg-logo="https://i.ibb.co/6Dfxqjp/star.png" status="timeout" group-title="Cine y Series", Star Es
 http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/14469
-#EXTINF:-1 tvg-id="Star Ar" tvg-logo="https://i.ibb.co/6Dfxqjp/star.png" status="timeout" group-title="Cine y Series", Star Ar FHD
-http://167.250.135.246:81/play/a0km/index.m3u8
-#EXTINF:-1 tvg-id="Star Ar" tvg-logo="https://i.ibb.co/6Dfxqjp/star.png" status="timeout" group-title="Cine y Series", Star Ar
-http://abcnew.site:8880/6mk410034/93527313/49681
-#EXTINF:-1 tvg-id="Star Ar" tvg-logo="https://i.ibb.co/6Dfxqjp/star.png" status="timeout" group-title="Cine y Series", Star
-http://abcnew.site:8880/6mk410034/93527313/58002
-#EXTINF:-1 tvg-id="Star Ar" tvg-logo="https://i.ibb.co/6Dfxqjp/star.png" status="timeout" group-title="Cine y Series", Star
-http://stklatino.dynns.com:2082/patriciobriano/aTF5rqkPK8zh/2671
 #EXTINF:-1 tvg-id="Star" tvg-logo="https://i.ibb.co/6Dfxqjp/star.png" status="timeout" group-title="Cine y Series", Star
 http://stklatino.dynns.com:2082/patriciobriano/aTF5rqkPK8zh/7015
+#EXTINF:-1 tvg-id="Star Ar" tvg-logo="https://i.ibb.co/6Dfxqjp/star.png" status="timeout" group-title="Cine y Series", Star
+http://stklatino.dynns.com:2082/patriciobriano/aTF5rqkPK8zh/2671
 #EXTINF:-1 tvg-id="Star Mx" tvg-logo="https://i.ibb.co/6Dfxqjp/star.png" status="timeout" group-title="Cine y Series", Star
 http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/73508
 #EXTINF:-1 tvg-id="Star Mx" tvg-logo="https://i.ibb.co/6Dfxqjp/star.png" status="timeout" group-title="Cine y Series", Star
