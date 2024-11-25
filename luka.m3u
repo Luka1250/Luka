@@ -3,8 +3,6 @@
 http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/102643
 #EXTINF:-1 tvg-id="Unitel" tvg-logo="https://i.ibb.co/M2jn6ky/Unitel.jpg" status="timeout" group-title="Nacionales", Unitel FHD
 https://streamer01.digital.com.bo/2ap337/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8
-#EXTINF:-1 tvg-id="Unitel" tvg-logo="https://i.ibb.co/M2jn6ky/Unitel.jpg" status="timeout" group-title="Nacionales", Unitel
-http://167.250.135.246:81/play/tdt08/index.m3u8
 #EXTINF:-1 tvg-id="Unitel" tvg-logo="https://i.ibb.co/M2jn6ky/Unitel.jpg" status="timeout" group-title="Nacionales", Unitel Scz
 https://master.tucableip.com//movil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Red Uno" tvg-logo="https://i.ibb.co/mDBcFJB/red-uno-bo.png" status="timeout" group-title="Nacionales", Red Uno
@@ -27,6 +25,8 @@ http://167.250.135.246:81/play/a0k3/index.m3u8
 https://stv.boliviaplay.com.bo/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="ATB" tvg-logo="https://i.ibb.co/8MZdMNv/ATB.jpg" status="timeout" group-title="Nacionales", ATB
 https://streamer01.digital.com.bo/2ap337/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.m3u8
+#EXTINF:-1 tvg-id="Ayni" tvg-logo="https://i.ibb.co/xJHF3td/ayni.jpg" status="timeout" group-title="Nacionales", Ayni
+https://envivo.bolivia-link.com:3906/live/aynitvlive.m3u8
 #EXTINF:-1 tvg-id="Bolivia Tv" tvg-logo="https://i.ibb.co/y8tw8xP/BTV.jpg" status="timeout" group-title="Nacionales", Bolivia Tv 7.1
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="Bolivia Tv" tvg-logo="https://i.ibb.co/y8tw8xP/BTV.jpg" status="timeout" group-title="Nacionales", Bolivia Tv 7.2
@@ -35,6 +35,8 @@ https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
 http://167.250.135.246:81/play/a0k0/index.m3u8
 #EXTINF:-1 tvg-id="Cadena A" tvg-logo="https://i.ibb.co/WgCkjX8/cadena-a-bo.png" status="timeout" group-title="Nacionales", Cadena A
 https://streamer01.digital.com.bo/2ap337/__cl/cg:sworigin2/__c/CADENAA/__op/hls-default/__f/index.m3u8
+#EXTINF:-1 tvg-id="CVC" tvg-logo="https://i.ibb.co/234j2Jq/TVC.jpg" status="timeout" group-title="Nacionales", CVC
+https://5d00db0e0fcd5.streamlock.net/7034/7034/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTv" tvg-logo="https://i.ibb.co/3BTmPKz/Red-CCTV.png" status="timeout" group-title="Nacionales", CCTv
 https://solo.disfrutaenlared.com:1936/redcctv/redcctv/chunklist.m3u8
 #EXTINF:-1 tvg-id="CTv" tvg-logo="https://i.ibb.co/vxyyLdV/ctv.png" status="timeout" group-title="Nacionales", CTv
@@ -51,6 +53,8 @@ https://srv5.elittehosting.com:3369/live/cristaltvlive.m3u8
 https://vsrv1.az-streamingserver.com:3068/live/vdsocmnulive.m3u8
 #EXTINF:-1 tvg-id="EGPP" tvg-logo="https://i.ibb.co/y89yjPz/EGPP.jpg" status="timeout" group-title="Nacionales", EGPP
 http://167.250.135.246:81/play/a0ju/index.m3u8
+#EXTINF:-1 tvg-id="Fap" tvg-logo="https://faptv.bo/wp-content/uploads/2024/09/web.png" status="timeout" group-title="Nacionales", Fap
+https://envivo.bolivia-link.com:3234/live/faptvlive.m3u8
 #EXTINF:-1 tvg-id="F10" tvg-logo="https://i.ibb.co/qdY2C3L/F10.jpg" status="timeout" group-title="Nacionales", F10
 https://tv2.bitstreaming.net:3235/multi_live/play_480.m3u8
 #EXTINF:-1 tvg-id="Fortaleza Tv Cueto" tvg-logo="https://i.ibb.co/G5rNZyk/Fortaleza.jpg" status="timeout" group-title="Nacionales", Fortaleza Tv Cueto
@@ -61,6 +65,8 @@ http://167.250.135.246:81/play/a0jy/index.m3u8
 https://giatv.bozztv.com/giatv/giatv-NEOGOGOPLAYTVE/NEOGOGOPLAYTVE/playlist.m3u8
 #EXTINF:-1 tvg-id="Imperial Tv" tvg-logo="https://i.ibb.co/GpHvf1d/imperial.png" status="timeout" group-title="Nacionales", Imperial Tv
 https://vdo.grupolimalive.com:3226/live/imperlive.m3u8
+#EXTINF:-1 tvg-id="IN Tv Bolivia" tvg-logo="https://i.ibb.co/bH2YxbQ/IN-Tv-Bolivia.jpg" status="timeout" group-title="Nacionales", IN Tv Bolivia
+https://envivo.bolivia-link.com:3580/live/intvlive.m3u8
 #EXTINF:-1 tvg-id="MarVision" tvg-logo="https://i.ibb.co/6RF1rCs/Mark.jpg" status="timeout" group-title="Nacionales", MarVision
 https://vdo.grupolimalive.com:3631/live/marvisionlive.m3u8
 #EXTINF:-1 tvg-id="Megat Tv 33" tvg-logo="https://i.ibb.co/8Dnw9TV/mega33.png" status="timeout" group-title="Nacionales", Mega Tv 33
@@ -71,8 +77,6 @@ https://video.live.com.bo:3999/live/megavisionlive.m3u8
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Nuevo Tiempo" tvg-logo="https://i.ibb.co/mGWRhqn/Nuevo-Tiempo.jpg" status="timeout" group-title="Nacionales", Nuevo Tiempo
 http://167.250.135.246:81/play/a0k5/index.m3u8
-#EXTINF:-1 tvg-id="Palenque Tv" tvg-logo="https://i.ibb.co/B22xJ4Z/Palenque.png" status="timeout" group-title="Nacionales", Palenque Tv
-https://tv.bitstreaming.net:3234/multi_live/play_480.m3u8
 #EXTINF:-1 tvg-id="PAT" tvg-logo="https://i.ibb.co/kcb8wz4/PAT.png" status="timeout" group-title="Nacionales", PAT
 http://167.250.135.246:81/play/a0js/index.m3u8
 #EXTINF:-1 tvg-id="PTv" tvg-logo="https://i.ibb.co/yqkxrkL/PTV-HD.jpg" status="timeout" group-title="Nacionales", PTv
@@ -88,11 +92,9 @@ https://videostream.shockmedia.com.ar:19360/redamericatv/redamericatv.m3u8
 #EXTINF:-1 tvg-id="RTP" tvg-logo="https://i.ibb.co/w0DdYgK/RTP.png" status="timeout" group-title="Nacionales", RTP
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/RTP/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 tvg-id="Red Uno" tvg-logo="https://i.ibb.co/mDBcFJB/red-uno-bo.png" status="timeout" group-title="Nacionales", Red Uno Lpz
-http://167.250.135.246:81/play/a0ji/index.m3u8
+http://45.5.151.151:8000/play/a0n5/index.m3u8
 #EXTINF:-1 tvg-id="Seo Tv" tvg-logo="https://i.ibb.co/1rdyvWM/LOGO-SEO-TV-HD.png" status="timeout" group-title="Nacionales", Seo Tv
 https://seo.tv.bo/tv/IPSEO-TV-1.m3u8
-#EXTINF:-1 tvg-id="Seo Deportes" tvg-logo="https://i.ibb.co/QCr8qyW/Seo-Deportes.jpg" status="timeout" group-title="Nacionales", Seo Tv Deportes
-https://seo.tv.bo/tv/IPSEO-TV-5.2.m3u8
 #EXTINF:-1 tvg-id="Seo Peliculas" tvg-logo="https://i.ibb.co/w0cT2Yq/SEOPeliculas.jpg" status="timeout" group-title="Nacionales", Seo Tv Peliculas
 https://seo.tv.bo/tv/IPSEO-TV-4.m3u8
 #EXTINF:-1 tvg-id="Siglo XXI" tvg-logo="https://i.ibb.co/J3XL4bw/siglo21.jpg" status="timeout" group-title="Nacionales", Siglo XXI
@@ -105,8 +107,6 @@ http://167.250.135.246:81/play/a0jt/index.m3u8
 http://167.250.135.246:81/play/a0jj/index.m3u8
 #EXTINF:-1 tvg-id="Tele Clasica" tvg-logo="https://i.ibb.co/d6xrRGN/Teleclasica.jpg" status="timeout" group-title="Nacionales", Tele Clasica
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
-#EXTINF:-1 tvg-id="Tv Tropical" tvg-logo="https://i.ibb.co/DLdjcJM/TROPICAL.png" status="timeout" group-title="Nacionales", Tv Tropical
-https://cloud2.streaminglivehd.com:19360/8044/8044.m3u8
 #EXTINF:-1 tvg-id="Tu Tv" tvg-logo="https://i.ibb.co/3NT9z9F/channels4-profile-1.jpg" status="timeout" group-title="Nacionales", Tu Tv
 https://solo.disfrutaenlared.com:1936/tutv/tutv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVA" tvg-logo="https://i.ibb.co/9NwQkfM/TVABOLIVIA.png" status="timeout" group-title="Nacionales", TVA Valle Alto
@@ -198,9 +198,9 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1acdaa8ba90f0007d5e
 #EXTINF:-1 tvg-id="Cocina Tv" tvg-logo="https://i.ibb.co/k4cpwd3/Canal-Cocina.png" status="timeout" group-title="Cocina", Cocina Tv
 http://fastream.xyz:8080/998229534tv/9lwd49/614
 #EXTINF:-1 tvg-id="Food Network" tvg-logo="https://i.ibb.co/F5Wpk9g/Food-Network.png" status="timeout" group-title="Cocina", Food Network HD
-http://fastream.xyz:8080/alealejandra/bgZS147/599
+http://45.175.139.194:8000/play/50
 #EXTINF:-1 tvg-id="Food Network" tvg-logo="https://i.ibb.co/F5Wpk9g/Food-Network.png" status="timeout" group-title="Cocina", Food Network
-https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/FOODNETWORK/40-hls/live-media.m3u8
+http://vp-txpro.com:80/srpkinje.kurvetine.raspale.pisamo.im.u.usta.droljetinama/6wwUEPCR6bzu/53966
 #EXTINF:-1 tvg-id="Food Network" tvg-logo="https://i.ibb.co/F5Wpk9g/Food-Network.png" status="timeout" group-title="Cocina", Food Network
 http://190.60.42.86:8000/play/a02i/index.m3u8
 #EXTINF:-1 tvg-id="Gourmet" tvg-logo="https://i.ibb.co/vDjGjxS/gourmet.png" status="timeout" group-title="Cocina", Gourmet
@@ -340,7 +340,7 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099f2b40d0640007fc5
 #EXTINF:-1 tvg-id="Garage TV" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-garage_m.png" status="timeout" group-title="Educativos", Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="Educativos", Historia Es
-http://fastream.xyz:8080/alealejandra/bgZS147/12344
+http://luna4k.eu:80/176915597225/665f3527321ef.56686/6108
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="Educativos", Historia Es
 http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/6786
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="Educativos", Historia Es
@@ -1029,8 +1029,6 @@ http://190.109.15.46:3528/play/a040/index.m3u8
 http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/690
 #EXTINF:-1 tvg-id="Bob Esponja" tvg-logo="https://i.ibb.co/Gpbkwyc/Bob-Esponja.png" status="timeout" group-title="Infantiles", Bob Esponja
 http://stklatino.dynns.com:2082/patriciobriano/aTF5rqkPK8zh/7094
-#EXTINF:-1 tvg-id="Bob Esponja" tvg-logo="https://i.ibb.co/Gpbkwyc/Bob-Esponja.png" status="timeout" group-title="Infantiles", Bob Esponja
-http://fastream.xyz:8080/alealejandra/bgZS147/250484
 #EXTINF:-1 tvg-id="Canal Infantil" tvg-logo="https://i.ibb.co/fqtJPK2/canal-infantil.png" status="timeout" group-title="Infantiles", Canal Infantil
 http://190.90.252.200:16001/play/a060/index.m3u8
 #EXTINF:-1 tvg-id="Caillou" tvg-logo="https://i.ibb.co/pZ4Dz8f/Caillou.png" status="timeout" group-title="Infantiles", Caillou
@@ -1047,44 +1045,28 @@ http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/12414
 http://stklatino.dynns.com:2082/patriciobriano/aTF5rqkPK8zh/2473
 #EXTINF:-1 tvg-id="Disney Jr" tvg-logo="https://i.ibb.co/VCPrhzL/Disney-Jr.png" status="timeout" group-title="Infantiles", Disney Junior
 http://179.189.222.226:8000/play/ch05
-#EXTINF:-1 tvg-id="Disney Jr" tvg-logo="https://i.ibb.co/VCPrhzL/Disney-Jr.png" status="timeout" group-title="Infantiles", Disney Junior
-http://canal-pro.xyz:8080/95831942/Wse32F5/59451
 #EXTINF:-1 tvg-id="Garfield y sus amigos" tvg-logo="https://i.ibb.co/8sktynv/Garfield-y-sus-amigos.jpg" status="timeout" group-title="Infantiles", Garfield y sus amigos
 http://stklatino.dynns.com:2082/patriciobriano/aTF5rqkPK8zh/13316
 #EXTINF:-1 tvg-id="Jorge el curioso" tvg-logo="https://i.ibb.co/gWpmXWH/Jorge-el-curioso.jpg" status="timeout" group-title="Infantiles", Jorge el curioso
 http://stklatino.dynns.com:2082/movie/patriciobriano/aTF5rqkPK8zh/6818.mkv
 #EXTINF:-1 tvg-id="La Pantera Rosa" tvg-logo="https://i.ibb.co/ZTHGfYb/Pantera-rosa.jpg" status="timeout" group-title="Infantiles", La Pantera Rosa
 http://stklatino.dynns.com:2082/patriciobriano/aTF5rqkPK8zh/49645
-#EXTINF:-1 tvg-id="Dinosaurios" tvg-logo="https://i.ibb.co/pxJ5d4X/Dinos.jpg" status="timeout" group-title="Infantiles", Los Dinosaurios
-http://canal-pro.xyz:8080/95831942/Wse32F5/693
-#EXTINF:-1 tvg-id="Dinosaurios" tvg-logo="https://i.ibb.co/pxJ5d4X/Dinos.jpg" status="timeout" group-title="Infantiles", Los Dinosaurios
-http://fastream.xyz:8080/alealejandra/bgZS147/250487
-#EXTINF:-1 tvg-id="Los Picapiedras" tvg-logo="https://i.ibb.co/RvJFsbR/Lospicapiedras.jpg" status="timeout" group-title="Infantiles", Los Picapiedras
-http://canal-pro.xyz:8080/95831942/Wse32F5/784
 #EXTINF:-1 tvg-id="Los Pitufos" tvg-logo="https://i.ibb.co/FKNyC6c/Los-Pitufos-Tv.jpg" status="timeout" group-title="Infantiles", Los Pitufos Tv
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
 #EXTINF:-1 tvg-id="Looney Tunes" tvg-logo="https://i.ibb.co/6swXcCZ/Looney-Tunes.jpg" status="timeout" group-title="Infantiles", Looney Tunes
 http://fastream.xyz:8080/998229534tv/9lwd49/786
 #EXTINF:-1 tvg-id="Mr Bean" tvg-logo="https://i.ibb.co/znsgTKD/Bean.jpg" status="timeout" group-title="Infantiles", Mr Bean
-http://stklatino.dynns.com:2082/patriciobriano/aTF5rqkPK8zh/31711
-#EXTINF:-1 tvg-id="Mr Bean" tvg-logo="https://i.ibb.co/znsgTKD/Bean.jpg" status="timeout" group-title="Infantiles", Mr Bean
-http://canal-pro.xyz:8080/95831942/Wse32F5/703
-#EXTINF:-1 tvg-id="Mr Bean" tvg-logo="https://i.ibb.co/znsgTKD/Bean.jpg" status="timeout" group-title="Infantiles", Mr Bean
 http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/703
 #EXTINF:-1 tvg-id="Nick Jr" tvg-logo="https://i.ibb.co/6wq1yLy/Nick-Jr.jpg" status="timeout" group-title="Infantiles", Nick Jr
 http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/59540
-#EXTINF:-1 tvg-id="Nick Jr" tvg-logo="https://i.ibb.co/6wq1yLy/Nick-Jr.jpg" status="timeout" group-title="Infantiles", Nick Jr
-http://canal-pro.xyz:8080/95831942/Wse32F5/59540
-#EXTINF:-1 tvg-id="Paw Patrol" tvg-logo="https://i.ibb.co/T2zwCC4/Paw-Patrol.jpg" status="timeout" group-title="Infantiles", Paw Patrol
-http://canal-pro.xyz:8080/95831942/Wse32F5/62384
 #EXTINF:-1 tvg-id="Paw Patrol" tvg-logo="https://i.ibb.co/T2zwCC4/Paw-Patrol.jpg" status="timeout" group-title="Infantiles", Paw Patrol
 http://fastream.xyz:8080/998229534tv/9lwd49/62384
 #EXTINF:-1 tvg-id="Peppa Pig" tvg-logo="https://i.ibb.co/W3dr7Qn/Pepa-Pig.jpg" status="timeout" group-title="Infantiles", Peppa Pig
 http://stklatino.dynns.com:2082/patriciobriano/aTF5rqkPK8zh/31713
 #EXTINF:-1 tvg-id="Peppa Pig" tvg-logo="https://i.ibb.co/W3dr7Qn/Pepa-Pig.jpg" status="timeout" group-title="Infantiles", Peppa Pig
 http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/531704
-#EXTINF:-1 tvg-id="Plim Plim" tvg-logo="https://i.ibb.co/GMMB22M/Plim-Plim-Tv.jpg" status="timeout" group-title="Infantiles", Plim Plim
-http://canal-pro.xyz:8080/95831942/Wse32F5/62380
+#EXTINF:-1 tvg-id="Plim Plim" tvg-logo="https://i.ibb.co/GMMB22M/Plim-Plim-Tv.jpg" status="timeout" group-title="Infantiles", Plim Plim FHD
+http://45.175.139.194:8000/play/a04p
 #EXTINF:-1 tvg-id="Plim Plim" tvg-logo="https://i.ibb.co/GMMB22M/Plim-Plim-Tv.jpg" status="timeout" group-title="Infantiles", Plim Plim
 http://fastream.xyz:8080/998229534tv/9lwd49/62380
 #EXTINF:-1 tvg-id="Pocoyó" tvg-logo="https://i.ibb.co/Wyy4mXs/Pocoy.jpg" status="timeout" group-title="Infantiles", Pocoyó
