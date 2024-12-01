@@ -242,9 +242,9 @@ http://200.115.120.1:8000/play/ca019/index.m3u8
 #EXTINF:-1 tvg-id="TNT Novelas" tvg-logo="https://i.ibb.co/3zrgtpx/Tnt-Novelas.png" status="timeout" group-title="Novelas", TNT Novelas HD
 http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/3176
 #EXTINF:-1 tvg-id="AMC Break" tvg-logo="https://i.ibb.co/x726B5V/Break.png" status="timeout" group-title="Educativos", AMC Break
-http://vipgsiv.top:8080/VIP0185172121735637/51728239287866/778
+http://line.4smart.in:80/TYHZRW6/MF7V7X2/1061233
 #EXTINF:-1 tvg-id="AMC Crime" tvg-logo="https://i.ibb.co/pP8jpD3/AMC-Crimen.png" status="timeout" group-title="Educativos", AMC Crime
-http://vipgsiv.top:8080/VIP0185172121735637/51728239287866/707
+http://line.4smart.in:80/TYHZRW6/MF7V7X2/1029289
 #EXTINF:-1 tvg-id="Archivos Forenses" tvg-logo="https://images.pluto.tv/channels/5efb8c19b2678b000780d032/colorLogoPNG.png" status="timeout" group-title="Educativos", Archivos Forenses
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5efb8c19b2678b000780d032/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 #EXTINF:-1 tvg-id="Archivos Forenses" tvg-logo="https://images.pluto.tv/channels/5efb8c19b2678b000780d032/colorLogoPNG.png" status="timeout" group-title="Educativos", Archivos Forenses
@@ -252,7 +252,7 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f984f4a09e92d0007d74
 #EXTINF:-1 tvg-id="Atlas" tvg-logo="https://i.ibb.co/0X3vTDP/Atlas.jpg" status="timeout" group-title="Educativos", Atlas
 http://45.181.122.201:8081/play/a067
 #EXTINF:-1 tvg-id="Buen Viaje" tvg-logo="https://i.ibb.co/2Ps70cC/Buen-Viaje.jpg" status="timeout" group-title="Educativos", Buen Viaje HD
-http://fastream.xyz:8080/998229534tv/9lwd49/236353
+http://line.4smart.in:80/TYHZRW6/MF7V7X2/975874
 #EXTINF:-1 tvg-id="Canal del Caballo" tvg-logo="https://i.ibb.co/FWtdHh8/canal-del-caballo.jpg" status="timeout" group-title="Educativos", Canal del Caballo
 http://190.102.246.93:9005/play/a03s
 #EXTINF:-1 tvg-id="Cazador de Homicidas" tvg-logo="https://images.pluto.tv/channels/60ed5fb9c4716d0007d180c5/colorLogoPNG.png" status="timeout" group-title="Educativos", Cazador de Homicidas
@@ -266,7 +266,7 @@ https://rightsboosterltd-cops-1-cl.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Cops en Español" tvg-logo="https://i.ibb.co/BPKT7P7/Cops-en-Espa-ol.jpg" status="timeout" group-title="Educativos", Cops en Español
 https://rightsboosterltd-cops-1-pe.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="DKiss" tvg-logo="https://i.ibb.co/hsG2w5t/DKiss.png" status="timeout" group-title="Educativos", DKiss
-http://fastream.xyz:8080/alealejandra/bgZS147/12410
+http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/59546
 #EXTINF:-1 tvg-id="DMax" tvg-logo="https://i.ibb.co/GkYtsFp/DMAX.jpg" status="timeout" group-title="Educativos", DMax
 http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/114550
 #EXTINF:-1 tvg-id="DeCasa" tvg-logo="https://i.ibb.co/JnkYkHR/Dcasa.jpg" status="timeout" group-title="Educativos", De Casa
@@ -395,10 +395,6 @@ https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/LIFETIME/40-hls/live-m
 http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/54234
 #EXTINF:-1 tvg-id="Los archivos del FBI" tvg-logo="https://images.pluto.tv/channels/5e67d41b93312100076f3fca/colorLogoPNG.png" status="timeout" group-title="Educativos", Los archivos del FBI
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e67d41b93312100076f3fca/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-#EXTINF:-1 tvg-id="Love the Planet" tvg-logo="https://i.ibb.co/dLGrfvJ/Love-the-Planet.jpg" status="timeout" group-title="Educativos", Love the Planet
-http://fastream.xyz:8080/998229534tv/9lwd49/451
-#EXTINF:-1 tvg-id="Love the Planet" tvg-logo="https://i.ibb.co/dLGrfvJ/Love-the-Planet.jpg" status="timeout" group-title="Educativos", Love the Planet
-http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/276310
 #EXTINF:-1 tvg-id="Love Nature" tvg-logo="https://i.ibb.co/1shKZmy/Love-Nature-logo.jpg" status="timeout" group-title="Educativos", Love Nature
 http://179.189.222.226:8000/play/ch50
 #EXTINF:-1 tvg-id="Love Nature" tvg-logo="https://i.ibb.co/1shKZmy/Love-Nature-logo.jpg" status="timeout" group-title="Educativos", Love Nature
