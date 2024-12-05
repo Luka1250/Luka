@@ -158,7 +158,7 @@ https://streamer1.streamhost.org/salive/logoskidsH/chunklist.m3u8
 #EXTINF:-1 tvg-id="Maria Visión Es" tvg-logo="https://i.ibb.co/0yqjzVJ/Maria-vision.jpg" status="timeout" group-title="Religioso", Maria Visión Es
 https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Italiatre/chunklist.m3u8
 #EXTINF:-1 tvg-id="Maria Visión" tvg-logo="https://i.ibb.co/0yqjzVJ/Maria-vision.jpg" status="timeout" group-title="Religioso", Maria Visión Capilla
-https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Privado2/chunklist.m3u8
+https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Italiasette/chunklist.m3u8
 #EXTINF:-1 tvg-id="Maria Visión" tvg-logo="https://i.ibb.co/0yqjzVJ/Maria-vision.jpg" status="timeout" group-title="Religioso", Maria Visión
 https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Mariavision/chunklist.m3u8
 #EXTINF:-1 tvg-id="Monte María Tv" tvg-logo="https://i.ibb.co/BL0zCtq/Monte-Maria.png" status="timeout" group-title="Religioso", Monte María Tv
@@ -196,13 +196,13 @@ https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
 #EXTINF:-1 tvg-id="Cocina" tvg-logo="https://i.ibb.co/xLHY5BZ/cocina.jpg" status="timeout" group-title="Cocina", Cocina Pluto Tv
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 #EXTINF:-1 tvg-id="Cocina Tv" tvg-logo="https://i.ibb.co/k4cpwd3/Canal-Cocina.png" status="timeout" group-title="Cocina", Cocina Tv
-http://fastream.xyz:8080/998229534tv/9lwd49/614
+http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/614
 #EXTINF:-1 tvg-id="Food Network" tvg-logo="https://i.ibb.co/F5Wpk9g/Food-Network.png" status="timeout" group-title="Cocina", Food Network HD
 http://45.175.139.194:8000/play/50
 #EXTINF:-1 tvg-id="Food Network" tvg-logo="https://i.ibb.co/F5Wpk9g/Food-Network.png" status="timeout" group-title="Cocina", Food Network
-http://vp-txpro.com:80/srpkinje.kurvetine.raspale.pisamo.im.u.usta.droljetinama/6wwUEPCR6bzu/53966
+http://stklatino.dynns.com:2082/56979783565w1/120824activa/6348
 #EXTINF:-1 tvg-id="Food Network" tvg-logo="https://i.ibb.co/F5Wpk9g/Food-Network.png" status="timeout" group-title="Cocina", Food Network
-http://190.60.42.86:8000/play/a02i/index.m3u8
+http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/3171
 #EXTINF:-1 tvg-id="Gourmet" tvg-logo="https://i.ibb.co/vDjGjxS/gourmet.png" status="timeout" group-title="Cocina", Gourmet
 http://181.78.105.146:8800/play/a022
 #EXTINF:-1 tvg-id="Gourmet" tvg-logo="https://i.ibb.co/vDjGjxS/gourmet.png" status="timeout" group-title="Cocina", Gourmet
@@ -224,11 +224,11 @@ http://45.175.139.194:8000/play/a00d
 #EXTINF:-1 tvg-id="Kanal D" tvg-logo="https://ipuntotv.com/Images/Kanal-D-Logo.jpg" status="timeout" group-title="Novelas", Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8
 #EXTINF:-1 tvg-id="Kanal D" tvg-logo="https://ipuntotv.com/Images/Kanal-D-Logo.jpg" status="timeout" group-title="Novelas", Kanal D Drama
-http://181.78.201.70:8000/play/a05h/index.m3u8
+http://167.250.135.246:81/play/a090/index.m3u8
 #EXTINF:-1 tvg-id="Pasiones" tvg-logo="https://i.ibb.co/KVcyWRX/Pasionestv.png" status="timeout" group-title="Novelas", Pasiones HD
 http://190.102.246.93:9005/play/a02h
 #EXTINF:-1 tvg-id="Pasiones" tvg-logo="https://i.ibb.co/KVcyWRX/Pasionestv.png" status="timeout" group-title="Novelas", Pasiones
-http://200.115.120.1:8000/play/ca065/index.m3u8
+http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/28906
 #EXTINF:-1 tvg-id="Novelas Turcas" tvg-logo="https://i.ibb.co/PYg029H/novelasturcas.png" status="timeout" group-title="Novelas", Novelas Turcas
 https://jmp2.uk/sam-US27000033D.m3u8
 #EXTINF:-1 tvg-id="Sony novelas" tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/02/sonynovelas-150x150.jpg" status="timeout" group-title="Novelas", Sony novelas
@@ -272,11 +272,9 @@ http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/114550
 #EXTINF:-1 tvg-id="DeCasa" tvg-logo="https://i.ibb.co/JnkYkHR/Dcasa.jpg" status="timeout" group-title="Educativos", De Casa
 http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/6773
 #EXTINF:-1 tvg-id="Animal Planet" tvg-logo="https://i.ibb.co/Bq0Xjhf/Animal-Planet.png" status="timeout" group-title="Educativos", Discovery Animal Planet
-http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/229242
+http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/9517
 #EXTINF:-1 tvg-id="Animal Planet" tvg-logo="https://i.ibb.co/Bq0Xjhf/Animal-Planet.png" status="timeout" group-title="Educativos", Discovery Animal Planet
-http://200.115.120.1:8000/play/ca055/index.m3u8
-#EXTINF:-1 tvg-id="Animal Planet" tvg-logo="https://i.ibb.co/Bq0Xjhf/Animal-Planet.png" status="timeout" group-title="Educativos", Discovery Animal Planet
-http://190.102.246.93:9005/play/a01h
+http://stklatino.dynns.com:2082/juanzamora549/549292/2454
 #EXTINF:-1 tvg-id="Animal Planet" tvg-logo="https://i.ibb.co/Bq0Xjhf/Animal-Planet.png" status="timeout" group-title="Educativos", Discovery Animal Planet
 http://45.175.139.194:8000/play/47
 #EXTINF:-1 tvg-id="Discovery" tvg-logo="https://i.ibb.co/SyyDDQB/discovery.png" status="timeout" group-title="Educativos", Discovery Channel
@@ -288,49 +286,51 @@ http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/2515
 #EXTINF:-1 tvg-id="Discovery Familia" tvg-logo="https://i.ibb.co/1919vg2/Discovery-Familia.png" status="timeout" group-title="Educativos", Discovery Familia
 http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/20443
 #EXTINF:-1 tvg-id="HGTV" tvg-logo="https://i.ibb.co/JxLB9yS/hgtv.png" status="timeout" group-title="Educativos", Discovery Home Garden Tv
-http://200.115.120.1:8000/play/ca61/index.m3u8
-#EXTINF:-1 tvg-id="HGTV" tvg-logo="https://i.ibb.co/JxLB9yS/hgtv.png" status="timeout" group-title="Educativos", Discovery Home Garden Tv
 http://45.175.139.194:8000/play/48
 #EXTINF:-1 tvg-id="HGTV" tvg-logo="https://i.ibb.co/JxLB9yS/hgtv.png" status="timeout" group-title="Educativos", Discovery Home Garden Tv
-http://181.78.82.6:46090/play/a02p/index.m3u8
+http://stklatino.dynns.com:2082/56979783565w1/120824activa/30822
+#EXTINF:-1 tvg-id="HGTV" tvg-logo="https://i.ibb.co/JxLB9yS/hgtv.png" status="timeout" group-title="Educativos", Discovery Home Garden Tv
+http://home-playtv.com:8080/MagdielCampos02/DQPAZ/178146
 #EXTINF:-1 tvg-id="H&H" tvg-logo="https://i.ibb.co/9GkYvsp/h-h.jpg" status="timeout" group-title="Educativos", Discovery Home & Health FHD
 http://190.217.22.156:18000/play/a03x
 #EXTINF:-1 tvg-id="H&H" tvg-logo="https://i.ibb.co/9GkYvsp/h-h.jpg" status="timeout" group-title="Educativos", Discovery Home & Health
-http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/2539
+http://stklatino.dynns.com:2082/juanzamora549/549292/2457
 #EXTINF:-1 tvg-id="H&H" tvg-logo="https://i.ibb.co/9GkYvsp/h-h.jpg" status="timeout" group-title="Educativos", Discovery Home & Health
-http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/411
+http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/24806
 #EXTINF:-1 tvg-id="ID" tvg-logo="https://i.ibb.co/6PPyvXN/id.png" status="timeout" group-title="Educativos", Discovery ID FHD
 http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/2542
 #EXTINF:-1 tvg-id="ID" tvg-logo="https://i.ibb.co/6PPyvXN/id.png" status="timeout" group-title="Educativos", Discovery ID
-http://200.115.120.1:8000/play/ca056/index.m3u8
+http://stklatino.dynns.com:2082/juanzamora549/549292/30608
+#EXTINF:-1 tvg-id="ID" tvg-logo="https://i.ibb.co/6PPyvXN/id.png" status="timeout" group-title="Educativos", Discovery ID
+http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/437
 #EXTINF:-1 tvg-id="ID" tvg-logo="https://i.ibb.co/6PPyvXN/id.png" status="timeout" group-title="Educativos", Discovery ID
 http://45.5.151.151:8000/play/a0o7/index.m3u8
 #EXTINF:-1 tvg-id="Discovery Science" tvg-logo="https://i.ibb.co/gv5cmqF/co-discovery-science-m.png" status="timeout" group-title="Educativos", Discovery Science HD
-http://stklatino.dynns.com:2082/patriciobriano/aTF5rqkPK8zh/30609
-#EXTINF:-1 tvg-id="Discovery Science" tvg-logo="https://i.ibb.co/gv5cmqF/co-discovery-science-m.png" status="timeout" group-title="Educativos", Discovery Science
 http://45.175.139.194:8000/play/49
 #EXTINF:-1 tvg-id="Discovery Science" tvg-logo="https://i.ibb.co/gv5cmqF/co-discovery-science-m.png" status="timeout" group-title="Educativos", Discovery Science
-http://190.217.22.156:18000/play/a03p
+http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/53222
+#EXTINF:-1 tvg-id="Discovery Science" tvg-logo="https://i.ibb.co/gv5cmqF/co-discovery-science-m.png" status="timeout" group-title="Educativos", Discovery Science
+http://home-playtv.com:8080/MagdielCampos02/DQPAZ/53222
 #EXTINF:-1 tvg-id="Discovery Theater" tvg-logo="https://i.ibb.co/sWB0sYw/Theater.png" status="timeout" group-title="Educativos", Discovery Theater FHD
 http://190.102.246.93:9005/play/a01m
 #EXTINF:-1 tvg-id="Discovery Theater" tvg-logo="https://i.ibb.co/sWB0sYw/Theater.png" status="timeout" group-title="Educativos", Discovery Theater
-http://190.102.246.93:9005/play/a01m
-#EXTINF:-1 tvg-id="Discovery Theater" tvg-logo="https://i.ibb.co/sWB0sYw/Theater.png" status="timeout" group-title="Educativos", Discovery Theater
 http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/439786
-#EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="https://i.ibb.co/N18qmB3/dturbo.png" status="timeout" group-title="Educativos", Discovery Turbo FHD
-http://190.217.22.156:18000/play/a01k
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-logo="https://i.ibb.co/sWB0sYw/Theater.png" status="timeout" group-title="Educativos", Discovery Theater
+http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/24809
 #EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="https://i.ibb.co/N18qmB3/dturbo.png" status="timeout" group-title="Educativos", Discovery Turbo
 http://45.181.122.201:8081/play/a033
 #EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="https://i.ibb.co/N18qmB3/dturbo.png" status="timeout" group-title="Educativos", Discovery Turbo
 http://200.115.120.1:8000/play/ca117/index.m3u8
 #EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="https://i.ibb.co/N18qmB3/dturbo.png" status="timeout" group-title="Educativos", Discovery Turbo
 http://45.5.117.23:8000/play/a0nv/index.m3u8
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="https://i.ibb.co/N18qmB3/dturbo.png" status="timeout" group-title="Educativos", Discovery Turbo
+http://stklatino.dynns.com:2082/juanzamora549/549292/2462
 #EXTINF:-1 tvg-id="Discovery World" tvg-logo="https://i.ibb.co/2chdyKS/img-20190616-125035.png" status="timeout" group-title="Educativos", Discovery World
 http://45.5.151.151:8000/play/a0ol/index.m3u8
 #EXTINF:-1 tvg-id="Discovery World" tvg-logo="https://i.ibb.co/2chdyKS/img-20190616-125035.png" status="timeout" group-title="Educativos", Discovery World
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/2814
+http://stklatino.dynns.com:2082/juanzamora549/549292/4891
 #EXTINF:-1 tvg-id="Documentales M+" tvg-logo="https://i.ibb.co/Pjf1dS7/Documentales.png" status="timeout" group-title="Educativos", Documentales M+
-http://fastream.xyz:8080/alealejandra/bgZS147/236337
+http://line.4smart.in:80/TYHZRW6/MF7V7X2/1027427
 #EXTINF:-1 tvg-id="Empeños a los Bestia" tvg-logo="https://images.pluto.tv/channels/5f23102d5e239d00074b092a/colorLogoPNG.png" status="timeout" group-title="Educativos", Empeños a los Bestia
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f23102d5e239d00074b092a/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 #EXTINF:-1 tvg-id="Españoles en el mundo" tvg-logo="https://i.ibb.co/nD3P0rN/Espa-olesporelmundo.jpg" status="timeout" group-title="Educativos", Españoles en el mundo
@@ -341,32 +341,32 @@ https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099f2b40d0640007fc5aa2/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 #EXTINF:-1 tvg-id="Garage TV" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-garage_m.png" status="timeout" group-title="Educativos", Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="Educativos", Historia Es
-http://luna4k.eu:80/176915597225/665f3527321ef.56686/6108
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="Educativos", Historia Es FHD
+http://onlinebakkal.uk:8080/ademudeneindhoven/68:72:c3:69:b3:3c/14439
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="Educativos", Historia Es HD
+http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/236341
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="Educativos", Historia Es
 http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/6786
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="Educativos", Historia Es
-http://onlinebakkal.uk:8080/ademudeneindhoven/68:72:c3:69:b3:3c/277961
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="Educativos", Historia Es
-http://onlinebakkal.uk:8080/ademudeneindhoven/68:72:c3:69:b3:3c/14439
-#EXTINF:-1 tvg-id="History" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" status="timeout" group-title="Educativos", History Channel
-http://45.5.117.23:8000/play/a0n5/index.m3u8
-#EXTINF:-1 tvg-id="History" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" status="timeout" group-title="Educativos", History Channel
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4808
-#EXTINF:-1 tvg-id="History" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" status="timeout" group-title="Educativos", History Channel
-http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/3163
-#EXTINF:-1 tvg-id="History" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" status="timeout" group-title="Educativos", History Channel
-http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/186570
+http://luna4k.eu:80/176915597225/665f3527321ef.56686/6108
 #EXTINF:-1 tvg-id="History" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" status="timeout" group-title="Educativos", History Channel
 http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/439767
 #EXTINF:-1 tvg-id="History" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" status="timeout" group-title="Educativos", History Channel
-http://fastream.xyz:8080/alealejandra/bgZS147/435
+http://45.5.117.23:8000/play/a0n5/index.m3u8
 #EXTINF:-1 tvg-id="History" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" status="timeout" group-title="Educativos", History Channel
-http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/19542
+http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/434
+#EXTINF:-1 tvg-id="History" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" status="timeout" group-title="Educativos", History Channel
+http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/431
+#EXTINF:-1 tvg-id="History" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" status="timeout" group-title="Educativos", History Channel
+http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/242013
+#EXTINF:-1 tvg-id="History" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" status="timeout" group-title="Educativos", History Channel
+http://stklatino.dynns.com:2082/juanzamora549/549292/7062
 #EXTINF:-1 tvg-id="History 2" tvg-logo="https://i.ibb.co/DDxrqKz/h2.png" status="timeout" group-title="Educativos", H2 FHD
 http://190.102.246.93:9005/play/a00y
 #EXTINF:-1 tvg-id="History 2" tvg-logo="https://i.ibb.co/DDxrqKz/h2.png" status="timeout" group-title="Educativos", H2 HD
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/132580
+#EXTINF:-1 tvg-id="History 2" tvg-logo="https://i.ibb.co/DDxrqKz/h2.png" status="timeout" group-title="Educativos", H2
+http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/19542
 #EXTINF:-1 tvg-id="History 2" tvg-logo="https://i.ibb.co/DDxrqKz/h2.png" status="timeout" group-title="Educativos", H2
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4960
 #EXTINF:-1 tvg-id="Pluto Historia" tvg-logo="https://images.pluto.tv/channels/5de5758e1a30dc00094fcd6c/colorLogoPNG.png" status="timeout" group-title="Educativos", Historia
@@ -735,6 +735,8 @@ http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/3392
 http://38.41.8.1:8000/play/a05y
 #EXTINF:-1 tvg-id="Star Es" tvg-logo="https://i.ibb.co/6Dfxqjp/star.png" status="timeout" group-title="Cine y Series", Star Es
 http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/14469
+#EXTINF:-1 tvg-id="Star" tvg-logo="https://i.ibb.co/6Dfxqjp/star.png" status="timeout" group-title="Cine y Series", Star FHD
+http://167.250.135.246:81/play/a0km/index.m3u8
 #EXTINF:-1 tvg-id="Star" tvg-logo="https://i.ibb.co/6Dfxqjp/star.png" status="timeout" group-title="Cine y Series", Star
 http://stklatino.dynns.com:2082/patriciobriano/aTF5rqkPK8zh/7015
 #EXTINF:-1 tvg-id="Star Ar" tvg-logo="https://i.ibb.co/6Dfxqjp/star.png" status="timeout" group-title="Cine y Series", Star
