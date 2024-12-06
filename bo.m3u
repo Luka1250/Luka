@@ -476,13 +476,17 @@ https://tv.streaming-chile.com:19360/8140/8140.m3u8
 #EXTINF:-1 tvg-id="UCM" tvg-logo="https://i.ibb.co/px7ygjB/UCM.png" status="timeout" group-title="Cine y Series", UCM Movie
 http://fastream.xyz:8080/981228596tv/ldnkq06521/54696
 #EXTINF:-1 tvg-id="A&E" tvg-logo="https://i.ibb.co/6vLxqn7/A-E.png" status="timeout" group-title="Cine y Series", A&E FHD
-http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/3233
-#EXTINF:-1 tvg-id="A&E" tvg-logo="https://i.ibb.co/6vLxqn7/A-E.png" status="timeout" group-title="Cine y Series", A&E
 http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/2566
-#EXTINF:-1 tvg-id="A&E" tvg-logo="https://i.ibb.co/6vLxqn7/A-E.png" status="timeout" group-title="Cine y Series", A&E FHD
-http://45.181.122.201:8081/play/a005
 #EXTINF:-1 tvg-id="A&E" tvg-logo="https://i.ibb.co/6vLxqn7/A-E.png" status="timeout" group-title="Cine y Series", A&E
 http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/3233
+#EXTINF:-1 tvg-id="A&E" tvg-logo="https://i.ibb.co/6vLxqn7/A-E.png" status="timeout" group-title="Cine y Series", A&E
+http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/3233
+#EXTINF:-1 tvg-id="A&E" tvg-logo="https://i.ibb.co/6vLxqn7/A-E.png" status="timeout" group-title="Cine y Series", A&E HD
+http://200.115.120.1:8000/play/ca051/index.m3u8
+#EXTINF:-1 tvg-id="A&E" tvg-logo="https://i.ibb.co/6vLxqn7/A-E.png" status="timeout" group-title="Cine y Series", A&E
+http://45.167.3.81:45000/play/a03w/index.m3u8
+#EXTINF:-1 tvg-id="A&E" tvg-logo="https://i.ibb.co/6vLxqn7/A-E.png" status="timeout" group-title="Cine y Series", A&E
+http://45.5.117.23:8000/play/a0n1/index.m3u8
 #EXTINF:-1 tvg-id="AMC" tvg-logo="https://i.ibb.co/zxRCxH4/AMC.png" status="timeout" group-title="Cine y Series", AMC
 http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/14459
 #EXTINF:-1 tvg-id="AMC" tvg-logo="https://i.ibb.co/zxRCxH4/AMC.png" status="timeout" group-title="Cine y Series", AMC
@@ -496,25 +500,25 @@ https://jmp2.uk/sam-USBD7000017L.m3u8
 #EXTINF:-1 tvg-id="A3 Series" tvg-logo="https://i.ibb.co/NC6gF4M/A3Series.png" status="timeout" group-title="Cine y Series", A3 Series
 http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/14447
 #EXTINF:-1 tvg-id="A3 Series" tvg-logo="https://i.ibb.co/NC6gF4M/A3Series.png" status="timeout" group-title="Cine y Series", A3 Series
-http://fastream.xyz:8080/alealejandra/bgZS147/236395
+http://200.115.120.1:8000/play/ca0101/index.m3u8
 #EXTINF:-1 tvg-id="A3 Series" tvg-logo="https://i.ibb.co/NC6gF4M/A3Series.png" status="timeout" group-title="Cine y Series", A3 Series
 http://45.181.122.201:8081/play/a06e
 #EXTINF:-1 tvg-id="AXN" tvg-logo="https://i.ibb.co/By7GRw7/axn.png" status="timeout" group-title="Cine y Series", AXN
 http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/439779
 #EXTINF:-1 tvg-id="AXN" tvg-logo="https://i.ibb.co/By7GRw7/axn.png" status="timeout" group-title="Cine y Series", AXN
-http://45.181.122.201:8081/play/a008
-#EXTINF:-1 tvg-id="AXN" tvg-logo="https://i.ibb.co/By7GRw7/axn.png" status="timeout" group-title="Cine y Series", AXN
 http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/14460
 #EXTINF:-1 tvg-id="AXN" tvg-logo="https://i.ibb.co/By7GRw7/axn.png" status="timeout" group-title="Cine y Series", AXN
-http://fastream.xyz:8080/alealejandra/bgZS147/236400
+http://45.5.117.23:8000/play/a0m5/index.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-logo="https://i.ibb.co/By7GRw7/axn.png" status="timeout" group-title="Cine y Series", AXN
+http://200.115.120.1:8000/play/ca038/index.m3u8
 #EXTINF:-1 tvg-id="AXN Movies" tvg-logo="https://i.ibb.co/8bWq77z/AXN-Movie.png" status="timeout" group-title="Cine y Series", AXN Movies
-http://fastream.xyz:8080/998229534tv/9lwd49/236398
+http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/12425
 #EXTINF:-1 tvg-id="Az Cinema" tvg-logo="https://i.ibb.co/PYHvpdQ/Azteca-Cinema-Logo-2023.png" status="timeout" group-title="Cine y Series", Az Cinema
-http://fastream.xyz:8080/alealejandra/bgZS147/24890
+http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/24890
 #EXTINF:-1 tvg-id="Az Cinema" tvg-logo="https://i.ibb.co/PYHvpdQ/Azteca-Cinema-Logo-2023.png" status="timeout" group-title="Cine y Series", Az Cinema
 http://190.102.246.93:9005/play/a02v
 #EXTINF:-1 tvg-id="Be Mad" tvg-logo="https://i.ibb.co/JnByQ8S/Be-Mad-TV-svg.png" status="timeout" group-title="Cine y Series", Be Mad
-http://fastream.xyz:8080/998229534tv/9lwd49/236346
+http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/236345
 #EXTINF:-1 tvg-id="Cine de Acción" tvg-logo="https://i.postimg.cc/R0Dhhd1N/CINE-ACCI-N.png" status="timeout" group-title="Cine y Series", Cine de Acción
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 #EXTINF:-1 tvg-id="Cine Adrenalina" tvg-logo="https://i.postimg.cc/t4fgL8RM/cine_adrenalina.png" status="timeout" group-title="Cine y Series", Cine Adrenalina
@@ -532,13 +536,13 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6ddb30a1d8a000908e
 #EXTINF:-1 tvg-id="Cine Navidad" tvg-logo="https://images.pluto.tv/channels/5dd6ed41526c77000941411c/colorLogoPNG.png" status="timeout" group-title="Cine y Series", Cine Navidad
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6ed41526c77000941411c/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 #EXTINF:-1 tvg-id="Cine Familiar" tvg-logo="https://i.ibb.co/6DWtWTR/Cine-Familiar.jpg" status="timeout" group-title="Cine y Series", Cine Familiar
-http://181.78.23.26:45000/play/a03u
+http://190.121.42.18:8000/play/a017/index.m3u8
 #EXTINF:-1 tvg-id="Cine Hispano" tvg-logo="https://i.ibb.co/LCs3381/CINE-HISPANO.jpg" status="timeout" group-title="Cine y Series", Cine Hispano
-http://181.78.23.26:45000/play/a03v
+http://45.175.139.194:8000/play/35
 #EXTINF:-1 tvg-id="Cine Latino" tvg-logo="https://i.ibb.co/pZK1m5T/Cine-Latino.jpg" status="timeout" group-title="Cine y Series", Cine Latino
 http://200.125.170.120:8000/play/a05k
 #EXTINF:-1 tvg-id="Cine Premium" tvg-logo="https://i.ibb.co/hFMP040/cine-premium.jpg" status="timeout" group-title="Cine y Series", Cine Premium
-http://181.78.23.26:45000/play/a03x
+http://190.121.42.18:8000/play/a015/index.m3u8
 #EXTINF:-1 tvg-id="Cine Premiere" tvg-logo="https://i.ibb.co/5kyZzjF/premiere2.jpg" status="timeout" group-title="Cine y Series", Cine Premiere
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 #EXTINF:-1 tvg-id="Cine Suspenso" tvg-logo="https://images.pluto.tv/channels/5ddc4e8bcbb9010009b4e84f/colorLogoPNG.png" status="timeout" group-title="Cine y Series", Cine Suspenso
@@ -549,68 +553,68 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 #EXTINF:-1 tvg-id="Cine Thrillers" tvg-logo="https://images.pluto.tv/channels/5f1ac8a87cd38d000745d7cf/colorLogoPNG.png" status="timeout" group-title="Cine y Series", Cine Thrillers
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac8a87cd38d000745d7cf/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-#EXTINF:-1 tvg-id="Cinecanal" tvg-logo="https://i.ibb.co/BnBymgY/cinecanal.png" status="timeout" group-title="Cine y Series", Cinecanal HD
-http://45.5.117.182:8000/play/a0j8/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal" tvg-logo="https://i.ibb.co/BnBymgY/cinecanal.png" status="timeout" group-title="Cine y Series", Cinecanal
-http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/3388
+http://45.5.117.182:8000/play/a0j8/index.m3u8
+#EXTINF:-1 tvg-id="Cinecanal" tvg-logo="https://i.ibb.co/BnBymgY/cinecanal.png" status="timeout" group-title="Cine y Series", Cinecanal HD
+http://170.83.242.9:5151/play/a037
 #EXTINF:-1 tvg-id="Cinecanal" tvg-logo="https://i.ibb.co/BnBymgY/cinecanal.png" status="timeout" group-title="Cine y Series", Cinecanal
 http://200.115.120.1:8000/play/ca032/index.m3u8
-#EXTINF:-1 tvg-id="Cinecanal" tvg-logo="https://i.ibb.co/BnBymgY/cinecanal.png" status="timeout" group-title="Cine y Series", Cinecanal
-http://fastream.xyz:8080/alealejandra/bgZS147/113
 #EXTINF:-1 tvg-id="Cinemax" tvg-logo="https://i.ibb.co/BrNnDFQ/cinemax.png" status="timeout" group-title="Cine y Series", Cinemax HD
-http://181.78.201.70:8000/play/a07p/index.m3u8
-#EXTINF:-1 tvg-id="Cinemax" tvg-logo="https://i.ibb.co/BrNnDFQ/cinemax.png" status="timeout" group-title="Cine y Series", Cinemax
-http://fastream.xyz:8080/998229534tv/9lwd49/118
+http://170.83.242.9:5151/play/a04i
 #EXTINF:-1 tvg-id="Cinemax" tvg-logo="https://i.ibb.co/BrNnDFQ/cinemax.png" status="timeout" group-title="Cine y Series", Cinemax
 http://190.109.15.46:3528/play/a023/index.m3u8
+#EXTINF:-1 tvg-id="Cinemax" tvg-logo="https://i.ibb.co/BrNnDFQ/cinemax.png" status="timeout" group-title="Cine y Series", Cinemax HD
+http://190.217.22.156:18000/play/a04b
 #EXTINF:-1 tvg-id="Cinemax" tvg-logo="https://i.ibb.co/BrNnDFQ/cinemax.png" status="timeout" group-title="Cine y Series", Cinemax
-http://181.78.23.26:45000/play/a02y
+http://45.5.117.23:8000/play/a0o7/index.m3u8
 #EXTINF:-1 tvg-id="Cine Dinamita" tvg-logo="https://i.ibb.co/n38SGpN/Cine-Dinamita.png" status="timeout" group-title="Cine y Series", Cine Dinamita
-http://fastream.xyz:8080/alealejandra/bgZS147/117
+http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/116
 #EXTINF:-1 tvg-id="Claro Cinema" tvg-logo="https://i.ibb.co/Qb1FB17/Claro-Cinema.png" status="timeout" group-title="Cine y Series", Claro Cinema
 http://167.250.180.251:4001/play/a0h1/index.m3u8
 #EXTINF:-1 tvg-id="Clover Channel" tvg-logo="https://i.ibb.co/1z7zDsg/Clover.jpg" status="timeout" group-title="Cine y Series", Clover Channel
 http://190.102.246.93:9005/play/a028
 #EXTINF:-1 tvg-id="Comedy Central" tvg-logo="https://i.ibb.co/6vxLfV3/comedycentral.png" status="timeout" group-title="Cine y Series", Comedy Central Es
-http://fastream.xyz:8080/998229534tv/9lwd49/236433
+http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/12311
 #EXTINF:-1 tvg-id="Comedy Central" tvg-logo="https://i.ibb.co/6vxLfV3/comedycentral.png" status="timeout" group-title="Cine y Series", Comedy Central HD
-http://fastream.xyz:8080/alealejandra/bgZS147/242
+http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/24803
 #EXTINF:-1 tvg-id="Dark" tvg-logo="https://i.ibb.co/rpS7k3f/Dark.png" status="timeout" group-title="Cine y Series", Dark
-http://fastream.xyz:8080/998229534tv/9lwd49/236427
+http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/236427
 #EXTINF:-1 tvg-id="Distrito Comedia" tvg-logo="https://i.ibb.co/ZBgJPr3/Distrito-Comedia.png" status="timeout" group-title="Cine y Series", Distrito Comedia HD
-http://fastream.xyz:8080/998229534tv/9lwd49/634
+http://190.217.22.156:18000/play/a02k
 #EXTINF:-1 tvg-id="Distrito Comedia" tvg-logo="https://i.ibb.co/ZBgJPr3/Distrito-Comedia.png" status="timeout" group-title="Cine y Series", Distrito Comedia
-http://200.115.120.1:8000/play/ca082/index.m3u8
+http://45.175.139.194:8000/play/28
 #EXTINF:-1 tvg-id="DHE" tvg-logo="https://i.ibb.co/cTC9Jws/Logo-DHE.png" status="timeout" group-title="Cine y Series", DHE HD
-http://181.78.211.244:8000/play/a032/index.m3u8
+http://45.167.3.81:45000/play/a024/index.m3u8
 #EXTINF:-1 tvg-id="DHE" tvg-logo="https://i.ibb.co/cTC9Jws/Logo-DHE.png" status="timeout" group-title="Cine y Series", DHE
-http://45.169.39.162:8000/play/a02n/index.m3u8
+http://45.167.3.81:45000/play/a00f/index.m3u8
 #EXTINF:-1 tvg-id="De Película" tvg-logo="https://i.ibb.co/K9g3zm5/De-Pelicula.jpg" status="timeout" group-title="Cine y Series", De Película
-http://179.189.222.226:8000/play/ch57
+http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/183
+#EXTINF:-1 tvg-id="De Película" tvg-logo="https://i.ibb.co/K9g3zm5/De-Pelicula.jpg" status="timeout" group-title="Cine y Series", De Película
+http://190.217.22.156:18000/play/a03s
 #EXTINF:-1 tvg-id="De Película" tvg-logo="https://i.ibb.co/K9g3zm5/De-Pelicula.jpg" status="timeout" group-title="Cine y Series", De Película
 http://45.181.122.201:8081/play/a06p
-#EXTINF:-1 tvg-id="De Película" tvg-logo="https://i.ibb.co/K9g3zm5/De-Pelicula.jpg" status="timeout" group-title="Cine y Series", De Película
-http://190.185.121.102:58092/play/a00n
 #EXTINF:-1 tvg-id="De Película Clásico" tvg-logo="https://i.ibb.co/k0rq2Qk/De-Pelicula-Cl-sico.png" status="timeout" group-title="Cine y Series", De Película Clásico
-http://fastream.xyz:8080/alealejandra/bgZS147/182
+http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/182
 #EXTINF:-1 tvg-id="Estrellas de Acción" tvg-logo="https://images.pluto.tv/channels/5e972a21ad709d00074195ba/colorLogoPNG.png" status="timeout" group-title="Cine y Series", Estrellas de Acción
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e972a21ad709d00074195ba/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
+#EXTINF:-1 tvg-id="Euro Channel" tvg-logo="https://i.ibb.co/qp3nMct/Euro-Channel.jpg" status="timeout" group-title="Cine y Series", Euro Channel FHD
+http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/186
 #EXTINF:-1 tvg-id="Euro Channel" tvg-logo="https://i.ibb.co/qp3nMct/Euro-Channel.jpg" status="timeout" group-title="Cine y Series", Euro Channel
-http://fastream.xyz:8080/alealejandra/bgZS147/184
-#EXTINF:-1 tvg-id="Europa Europa" tvg-logo="https://i.ibb.co/HPXHSQp/europa.png" status="timeout" group-title="Cine y Series", Europa Europa
-http://fastream.xyz:8080/alealejandra/bgZS147/59495
+http://45.5.117.23:8000/play/a0kx/index.m3u8
+#EXTINF:-1 tvg-id="Europa Europa" tvg-logo="https://i.ibb.co/HPXHSQp/europa.png" status="timeout" group-title="Cine y Series", Europa Europa FHD
+http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/187
 #EXTINF:-1 tvg-id="Film & Arts" tvg-logo="https://i.ibb.co/9bJ3cxp/ar-film-arts-m.png" status="timeout" group-title="Cine y Series", Film & Arts HD
 http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/2579
 #EXTINF:-1 tvg-id="Film & Arts" tvg-logo="https://i.ibb.co/9bJ3cxp/ar-film-arts-m.png" status="timeout" group-title="Cine y Series", Film & Arts
-http://fastream.xyz:8080/alealejandra/bgZS147/59592
+http://45.167.3.81:45000/play/a01x/index.m3u8
 #EXTINF:-1 tvg-id="Film & Arts" tvg-logo="https://i.ibb.co/9bJ3cxp/ar-film-arts-m.png" status="timeout" group-title="Cine y Series", Film & Arts
-http://168.181.122.234:8000/play/a01v/index.m3u8
-#EXTINF:-1 tvg-id="FX" tvg-logo="https://i.ibb.co/ZGbW8yM/fx.png" status="timeout" group-title="Cine y Series", FX
-http://45.5.117.182:8000/play/a0gb/index.m3u8
+http://45.167.3.81:45000/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="FX" tvg-logo="https://i.ibb.co/ZGbW8yM/fx.png" status="timeout" group-title="Cine y Series", FX HD
 http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/3370
 #EXTINF:-1 tvg-id="FX" tvg-logo="https://i.ibb.co/ZGbW8yM/fx.png" status="timeout" group-title="Cine y Series", FX
-http://181.78.23.26:45000/play/a032
+http://45.5.117.182:8000/play/a0gb/index.m3u8
+#EXTINF:-1 tvg-id="FX" tvg-logo="https://i.ibb.co/ZGbW8yM/fx.png" status="timeout" group-title="Cine y Series", FX
+http://200.115.120.1:8000/play/ca017/index.m3u8
 #EXTINF:-1 tvg-id="Golden" tvg-logo="https://i.ibb.co/bF43Nnw/Golden-logo.png" status="timeout" group-title="Cine y Series", Golden HD
 http://181.78.23.26:45000/play/a04c
 #EXTINF:-1 tvg-id="Golden" tvg-logo="https://i.ibb.co/bF43Nnw/Golden-logo.png" status="timeout" group-title="Cine y Series", Golden
@@ -821,6 +825,8 @@ http://38.41.8.1:8000/play/a008
 http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/565
 #EXTINF:-1 tvg-id="Wow Tv" tvg-logo="https://i.ibb.co/jZrgKzm/wowtv.jpg" status="timeout" group-title="Cine y Series", Wow Tv
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist.m3u8
+#EXTINF:-1 tvg-id="Xtrm" tvg-logo="https://i.ibb.co/JdBS4nn/XTRM.jpg" status="timeout" group-title="Cine y Series", Xtrm
+http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/236431
 #EXTINF:-1 tvg-id="Lucha Libre AAA" tvg-logo="https://i.ibb.co/yWMYZZk/AAA.jpg" status="timeout" group-title="Lucha", Lucha Libre AAA Mexicana
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99a772c54853000797bf18/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 #EXTINF:-1 tvg-id="Lucha Libre World Wide" tvg-logo="https://i.ibb.co/G9x5JTS/AAA-Lucha-Libre.jpg" status="timeout" group-title="Lucha", Lucha Libre AAA World Wide
