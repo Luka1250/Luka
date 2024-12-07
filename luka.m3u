@@ -615,14 +615,8 @@ http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/3370
 http://45.5.117.182:8000/play/a0gb/index.m3u8
 #EXTINF:-1 tvg-id="FX" tvg-logo="https://i.ibb.co/ZGbW8yM/fx.png" status="timeout" group-title="Cine y Series", FX
 http://200.115.120.1:8000/play/ca017/index.m3u8
-#EXTINF:-1 tvg-id="Golden" tvg-logo="https://i.ibb.co/bF43Nnw/Golden-logo.png" status="timeout" group-title="Cine y Series", Golden HD
-http://181.78.23.26:45000/play/a04c
 #EXTINF:-1 tvg-id="Golden" tvg-logo="https://i.ibb.co/bF43Nnw/Golden-logo.png" status="timeout" group-title="Cine y Series", Golden
 http://190.109.15.46:3528/play/a057/index.m3u8
-#EXTINF:-1 tvg-id="Golden Edge" tvg-logo="https://i.ibb.co/G2sC0g7/Golden-Edge-Logo.png" status="timeout" group-title="Cine y Series", Golden Edge HD
-http://45.169.39.162:8000/play/a01f/index.m3u8
-#EXTINF:-1 tvg-id="Golden Edge" tvg-logo="https://i.ibb.co/G2sC0g7/Golden-Edge-Logo.png" status="timeout" group-title="Cine y Series", Golden Edge
-http://200.69.73.34:6480/play/a00o/index.m3u8
 #EXTINF:-1 tvg-id="Golden Edge" tvg-logo="https://i.ibb.co/G2sC0g7/Golden-Edge-Logo.png" status="timeout" group-title="Cine y Series", Golden Edge
 http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/3401
 #EXTINF:-1 tvg-id="Golden Plus" tvg-logo="https://i.ibb.co/WVqcqqJ/Golden-Plus.png" status="timeout" group-title="Cine y Series", Golden Plus
@@ -633,8 +627,6 @@ http://45.163.205.110:8000/play/a0fg/index.m3u8
 http://45.163.205.110:8000/play/a0fh/index.m3u8
 #EXTINF:-1 tvg-id="Hallmark en Español" tvg-logo="https://i.ibb.co/tM4XQLP/Hallmark.png" status="timeout" group-title="Cine y Series", Hallmark en Español
 https://jmp2.uk/sam-US1300001GM.m3u8
-#EXTINF:-1 tvg-id="HBO" tvg-logo="https://i.ibb.co/rZmZZsw/hbo.png" status="timeout" group-title="Cine y Series", HBO HD
-http://45.181.122.201:8081/play/a01q
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://i.ibb.co/rZmZZsw/hbo.png" status="timeout" group-title="Cine y Series", HBO
 http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/3381
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://i.ibb.co/rZmZZsw/hbo.png" status="timeout" group-title="Cine y Series", HBO
@@ -645,14 +637,14 @@ http://38.41.8.1:8000/play/a05u
 http://190.102.246.93:9005/play/a01g
 #EXTINF:-1 tvg-id="HBO 2" tvg-logo="https://i.ibb.co/BGXCNJh/hbo2.png" status="timeout" group-title="Cine y Series", HBO 2
 http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/3382
+#EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://i.ibb.co/2Y7MY0J/hbofamily.png" status="timeout" group-title="Cine y Series", HBO Family HD
+https://nxt.plus:8443/jesus01/jesus01/3273
 #EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://i.ibb.co/2Y7MY0J/hbofamily.png" status="timeout" group-title="Cine y Series", HBO Family
-http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/132.ts
-#EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://i.ibb.co/2Y7MY0J/hbofamily.png" status="timeout" group-title="Cine y Series", HBO Family
-http://fastream.xyz:8080/998229534tv/9lwd49/138
+http://200.115.120.1:8000/play/ca097/index.m3u8
+#EXTINF:-1 tvg-id="HBO Mundi" tvg-logo="https://i.ibb.co/7YQtS3q/hbomundi.png" status="timeout" group-title="Cine y Series", HBO Mundi HD
+http://170.83.242.9:5151/play/a04v
 #EXTINF:-1 tvg-id="HBO Mundi" tvg-logo="https://i.ibb.co/7YQtS3q/hbomundi.png" status="timeout" group-title="Cine y Series", HBO Mundi
-http://201.184.160.154:4849/play/CH68
-#EXTINF:-1 tvg-id="HBO Mundi" tvg-logo="https://i.ibb.co/7YQtS3q/hbomundi.png" status="timeout" group-title="Cine y Series", HBO Mundi
-http://181.78.201.70:8000/play/a09t/index.m3u8
+https://nxt.plus:8443/jesus01/jesus01/187924
 #EXTINF:-1 tvg-id="HBO Plus" tvg-logo="https://i.ibb.co/FhWCVw7/hboplus.png" status="timeout" group-title="Cine y Series", HBO Plus
 http://38.41.8.1:8000/play/a05i
 #EXTINF:-1 tvg-id="HBO Plus" tvg-logo="https://i.ibb.co/FhWCVw7/hboplus.png" status="timeout" group-title="Cine y Series", HBO Plus
@@ -660,15 +652,17 @@ http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/3384
 #EXTINF:-1 tvg-id="HBO POP" tvg-logo="https://i.ibb.co/6wLgtTc/hbopop.png" status="timeout" group-title="Cine y Series", HBO POP HD
 http://38.41.8.1:8000/play/a00d
 #EXTINF:-1 tvg-id="HBO POP" tvg-logo="https://i.ibb.co/6wLgtTc/hbopop.png" status="timeout" group-title="Cine y Series", HBO POP
-http://201.184.160.154:4849/play/CH58
-#EXTINF:-1 tvg-id="HBO Signature" tvg-logo="https://i.ibb.co/mCWryRp/logo-hbo-signature-small.gif" status="timeout" group-title="Cine y Series", HBO Signature
-http://209.45.101.35:50000/play/HBOSignature/index.m3u8
+https://nxt.plus:8443/jesus01/jesus01/183273
+#EXTINF:-1 tvg-id="HBO Signature" tvg-logo="https://i.ibb.co/mCWryRp/logo-hbo-signature-small.gif" status="timeout" group-title="Cine y Series", HBO Signature FHD
+http://170.83.242.9:5151/play/a048
 #EXTINF:-1 tvg-id="HBO Signature" tvg-logo="https://i.ibb.co/mCWryRp/logo-hbo-signature-small.gif" status="timeout" group-title="Cine y Series", HBO Signature
 http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/3383
+#EXTINF:-1 tvg-id="HBO Signature" tvg-logo="https://i.ibb.co/mCWryRp/logo-hbo-signature-small.gif" status="timeout" group-title="Cine y Series", HBO Signature
+https://nxt.plus:8443/jesus01/jesus01/13894
+#EXTINF:-1 tvg-id="HBO Xtreme" tvg-logo="https://i.ibb.co/Vjrk31y/hboxtreme.png" status="timeout" group-title="Cine y Series", HBO Xtreme FHD
+http://170.83.242.9:5151/play/a049
 #EXTINF:-1 tvg-id="HBO Xtreme" tvg-logo="https://i.ibb.co/Vjrk31y/hboxtreme.png" status="timeout" group-title="Cine y Series", HBO Xtreme HD
-http://45.4.85.213:58001/play/a04y
-#EXTINF:-1 tvg-id="HBO Xtreme" tvg-logo="https://i.ibb.co/Vjrk31y/hboxtreme.png" status="timeout" group-title="Cine y Series", HBO Xtreme HD
-http://209.45.101.35:50000/play/HBOXTREMEHD/index.m3u8
+http://45.5.151.151:8000/play/a0qf/index.m3u8
 #EXTINF:-1 tvg-id="Planeta Tv" tvg-logo="https://i.ibb.co/MgfT27j/planetatv.jpg" status="timeout" group-title="Cine y Series", Planeta Tv
 http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/125331
 #EXTINF:-1 tvg-id="Imagen Universal" tvg-logo="https://i.ibb.co/z4KVKc7/imagen.png" status="timeout" group-title="Cine y Series", Imagen Universal
