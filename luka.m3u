@@ -1027,6 +1027,8 @@ http://190.109.15.46:3528/play/a040/index.m3u8
 http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/690
 #EXTINF:-1 tvg-id="Bob Esponja" tvg-logo="https://i.ibb.co/Gpbkwyc/Bob-Esponja.png" status="timeout" group-title="Infantiles", Bob Esponja
 http://stklatino.dynns.com:2082/patriciobriano/aTF5rqkPK8zh/7094
+#EXTINF:-1 tvg-id="Bob Esponja" tvg-logo="https://i.ibb.co/Gpbkwyc/Bob-Esponja.png" status="timeout" group-title="Infantiles", Bob Esponja
+https://nxt.plus:8443/jesus01/jesus01/214272
 #EXTINF:-1 tvg-id="Canal Infantil" tvg-logo="https://i.ibb.co/fqtJPK2/canal-infantil.png" status="timeout" group-title="Infantiles", Canal Infantil
 http://190.90.252.200:16001/play/a060/index.m3u8
 #EXTINF:-1 tvg-id="Caillou" tvg-logo="https://i.ibb.co/pZ4Dz8f/Caillou.png" status="timeout" group-title="Infantiles", Caillou
@@ -1034,7 +1036,7 @@ https://dhx-caillou-1-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="https://i.ibb.co/6010w0t/Discovery-Kids.png" status="timeout" group-title="Infantiles", Discovery Kids
 http://45.163.205.110:8000/play/a0fe/index.m3u8
 #EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="https://i.ibb.co/6010w0t/Discovery-Kids.png" status="timeout" group-title="Infantiles", Discovery Kids
-http://190.90.252.200:16001/play/a02g/index.m3u8
+https://nxt.plus:8443/jesus01/jesus01/43520
 #EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="https://i.ibb.co/6010w0t/Discovery-Kids.png" status="timeout" group-title="Infantiles", Discovery Kids
 http://181.78.105.146:8800/play/a00r
 #EXTINF:-1 tvg-id="Disney Jr" tvg-logo="https://i.ibb.co/VCPrhzL/Disney-Jr.png" status="timeout" group-title="Infantiles", Disney Junior
@@ -1043,38 +1045,32 @@ http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/12414
 http://stklatino.dynns.com:2082/patriciobriano/aTF5rqkPK8zh/2473
 #EXTINF:-1 tvg-id="Disney Jr" tvg-logo="https://i.ibb.co/VCPrhzL/Disney-Jr.png" status="timeout" group-title="Infantiles", Disney Junior
 http://179.189.222.226:8000/play/ch05
-#EXTINF:-1 tvg-id="Garfield y sus amigos" tvg-logo="https://i.ibb.co/8sktynv/Garfield-y-sus-amigos.jpg" status="timeout" group-title="Infantiles", Garfield y sus amigos
-http://stklatino.dynns.com:2082/patriciobriano/aTF5rqkPK8zh/13316
 #EXTINF:-1 tvg-id="Jorge el curioso" tvg-logo="https://i.ibb.co/gWpmXWH/Jorge-el-curioso.jpg" status="timeout" group-title="Infantiles", Jorge el curioso
 http://stklatino.dynns.com:2082/movie/patriciobriano/aTF5rqkPK8zh/6818.mkv
 #EXTINF:-1 tvg-id="La Pantera Rosa" tvg-logo="https://i.ibb.co/ZTHGfYb/Pantera-rosa.jpg" status="timeout" group-title="Infantiles", La Pantera Rosa
 http://stklatino.dynns.com:2082/patriciobriano/aTF5rqkPK8zh/49645
+#EXTINF:-1 tvg-id="La Pantera Rosa" tvg-logo="https://i.ibb.co/ZTHGfYb/Pantera-rosa.jpg" status="timeout" group-title="Infantiles", La Pantera Rosa
+https://nxt.plus:8443/jesus01/jesus01/140916
 #EXTINF:-1 tvg-id="Los Pitufos" tvg-logo="https://i.ibb.co/FKNyC6c/Los-Pitufos-Tv.jpg" status="timeout" group-title="Infantiles", Los Pitufos Tv
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
 #EXTINF:-1 tvg-id="Looney Tunes" tvg-logo="https://i.ibb.co/6swXcCZ/Looney-Tunes.jpg" status="timeout" group-title="Infantiles", Looney Tunes
-http://fastream.xyz:8080/998229534tv/9lwd49/786
+https://nxt.plus:8443/jesus01/jesus01/161586
 #EXTINF:-1 tvg-id="Mr Bean" tvg-logo="https://i.ibb.co/znsgTKD/Bean.jpg" status="timeout" group-title="Infantiles", Mr Bean
 http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/703
 #EXTINF:-1 tvg-id="Nick Jr" tvg-logo="https://i.ibb.co/6wq1yLy/Nick-Jr.jpg" status="timeout" group-title="Infantiles", Nick Jr
 http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/59540
+#EXTINF:-1 tvg-id="Nick Jr" tvg-logo="https://i.ibb.co/6wq1yLy/Nick-Jr.jpg" status="timeout" group-title="Infantiles", Nick Jr
+https://nxt.plus:8443/jesus01/jesus01/187947
 #EXTINF:-1 tvg-id="Paw Patrol" tvg-logo="https://i.ibb.co/T2zwCC4/Paw-Patrol.jpg" status="timeout" group-title="Infantiles", Paw Patrol
-http://fastream.xyz:8080/998229534tv/9lwd49/62384
-#EXTINF:-1 tvg-id="Peppa Pig" tvg-logo="https://i.ibb.co/W3dr7Qn/Pepa-Pig.jpg" status="timeout" group-title="Infantiles", Peppa Pig
-http://stklatino.dynns.com:2082/patriciobriano/aTF5rqkPK8zh/31713
+https://nxt.plus:8443/jesus01/jesus01/118620
 #EXTINF:-1 tvg-id="Peppa Pig" tvg-logo="https://i.ibb.co/W3dr7Qn/Pepa-Pig.jpg" status="timeout" group-title="Infantiles", Peppa Pig
 http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/531704
 #EXTINF:-1 tvg-id="Plim Plim" tvg-logo="https://i.ibb.co/GMMB22M/Plim-Plim-Tv.jpg" status="timeout" group-title="Infantiles", Plim Plim FHD
 http://45.175.139.194:8000/play/a04p
-#EXTINF:-1 tvg-id="Plim Plim" tvg-logo="https://i.ibb.co/GMMB22M/Plim-Plim-Tv.jpg" status="timeout" group-title="Infantiles", Plim Plim
-http://fastream.xyz:8080/998229534tv/9lwd49/62380
-#EXTINF:-1 tvg-id="Pocoyó" tvg-logo="https://i.ibb.co/Wyy4mXs/Pocoy.jpg" status="timeout" group-title="Infantiles", Pocoyó
-https://daiconnect.com/live/hls/tvup/tvfy-pocoyo/.m3u8
 #EXTINF:-1 tvg-id="Semillitas" tvg-logo="https://i.ibb.co/Dr8TDyC/Semillitas.jpg" status="timeout" group-title="Infantiles", Semillitas
-http://190.211.102.42:4000/play/a01t/index.m3u8
+https://nxt.plus:8443/jesus01/jesus01/171125
 #EXTINF:-1 tvg-id="Tom and Jerry" tvg-logo="https://i.ibb.co/KyKJF0Q/Tom-y-Jerry.jpg" status="timeout" group-title="Infantiles", Tom and Jerry
 http://fastream.xyz:8080/993300790tv/95ghr5/774
-#EXTINF:-1 tvg-id="Tom and Jerry" tvg-logo="https://i.ibb.co/KyKJF0Q/Tom-y-Jerry.jpg" status="timeout" group-title="Infantiles", Tom and Jerry
-http://canal-pro.xyz:8080/95831942/Wse32F5/774
 #EXTINF:-1 tvg-id="Tom and Jerry" tvg-logo="https://i.ibb.co/KyKJF0Q/Tom-y-Jerry.jpg" status="timeout" group-title="Infantiles", Tom and Jerry
 http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/774
 #EXTINF:-1 tvg-id="Peliculas Infantiles" tvg-logo="https://i.ibb.co/qsjL9Cc/Peliculas-Infantiles.jpg" status="timeout" group-title="Infantiles", Peliculas Infantiles
@@ -1082,21 +1078,21 @@ http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/54943
 #EXTINF:-1 tvg-id="The Simpson la Pelicula" tvg-logo="https://i.ibb.co/gddSvZg/The-Simpson.jpg" status="timeout" group-title="Infantiles", The Simpson la Pelicula
 http://stklatino.dynns.com:2082/movie/patriciobriano/aTF5rqkPK8zh/573.mkv
 #EXTINF:-1 tvg-id="The Simpson" tvg-logo="https://i.ibb.co/MfJzXw1/The-Simpson.png" status="timeout" group-title="Infantiles", The Simpson
-http://fastream.xyz:8080/alealejandra/bgZS147/250509
+https://nxt.plus:8443/jesus01/jesus01/238717
 #EXTINF:-1 tvg-id="The Simpson" tvg-logo="https://i.ibb.co/MfJzXw1/The-Simpson.png" status="timeout" group-title="Infantiles", The Simpson
-http://fastream.xyz:8080/alealejandra/bgZS147/789
+https://nxt.plus:8443/jesus01/jesus01/238719
 #EXTINF:-1 tvg-id="The Simpson" tvg-logo="https://i.ibb.co/MfJzXw1/The-Simpson.png" status="timeout" group-title="Infantiles", The Simpson
-http://fastream.xyz:8080/alealejandra/bgZS147/792
+http://stklatino.dynns.com:2082/juanzamora549/549292/31721
+#EXTINF:-1 tvg-id="The Simpson" tvg-logo="https://i.ibb.co/MfJzXw1/The-Simpson.png" status="timeout" group-title="Infantiles", The Simpson
+http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/769
 #EXTINF:-1 tvg-id="Alf" tvg-logo="https://i.ibb.co/sHK5B0P/alf.jpg" status="timeout" group-title="Infantiles", Alf
 http://ultrapremium.cloud:8080/67pape98xa66hu38/29wuma93weme45/250480
 #EXTINF:-1 tvg-id="Adultswin" tvg-logo="https://i.ibb.co/ZVTwSxG/Adultswin.png" status="timeout" group-title="Infantiles", Adultswin
 http://45.5.116.178:8000/play/a01q/index.m3u8
 #EXTINF:-1 tvg-id="Bitme" tvg-logo="https://i.ibb.co/TYpyPHJ/Bit-Me.png" status="timeout" group-title="Infantiles", Bitme
-http://canal-pro.xyz:8080/95831942/Wse32F5/24943
-#EXTINF:-1 tvg-id="Bitme" tvg-logo="https://i.ibb.co/TYpyPHJ/Bit-Me.png" status="timeout" group-title="Infantiles", Bitme
 http://pn-tv.xyz:8080/MauricioGonzalez1/BkyHWnsehTA7/1257
 #EXTINF:-1 tvg-id="Bitme" tvg-logo="https://i.ibb.co/TYpyPHJ/Bit-Me.png" status="timeout" group-title="Infantiles", Bitme
-http://fastream.xyz:8080/998229534tv/9lwd49/24943
+https://nxt.plus:8443/jesus01/jesus01/160524
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://i.ibb.co/HtZJdDf/Cartoon-Network.png" status="timeout" group-title="Infantiles", Cartoon Network HD
 http://45.5.117.182:8000/play/a0en/index.m3u8
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://i.ibb.co/HtZJdDf/Cartoon-Network.png" status="timeout" group-title="Infantiles", Cartoon Network
