@@ -1156,11 +1156,13 @@ http://190.60.49.243:4000/play/a089
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="Entretenimiento", Historia Es
 http://2567554588321262.ofdgh12.xyz:80/live/GarciaAlvaro/Alvaro9876/321262.ts
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="Entretenimiento", Historia Es
-http://fastream.xyz:8080/993300790tv/95ghr5/236362
+http://wanicelife.com:8880/48mc180012/26954657/29308
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="Entretenimiento", Historia Es
 http://luna4k.eu:80/176915597225/665f3527321ef.56686/6108
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="Entretenimiento", Historia Es
-http://fastream.xyz:8080/993300790tv/95ghr5/236341
+http://exclusifott.pro:80/6513c5a027/fb7791f0bd/107597
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="Entretenimiento", Historia Es
+http://exclusifott.pro:80/6513c5a027/fb7791f0bd/1547330
 #EXTINF:-1 tvg-id="History" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" status="timeout" group-title="Entretenimiento", History Channel
 http://fastream.xyz:8080/993300790tv/95ghr5/431
 #EXTINF:-1 tvg-id="History" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" status="timeout" group-title="Entretenimiento", History Channel
@@ -2556,9 +2558,9 @@ http://38.191.90.2:8000/play/a02c/index.m3u8
 #EXTINF:-1 tvg-id="Play Boy" tvg-logo="https://i.ibb.co/q7mB7WH/PlayBoy.jpg" status="timeout" group-title="XXX", Play Boy
 http://tv.proyectox.vip:8080/Blackiekoko1/J2N4tmBxpL/10089
 #EXTINF:-1 tvg-id="Play Boy" tvg-logo="https://i.ibb.co/q7mB7WH/PlayBoy.jpg" status="timeout" group-title="XXX", Play Boy
-http://tv.proyectox.vip:8080/Blackiekoko1/J2N4tmBxpL/10089
-#EXTINF:-1 tvg-id="Play Boy" tvg-logo="https://i.ibb.co/q7mB7WH/PlayBoy.jpg" status="timeout" group-title="XXX", Play Boy
 http://tv.proyectox.vip:8080/Blackiekoko1/J2N4tmBxpL/10085
+#EXTINF:-1 tvg-id="Play Boy" tvg-logo="https://i.ibb.co/q7mB7WH/PlayBoy.jpg" status="timeout" group-title="XXX", Play Boy
+http://tv.proyectox.vip:8080/Blackiekoko1/J2N4tmBxpL/10089
 #EXTINF:-1 tvg-id="Play Boy" tvg-logo="https://i.ibb.co/q7mB7WH/PlayBoy.jpg" status="timeout" group-title="XXX", Play Boy
 http://tv.proyectox.vip:8080/Blackiekoko1/J2N4tmBxpL/10097
 #EXTINF:-1 tvg-id="Sextreme" tvg-logo="https://i.ibb.co/xGhSPQv/Sextreme.jpg" status="timeout" group-title="XXX", Sextreme
