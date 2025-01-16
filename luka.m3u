@@ -230,7 +230,7 @@ https://nxt.plus:8443/jesus01/jesus01/172547
 #EXTINF:-1 tvg-id="BeinSportsXtra" tvg-logo="https://i.ibb.co/F05xKgL/Bein-Sports-Xtra.jpg" status="timeout" group-title="Deportes", Bein Sports Xtra
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BeinSportsXtraÑ" tvg-logo="https://i.ibb.co/Wkr7q65/Bein-Sports-Xtra.jpg" status="timeout" group-title="Deportes", Bein Sports Xtra Ñ FHD
-http://207.248.2.105:3200/play/a0gt/index.m3u8
+https://stitcher.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=66fdda05-62bc-11ef-b7b7-72aa874ccba6
 #EXTINF:-1 tvg-id="BeinSportsXtraÑ" tvg-logo="https://i.ibb.co/Wkr7q65/Bein-Sports-Xtra.jpg" status="timeout" group-title="Deportes", Bein Sports Xtra Ñ
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Bet" tvg-logo="https://i.ibb.co/LZLrvXD/Bet.png" status="timeout" group-title="Internacionales", Bet
@@ -434,7 +434,7 @@ http://200.60.124.19:29000/play/a00j/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork" tvg-logo="https://i.ibb.co/HtZJdDf/Cartoon-Network.png" status="timeout" group-title="Infantiles", Cartoon Network FHD
 http://190.13.81.218:18000/play/a069
 #EXTINF:-1 tvg-id="CartoonNetwork" tvg-logo="https://i.ibb.co/HtZJdDf/Cartoon-Network.png" status="timeout" group-title="Infantiles", Cartoon Network
-http://200.121.20.106:8000/play/a03f/index.m3u8
+http://cdn1host.online:2999/carlosbermudez/oZLRHZHL0z/50
 #EXTINF:-1 tvg-id="CartoonNetwork" tvg-logo="https://i.ibb.co/HtZJdDf/Cartoon-Network.png" status="timeout" group-title="Infantiles", Cartoon Network
 http://45.175.139.194:8000/play/22
 #EXTINF:-1 tvg-id="CartoonNetwork" tvg-logo="https://i.ibb.co/HtZJdDf/Cartoon-Network.png" status="timeout" group-title="Infantiles", Cartoon Network
@@ -522,9 +522,9 @@ https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
 #EXTINF:-1 tvg-id="ClaroCinema" tvg-logo="https://i.ibb.co/Qb1FB17/Claro-Cinema.png" status="timeout" group-title="Cine y Series", Claro Cinema
 http://167.250.180.251:4001/play/a0h1/index.m3u8
 #EXTINF:-1 tvg-id="ClaroSports" tvg-logo="https://i.ibb.co/ysC5HnM/Claro-Sports.png" status="timeout" group-title="Deportes", Claro Sports FHD
-http://fastream.xyz:8080/993300790tv/95ghr5/463
+http://cdn1host.online:2999/korrigan17/25AUFBdqOi/1700
 #EXTINF:-1 tvg-id="ClaroSports" tvg-logo="https://i.ibb.co/ysC5HnM/Claro-Sports.png" status="timeout" group-title="Deportes", Claro Sports
-http://200.121.20.106:8000/play/a0e4/index.m3u8
+http://38.41.8.1:8000/play/a050
 #EXTINF:-1 tvg-id="CloverChannel" tvg-logo="https://i.ibb.co/1z7zDsg/Clover.jpg" status="timeout" group-title="Cine y Series", Clover Channel FHD
 http://200.60.124.19:29000/play/a0ck/index.m3u8
 #EXTINF:-1 tvg-id="CloverChannel" tvg-logo="https://i.ibb.co/1z7zDsg/Clover.jpg" status="timeout" group-title="Cine y Series", Clover Channel
@@ -746,7 +746,9 @@ https://nxt.plus:8443/jesus01/jesus01/56896
 #EXTINF:-1 tvg-id="DKiss" tvg-logo="https://i.ibb.co/hsG2w5t/DKiss.png" status="timeout" group-title="Entretenimiento", DKiss
 http://fastream.xyz:8080/993300790tv/95ghr5/12410
 #EXTINF:-1 tvg-id="DMax" tvg-logo="https://i.ibb.co/GkYtsFp/DMAX.jpg" status="timeout" group-title="Entretenimiento", DMax
-http://fastream.xyz:8080/993300790tv/95ghr5/12377
+http://exm3u.77xxs.xyz:80/live/B543HLS6LM/dyd8yYxbx4Hv/321227.ts
+#EXTINF:-1 tvg-id="DMax" tvg-logo="https://i.ibb.co/GkYtsFp/DMAX.jpg" status="timeout" group-title="Entretenimiento", DMax
+http://feextesca.fyi:2082/Pepesuegro/Davidalgaba/178210
 #EXTINF:-1 tvg-id="DocumentalesM+" tvg-logo="https://i.ibb.co/Pjf1dS7/Documentales.png" status="timeout" group-title="Entretenimiento", Documentales M+
 http://line.4smart.in:80/TYHZRW6/MF7V7X2/1027427
 #EXTINF:-1 tvg-id="DoveChannel" tvg-logo="https://i.ibb.co/ckLtsVg/dove.png" status="timeout" group-title="Internacionales", Dove Channel FHD
@@ -758,21 +760,23 @@ http://179.49.163.34:45000/play/a011/index.m3u8
 #EXTINF:-1 tvg-id="DreikoTv" tvg-logo="https://i.ibb.co/NVFmXTH/DreikoTv.png" status="timeout" group-title="Infantiles", DreikoTv
 https://cloudvideo.servers10.com:8081/8096/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="DSports" tvg-logo="https://i.ibb.co/crvGgqH/Dsports.jpg" status="timeout" group-title="Deportes", DSports FHD
-http://fastream.xyz:8080/993300790tv/95ghr5/250857
+http://fastream.xyz:8080/993300790tv/95ghr5/484
+#EXTINF:-1 tvg-id="DSports" tvg-logo="https://i.ibb.co/crvGgqH/Dsports.jpg" status="timeout" group-title="Deportes", DSports
+http://stilustv.com:80/tobeltv/1997347024/29938
 #EXTINF:-1 tvg-id="DSports" tvg-logo="https://i.ibb.co/crvGgqH/Dsports.jpg" status="timeout" group-title="Deportes", DSports
 http://fastream.xyz:8080/993300790tv/95ghr5/481
 #EXTINF:-1 tvg-id="DSports" tvg-logo="https://i.ibb.co/crvGgqH/Dsports.jpg" status="timeout" group-title="Deportes", DSports
-http://fastream.xyz:8080/993300790tv/95ghr5/480
+http://fastream.xyz:8080/993300790tv/95ghr5/465
 #EXTINF:-1 tvg-id="DSports" tvg-logo="https://i.ibb.co/crvGgqH/Dsports.jpg" status="timeout" group-title="Deportes", DSports
-http://200.60.124.19:29000/play/a081/index.m3u8
+http://newultra.xyz:8080/ARBOLTV2010125/hAKNwKbaXb5H/465
 #EXTINF:-1 tvg-id="DSports 2" tvg-logo="https://i.ibb.co/23SNqbb/DSports2.png" status="timeout" group-title="Deportes", DSports 2 FHD
-https://nxt.plus:8443/jesus01/jesus01/244287
+http://home-playtv.com:8080/miralatin2243/JJKTU/456658
 #EXTINF:-1 tvg-id="DSports 2" tvg-logo="https://i.ibb.co/23SNqbb/DSports2.png" status="timeout" group-title="Deportes", DSports 2
-https://nxt.plus:8443/jesus01/jesus01/203176
+http://home-playtv.com:8080/miralatin2243/JJKTU/158513
 #EXTINF:-1 tvg-id="DSports 2" tvg-logo="https://i.ibb.co/23SNqbb/DSports2.png" status="timeout" group-title="Deportes", DSports 2
-http://fastream.xyz:8080/993300790tv/95ghr5/473
+http://home-playtv.com:8080/miralatin2243/JJKTU/257326
 #EXTINF:-1 tvg-id="DSports" tvg-logo="https://i.ibb.co/crvGgqH/Dsports.jpg" status="timeout" group-title="Deportes", DSports + FHD
-https://nxt.plus:8443/jesus01/jesus01/244288
+http://home-playtv.com:8080/miralatin2243/JJKTU/69954
 #EXTINF:-1 tvg-id="DSports" tvg-logo="https://i.ibb.co/crvGgqH/Dsports.jpg" status="timeout" group-title="Deportes", DSports +
 http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/4970
 #EXTINF:-1 tvg-id="DSports" tvg-logo="https://i.ibb.co/crvGgqH/Dsports.jpg" status="timeout" group-title="Deportes", DSports +
@@ -804,9 +808,9 @@ http://171.22.165.241:8888/play/a0mx
 #EXTINF:-1 tvg-id="EGPP" tvg-logo="https://i.ibb.co/y89yjPz/EGPP.jpg" status="timeout" group-title="Nacionales", EGPP
 http://45.5.151.151:8000/play/a0ni/index.m3u8
 #EXTINF:-1 tvg-id="ECDF" tvg-logo="https://i.ibb.co/gVqvSPx/ECDF.jpg" status="timeout" group-title="Deportes", El Canal del Futbol FHD
-http://186.113.25.223:62837/play/a034
+http://fastream.xyz:8080/993300790tv/95ghr5/585
 #EXTINF:-1 tvg-id="ECDF" tvg-logo="https://i.ibb.co/gVqvSPx/ECDF.jpg" status="timeout" group-title="Deportes", El Canal del Futbol FHD
-http://fastream.xyz:8080/993300790tv/95ghr5/250884
+http://fastream.xyz:8080/993300790tv/95ghr5/250893
 #EXTINF:-1 tvg-id="ECDF" tvg-logo="https://i.ibb.co/gVqvSPx/ECDF.jpg" status="timeout" group-title="Deportes", El Canal del Futbol
 http://171.22.165.241:8888/play/a0m7
 #EXTINF:-1 tvg-id="Elconfidencial" tvg-logo="https://i.ibb.co/mvXVVrW/Elconfidencialtv.jpg" status="timeout" group-title="Entretenimiento", El Confidencial
@@ -862,7 +866,7 @@ http://190.13.81.218:18000/play/a074
 #EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://i.ibb.co/0y2y8kF/ESPN3.jpg" status="timeout" group-title="Deportes", ESPN 3
 http://45.167.3.81:45000/play/a06a/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://i.ibb.co/0y2y8kF/ESPN3.jpg" status="timeout" group-title="Deportes", ESPN 3
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122344
+http://cdn1host.online:2999/carlosbermudez/oZLRHZHL0z/91
 #EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://i.ibb.co/v3bBmkh/ESPN4.jpg" status="timeout" group-title="Deportes", ESPN 4
 http://190.60.49.243:4000/play/a0a7
 #EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://i.ibb.co/v3bBmkh/ESPN4.jpg" status="timeout" group-title="Deportes", ESPN 4
@@ -870,17 +874,19 @@ http://190.13.81.218:18000/play/a09v
 #EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://i.ibb.co/v3bBmkh/ESPN4.jpg" status="timeout" group-title="Deportes", ESPN 4
 http://190.13.81.218:18000/play/a08m
 #EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://i.ibb.co/v3bBmkh/ESPN4.jpg" status="timeout" group-title="Deportes", ESPN 4
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122346
+http://cdn1host.online:2999/carlosbermudez/oZLRHZHL0z/90
 #EXTINF:-1 tvg-id="ESPN 5" tvg-logo="https://i.ibb.co/bFzMS24/ESPN5.jpg" status="timeout" group-title="Deportes", ESPN 5 FHD
 http://45.167.3.81:45000/play/a068/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 5" tvg-logo="https://i.ibb.co/bFzMS24/ESPN5.jpg" status="timeout" group-title="Deportes", ESPN 5
+http://45.167.3.81:45000/play/a067/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 5" tvg-logo="https://i.ibb.co/bFzMS24/ESPN5.jpg" status="timeout" group-title="Deportes", ESPN 5 FHD
 http://190.60.49.243:4000/play/a0b0
 #EXTINF:-1 tvg-id="ESPN 5" tvg-logo="https://i.ibb.co/bFzMS24/ESPN5.jpg" status="timeout" group-title="Deportes", ESPN 5 FHD
 http://fastream.xyz:8080/993300790tv/95ghr5/526
 #EXTINF:-1 tvg-id="ESPN 5" tvg-logo="https://i.ibb.co/bFzMS24/ESPN5.jpg" status="timeout" group-title="Deportes", ESPN 5
-http://190.13.81.218:18000/play/a024
+http://fastream.xyz:8080/993300790tv/95ghr5/526
 #EXTINF:-1 tvg-id="ESPN 5" tvg-logo="https://i.ibb.co/bFzMS24/ESPN5.jpg" status="timeout" group-title="Deportes", ESPN 5
-http://45.167.3.81:45000/play/a067/index.m3u8
+http://home-playtv.com:8080/miralatin2243/JJKTU/272499
 #EXTINF:-1 tvg-id="ESPN 6" tvg-logo="https://i.ibb.co/r4fCR5G/Espna6.png" status="timeout" group-title="Deportes", ESPN 6 FHD
 http://45.167.3.81:45000/play/a06b/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 6" tvg-logo="https://i.ibb.co/r4fCR5G/Espna6.png" status="timeout" group-title="Deportes", ESPN 6 FHD
@@ -1015,7 +1021,7 @@ http://170.83.242.9:5151/play/a04k
 http://38.224.222.34:8000/play/a00i
 #EXTINF:-1 tvg-id="FX" tvg-logo="https://i.ibb.co/ZGbW8yM/fx.png" status="timeout" group-title="Cine y Series", FX
 http://179.49.163.34:45000/play/a00s/index.m3u8
-#EXTINF:-1 tvg-id="Galavisión" tvg-logo="https://i.ibb.co/svdzQL2/Galavision-Logo-2024-svg.png" status="timeout" group-title="Deportes", Galavisión
+#EXTINF:-1 tvg-id="Galavisión" tvg-logo="https://i.ibb.co/svdzQL2/Galavision-Logo-2024-svg.png" status="timeout" group-title="Variedades", Galavisión
 https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/GALAVISION/40-hls/live-media.m3u8
 #EXTINF:-1 tvg-id="Galavisión" tvg-logo="https://i.ibb.co/svdzQL2/Galavision-Logo-2024-svg.png" status="timeout" group-title="Variedades", Galavisión
 http://200.115.120.1:8000/play/ca128/index.m3u8
@@ -1042,11 +1048,11 @@ http://45.181.122.201:8081/play/a03w
 #EXTINF:-1 tvg-id="GolPeru" tvg-logo="https://i.ibb.co/N3Dq4tQ/golperu.jpg" status="timeout" group-title="Deportes", Gol Peru
 http://38.41.8.1:8000/play/a02j
 #EXTINF:-1 tvg-id="Gol Tv" tvg-logo="https://i.ibb.co/4JZyg30/Gol-Tv.jpg" status="timeout" group-title="Deportes", Gol Tv
-http://fastream.xyz:8080/993300790tv/95ghr5/250890
+http://38.41.8.1:8000/play/a0er
 #EXTINF:-1 tvg-id="Gol Tv" tvg-logo="https://i.ibb.co/4JZyg30/Gol-Tv.jpg" status="timeout" group-title="Deportes", Gol Tv
-http://fastream.xyz:8080/993300790tv/95ghr5/486
+http://wanicelife.com:8880/48mc180012/26954657/58758
 #EXTINF:-1 tvg-id="Gol Tv" tvg-logo="https://i.ibb.co/4JZyg30/Gol-Tv.jpg" status="timeout" group-title="Deportes", Gol Tv
-http://fastream.xyz:8080/993300790tv/95ghr5/487
+http://wanicelife.com:8880/48mc180012/26954657/29575
 #EXTINF:-1 tvg-id="Golden" tvg-logo="https://i.ibb.co/bF43Nnw/Golden-logo.png" status="timeout" group-title="Cine y Series", Golden
 http://148.113.190.252:8000/play/a017
 #EXTINF:-1 tvg-id="GoldenEdge" tvg-logo="https://i.ibb.co/G2sC0g7/Golden-Edge-Logo.png" status="timeout" group-title="Cine y Series", Golden Edge
@@ -1061,8 +1067,8 @@ http://38.191.90.2:8000/play/a00m/index.m3u8
 https://giatv.bozztv.com/giatv/giatv-NEOGOGOPLAYTVE/NEOGOGOPLAYTVE/playlist.m3u8
 #EXTINF:-1 tvg-id="GolFChannel" tvg-logo="https://i.ibb.co/PM1W14h/Golf.png" status="timeout" group-title="Internacionales", GolF Channel Us FHD
 http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122356
-#EXTINF:-1 tvg-id="GolFChannelUS" tvg-logo="https://i.ibb.co/PM1W14h/Golf.png" status="timeout" group-title="Internacionales", GolF Channel
-http://190.13.81.218:18000/play/a05n
+#EXTINF:-1 tvg-id="GolFChannelUS" tvg-logo="https://i.ibb.co/PM1W14h/Golf.png" status="timeout" group-title="Deportes", GolF Channel
+http://fastream.xyz:8080/993300790tv/95ghr5/549
 #EXTINF:-1 tvg-id="Gourmet" tvg-logo="https://i.ibb.co/vDjGjxS/gourmet.png" status="timeout" group-title="Cocina", Gourmet
 http://45.5.151.151:8000/play/a0pw/index.m3u8
 #EXTINF:-1 tvg-id="Gourmet" tvg-logo="https://i.ibb.co/vDjGjxS/gourmet.png" status="timeout" group-title="Cocina", Gourmet
@@ -1147,8 +1153,6 @@ http://45.167.3.81:45000/play/a00z/index.m3u8
 http://45.181.122.201:8081/play/a07i
 #EXTINF:-1 tvg-id="Hispania" tvg-logo="https://i.ibb.co/ch6BX2G/Hispania.jpg" status="timeout" group-title="Variedades", Hispania FHD
 https://vcp8.myplaytv.com:1936/hispaniatv/hispaniatv/chunklist.m3u8
-#EXTINF:-1 tvg-id="Hispanoamerica" tvg-logo="https://i.ibb.co/28Bzzx2/Hispanoamerica.jpg" status="timeout" group-title="Variedades", Hispanoamerica
-http://200.121.20.106:8000/play/a0j0/index.m3u8
 #EXTINF:-1 tvg-id="Hispan Tv" tvg-logo="https://i.ibb.co/1M4R9wJ/Hispan-Tv.jpg" status="timeout" group-title="Noticieros", Hispan Tv
 https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
 #EXTINF:-1 tvg-id="Hispan Tv" tvg-logo="https://i.ibb.co/1M4R9wJ/Hispan-Tv.jpg" status="timeout" group-title="Noticieros", Hispan Tv
@@ -1195,14 +1199,14 @@ http://186.113.25.223:62837/play/a028
 http://179.49.163.34:45000/play/a02p/index.m3u8
 #EXTINF:-1 tvg-id="Holvoet" tvg-logo="https://i.ibb.co/6NqwSj9/Holvet-Tv.jpg" status="timeout" group-title="Infantiles", Holvet Tv
 https://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="HTV" tvg-logo="https://i.ibb.co/sFyPtfF/htv.jpg" status="timeout" group-title="Musicales", HTV FHD
+http://home-playtv.com:8080/miralatin2243/JJKTU/217140
+#EXTINF:-1 tvg-id="HTV" tvg-logo="https://i.ibb.co/sFyPtfF/htv.jpg" status="timeout" group-title="Musicales", HTV
+http://38.41.8.1:8000/play/a0j7
 #EXTINF:-1 tvg-id="HTV" tvg-logo="https://i.ibb.co/sFyPtfF/htv.jpg" status="timeout" group-title="Musicales", HTV
 http://170.83.242.9:5151/play/a0fr
-#EXTINF:-1 tvg-id="HTV" tvg-logo="https://i.ibb.co/sFyPtfF/htv.jpg" status="timeout" group-title="Musicales", HTV
-http://181.78.211.244:8000/play/a03g/index.m3u8
-#EXTINF:-1 tvg-id="HTV" tvg-logo="https://i.ibb.co/sFyPtfF/htv.jpg" status="timeout" group-title="Musicales", HTV
-http://186.113.25.223:62837/play/a01s
 #EXTINF:-1 tvg-id="HTV" tvg-logo="https://i.ibb.co/HYnKV9d/Huncayo.jpg" status="timeout" group-title="Variedades", Huncayo TV
-http://200.121.20.106:8000/play/a0j2/index.m3u8
+http://181.78.211.244:8000/play/a03g/index.m3u8
 #EXTINF:-1 tvg-id="Huasco" tvg-logo="https://i.ibb.co/WgM3CKK/Huasco.png" status="timeout" group-title="Variedades", Huasco TV Cl
 https://paneltv.online:1936/8024/8024/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="i24 News" tvg-logo="https://i.ibb.co/nQYK4XT/i24-News.png" status="timeout" group-title="News", i24 News Arabe
@@ -1265,20 +1269,22 @@ http://179.49.163.34:45000/play/a03n/index.m3u8
 http://45.181.122.201:8081/play/a05e
 #EXTINF:-1 tvg-id="LatinaTV" tvg-logo="https://i.ibb.co/MM21h82/Latina-Televisi-n-svg.png" status="timeout" group-title="Variedades", Latina FHD
 http://190.13.81.218:18000/play/a08p
+#EXTINF:-1 tvg-id="LatinaTV" tvg-logo="https://i.ibb.co/MM21h82/Latina-Televisi-n-svg.png" status="timeout" group-title="Variedades", Latina FHD
+http://home-playtv.com:8080/miralatin2243/JJKTU/186626
 #EXTINF:-1 tvg-id="LatinaTV" tvg-logo="https://i.ibb.co/MM21h82/Latina-Televisi-n-svg.png" status="timeout" group-title="Variedades", Latina
-http://200.121.20.106:8000/play/a0am/index.m3u8
+http://38.41.8.1:8000/play/a0ip
 #EXTINF:-1 tvg-id="LaKalle" tvg-logo="https://i.ibb.co/RT9HL58/La-Kalle.png" status="timeout" group-title="Musicales", La Kalle
 http://179.49.163.34:45000/play/a02s/index.m3u8
 #EXTINF:-1 tvg-id="LatinoKids" tvg-logo="https://i.ibb.co/VMpzLPL/Latino-Kids.png" status="timeout" group-title="Infantiles", Latino Kids
 https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
 #EXTINF:-1 tvg-id="Ligacampeones" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" status="timeout" group-title="Deportes", La Liga de Campeones Es
-http://fastream.xyz:8080/993300790tv/95ghr5/12468
+http://wanicelife.com:8880/48mc180012/26954657/29266
 #EXTINF:-1 tvg-id="LaLiga" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" status="timeout" group-title="Deportes", La Liga Es
 http://fastream.xyz:8080/993300790tv/95ghr5/12380
 #EXTINF:-1 tvg-id="LaLiga Sky Sports" tvg-logo="https://i.ibb.co/0jjZ2Zk/Sky-Sports-La-Liga.png" status="timeout" group-title="Deportes", La Liga Sky Sports
-http://fastream.xyz:8080/993300790tv/95ghr5/60235
+http://wanicelife.com:8880/48mc180012/26954657/2552
 #EXTINF:-1 tvg-id="Liga1Max" tvg-logo="https://i.ibb.co/pQQfVhJ/Liga-max.png" status="timeout" group-title="Deportes", Liga 1 Max FHD
-http://200.60.124.19:29000/play/a07k/index.m3u8
+http://wanicelife.com:8880/48mc180012/26954657/28879
 #EXTINF:-1 tvg-id="La Mia Tv" tvg-logo="https://i.ibb.co/yYZLfkd/La-Mia-Tv.png" status="timeout" group-title="Musicales", La Mia Tv
 https://ss5.domint.net:3184/mia_str/lamiatv/playlist.m3u8
 #EXTINF:-1 tvg-id="Lancelot TV" tvg-logo="https://i.ibb.co/7kS68K4/Lancelot.png" status="timeout" group-title="Entretenimiento", Lancelot TV
@@ -1525,8 +1531,6 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 https://b-nhkwlive-ojp.akamaized.net/hls/live/2003459-b/nhkwlive-ojp-en/index_1M.m3u8
 #EXTINF:-1 tvg-id="NHK" tvg-logo="https://i.ibb.co/k5NZBCs/nhk.jpg" status="timeout" group-title="Internacionales", NHK
 http://170.83.242.9:5151/play/a016
-#EXTINF:-1 tvg-id="Nexxo" tvg-logo="https://i.ibb.co/K53X0Mq/Nexxotv.png" status="timeout" group-title="Variedades", Nexxo Tv
-http://200.121.20.106:8000/play/a0gk/index.m3u8
 #EXTINF:-1 tvg-id="NexoPlay" tvg-logo="https://i.ibb.co/8DzZxYg/NexoPlay.jpg" status="timeout" group-title="Variedades", Nexo Play
 http://190.121.42.18:8000/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="Nicarao" tvg-logo="https://i.ibb.co/nbd9JdB/Nicaraotv.jpg" status="timeout" group-title="Variedades", Nicarao Tv
@@ -1890,7 +1894,7 @@ http://190.102.246.93:9005/play/a03p
 #EXTINF:-1 tvg-id="TCA" tvg-logo="https://i.ibb.co/99vM0p9/Logo-TVCa-2017.png" status="timeout" group-title="Religioso", Televisión Católica Arquidiocesana Sa
 https://ssh101.bozztv.com/ssh101/tvcaelsalvador/playlist.m3u8?fm=hls
 #EXTINF:-1 tvg-id="TD+" tvg-logo="https://i.ibb.co/v30X4KK/TD.jpg" status="timeout" group-title="Deportes", TD+
-https://i.ibb.co/brtwF4H/TD-2.png
+http://38.191.90.2:8000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="TD+2" tvg-logo="https://i.ibb.co/brtwF4H/TD-2.png" status="timeout" group-title="Deportes", TD+2
 http://38.191.90.2:8000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="TDT" tvg-logo="https://i.ibb.co/BVXGxWq/TDT.jpg" status="timeout" group-title="Nacionales", TDT
@@ -1989,18 +1993,12 @@ http://190.60.32.178:8178/play/a0al/index.m3u8
 http://38.191.90.2:8000/play/a00n/index.m3u8
 #EXTINF:-1 tvg-id="TeleVida" tvg-logo="https://i.ibb.co/wpxf2q4/televida.jpg" status="timeout" group-title="Religioso", Tele Vida
 http://45.5.116.178:8000/play/a00o/index.m3u8
-#EXTINF:-1 tvg-id="Tigo Sports" tvg-logo="https://i.ibb.co/2yHQxQJ/tigo.png" status="timeout" group-title="Deportes", Tigo Sports
-https://nxt.plus:8443/jesus01/jesus01/199996
-#EXTINF:-1 tvg-id="Tigo Sports" tvg-logo="https://i.ibb.co/2yHQxQJ/tigo.png" status="timeout" group-title="Deportes", Tigo Sports
-https://nxt.plus:8443/jesus01/jesus01/199997
-#EXTINF:-1 tvg-id="Tigo Sports" tvg-logo="https://i.ibb.co/2yHQxQJ/tigo.png" status="timeout" group-title="Deportes", Tigo Sports
-https://nxt.plus:8443/jesus01/jesus01/199998
+#EXTINF:-1 tvg-id="Tigo Sports" tvg-logo="https://i.ibb.co/2yHQxQJ/tigo.png" status="timeout" group-title="Deportes", Tigo Sports FHD
+http://38.191.90.2:8000/play/a04f/index.m3u8
 #EXTINF:-1 tvg-id="Tl Estrella" tvg-logo="https://i.ibb.co/7Wv1FRC/Tele-estrella.png" status="timeout" group-title="Nacionales", Tl Estrella
 https://envivo.bolivia-link.com:3785/live/teleestrellalive.m3u8
 #EXTINF:-1 tvg-id="Tl Estrella" tvg-logo="https://i.ibb.co/7Wv1FRC/Tele-estrella.png" status="timeout" group-title="Nacionales", Tl Estrella
 http://45.5.151.151:8000/play/a0n6/index.m3u8
-#EXTINF:-1 tvg-id="Teletrak" tvg-logo="https://i.ibb.co/FKQsbkk/Teletrak.jpg" status="timeout" group-title="Deportes", Teletrak
-http://190.13.81.218:18000/play/a04y
 #EXTINF:-1 tvg-id="Teletrak" tvg-logo="https://i.ibb.co/FKQsbkk/Teletrak.jpg" status="timeout" group-title="Deportes", Teletrak
 http://45.181.122.201:8081/play/a036
 #EXTINF:-1 tvg-id="TeleTuya" tvg-logo="https://i.ibb.co/smF9gQy/Teletuya.png" status="timeout" group-title="Variedades", Tele Tuya
@@ -2055,16 +2053,16 @@ http://190.13.81.218:18000/play/a09w
 http://38.224.222.34:8000/play/a00h
 #EXTINF:-1 tvg-id="TNT Sports" tvg-logo="https://i.ibb.co/HhdBTTr/TNT-Sports.jpg" status="timeout" group-title="Deportes", TNT Sports FHD
 http://newlife3.wanicelife.com:8880/D12m2407/47778744/49981
+#EXTINF:-1 tvg-id="TNT Sports" tvg-logo="https://i.ibb.co/HhdBTTr/TNT-Sports.jpg" status="timeout" group-title="Deportes", TNT Sports
+http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122392
+#EXTINF:-1 tvg-id="TNT Sports" tvg-logo="https://i.ibb.co/HhdBTTr/TNT-Sports.jpg" status="timeout" group-title="Deportes", TNT Sports
+http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122394
 #EXTINF:-1 tvg-id="TNT Sports Premium" tvg-logo="https://i.ibb.co/QNML8Y7/TNT-Sports-Premium.png" status="timeout" group-title="Deportes", TNT Sports Premium
 https://nxt.plus:8443/jesus01/jesus01/7
 #EXTINF:-1 tvg-id="TNT Sports Premium" tvg-logo="https://i.ibb.co/QNML8Y7/TNT-Sports-Premium.png" status="timeout" group-title="Deportes", TNT Sports Premium FHD
 https://nxt.plus:8443/jesus01/jesus01/187979
 #EXTINF:-1 tvg-id="TNT Sports Premium" tvg-logo="https://i.ibb.co/QNML8Y7/TNT-Sports-Premium.png" status="timeout" group-title="Deportes", TNT Sports Premium FHD
 http://45.181.122.201:8081/play/a00a
-#EXTINF:-1 tvg-id="TNT Sports" tvg-logo="https://i.ibb.co/HhdBTTr/TNT-Sports.jpg" status="timeout" group-title="Deportes", TNT Sports
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122392
-#EXTINF:-1 tvg-id="TNT Sports" tvg-logo="https://i.ibb.co/HhdBTTr/TNT-Sports.jpg" status="timeout" group-title="Deportes", TNT Sports
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122394
 #EXTINF:-1 tvg-id="Tom and Jerry" tvg-logo="https://i.ibb.co/KyKJF0Q/Tom-y-Jerry.jpg" status="timeout" group-title="Infantiles", Tom and Jerry
 http://fastream.xyz:8080/993300790tv/95ghr5/774
 #EXTINF:-1 tvg-id="Tom and Jerry" tvg-logo="https://i.ibb.co/KyKJF0Q/Tom-y-Jerry.jpg" status="timeout" group-title="Infantiles", Tom and Jerry
@@ -2074,7 +2072,7 @@ http://tv.proyectox.vip:8080/Blackiekoko1/J2N4tmBxpL/101814
 #EXTINF:-1 tvg-id="Trailers" tvg-logo="https://i.ibb.co/3kCZrWW/Trailers.png" status="timeout" group-title="Variedades", Trailers
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazinees-samsungspain/playlist.m3u8
 #EXTINF:-1 tvg-id="TUDN" tvg-logo="https://i.ibb.co/wSw7F0L/TUDN.jpg" status="timeout" group-title="Deportes", TUDN FHD
-http://179.49.163.34:45000/play/a00y/index.m3u8
+http://fastream.xyz:8080/993300790tv/95ghr5/552
 #EXTINF:-1 tvg-id="TUDN" tvg-logo="https://i.ibb.co/wSw7F0L/TUDN.jpg" status="timeout" group-title="Deportes", TUDN FHD
 http://190.92.10.66:4000/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="TUDN" tvg-logo="https://i.ibb.co/wSw7F0L/TUDN.jpg" status="timeout" group-title="Deportes", TUDN
@@ -2144,13 +2142,15 @@ https://video.live.com.bo:3003/live/tvuumsalive.m3u8
 #EXTINF:-1 tvg-id="TvUNAM" tvg-logo="https://i.ibb.co/ZWmzX1V/unam.jpg" status="timeout" group-title="Variedades", Tv UNAM Tamayo
 http://38.224.222.34:8000/play/a039
 #EXTINF:-1 tvg-id="TyC Sports" tvg-logo="https://i.ibb.co/MN7HcLq/tycsports.png" status="timeout" group-title="Deportes", TyC Sports FHD
-http://45.181.122.201:8081/play/a02d
+http://fastream.xyz:8080/993300790tv/95ghr5/554
+#EXTINF:-1 tvg-id="TyC Sports" tvg-logo="https://i.ibb.co/MN7HcLq/tycsports.png" status="timeout" group-title="Deportes", TyC Sports FHD
+http://148.113.190.252:8000/play/a039
 #EXTINF:-1 tvg-id="TyC Sports" tvg-logo="https://i.ibb.co/MN7HcLq/tycsports.png" status="timeout" group-title="Deportes", TyC Sports
-http://200.115.120.1:8000/play/ca043/index.m3u8
+http://cdn1host.online:2999/carlosbermudez/oZLRHZHL0z/288
 #EXTINF:-1 tvg-id="TyC Sports" tvg-logo="https://i.ibb.co/MN7HcLq/tycsports.png" status="timeout" group-title="Deportes", TyC Sports
 http://200.60.124.19:29000/play/a017/index.m3u8
-#EXTINF:-1 tvg-id="TyC Sports Int" tvg-logo="https://i.ibb.co/B40KtMH/Ty-C-Sports2.png" status="timeout" group-title="Deportes", TyC Sports 2
-https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index.m3u8
+#EXTINF:-1 tvg-id="TyC Sports Play" tvg-logo="https://i.ibb.co/nfZC5vx/Ty-C-Sports-Play.png" status="timeout" group-title="Deportes", TyC Sports Play
+https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index_10.m3u8
 #EXTINF:-1 tvg-id="UCL" tvg-logo="https://i.ibb.co/sC8P9JG/UCL.jpg" status="timeout" group-title="Variedades", UCL
 http://190.13.81.218:18000/play/a0ao
 #EXTINF:-1 tvg-id="UCT" tvg-logo="https://i.ibb.co/XtVWx6q/UCT-Araucania.jpg" status="timeout" group-title="Religioso", UCT
