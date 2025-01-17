@@ -3,10 +3,12 @@
 http://38.41.8.1:8000/play/a0d7
 #EXTINF:-1 tvg-id="Unitel" tvg-logo="https://i.ibb.co/M2jn6ky/Unitel.jpg" status="timeout" group-title="Nacionales", Unitel Scz
 https://master.tucableip.com/monunitel/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Unitel" tvg-logo="https://i.ibb.co/mDBcFJB/red-uno-bo.png" status="timeout" group-title="Nacionales", Unitel - Red Uno
+https://master.tucableip.com//movil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="RedUno" tvg-logo="https://i.ibb.co/mDBcFJB/red-uno-bo.png" status="timeout" group-title="Nacionales", Red Uno
-https://master.tucableip.com//monreduno/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="RedUno" tvg-logo="https://i.ibb.co/mDBcFJB/red-uno-bo.png" status="timeout" group-title="Nacionales", Red Uno FHD
 https://streamer01.digital.com.bo/2ap337/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/index.m3u8
+#EXTINF:-1 tvg-id="RedUno" tvg-logo="https://i.ibb.co/mDBcFJB/red-uno-bo.png" status="timeout" group-title="Nacionales", Red Uno FHD
+https://master.tucableip.com//monreduno/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="TVUUAGRM" tvg-logo="https://i.ibb.co/Q63cyZF/TVUAGRM.jpg" status="timeout" group-title="Nacionales", TVU UAGRM
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/TVUNIVERSITARIA/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 tvg-id="DTV" tvg-logo="https://i.ibb.co/4K7Zzbn/DTV.jpg" status="timeout" group-title="Nacionales", DTV
@@ -1157,16 +1159,18 @@ https://vcp8.myplaytv.com:1936/hispaniatv/hispaniatv/chunklist.m3u8
 https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
 #EXTINF:-1 tvg-id="Hispan Tv" tvg-logo="https://i.ibb.co/1M4R9wJ/Hispan-Tv.jpg" status="timeout" group-title="Noticieros", Hispan Tv
 http://190.60.49.243:4000/play/a089
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="Entretenimiento", Historia Es
-http://2567554588321262.ofdgh12.xyz:80/live/GarciaAlvaro/Alvaro9876/321262.ts
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="Entretenimiento", Historia Es FHD
+http://norspvx.top:8080/13170627323021/31733517844307/5618
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="Entretenimiento", Historia Es
 http://wanicelife.com:8880/48mc180012/26954657/29308
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="Entretenimiento", Historia Es
 http://luna4k.eu:80/176915597225/665f3527321ef.56686/6108
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="Entretenimiento", Historia Es
+http://2567554588321262.ofdgh12.xyz:80/live/GarciaAlvaro/Alvaro9876/321262.ts
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="Entretenimiento", Historia Es
 http://exclusifott.pro:80/6513c5a027/fb7791f0bd/107597
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="Entretenimiento", Historia Es
-http://exclusifott.pro:80/6513c5a027/fb7791f0bd/1547330
+
 #EXTINF:-1 tvg-id="History" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" status="timeout" group-title="Entretenimiento", History Channel
 http://fastream.xyz:8080/993300790tv/95ghr5/431
 #EXTINF:-1 tvg-id="History" tvg-logo="https://i.ibb.co/QMb31rJ/history.png" status="timeout" group-title="Entretenimiento", History Channel
@@ -2265,6 +2269,22 @@ https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
 #EXTINF:-1 tvg-id="Xtrema Terror" tvg-logo="https://i.imgur.com/FcaTUym.png" group-title="Cine y Series", Xtrema Terror
 https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
+#EXTINF:-1 tvg-id="Pelis" tvg-logo="https://i.ibb.co/gm96h5q/13-Horas-Los-soldados-secretos-de-Bengasi.jpg" status="timeout" group-title="Peliculas", 13 Horas Los soldados secretos de Bengasi
+http://tvlatino.club:2082/movie/eduardo50consx/8CXm7VCnM2P8/244818.mkv
+#EXTINF:-1 tvg-id="Pelis" tvg-logo="https://i.ibb.co/ZYp7YdY/Inmaculada.jpg" status="timeout" group-title="Peliculas", Inmaculada (2024)
+http://tvlatino.club:2082/movie/eduardo50consx/8CXm7VCnM2P8/482745.mkv
+#EXTINF:-1 tvg-id="Pelis" tvg-logo="https://i.ibb.co/rFf1FYz/La-primera-profec-a.jpg" status="timeout" group-title="Peliculas", La primera profecía (2024)
+http://tvlatino.club:2082/movie/eduardo50consx/8CXm7VCnM2P8/482397.mkv
+#EXTINF:-1 tvg-id="Pelis" tvg-logo="https://i.ibb.co/nkwV3H5/omen.jpg" status="timeout" group-title="Peliculas", La profecía (1976)
+http://tvlatino.club:2082/movie/eduardo50consx/8CXm7VCnM2P8/396390.mkv
+#EXTINF:-1 tvg-id="Pelis" tvg-logo="https://i.ibb.co/M1Lwvy8/Owen2006.jpg" status="timeout" group-title="Peliculas", La profecía (2006)
+http://tvlatino.club:2082/movie/eduardo50consx/8CXm7VCnM2P8/396398.mkv
+#EXTINF:-1 tvg-id="Pelis" tvg-logo="https://i.ibb.co/12jLSBH/Omen2.jpg" status="timeout" group-title="Peliculas", Damian: la profecía II (1978)
+http://tvlatino.club:2082/movie/eduardo50consx/8CXm7VCnM2P8/396391.mkv
+#EXTINF:-1 tvg-id="Pelis" tvg-logo="https://i.ibb.co/XyyVPPd/omen3.jpg" status="timeout" group-title="Peliculas", La profecía III (1981)
+http://tvlatino.club:2082/movie/eduardo50consx/8CXm7VCnM2P8/396394.mkv
+#EXTINF:-1 tvg-id="Pelis" tvg-logo="https://i.ibb.co/NTLfrLq/omen4.jpg" status="timeout" group-title="Peliculas", La profecía IV: El despertar (1991)
+http://tvlatino.club:2082/movie/eduardo50consx/8CXm7VCnM2P8/396395.mkv
 #EXTINF:-1 tvg-id="Pelis" tvg-logo="https://i.ibb.co/XYpHcb0/300.jpg" status="timeout" group-title="Peliculas", 300
 http://tv.proyectox.vip:8080/movie/Blackiekoko1/J2N4tmBxpL/93853.mkv
 #EXTINF:-1 tvg-id="Pelis" tvg-logo="https://i.ibb.co/jb49n99/300-2.jpg" status="timeout" group-title="Peliculas", 300 El origen de un imperio
@@ -2337,6 +2357,8 @@ http://fastream.xyz:8080/movie/956904989tv/a792j9/268394.mp4
 http://fastream.xyz:8080/movie/956904989tv/a792j9/268391.mp4
 #EXTINF:-1 tvg-id="Pelis" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbcs5AxrdXwyj1b8bGGMgC9kXrM.jpg" status="timeout" group-title="Peliculas", Gladiator II
 http://fastream.xyz:8080/movie/956904989tv/a792j9/268235.mp4
+#EXTINF:-1 tvg-id="Pelis" tvg-logo="https://i.ibb.co/vQwvWgM/Kraven-el-cazador.jpg" status="timeout" group-title="Peliculas", Kraven el cazador
+http://170.39.192.130:2095/movie/56972024090w1/030924activa/314840.mkv
 #EXTINF:-1 tvg-id="Pelis" tvg-logo="https://i.ibb.co/BfF2xQp/bebejefazo.jpg" status="timeout" group-title="Infantiles", The Boss Baby
 http://tv.proyectox.vip:8080/movie/Blackiekoko1/J2N4tmBxpL/95386.mkv
 #EXTINF:-1 tvg-id="Pelis" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qiKXe4xbXnXdrhQXmXpZwG4Qlkv.jpg" status="timeout" group-title="Peliculas", Los Mercenarios 1
