@@ -52,9 +52,9 @@ http://179.49.163.34:45000/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="A3Cine" tvg-logo="https://i.ibb.co/pWWMdrt/a3cine.png" status="timeout" group-title="Cine y Series", A3Cine FHD
 http://tv.proyectox.vip:8080/Blackiekoko1/J2N4tmBxpL/9617
 #EXTINF:-1 tvg-id="A3Series" tvg-logo="https://i.ibb.co/NC6gF4M/A3Series.png" status="timeout" group-title="Cine y Series", A3Series Int FHD
-http://181.205.130.194:4000/play/a0dv
+http://377167928539581928.ofded12.xyz:80/live/zh1010096/YXg6NnxFnAt/981745.ts
 #EXTINF:-1 tvg-id="A3Series" tvg-logo="https://i.ibb.co/NC6gF4M/A3Series.png" status="timeout" group-title="Cine y Series", A3Series Int FHD
-http://45.181.122.201:8081/play/a06e
+http://exm3u.77xxs.xyz:80/live/B543HLS6LM/dyd8yYxbx4Hv/981745.ts
 #EXTINF:-1 tvg-id="A3Series" tvg-logo="https://i.ibb.co/NC6gF4M/A3Series.png" status="timeout" group-title="Cine y Series", A3Series Int
 https://nxt.plus:8443/jesus01/jesus01/215713
 #EXTINF:-1 tvg-id="A&E" tvg-logo="https://i.ibb.co/6vLxqn7/A-E.png" status="timeout" group-title="Cine y Series", A&E FHD
@@ -86,9 +86,9 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-id="ADN 40" tvg-logo="https://i.ibb.co/JkTFWR4/adn40.png" status="timeout" group-title="Noticieros", ADN 40
 http://tv.proyectox.vip:8080/Blackiekoko1/J2N4tmBxpL/87604
 #EXTINF:-1 tvg-id="Adultswin" tvg-logo="https://i.ibb.co/ZVTwSxG/Adultswin.png" status="timeout" group-title="Infantiles", Adultswin
-http://200.115.120.1:8000/play/ca079/index.m3u8
+http://38.191.90.2:8000/play/a0ct/index.m3u8
 #EXTINF:-1 tvg-id="Adultswin" tvg-logo="https://i.ibb.co/ZVTwSxG/Adultswin.png" status="timeout" group-title="Infantiles", Adultswin
-http://190.60.49.243:4000/play/a0af
+http://192.141.5.50:8000/play/a09h/index.m3u8
 #EXTINF:-1 tvg-id="Africanews" tvg-logo="https://i.ibb.co/d2WYHC1/Africanews-alternative-logo-2016.png" status="timeout" group-title="News", Africanews
 https://rakuten-africanews-1-gb.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Afrobeats" tvg-logo="https://i.ibb.co/TBzhdw8/Afrobeats.png" status="timeout" group-title="Musicales", Afrobeats FHD
@@ -108,11 +108,15 @@ https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20
 #EXTINF:-1 tvg-id="AmasGuate" tvg-logo="https://i.ibb.co/2FKB4Fw/a-guate.png" status="timeout" group-title="Variedades", A más Guate
 https://ch2-tva.duin.dev/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AMC" tvg-logo="https://i.ibb.co/zxRCxH4/AMC.png" status="timeout" group-title="Cine y Series", AMC Es FHD
-http://exclusifott.pro:80/6513c5a027/fb7791f0bd/1552948
+http://exm3u.77xxs.xyz:80/live/B543HLS6LM/dyd8yYxbx4Hv/321104.ts
+#EXTINF:-1 tvg-id="AMC" tvg-logo="https://i.ibb.co/zxRCxH4/AMC.png" status="timeout" group-title="Cine y Series", AMC Es
+https://umbrellateam.ddns.net:2096/live/dotacarrito/zBX2XtQfzARb/772.ts
+#EXTINF:-1 tvg-id="AMC" tvg-logo="https://i.ibb.co/zxRCxH4/AMC.png" status="timeout" group-title="Cine y Series", AMC Selekt
+http://377167928539581928.ofded12.xyz:80/live/zh1010096/YXg6NnxFnAt/990329.ts
 #EXTINF:-1 tvg-id="AMC" tvg-logo="https://i.ibb.co/zxRCxH4/AMC.png" status="timeout" group-title="Cine y Series", AMC FHD
-http://190.60.49.243:4000/play/a04q
+http://38.191.90.2:8000/play/a02k/index.m3u8
 #EXTINF:-1 tvg-id="AMC" tvg-logo="https://i.ibb.co/zxRCxH4/AMC.png" status="timeout" group-title="Cine y Series", AMC
-http://181.78.211.244:8000/play/a028/index.m3u8
+http://192.141.5.50:8000/play/a09t/index.m3u8
 #EXTINF:-1 tvg-id="AMC" tvg-logo="https://i.ibb.co/zxRCxH4/AMC.png" status="timeout" group-title="Cine y Series", AMC FHD
 http://fastream.xyz:8080/993300790tv/95ghr5/106
 #EXTINF:-1 tvg-id="AMCBreak" tvg-logo="https://i.ibb.co/x726B5V/Break.png" status="timeout" group-title="Entretenimiento", AMC Break
@@ -133,6 +137,8 @@ http://200.60.124.19:29000/play/a04r/index.m3u8
 http://190.13.81.218:18000/play/a03j
 #EXTINF:-1 tvg-id="Amitel" tvg-logo="https://i.ibb.co/r4vvdgf/AMITEL.jpg" status="timeout" group-title="Nacionales", Amitel
 https://stv.boliviaplay.com.bo/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="Amitel" tvg-logo="https://i.ibb.co/r4vvdgf/AMITEL.jpg" status="timeout" group-title="Nacionales", Amitel
+http://45.5.151.151:8000/play/a0nj/index.m3u8
 #EXTINF:-1 tvg-id="AMXNoticias" tvg-logo="https://i.ibb.co/6D92VSh/amxnoticias.jpg" status="timeout" group-title="Variedades", AMX Noticias
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 #EXTINF:-1 tvg-id="AndalucíaCocina" tvg-logo="https://i.ibb.co/j3NJ71B/andalucia-cocina.jpg" status="timeout" group-title="Cocina", Andalucía Cocina
@@ -189,6 +195,8 @@ http://fastream.xyz:8080/993300790tv/95ghr5/12425
 https://d12a2vxqkkh1bo.cloudfront.net/hls/720plo/playlist.m3u8
 #EXTINF:-1 tvg-id="Ayni" tvg-logo="https://i.ibb.co/xJHF3td/ayni.jpg" status="timeout" group-title="Nacionales", Ayni FHD
 https://envivo.bolivia-link.com:3906/live/aynitvlive.m3u8
+#EXTINF:-1 tvg-id="Ayni" tvg-logo="https://i.ibb.co/xJHF3td/ayni.jpg" status="timeout" group-title="Nacionales", Ayni
+http://45.5.151.151:8000/play/a0r3/index.m3u8
 #EXTINF:-1 tvg-id="Azteca1" tvg-logo="https://i.ibb.co/bgDxnzr/Azteca1.jpg" status="timeout" group-title="Variedades", Azteca 1 FHD
 http://38.224.222.34:8000/play/a02x
 #EXTINF:-1 tvg-id="Azteca7" tvg-logo="https://i.ibb.co/rFypVRy/Azteca7.jpg" status="timeout" group-title="Variedades", Azteca 7 FHD
@@ -983,16 +991,22 @@ http://fastream.xyz:8080/993300790tv/95ghr5/456
 http://fastream.xyz:8080/993300790tv/95ghr5/457
 #EXTINF:-1 tvg-id="Fox Sports" tvg-logo="https://i.ibb.co/NrnK18q/foxsport.png" status="timeout" group-title="Deportes", Fox Sports
 http://fastream.xyz:8080/993300790tv/95ghr5/540
+#EXTINF:-1 tvg-id="Fox Sports" tvg-logo="https://i.ibb.co/NrnK18q/foxsport.png" status="timeout" group-title="Deportes", Fox Sports
+http://45.5.151.151:8000/play/a0nw/index.m3u8
 #EXTINF:-1 tvg-id="Fox Sports 2" tvg-logo="https://i.ibb.co/MyvVsWt/foxsport2.jpg" status="timeout" group-title="Deportes", Fox Sports 2 HD
 http://fastream.xyz:8080/993300790tv/95ghr5/529
 #EXTINF:-1 tvg-id="Fox Sports 2" tvg-logo="https://i.ibb.co/MyvVsWt/foxsport2.jpg" status="timeout" group-title="Deportes", Fox Sports 2
 http://fastream.xyz:8080/993300790tv/95ghr5/531
 #EXTINF:-1 tvg-id="Fox Sports 2" tvg-logo="https://i.ibb.co/MyvVsWt/foxsport2.jpg" status="timeout" group-title="Deportes", Fox Sports 2
 http://fastream.xyz:8080/993300790tv/95ghr5/535
+#EXTINF:-1 tvg-id="Fox Sports 2" tvg-logo="https://i.ibb.co/MyvVsWt/foxsport2.jpg" status="timeout" group-title="Deportes", Fox Sports 2
+http://45.5.151.151:8000/play/a0o1/index.m3u8
 #EXTINF:-1 tvg-id="Fox Sports 3" tvg-logo="https://i.ibb.co/ScsjHxD/foxsport3.jpg" status="timeout" group-title="Deportes", Fox Sports 3
 http://fastream.xyz:8080/993300790tv/95ghr5/537
 #EXTINF:-1 tvg-id="Fox Sports 3" tvg-logo="https://i.ibb.co/ScsjHxD/foxsport3.jpg" status="timeout" group-title="Deportes", Fox Sports 3
 http://fastream.xyz:8080/993300790tv/95ghr5/538
+#EXTINF:-1 tvg-id="Fox Sports 3" tvg-logo="https://i.ibb.co/ScsjHxD/foxsport3.jpg" status="timeout" group-title="Deportes", Fox Sports 3
+http://45.5.151.151:8000/play/a0pn/index.m3u8
 #EXTINF:-1 tvg-id="Fox Sports Premium" tvg-logo="https://i.ibb.co/2K96Pnq/Fox-Sports-Premium.jpg" status="timeout" group-title="Deportes", Fox Sports Premium
 http://fastream.xyz:8080/993300790tv/95ghr5/24824
 #EXTINF:-1 tvg-id="FoxWeather" tvg-logo="https://i.ibb.co/ZHy6Khh/Fox-Weather.jpg" status="timeout" group-title="Internacionales", Fox Weather
@@ -1067,6 +1081,8 @@ https://dnslivetv.online:443/kris2024/kris2024/1070832
 http://38.191.90.2:8000/play/a00m/index.m3u8
 #EXTINF:-1 tvg-id="Gogo Play Tv" tvg-logo="https://i.ibb.co/L85THzw/Gogoplay.jpg" status="timeout" group-title="Nacionales", Gogo Play Tv
 https://giatv.bozztv.com/giatv/giatv-NEOGOGOPLAYTVE/NEOGOGOPLAYTVE/playlist.m3u8
+#EXTINF:-1 tvg-id="Gogo Play Tv" tvg-logo="https://i.ibb.co/L85THzw/Gogoplay.jpg" status="timeout" group-title="Nacionales", Gogo Play Tv
+http://45.5.151.151:8000/play/a0r1/index.m3u8
 #EXTINF:-1 tvg-id="GolFChannel" tvg-logo="https://i.ibb.co/PM1W14h/Golf.png" status="timeout" group-title="Internacionales", GolF Channel Us FHD
 http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122356
 #EXTINF:-1 tvg-id="GolFChannelUS" tvg-logo="https://i.ibb.co/PM1W14h/Golf.png" status="timeout" group-title="Deportes", GolF Channel
@@ -1332,7 +1348,7 @@ https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
 #EXTINF:-1 tvg-id="LosSimpsonlaPelicula" tvg-logo="https://i.ibb.co/gddSvZg/The-Simpson.jpg" status="timeout" group-title="Infantiles", Los Simpson la Pelicula
 https://nxt.plus:8443/movie/jesus01/jesus01/132679.mkv
 #EXTINF:-1 tvg-id="LosSimpsonlaPelicula" tvg-logo="https://i.ibb.co/gddSvZg/The-Simpson.jpg" status="timeout" group-title="Infantiles", Los Simpson la Pelicula
-http://tv.proyectox.vip:8080/movie/Blackiekoko1/J2N4tmBxpL/7574.mkv
+http://fastream.xyz:8080/movie/993300790tv/95ghr5/6812.mkv
 #EXTINF:-1 tvg-id="SantaHomero" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q4nny4lnjnLYzN10EvBBRsJComp.jpg" status="timeout" group-title="Infantiles", Santa Homero
 http://fastream.xyz:8080/movie/956904989tv/a792j9/267954.mp4
 #EXTINF:-1 tvg-id="LosSimpson" tvg-logo="https://i.ibb.co/MfJzXw1/The-Simpson.png" status="timeout" group-title="Infantiles", Los Simpson
@@ -1340,25 +1356,19 @@ https://nxt.plus:8443/jesus01/jesus01/238717
 #EXTINF:-1 tvg-id="LosSimpson" tvg-logo="https://i.ibb.co/MfJzXw1/The-Simpson.png" status="timeout" group-title="Infantiles", Los Simpson
 https://nxt.plus:8443/jesus01/jesus01/238719
 #EXTINF:-1 tvg-id="LosSimpson" tvg-logo="https://i.ibb.co/MfJzXw1/The-Simpson.png" status="timeout" group-title="Infantiles", Los Simpson
+http://tvlatino.club:2082/LuiS6948dj/ZheSjpVkc889/513636
+#EXTINF:-1 tvg-id="LosSimpson" tvg-logo="https://i.ibb.co/MfJzXw1/The-Simpson.png" status="timeout" group-title="Infantiles", Los Simpson
 http://tv.proyectox.vip:8080/Blackiekoko1/J2N4tmBxpL/94881
 #EXTINF:-1 tvg-id="LosSimpson" tvg-logo="https://i.ibb.co/MfJzXw1/The-Simpson.png" status="timeout" group-title="Infantiles", Los Simpson
 http://tv.proyectox.vip:8080/Blackiekoko1/J2N4tmBxpL/94882
 #EXTINF:-1 tvg-id="LosSimpson" tvg-logo="https://i.ibb.co/MfJzXw1/The-Simpson.png" status="timeout" group-title="Infantiles", Los Simpson
-http://fastream.xyz:8080/993300790tv/95ghr5/250509
-#EXTINF:-1 tvg-id="LosSimpson" tvg-logo="https://i.ibb.co/MfJzXw1/The-Simpson.png" status="timeout" group-title="Infantiles", Los Simpson
 http://tv.proyectox.vip:8080/Blackiekoko1/J2N4tmBxpL/94883
 #EXTINF:-1 tvg-id="LosSimpson" tvg-logo="https://i.ibb.co/MfJzXw1/The-Simpson.png" status="timeout" group-title="Infantiles", Los Simpson
-http://zplaypro.lat:2095/595985885722py/171124play/306245
-#EXTINF:-1 tvg-id="LosSimpson" tvg-logo="https://i.ibb.co/MfJzXw1/The-Simpson.png" status="timeout" group-title="Infantiles", Los Simpson
-http://zplaypro.lat:2095/595985885722py/171124play/306246
-#EXTINF:-1 tvg-id="LosSimpson" tvg-logo="https://i.ibb.co/MfJzXw1/The-Simpson.png" status="timeout" group-title="Infantiles", Los Simpson
-http://zplaypro.lat:2095/595985885722py/171124play/306247
-#EXTINF:-1 tvg-id="LosSimpson" tvg-logo="https://i.ibb.co/MfJzXw1/The-Simpson.png" status="timeout" group-title="Infantiles", Los Simpson
-http://zplaypro.lat:2095/595985885722py/171124play/306249
-#EXTINF:-1 tvg-id="LosSimpson" tvg-logo="https://i.ibb.co/MfJzXw1/The-Simpson.png" status="timeout" group-title="Infantiles", Los Simpson
-http://zplaypro.lat:2095/595985885722py/171124play/306250
-#EXTINF:-1 tvg-id="LosSimpson" tvg-logo="https://i.ibb.co/MfJzXw1/The-Simpson.png" status="timeout" group-title="Infantiles", Los Simpson
-http://zplaypro.lat:2095/595985885722py/171124play/306251
+http://fastream.xyz:8080/993300790tv/95ghr5/250509
+#EXTINF:-1 tvg-id="LosSimpson" tvg-logo="https://i.ibb.co/MfJzXw1/The-Simpson.png" status="timeout" group-title="Infantiles", Los Simpson Es
+http://exm3u.77xxs.xyz:80/live/B543HLS6LM/dyd8yYxbx4Hv/986440.ts
+#EXTINF:-1 tvg-id="LosSimpson" tvg-logo="https://i.ibb.co/MfJzXw1/The-Simpson.png" status="timeout" group-title="Infantiles", Los Simpson Es
+http://exm3u.77xxs.xyz:80/live/B543HLS6LM/dyd8yYxbx4Hv/1018604.ts
 #EXTINF:-1 tvg-id="CapitanTsubasa" tvg-logo="https://i.ibb.co/896zdY0/Captain-Tsubasa.jpg" status="timeout" group-title="Infantiles", Capitan Tsubasa
 https://nxt.plus:8443/jesus01/jesus01/119341
 #EXTINF:-1 tvg-id="LoveNatureUs" tvg-logo="https://i.ibb.co/1shKZmy/Love-Nature-logo.jpg" status="timeout" group-title="Internacionales", Love Nature Us
@@ -2125,6 +2135,8 @@ http://38.191.90.2:8000/play/a04v/index.m3u8
 http://38.41.8.1:8000/play/a040
 #EXTINF:-1 tvg-id="Tv Publica de Argentina" tvg-logo="https://i.ibb.co/BVBp1Jg/tvpar.jpg" status="timeout" group-title="Variedades", Tv Publica de Argentina
 http://newlife3.wanicelife.com:8880/D12m2407/47778744/49978
+#EXTINF:-1 tvg-id="Tv Publica de Argentina" tvg-logo="https://i.ibb.co/BVBp1Jg/tvpar.jpg" status="timeout" group-title="Variedades", Tv Publica de Argentina
+http://45.5.151.151:8000/play/a0ny/index.m3u8
 #EXTINF:-1 tvg-id="Tv Peru" tvg-logo="https://i.ibb.co/0Fs56Jz/TVperu.png" status="timeout" group-title="Variedades", TvPeru
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 #EXTINF:-1 tvg-id="Tv Peru Noticias" tvg-logo="https://i.ibb.co/ZBt5Yzm/Tv-Pe-Noticias.png" status="timeout" group-title="Noticieros", TvPe Noticias
@@ -2269,6 +2281,36 @@ https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
 #EXTINF:-1 tvg-id="Xtrema Terror" tvg-logo="https://i.imgur.com/FcaTUym.png" group-title="Cine y Series", Xtrema Terror
 https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Heretic (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rpo3DJFMOSAz27gDwxJ5LIwIFni.jpg" group-title=" ? VOD ESTRENOS 2024 ?",Heretic (2024)
+http://fastream.xyz:8080/movie/993300790tv/95ghr5/268778.mp4
+#EXTINF:-1 tvg-id="" tvg-name="De vuelta a la acción (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OslAO6q53d1FWDU9uRL3EZYXrX.jpg" group-title=" ? VOD ESTRENOS 2025 ?",De vuelta a la acción (2025)
+http://fastream.xyz:8080/movie/993300790tv/95ghr5/268779.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Medidas Deseperadas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/foxavF6GeFiowM8Uut5rdn2HaRB.jpg" group-title="? VOD ACCIÓN ?",Medidas Deseperadas
+http://fastream.xyz:8080/movie/993300790tv/95ghr5/268777.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Never Back Down" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zNB2nbkOaXYriSAKEQUoome5vgG.jpg" group-title="? VOD ACCIÓN ?",Never Back Down
+http://fastream.xyz:8080/movie/993300790tv/95ghr5/268776.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Re Loca " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xKT9Mv1SB7pW9TLOcmhcm9BH4Pc.jpg" group-title="? VOD COMEDIA ?",Re Loca 
+http://fastream.xyz:8080/movie/993300790tv/95ghr5/268773.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Sastre de la Mafia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sHxBAfd0CUvxvvXVLfTDuhqYGM0.jpg" group-title="? VOD CRIMEN ?",El Sastre de la Mafia
+http://fastream.xyz:8080/movie/993300790tv/95ghr5/268774.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TAR " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b4Gr7WwUzYGUfzUb32wdhWuaC0m.jpg" group-title="? VOD DRAMA ?",TAR 
+http://fastream.xyz:8080/movie/993300790tv/95ghr5/268775.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Calendario mortal (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p6ALxjTM4YUdiCRmHCkZLE6r2pG.jpg" group-title=" ? VOD ESTRENOS 2025 ?",Calendario mortal (2025)
+http://fastream.xyz:8080/movie/993300790tv/95ghr5/268771.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Imparable: La historia de Anthony Robles (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o3DwuGdQhhrgAhee4NO93c3wDiQ.jpg" group-title=" ? VOD ESTRENOS 2024 ?",Imparable: La historia de Anthony Robles (2024)
+http://fastream.xyz:8080/movie/993300790tv/95ghr5/268772.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kraven the Hunter (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vEWqad5T6TxTmQYlk8FB2MwrVuM.jpg" group-title=" ? VOD ESTRENOS 2024 ?",Kraven the Hunter (2024)
+http://fastream.xyz:8080/movie/993300790tv/95ghr5/268716.mp4
+#EXTINF:-1 tvg-id="" tvg-name="RAW 6 Enero  (2025)" tvg-logo="https://goluchas.com/wp-content/uploads/2024/12/IMG_5281.jpeg" group-title=" ? VOD WWE ?",RAW 6 Enero  (2025)
+http://fastream.xyz:8080/movie/993300790tv/95ghr5/268636.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Candidato Honesto (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hmV5HPkbQuzgPo11Xm70CMQV3iZ.jpg" group-title=" ? VOD ESTRENOS 2024 ?",El Candidato Honesto (2024)
+http://fastream.xyz:8080/movie/993300790tv/95ghr5/268615.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ad Vitam (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9yBW60Pm0eeXsKeiZMvMolCuhyU.jpg" group-title=" ? VOD ESTRENOS 2025 ?",Ad Vitam (2025)
+http://fastream.xyz:8080/movie/993300790tv/95ghr5/268613.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Parano IA (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eDCyEUNFce9g7NJxlhDzV0BBMMo.jpg" group-title=" ? VOD ESTRENOS 2024 ?",Parano IA (2024)
+http://fastream.xyz:8080/movie/993300790tv/95ghr5/268614.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Calendario mortal (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p6ALxjTM4YUdiCRmHCkZLE6r2pG.jpg" group-title=" ? VOD ESTRENOS 2025 ?",Calendario mortal (2025)
+http://fastream.xyz:8080/movie/993300790tv/95ghr5/268771.mp4
 #EXTINF:-1 tvg-id="Pelis" tvg-logo="https://i.ibb.co/gm96h5q/13-Horas-Los-soldados-secretos-de-Bengasi.jpg" status="timeout" group-title="Peliculas", 13 Horas Los soldados secretos de Bengasi
 http://tvlatino.club:2082/movie/eduardo50consx/8CXm7VCnM2P8/244818.mkv
 #EXTINF:-1 tvg-id="Pelis" tvg-logo="https://i.ibb.co/ZYp7YdY/Inmaculada.jpg" status="timeout" group-title="Peliculas", Inmaculada (2024)
@@ -2536,9 +2578,11 @@ http://fastream.xyz:8080/series/956904989tv/a792j9/268187.mp4
 #EXTINF:-1 tvg-id="Silo S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aAPo83kOC5mfgcOado49ijWITVo.jpg" group-title="Silo", S02 E06
 http://fastream.xyz:8080/series/956904989tv/a792j9/268188.mp4
 #EXTINF:-1 tvg-id="Silo S02 E07" tvg-logo="https://image.tmdb.org/t/p/w300/z60fohHAWgfhpVjZRZq4M1Itw7Z.jpg" group-title="Silo", S02 E07
-http://fastream.xyz:8080/series/956904989tv/a792j9/268356.mp4
-#EXTINF:-1 tvg-id="Silo" tvg-logo="https://i.ibb.co/g62PJpb/Silo-2.jpg" status="timeout" group-title="Silo", S02 E08
-https://nxt.plus:8443/series/jesus01/jesus01/249168.mkv
+http://fastream.xyz:8080/series/993300790tv/95ghr5/268356.mp4
+#EXTINF:-1 tvg-id="Silo S02 E08" tvg-name="Silo S02 E08" tvg-logo="https://image.tmdb.org/t/p/w300/krzYmEQZ3ugR5MFqOMQJrv2pcnh.jpg" group-title="Silo", Silo S02 E08
+http://fastream.xyz:8080/series/993300790tv/95ghr5/268735.mp4
+#EXTINF:-1 tvg-id="Silo S02 E09" tvg-name="Silo S02 E09" tvg-logo="https://image.tmdb.org/t/p/w300/aNgT4AEffmGwiabRD03riCz1aWr.jpg" group-title="Silo", Silo S02 E09
+http://fastream.xyz:8080/series/993300790tv/95ghr5/268736.mp4
 #EXTINF:0 tvg-id="Operativo" tvg-logo="https://i.ibb.co/1M75zzx/Operativo-Lioness.jpg" status="timeout" group-title="Operativo: Lioness", Operativo: Lioness S01 E01
 https://nxt.plus:8443/series/jesus01/jesus01/181593.mkv
 #EXTINF:0 tvg-id="Operativo" tvg-logo="https://i.ibb.co/1M75zzx/Operativo-Lioness.jpg" status="timeout" group-title="Operativo: Lioness", Operativo: Lioness S01 E02
