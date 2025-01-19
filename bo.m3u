@@ -517,6 +517,10 @@ http://170.83.242.9:5151/play/a04i
 http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122326
 #EXTINF:-1 tvg-id="Cinemax" tvg-logo="https://i.ibb.co/BrNnDFQ/cinemax.png" status="timeout" group-title="Cine y Series", Cinemax
 https://nxt.plus:8443/jesus01/jesus01/59083
+#EXTINF:-1 tvg-id="Cinema Platino" tvg-logo="https://i.ibb.co/V9W0mqP/Cinema-Platino.jpg" status="timeout" group-title="Cine y Series", Cinema Platino
+http://201.174.162.89:9981/stream/channelid/563992300?profile=pass
+#EXTINF:-1 tvg-id="Cinema Platino" tvg-logo="https://i.ibb.co/0t31NHK/Cine-Platino-2.jpg" status="timeout" group-title="Cine y Series", Cinema Platino
+http://201.174.162.89:9981/stream/channelid/236856358?profile=pass
 #EXTINF:-1 tvg-id="Cine Premium" tvg-logo="https://i.ibb.co/hFMP040/cine-premium.jpg" status="timeout" group-title="Cine y Series", Cine Premium
 http://190.121.42.18:8000/play/a015/index.m3u8
 #EXTINF:-1 tvg-id="Cine Premium" tvg-logo="https://i.ibb.co/hFMP040/cine-premium.jpg" status="timeout" group-title="Cine y Series", Cine Premium
@@ -1250,7 +1254,7 @@ https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/IMAGEN/40-hls/live-media.m3u8
 #EXTINF:-1 tvg-id="ImagenUniversal" tvg-logo="https://i.ibb.co/z4KVKc7/imagen.png" status="timeout" group-title="Cine y Series", Imagen Universal
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 #EXTINF:-1 tvg-id="Imperial Tv" tvg-logo="https://i.ibb.co/GpHvf1d/imperial.png" status="timeout" group-title="Nacionales", Imperial Tv
-https://vdo.grupolimalive.com:3226/live/imperlive.m3u8
+https://play.agenciastreaming.com:19360/8122/8122.m3u8
 #EXTINF:-1 tvg-id="InfinitaTv" tvg-logo="https://i.ibb.co/5crVJtQ/infinitatv.jpg" status="timeout" group-title="Variedades", Infinita tv
 http://tv.proyectox.vip:8080/Blackiekoko1/J2N4tmBxpL/85664
 #EXTINF:-1 tvg-id="Inti" tvg-logo="https://i.ibb.co/X3V65jG/Inti-Logo2021ok-768x404.png" status="timeout" group-title="Entretenimiento", Inti
@@ -1756,7 +1760,7 @@ https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
 #EXTINF:-1 tvg-id="RTP" tvg-logo="https://i.ibb.co/w0DdYgK/RTP.png" status="timeout" group-title="Nacionales", RTP
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/RTP/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 tvg-id="TVA" tvg-logo="https://i.imgur.com/y3bymuv.jpeg" status="timeout" group-title="Nacionales", Red TVA
-https://vdo.grupolimalive.com:3967/live/tvelive.m3u8
+https://play.agenciastreaming.com:19360/8160/8160.m3u8
 #EXTINF:-1 tvg-id="Gigavisión" tvg-logo="https://i.ibb.co/qNB3XLm/giga-vision-bo.png" status="timeout" group-title="Nacionales", Red Gigavisión
 https://tv2.bitstreaming.net:3896/multi_web/play_720.m3u8
 #EXTINF:-1 tvg-id="Retro Plus Tv" tvg-logo="https://i.ibb.co/bNHRFpg/retroplus1.jpg" status="timeout" group-title="Musicales", Retro Plus Tv
@@ -1911,8 +1915,6 @@ https://ssh101.bozztv.com/ssh101/tvcaelsalvador/playlist.m3u8?fm=hls
 http://38.191.90.2:8000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="TD+2" tvg-logo="https://i.ibb.co/brtwF4H/TD-2.png" status="timeout" group-title="Deportes", TD+2
 http://38.191.90.2:8000/play/a00h/index.m3u8
-#EXTINF:-1 tvg-id="TDT" tvg-logo="https://i.ibb.co/BVXGxWq/TDT.jpg" status="timeout" group-title="Nacionales", TDT
-https://video01.kshost.com.br:4443/juan6318/juan6318/playlist.m3u8
 #EXTINF:-1 tvg-id="Teleantiquía" tvg-logo="https://i.ibb.co/HxqZmsK/Teleantiqu-a.jpg" status="timeout" group-title="Variedades", Teleantiquía
 http://45.181.122.201:8081/play/a04q
 #EXTINF:-1 tvg-id="Telecafe" tvg-logo="https://i.ibb.co/BgXHbn7/Telecafe.jpg" status="timeout" group-title="Variedades", Tele Cafe
@@ -2149,8 +2151,6 @@ https://cloud5.streaminglivehd.com:3819/stream/play.m3u8
 http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8
 #EXTINF:-1 tvg-id="TVU Pando" tvg-logo="https://i.ibb.co/ZdML966/tvupando.jpg" status="timeout" group-title="Nacionales", TVU Pando
 http://45.5.151.151:8000/play/a0n9/index.m3u8
-#EXTINF:-1 tvg-id="TVU Pando" tvg-logo="https://i.ibb.co/ZdML966/tvupando.jpg" status="timeout" group-title="Nacionales", TVU Pando
-http://zplaypro.lat:2095/595985885722py/171124play/313495
 #EXTINF:-1 tvg-id="TVU SUCRE" tvg-logo="https://i.ibb.co/vP0kZpv/tvusucre.jpg" status="timeout" group-title="Nacionales", TVU Sucre
 http://45.5.151.151:8000/play/a0nb/index.m3u8
 #EXTINF:-1 tvg-id="TVU UMSA" tvg-logo="https://i.ibb.co/mX21KH5/TVUUMSA.jpg" status="timeout" group-title="Nacionales", TVU UMSA La Paz
@@ -2255,8 +2255,6 @@ https://vdo.grupolimalive.com:3340/hybrid/play.m3u8
 https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/chunklist.m3u8
 #EXTINF:-1 tvg-id="ViaxSports" tvg-logo="https://i.ibb.co/C2JSGyC/Via-XSports.jpg" status="timeout" group-title="Deportes", ViaX Sports
 https://nxt.plus:8443/jesus01/jesus01/169468
-#EXTINF:-1 tvg-id="Vos Tv" tvg-logo="https://vostv.com.bo/wp-content/uploads/2024/03/cropped-cropped-LOGO-PNG-1-300x300-1-1.png" status="timeout" group-title="Nacionales", Vos Tv
-https://envivo.bolivia-link.com:3520/live/vostvlive.m3u8
 #EXTINF:-1 tvg-id="Vos Tv" tvg-logo="https://vostv.com.bo/wp-content/uploads/2024/03/cropped-cropped-LOGO-PNG-1-300x300-1-1.png" status="timeout" group-title="Nacionales", Vos Tv
 http://45.5.151.151:8000/play/a0nd/index.m3u8
 #EXTINF:-1 tvg-id="Warner Channel" tvg-logo="https://i.ibb.co/T0jMb06/warner.png" status="timeout" group-title="Cine y Series", Warner Channel
